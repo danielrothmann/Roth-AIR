@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<JUCERPROJECT id="j6VCQu" name="Roth-AIR" projectType="audioplug" version="1.1.0"
+              bundleIdentifier="com.Rothmann.Roth-AIR" includeBinaryInAppConfig="1"
+              buildVST="1" buildVST3="0" buildAU="1" buildAUv3="0" buildRTAS="0"
+              buildAAX="0" pluginName="Roth-AIR" pluginDesc="A mixing tool for adding airy, crispy presence"
+              pluginManufacturer="Rothmann" pluginManufacturerCode="Roth" pluginCode="J6vc"
+              pluginChannelConfigs="{1, 1},{2, 2}" pluginIsSynth="0" pluginWantsMidiIn="0"
+              pluginProducesMidiOut="0" pluginIsMidiEffectPlugin="0" pluginEditorRequiresKeys="0"
+              pluginAUExportPrefix="AIRAU" pluginRTASCategory="" aaxIdentifier="com.Rothmann.Roth-AIR"
+              pluginAAXCategory="AAX_ePlugInCategory_Dynamics" jucerVersion="4.2.4"
+              companyName="Rothmann" companyWebsite="www.danielrothmann.com"
+              companyEmail="daniel@danielrothmann.com">
+  <MAINGROUP id="ytp4Pr" name="Roth-AIR">
+    <GROUP id="{DD99666F-FF14-937D-5EED-EA9809A3E477}" name="Resources">
+      <FILE id="AqiFdR" name="bigKnob_light.png" compile="0" resource="1"
+            file="../Design/Elements v2/bigKnob_light.png"/>
+      <FILE id="mCXCPa" name="bigKnob_red.png" compile="0" resource="1" file="../Design/Elements v2/bigKnob_red.png"/>
+      <FILE id="Ri3HIE" name="smallKnob_light.png" compile="0" resource="1"
+            file="../Design/Elements v2/smallKnob_light.png"/>
+      <FILE id="dPJN8j" name="airText.png" compile="0" resource="1" file="../Design/Elements v2/airText.png"/>
+      <FILE id="XbblUR" name="bigKnob.png" compile="0" resource="1" file="../Design/Elements v2/bigKnob.png"/>
+      <FILE id="ZCBicK" name="smallKnob.png" compile="0" resource="1" file="../Design/Elements v2/smallKnob.png"/>
+      <FILE id="G5nQG0" name="title.png" compile="0" resource="1" file="../Design/Elements v2/title.png"/>
+      <FILE id="RYRs0U" name="label_cutoff.png" compile="0" resource="1"
+            file="../Design/Elements v2/label_cutoff.png"/>
+      <FILE id="Glbcxv" name="label_gain.png" compile="0" resource="1" file="../Design/Elements v2/label_gain.png"/>
+      <FILE id="baikLT" name="label_mix.png" compile="0" resource="1" file="../Design/Elements v2/label_mix.png"/>
+      <FILE id="aPmfpL" name="label_thresh.png" compile="0" resource="1"
+            file="../Design/Elements v2/label_thresh.png"/>
+      <FILE id="Ipg0rA" name="label_freq.png" compile="0" resource="1" file="../Design/Elements v2/label_freq.png"/>
+      <FILE id="eqBD3e" name="website.png" compile="0" resource="1" file="../Design/Elements v2/website.png"/>
+    </GROUP>
+    <GROUP id="{72A0765F-8435-E6FF-BB48-A8CDA491B9C3}" name="Source">
+      <FILE id="ROsXdY" name="WaveShaper.cpp" compile="1" resource="0" file="Source/WaveShaper.cpp"/>
+      <FILE id="bDqzHa" name="WaveShaper.h" compile="0" resource="0" file="Source/WaveShaper.h"/>
+      <GROUP id="{23A7110F-2B57-D19E-AF5A-2DBEE965CDAF}" name="Compressor">
+        <FILE id="aUfnB8" name="Compressor.cpp" compile="1" resource="0" file="Source/Compressor.cpp"/>
+        <FILE id="JGmCGd" name="Compressor.h" compile="0" resource="0" file="Source/Compressor.h"/>
+        <FILE id="y710nZ" name="SideChain.cpp" compile="1" resource="0" file="Source/SideChain.cpp"/>
+        <FILE id="yxgArj" name="SideChain.h" compile="0" resource="0" file="Source/SideChain.h"/>
+      </GROUP>
+      <GROUP id="{A2022515-5889-44F1-CAEC-06CECA7C35D9}" name="DSPFilters">
+        <FILE id="aPkWgv" name="Cascade.cpp" compile="1" resource="0" file="DSPFilters/source/Cascade.cpp"/>
+        <FILE id="oaifW9" name="ChebyshevI.cpp" compile="1" resource="0" file="DSPFilters/source/ChebyshevI.cpp"/>
+        <FILE id="Q5gSMB" name="ChebyshevII.cpp" compile="1" resource="0" file="DSPFilters/source/ChebyshevII.cpp"/>
+        <FILE id="MnnPec" name="Custom.cpp" compile="1" resource="0" file="DSPFilters/source/Custom.cpp"/>
+        <FILE id="kRRjkt" name="Design.cpp" compile="1" resource="0" file="DSPFilters/source/Design.cpp"/>
+        <FILE id="LchUnp" name="Documentation.cpp" compile="1" resource="0"
+              file="DSPFilters/source/Documentation.cpp"/>
+        <FILE id="HggzH6" name="Elliptic.cpp" compile="1" resource="0" file="DSPFilters/source/Elliptic.cpp"/>
+        <FILE id="bv0Oue" name="Filter.cpp" compile="1" resource="0" file="DSPFilters/source/Filter.cpp"/>
+        <FILE id="fokYKG" name="Legendre.cpp" compile="1" resource="0" file="DSPFilters/source/Legendre.cpp"/>
+        <FILE id="WLYbrC" name="Param.cpp" compile="1" resource="0" file="DSPFilters/source/Param.cpp"/>
+        <FILE id="JKxlA5" name="PoleFilter.cpp" compile="1" resource="0" file="DSPFilters/source/PoleFilter.cpp"/>
+        <FILE id="v3N6LJ" name="RBJ.cpp" compile="1" resource="0" file="DSPFilters/source/RBJ.cpp"/>
+        <FILE id="FyiFRn" name="RootFinder.cpp" compile="1" resource="0" file="DSPFilters/source/RootFinder.cpp"/>
+        <FILE id="iFc3qH" name="State.cpp" compile="1" resource="0" file="DSPFilters/source/State.cpp"/>
+        <FILE id="N4e6Xr" name="Bessel.cpp" compile="1" resource="0" file="DSPFilters/source/Bessel.cpp"/>
+        <FILE id="UFmo6f" name="Biquad.cpp" compile="1" resource="0" file="DSPFilters/source/Biquad.cpp"/>
+        <FILE id="ziIbr7" name="Butterworth.cpp" compile="1" resource="0" file="DSPFilters/source/Butterworth.cpp"/>
+      </GROUP>
+      <FILE id="JoIXxl" name="PluginProcessor.cpp" compile="1" resource="0"
+            file="Source/PluginProcessor.cpp"/>
+      <FILE id="Hyh87J" name="PluginProcessor.h" compile="0" resource="0"
+            file="Source/PluginProcessor.h"/>
+      <FILE id="M19U8v" name="PluginEditor.cpp" compile="1" resource="0"
+            file="Source/PluginEditor.cpp"/>
+      <FILE id="Clzamy" name="PluginEditor.h" compile="0" resource="0" file="Source/PluginEditor.h"/>
+    </GROUP>
+  </MAINGROUP>
+  <EXPORTFORMATS>
+    <VS2015 targetFolder="Builds/VisualStudio2015" toolset="v140" vst3Folder=""
+            IPPLibrary="">
+      <CONFIGURATIONS>
+        <CONFIGURATION name="Debug" winWarningLevel="4" generateManifest="1" winArchitecture="x64"
+                       isDebug="1" optimisation="3" targetName="Roth-AIR" headerPath="D:\PROJECTS\Audio Dev\AIR\AIR_Code\DSPFilters\include"
+                       libraryPath="" useRuntimeLibDLL="0"/>
+        <CONFIGURATION name="Release" winWarningLevel="4" generateManifest="1" winArchitecture="x64"
+                       isDebug="0" optimisation="3" targetName="Roth-AIR" headerPath="D:\PROJECTS\Audio Dev\AIR\AIR_Code\DSPFilters\include"
+                       useRuntimeLibDLL="0"/>
+        <CONFIGURATION name="Release 32bit" winWarningLevel="4" generateManifest="1"
+                       winArchitecture="32-bit" isDebug="0" optimisation="3" targetName="Roth-AIR"
+                       headerPath="D:\PROJECTS\Audio Dev\AIR\AIR_Code\DSPFilters\include"
+                       useRuntimeLibDLL="0"/>
+      </CONFIGURATIONS>
+      <MODULEPATHS>
+        <MODULEPATH id="juce_core" path="../../../../Applications/JUCE_new/JUCE/modules"/>
+        <MODULEPATH id="juce_events" path="../../../../Applications/JUCE_new/JUCE/modules"/>
+        <MODULEPATH id="juce_graphics" path="../../../../Applications/JUCE_new/JUCE/modules"/>
+        <MODULEPATH id="juce_data_structures" path="../../../../Applications/JUCE_new/JUCE/modules"/>
+        <MODULEPATH id="juce_gui_basics" path="../../../../Applications/JUCE_new/JUCE/modules"/>
+        <MODULEPATH id="juce_gui_extra" path="../../../../Applications/JUCE_new/JUCE/modules"/>
+        <MODULEPATH id="juce_cryptography" path="../../../../Applications/JUCE_new/JUCE/modules"/>
+        <MODULEPATH id="juce_video" path="../../../../Applications/JUCE_new/JUCE/modules"/>
+        <MODULEPATH id="juce_opengl" path="../../../../Applications/JUCE_new/JUCE/modules"/>
+        <MODULEPATH id="juce_audio_basics" path="../../../../Applications/JUCE_new/JUCE/modules"/>
+        <MODULEPATH id="juce_audio_devices" path="../../../../Applications/JUCE_new/JUCE/modules"/>
+        <MODULEPATH id="juce_audio_formats" path="../../../../Applications/JUCE_new/JUCE/modules"/>
+        <MODULEPATH id="juce_audio_processors" path="../../../../Applications/JUCE_new/JUCE/modules"/>
+        <MODULEPATH id="juce_audio_plugin_client" path="../../../../Applications/JUCE_new/JUCE/modules"/>
+      </MODULEPATHS>
+    </VS2015>
+    <XCODE_MAC targetFolder="Builds/MacOSX">
+      <CONFIGURATIONS>
+        <CONFIGURATION name="Debug" isDebug="1" optimisation="1" targetName="Roth-AIR"
+                       headerPath="/Users/danielrothmann/Documents/SSD PROJECTS/Audio Dev/AIR/AIR_Code/DSPFilters/include"/>
+        <CONFIGURATION name="Release" isDebug="0" optimisation="3" targetName="Roth-AIR"
+                       headerPath="/Users/danielrothmann/Documents/SSD PROJECTS/Audio Dev/AIR/AIR_Code/DSPFilters/include"
+                       linkTimeOptimisation="1" osxArchitecture="64BitUniversal" osxSDK="default"
+                       osxCompatibility="10.9 SDK"/>
+      </CONFIGURATIONS>
+      <MODULEPATHS>
+        <MODULEPATH id="juce_video" path="../../../../../../../Applications/JUCE/modules"/>
+        <MODULEPATH id="juce_opengl" path="../../../../../../../Applications/JUCE/modules"/>
+        <MODULEPATH id="juce_gui_extra" path="../../../../../../../Applications/JUCE/modules"/>
+        <MODULEPATH id="juce_gui_basics" path="../../../../../../../Applications/JUCE/modules"/>
+        <MODULEPATH id="juce_graphics" path="../../../../../../../Applications/JUCE/modules"/>
+        <MODULEPATH id="juce_events" path="../../../../../../../Applications/JUCE/modules"/>
+        <MODULEPATH id="juce_data_structures" path="../../../../../../../Applications/JUCE/modules"/>
+        <MODULEPATH id="juce_cryptography" path="../../../../../../../Applications/JUCE/modules"/>
+        <MODULEPATH id="juce_core" path="../../../../../../../Applications/JUCE/modules"/>
+        <MODULEPATH id="juce_audio_processors" path="../../../../../../../Applications/JUCE/modules"/>
+        <MODULEPATH id="juce_audio_plugin_client" path="../../../../../../../Applications/JUCE/modules"/>
+        <MODULEPATH id="juce_audio_formats" path="../../../../../../../Applications/JUCE/modules"/>
+        <MODULEPATH id="juce_audio_devices" path="../../../../../../../Applications/JUCE/modules"/>
+        <MODULEPATH id="juce_audio_basics" path="../../../../../../../Applications/JUCE/modules"/>
+      </MODULEPATHS>
+    </XCODE_MAC>
+  </EXPORTFORMATS>
+  <MODULES>
+    <MODULE id="juce_audio_basics" showAllCode="1" useLocalCopy="1"/>
+    <MODULE id="juce_audio_devices" showAllCode="1" useLocalCopy="1"/>
+    <MODULE id="juce_audio_formats" showAllCode="1" useLocalCopy="1"/>
+    <MODULE id="juce_audio_plugin_client" showAllCode="1" useLocalCopy="1"/>
+    <MODULE id="juce_audio_processors" showAllCode="1" useLocalCopy="1"/>
+    <MODULE id="juce_core" showAllCode="1" useLocalCopy="1"/>
+    <MODULE id="juce_cryptography" showAllCode="1" useLocalCopy="1"/>
+    <MODULE id="juce_data_structures" showAllCode="1" useLocalCopy="1"/>
+    <MODULE id="juce_events" showAllCode="1" useLocalCopy="1"/>
+    <MODULE id="juce_graphics" showAllCode="1" useLocalCopy="1"/>
+    <MODULE id="juce_gui_basics" showAllCode="1" useLocalCopy="1"/>
+    <MODULE id="juce_gui_extra" showAllCode="1" useLocalCopy="1"/>
+    <MODULE id="juce_opengl" showAllCode="1" useLocalCopy="1"/>
+    <MODULE id="juce_video" showAllCode="1" useLocalCopy="1"/>
+  </MODULES>
+  <JUCEOPTIONS JUCE_QUICKTIME="disabled"/>
+  <LIVE_SETTINGS>
+    <WINDOWS headerPath="D:\PROJECTS\Audio Dev\AIR\AIR_Code\DSPFilters\include"/>
+    <OSX headerPath="/Users/danielrothmann/Documents/SSD PROJECTS/Audio Dev/AIR/AIR_Code/DSPFilters/include"/>
+  </LIVE_SETTINGS>
+</JUCERPROJECT>
