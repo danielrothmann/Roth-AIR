@@ -7,8 +7,292 @@
 namespace BinaryData
 {
 
-//================== bigKnob_light.png ==================
+//================== airText.png ==================
 static const unsigned char temp_binary_data_0[] =
+"\x89PNG\r\n"
+"\x1a\n"
+"\0\0\0\rIHDR\0\0\0x\0\0\0H\x08\x06\0\0\0=\x1e""1\x7f\0\0\0\tpHYs\0\0\x0b\x13\0\0\x0b\x13\x01\0\x9a\x9c\x18\0\0\n"
+"OiCCPPhotoshop ICC profile\0\0x\xda\x9dSgTS\xe9\x16=\xf7\xde\xf4""BK\x88\x80\x94KoR\x15\x08 RB\x8b\x80\x14\x91&*!\t\x10J\x88!\xa1\xd9\x15Q\xc1\x11""EE\x04\x1b\xc8\xa0\x88\x03\x8e\x8e\x80\x8c\x15Q,\x0c\x8a\n"
+"\xd8\x07\xe4!\xa2\x8e\x83\xa3\x88\x8a\xca\xfb\xe1{\xa3k\xd6\xbc\xf7\xe6\xcd\xfe\xb5\xd7>\xe7\xac\xf3\x9d\xb3\xcf\x07\xc0\x08\x0c\x96H3Q5\x80\x0c\xa9""B\x1e\x11\xe0\x83\xc7\xc4\xc6\xe1\xe4.@\x81\n"
+"$p\0\x10\x08\xb3""d!s\xfd#\x01\0\xf8~<<+\"\xc0\x07\xbe\0\x01x\xd3\x0b\x08\0\xc0M\x9b\xc0""0\x1c\x87\xff\x0f\xea""B\x99\\\x01\x80\x84\x01\xc0t\x91""8K\x08\x80\x14\0@z\x8e""B\xa6\0@F\x01\x80\x9d\x98&S\0\xa0\x04\0`\xcb""cb\xe3\0P-\0`'\x7f\xe6\xd3\0\x80\x9d"
+"\xf8\x99{\x01\0[\x94!\x15\x01\xa0\x91\0 \x13""e\x88""D\0h;\0\xac\xcfV\x8a""E\0X0\0\x14""fK\xc4""9\0\xd8-\0""0IWfH\0\xb0\xb7\0\xc0\xce\x10\x0b\xb2\0\x08\x0c\0""0Q\x88\x85)\0\x04{\0`\xc8##x\0\x84\x99\0\x14""F\xf2W<\xf1+\xae\x10\xe7*\0\0x\x99\xb2<\xb9$9"
+"E\x81[\x08-q\x07WW.\x1e(\xceI\x17+\x14""6a\x02""a\x9a@.\xc2y\x99\x19""2\x81""4\x0f\xe0\xf3\xcc\0\0\xa0\x91\x15\x11\xe0\x83\xf3\xfdx\xce\x0e\xae\xce\xce""6\x8e\xb6\x0e_-\xea\xbf\x06\xff\"bb\xe3\xfe\xe5\xcf\xabp@\0\0\xe1t~\xd1\xfe,/\xb3\x1a\x80;\x06\x80"
+"m\xfe\xa2%\xee\x04h^\x0b\xa0u\xf7\x8b""f\xb2\x0f@\xb5\0\xa0\xe9\xdaW\xf3p\xf8~<<E\xa1\x90\xb9\xd9\xd9\xe5\xe4\xe4\xd8J\xc4""B[a\xcaW}\xfeg\xc2_\xc0W\xfdl\xf9~<\xfc\xf7\xf5\xe0\xbe\xe2$\x81""2]\x81G\x04\xf8\xe0\xc2\xcc\xf4L\xa5\x1c\xcf\x92\t\x84""b\xdc"
+"\xe6\x8fG\xfc\xb7\x0b\xff\xfc\x1d\xd3\"\xc4Ib\xb9X*\x14\xe3Q\x12q\x8e""D\x9a\x8c\xf3""2\xa5\"\x89""B\x92)\xc5%\xd2\xff""d\xe2\xdf,\xfb\x03>\xdf""5\0\xb0j>\x01{\x91-\xa8]c\x03\xf6K'\x10Xt\xc0\xe2\xf7\0\0\xf2\xbbo\xc1\xd4(\x08\x03\x80h\x83\xe1\xcfw\xff"
+"\xef?\xfdG\xa0%\0\x80""fI\x92q\0\0^D$.T\xca\xb3?\xc7\x08\0\0""D\xa0\x81*\xb0""A\x1b\xf4\xc1\x18,\xc0\x06\x1c\xc1\x05\xdc\xc1\x0b\xfc`6\x84""B$\xc4\xc2""B\x10""B\n"
+"d\x80\x1cr`)\xac\x82""B(\x86\xcd\xb0\x1d*`/\xd4@\x1d""4\xc0Qh\x86\x93p\x0e.\xc2U\xb8\x0e=p\x0f\xfa""a\x08\x9e\xc1(\xbc\x81\t\x04""A\xc8\x08\x13""a!\xda\x88\x01""b\x8aX#\x8e\x08\x17\x99\x85\xf8!\xc1H\x04\x12\x8b$ \xc9\x88\x14Q\"K\x91""5H1R\x8aT UH\x1d"
+"\xf2=r\x02""9\x87\\F\xba\x91;\xc8\0""2\x82\xfc\x86\xbcG1\x94\x81\xb2Q=\xd4\x0c\xb5""C\xb9\xa8""7\x1a\x84""F\xa2\x0b\xd0""dt1\x9a\x8f\x16\xa0\x9b\xd0r\xb4\x1a=\x8c""6\xa1\xe7\xd0\xabh\x0f\xda\x8f>C\xc7""0\xc0\xe8\x18\x07""3\xc4l0.\xc6\xc3""B\xb1""8,\t"
+"\x93""c\xcb\xb1\"\xac\x0c\xab\xc6\x1a\xb0V\xac\x03\xbb\x89\xf5""c\xcf\xb1w\x04\x12\x81""E\xc0\t6\x04wB a\x1e""AHXLXN\xd8H\xa8 \x1c$4\x11\xda\t7\t\x03\x84Q\xc2'\"\x93\xa8K\xb4&\xba\x11\xf9\xc4\x18""b21\x87XH,#\xd6\x12\x8f\x13/\x10{\x88""C\xc4""7$\x12\x89"
+"C2'\xb9\x90\x02I\xb1\xa4T\xd2\x12\xd2""F\xd2nR#\xe9,\xa9\x9b""4H\x1a#\x93\xc9\xda""dk\xb2\x07""9\x94, +\xc8\x85\xe4\x9d\xe4\xc3\xe4""3\xe4\x1b\xe4!\xf2[\n"
+"\x9d""b@q\xa4\xf8S\xe2(R\xcajJ\x19\xe5\x10\xe5""4\xe5\x06""e\x98""2AU\xa3\x9aR\xdd\xa8\xa1T\x11""5\x8fZB\xad\xa1\xb6R\xafQ\x87\xa8\x13""4u\x9a""9\xcd\x83\x16IK\xa5\xad\xa2\x95\xd3\x1ah\x17h\xf7i\xaf\xe8t\xba\x11\xdd\x95\x1eN\x97\xd0W\xd2\xcb\xe9G\xe8"
+"\x97\xe8\x03\xf4w\x0c\r\x86\x15\x83\xc7\x88g(\x19\x9b\x18\x07\x18g\x19w\x18\xaf\x98L\xa6\x19\xd3\x8b\x19\xc7T071\xeb\x98\xe7\x99\x0f\x99oUX*\xb6*|\x15\x91\xca\n"
+"\x95J\x95&\x95\x1b*/T\xa9\xaa\xa6\xaa\xde\xaa\x0bU\xf3U\xcbT\x8f\xa9^S}\xae""FU3S\xe3\xa9\t\xd4\x96\xabU\xaa\x9dP\xebS\x1bSg\xa9;\xa8\x87\xaag\xa8oT?\xa4~Y\xfd\x89\x06Y\xc3L\xc3OC\xa4Q\xa0\xb1_\xe3\xbc\xc6 \x0b""c\x19\xb3x,!k\r\xab\x86u\x81""5\xc4&\xb1"
+"\xcd\xd9|v*\xbb\x98\xfd\x1d\xbb\x8b=\xaa\xa9\xa1""9C3J3W\xb3R\xf3\x94""f?\x07\xe3\x98q\xf8\x9ctN\t\xe7(\xa7\x97\xf3~\x8a\xde\x14\xef)\xe2)\x1b\xa6""4L\xb9""1e\\k\xaa\x96\x97\x96X\xabH\xabQ\xabG\xeb\xbd""6\xae\xed\xa7\x9d\xa6\xbd""E\xbbY\xfb\x81\x0e""A"
+"\xc7J'\\'Gg\x8f\xce\x05\x9d\xe7S\xd9S\xdd\xa7\n"
+"\xa7\x16M=:\xf5\xae.\xaak\xa5\x1b\xa1\xbb""Dw\xbfn\xa7\xee\x98\x9e\xbe^\x80\x9eLo\xa7\xdey\xbd\xe7\xfa\x1c}/\xfdT\xfdm\xfa\xa7\xf5G\x0cX\x06\xb3\x0c$\x06\xdb\x0c\xce\x18<\xc5""5qo<\x1d/\xc7\xdb\xf1QC]\xc3@C\xa5""a\x95""a\x97\xe1\x84\x91\xb9\xd1<\xa3\xd5"
+"F\x8d""F\x0f\x8ci\xc6\\\xe3$\xe3m\xc6m\xc6\xa3&\x06&!&KM\xeaM\xee\x9aRM\xb9\xa6)\xa6;L;L\xc7\xcd\xcc\xcd\xa2\xcd\xd6\x99""5\x9b=1\xd7""2\xe7\x9b\xe7\x9b\xd7\x9b\xdf\xb7`ZxZ,\xb6\xa8\xb6\xb8""eI\xb2\xe4Z\xa6Y\xee\xb6\xbcn\x85Z9Y\xa5XUZ]\xb3""F\xad\x9d"
+"\xad%\xd6\xbb\xad\xbb\xa7\x11\xa7\xb9N\x93N\xab\x9e\xd6g\xc3\xb0\xf1\xb6\xc9\xb6\xa9\xb7\x19\xb0\xe5\xd8\x06\xdb\xae\xb6m\xb6}agb\x17g\xb7\xc5\xae\xc3\xee\x93\xbd\x93}\xba}\x8d\xfd=\x07\r\x87\xd9\x0e\xab\x1dZ\x1d~s\xb4r\x14:V:\xde\x9a\xce\x9c\xee?}\xc5"
+"\xf4\x96\xe9/gX\xcf\x10\xcf\xd8""3\xe3\xb6\x13\xcb)\xc4i\x9dS\x9b\xd3Gg\x17g\xb9s\x83\xf3\x88\x8b\x89K\x82\xcb.\x97>.\x9b\x1b\xc6\xdd\xc8\xbd\xe4Jt\xf5q]\xe1z\xd2\xf5\x9d\x9b\xb3\x9b\xc2\xed\xa8\xdb\xaf\xee""6\xeei\xee\x87\xdc\x9f\xcc""4\x9f)\x9eY3s\xd0"
+"\xc3\xc8""C\xe0Q\xe5\xd1?\x0b\x9f\x95""0k\xdf\xac~OCO\x81g\xb5\xe7#/c/\x91W\xad\xd7\xb0\xb7\xa5w\xaa\xf7""a\xef\x17>\xf6>r\x9f\xe3>\xe3<7\xde""2\xdeY_\xcc""7\xc0\xb7\xc8\xb7\xcbO\xc3o\x9e_\x85\xdf""C\x7f#\xff""d\xffz\xff\xd1\0\xa7\x80%\x01g\x03\x89\x81"
+"A\x81[\x02\xfb\xf8z|!\xbf\x8e?:\xdb""e\xf6\xb2\xd9\xed""A\x8c\xa0\xb9""A\x15""A\x8f\x82\xad\x82\xe5\xc1\xad!h\xc8\xec\x90\xad!\xf7\xe7\x98\xce\x91\xcei\x0e\x85P~\xe8\xd6\xd0\x07""a\xe6""a\x8b\xc3~\x0c'\x85\x87\x85W\x86?\x8ep\x88X\x1a\xd1""1\x97""5w\xd1"
+"\xdc""Cs\xdf""D\xfa""D\x96""D\xde\x9bg1O9\xaf-J5*>\xaa.j<\xda""7\xba""4\xba?\xc6.fY\xcc\xd5X\x9dXIlK\x1c""9.*\xae""6nl\xbe\xdf\xfc\xed\xf3\x87\xe2\x9d\xe2\x0b\xe3{\x17\x98/\xc8]py\xa1\xce\xc2\xf4\x85\xa7\x16\xa9.\x12,:\x96@L\x88N8\x94\xf0""A\x10*\xa8"
+"\x16\x8c%\xf2\x13w%\x8e\n"
+"y\xc2\x1d\xc2g\"/\xd1""6\xd1\x88\xd8""C\\*\x1eN\xf2H*Mz\x92\xec\x91\xbc""5y$\xc5""3\xa5,\xe5\xb9\x84'\xa9\x90\xbcL\rL\xdd\x9b:\x9e\x16\x9av m2=:\xbd""1\x83\x92\x91\x90qB\xaa!M\x93\xb6g\xeag\xe6""fv\xcb\xac""e\x85\xb2\xfe\xc5n\x8b\xb7/\x1e\x95\x07\xc9"
+"k\xb3\x90\xac\x05Y-\n"
+"\xb6""B\xa6\xe8TZ(\xd7*\x07\xb2geWf\xbf\xcd\x89\xca""9\x96\xab\x9e+\xcd\xed\xcc\xb3\xca\xdb\x90""7\x9c\xef\x9f\xff\xed\x12\xc2\x12\xe1\x92\xb6\xa5\x86KW-\x1dX\xe6\xbd\xacj9\xb2<qy\xdb\n"
+"\xe3\x15\x05+\x86V\x06\xac<\xb8\x8a\xb6*m\xd5O\xab\xedW\x97\xae~\xbd&zMk\x81^\xc1\xca\x82\xc1\xb5\x01k\xeb\x0bU\n"
+"\xe5\x85}\xeb\xdc\xd7\xed]OX/Y\xdf\xb5""a\xfa\x86\x9d\x1b>\x15\x89\x8a\xae\x14\xdb\x17\x97\x15\x7f\xd8(\xdcx\xe5\x1b\x87o\xca\xbf\x99\xdc\x94\xb4\xa9\xab\xc4\xb9""d\xcf""f\xd2""f\xe9\xe6\xde-\x9e[\x0e\x96\xaa\x97\xe6\x97\x0en\r\xd9\xda\xb4\r\xdfV\xb4"
+"\xed\xf5\xf6""E\xdb/\x97\xcd(\xdb\xbb\x83\xb6""C\xb9\xa3\xbf<\xb8\xbc""e\xa7\xc9\xce\xcd;?T\xa4T\xf4T\xfaT6\xee\xd2\xdd\xb5""a\xd7\xf8n\xd1\xee\x1b{\xbc\xf6""4\xec\xd5\xdb[\xbc\xf7\xfd>\xc9\xbe\xdbU\x01UM\xd5""f\xd5""e\xfbI\xfb\xb3\xf7?\xae\x89\xaa\xe9"
+"\xf8\x96\xfbm]\xadNmq\xed\xc7\x03\xd2\x03\xfd\x07#\x0e\xb6\xd7\xb9\xd4\xd5\x1d\xd2=TR\x8f\xd6+\xebG\x0e\xc7\x1f\xbe\xfe\x9d\xefw-\r6\rU\x8d\x9c\xc6\xe2#pDy\xe4\xe9\xf7\t\xdf\xf7\x1e\r:\xdav\x8c{\xac\xe1\x07\xd3\x1fv\x1dg\x1d/jB\x9a\xf2\x9a""F\x9bS\x9a"
+"\xfb[b[\xbaO\xcc>\xd1\xd6\xea\xdez\xfcG\xdb\x1f\x0f\x9c""4<YyJ\xf3T\xc9i\xda\xe9\x82\xd3\x93g\xf2\xcf\x8c\x9d\x95\x9d}~.\xf9\xdc`\xdb\xa2\xb6{\xe7""c\xce\xdfj\x0fo\xef\xba\x10t\xe1\xd2""E\xff\x8b\xe7;\xbc;\xce\\\xf2\xb8t\xf2\xb2\xdb\xe5\x13W\xb8W\x9a"
+"\xaf:_m\xeat\xea<\xfe\x93\xd3O\xc7\xbb\x9c\xbb\x9a\xae\xb9\\k\xb9\xeez\xbd\xb5{f\xf7\xe9\x1b\x9e""7\xce\xdd\xf4\xbdy\xf1\x16\xff\xd6\xd5\x9e""9=\xdd\xbd\xf3zo\xf7\xc5\xf7\xf5\xdf\x16\xdd~r'\xfd\xce\xcb\xbb\xd9w'\xee\xad\xbcO\xbc_\xf4@\xed""A\xd9""C\xdd"
+"\x87\xd5?[\xfe\xdc\xd8\xef\xdc\x7fj\xc0w\xa0\xf3\xd1\xdcG\xf7\x06\x85\x83\xcf\xfe\x91\xf5\x8f\x0f""C\x05\x8f\x99\x8f\xcb\x86\r\x86\xeb\x9e""8>99\xe2?r\xfd\xe9\xfc\xa7""C\xcf""d\xcf&\x9e\x17\xfe\xa2\xfe\xcb\xae\x17\x16/~\xf8\xd5\xeb\xd7\xce\xd1\x98\xd1"
+"\xa1\x97\xf2\x97\x93\xbfm|\xa5\xfd\xea\xc0\xeb\x19\xaf\xdb\xc6\xc2\xc6\x1e\xbe\xc9x31^\xf4V\xfb\xed\xc1w\xdcw\x1d\xef\xa3\xdf\x0fO\xe4| \x7f(\xffh\xf9\xb1\xf5S\xd0\xa7\xfb\x93\x19\x93\x93\xff\x04\x03\x98\xf3\xfc""c3-\xdb\0\0""B\x94iTXtXML:com.adobe.x"
+"mp\0\0\0\0\0<?xpacket begin=\"\xef\xbb\xbf\" id=\"W5M0MpCehiHzreSzNTczkc9d\"?>\n"
+"<x:xmpmeta xmlns:x=\"adobe:ns:meta/\" x:xmptk=\"Adobe XMP Core 5.6-c111 79.158325, 2015/09/10-01:10:20        \">\n"
+"   <rdf:RDF xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\">\n"
+"      <rdf:Description rdf:about=\"\"\n"
+"            xmlns:xmp=\"http://ns.adobe.com/xap/1.0/\"\n"
+"            xmlns:dc=\"http://purl.org/dc/elements/1.1/\"\n"
+"            xmlns:xmpMM=\"http://ns.adobe.com/xap/1.0/mm/\"\n"
+"            xmlns:stEvt=\"http://ns.adobe.com/xap/1.0/sType/ResourceEvent#\"\n"
+"            xmlns:stRef=\"http://ns.adobe.com/xap/1.0/sType/ResourceRef#\"\n"
+"            xmlns:photoshop=\"http://ns.adobe.com/photoshop/1.0/\"\n"
+"            xmlns:tiff=\"http://ns.adobe.com/tiff/1.0/\"\n"
+"            xmlns:exif=\"http://ns.adobe.com/exif/1.0/\">\n"
+"         <xmp:CreatorTool>Adobe Photoshop CC 2015 (Windows)</xmp:CreatorTool>\n"
+"         <xmp:CreateDate>2016-10-25T21:04:31+02:00</xmp:CreateDate>\n"
+"         <xmp:MetadataDate>2016-11-05T13:28:10+01:00</xmp:MetadataDate>\n"
+"         <xmp:ModifyDate>2016-11-05T13:28:10+01:00</xmp:ModifyDate>\n"
+"         <dc:format>image/png</dc:format>\n"
+"         <xmpMM:InstanceID>xmp.iid:34841e16-e05c-8943-9c00-8b61b0736e34</xmpMM:InstanceID>\n"
+"         <xmpMM:DocumentID>adobe:docid:photoshop:44f428ce-a353-11e6-8c38-e3720d35a39e</xmpMM:DocumentID>\n"
+"         <xmpMM:OriginalDocumentID>xmp.did:45d6e837-6aef-3542-a794-f3d50766d1a9</xmpMM:OriginalDocumentID>\n"
+"         <xmpMM:History>\n"
+"            <rdf:Seq>\n"
+"               <rdf:li rdf:parseType=\"Resource\">\n"
+"                  <stEvt:action>created</stEvt:action>\n"
+"                  <stEvt:instanceID>xmp.iid:45d6e837-6aef-3542-a794-f3d50766d1a9</stEvt:instanceID>\n"
+"                  <stEvt:when>2016-10-25T21:04:31+02:00</stEvt:when>\n"
+"                  <stEvt:softwareAgent>Adobe Photoshop CC 2015 (Windows)</stEvt:softwareAgent>\n"
+"               </rdf:li>\n"
+"               <rdf:li rdf:parseType=\"Resource\">\n"
+"                  <stEvt:action>saved</stEvt:action>\n"
+"                  <stEvt:instanceID>xmp.iid:577ca280-8153-c14c-a45e-cfcdf62b282c</stEvt:instanceID>\n"
+"                  <stEvt:when>2016-10-25T21:07:55+02:00</stEvt:when>\n"
+"                  <stEvt:softwareAgent>Adobe Photoshop CC 2015 (Windows)</stEvt:softwareAgent>\n"
+"                  <stEvt:changed>/</stEvt:changed>\n"
+"               </rdf:li>\n"
+"               <rdf:li rdf:parseType=\"Resource\">\n"
+"                  <stEvt:action>saved</stEvt:action>\n"
+"                  <stEvt:instanceID>xmp.iid:3d090bfe-099d-654e-97d5-7dee6972a251</stEvt:instanceID>\n"
+"                  <stEvt:when>2016-11-05T13:28:10+01:00</stEvt:when>\n"
+"                  <stEvt:softwareAgent>Adobe Photoshop CC 2015 (Windows)</stEvt:softwareAgent>\n"
+"                  <stEvt:changed>/</stEvt:changed>\n"
+"               </rdf:li>\n"
+"               <rdf:li rdf:parseType=\"Resource\">\n"
+"                  <stEvt:action>converted</stEvt:action>\n"
+"                  <stEvt:parameters>from application/vnd.adobe.photoshop to image/png</stEvt:parameters>\n"
+"               </rdf:li>\n"
+"               <rdf:li rdf:parseType=\"Resource\">\n"
+"                  <stEvt:action>derived</stEvt:action>\n"
+"                  <stEvt:parameters>converted from application/vnd.adobe.photoshop to image/png</stEvt:parameters>\n"
+"               </rdf:li>\n"
+"               <rdf:li rdf:parseType=\"Resource\">\n"
+"                  <stEvt:action>saved</stEvt:action>\n"
+"                  <stEvt:instanceID>xmp.iid:34841e16-e05c-8943-9c00-8b61b0736e34</stEvt:instanceID>\n"
+"                  <stEvt:when>2016-11-05T13:28:10+01:00</stEvt:when>\n"
+"                  <stEvt:softwareAgent>Adobe Photoshop CC 2015 (Windows)</stEvt:softwareAgent>\n"
+"                  <stEvt:changed>/</stEvt:changed>\n"
+"               </rdf:li>\n"
+"            </rdf:Seq>\n"
+"         </xmpMM:History>\n"
+"         <xmpMM:DerivedFrom rdf:parseType=\"Resource\">\n"
+"            <stRef:instanceID>xmp.iid:3d090bfe-099d-654e-97d5-7dee6972a251</stRef:instanceID>\n"
+"            <stRef:documentID>adobe:docid:photoshop:a9017a65-a34a-11e6-b23a-a77bf65a7ede</stRef:documentID>\n"
+"            <stRef:originalDocumentID>xmp.did:45d6e837-6aef-3542-a794-f3d50766d1a9</stRef:originalDocumentID>\n"
+"         </xmpMM:DerivedFrom>\n"
+"         <photoshop:ColorMode>3</photoshop:ColorMode>\n"
+"         <photoshop:ICCProfile>sRGB IEC61966-2.1</photoshop:ICCProfile>\n"
+"         <photoshop:TextLayers>\n"
+"            <rdf:Bag>\n"
+"               <rdf:li rdf:parseType=\"Resource\">\n"
+"                  <photoshop:LayerName>AIR</photoshop:LayerName>\n"
+"                  <photoshop:LayerText>AIR</photoshop:LayerText>\n"
+"               </rdf:li>\n"
+"            </rdf:Bag>\n"
+"         </photoshop:TextLayers>\n"
+"         <tiff:Orientation>1</tiff:Orientation>\n"
+"         <tiff:XResolution>720000/10000</tiff:XResolution>\n"
+"         <tiff:YResolution>720000/10000</tiff:YResolution>\n"
+"         <tiff:ResolutionUnit>2</tiff:ResolutionUnit>\n"
+"         <exif:ColorSpace>1</exif:ColorSpace>\n"
+"         <exif:PixelXDimension>120</exif:PixelXDimension>\n"
+"         <exif:PixelYDimension>72</exif:PixelYDimension>\n"
+"      </rdf:Description>\n"
+"   </rdf:RDF>\n"
+"</x:xmpmeta>\n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                            \n"
+"<?xpacket end=\"w\"?>\xa0'&b\0\0\0 cHRM\0\0z%\0\0\x80\x83\0\0\xf9\xff\0\0\x80\xe9\0\0u0\0\0\xea`\0\0:\x98\0\0\x17o\x92_\xc5""F\0\0\n"
+"\x03IDATx\xda\xec]]l\x1cW\x15>gv\x9d\xb4\xb5\x9b\xd8\xb5\xcbO+\xd2lE\x05\x14\x93""f\xadHT\x02\xa4\xda\xbcX\xc2UH\x1c""E\x8e\xccJ\xf1\xee\xbeR\tT^\xa8\xc4\x0b<\x82@T\xbcyc\x93M\xeb\xa8j\xec""FJ\"\x0b\t'\x14*T\xa9\xc4&D<@~l\x8b\x06T\x91z\xa3\xfc\xd8\xf5"
+"\xee\xce\xe1\xa1\xbb\x9b\xd9\xf1\x9d;\xe7\xde\xb9\xe3\x9d]\xf6J#\xef\x8f\xf7\xfe}\xf7;\xe7|w\xce\xcc \x11""A\xbb\xb4n\xb1\xdaS\xd0\x06\xb8]\x9a\xb8\xc4""e_\"\xa2\xc9\xb6\xb8\x95\x85\xe1""3\xd0@\xbb\x18""B\xbf\x8c\x8cU\xe6""f\xe3\xdb\xb0\x88\x90\xf9\x19"
+"\t\xbe\xa3\x10@\xf5\xaa\x1f""CX\xac~\xc0""b\xd8\x8b;\xbe\x8d\xc0\xa2\x06\x9bPs\xd0\xc8x-\xaa\x9f""4\xea\xd4\x9d\x1b\x92\0NQ\x07\x18%\xc0\"s\xd0\xd5\x81\xaa\x82\xac\xd3\xb6\xb3-/f\xa3\xcf\xc2U5\xc7^\xe3\"\x93@\x87m\xa2\xd1""51\xc8""0\xd1\"p\xb9 \xa3""b"
+"\xdb\xe4\xc1&d\x8e\x83\x0b""2y\x98""c\x94\xf4!\x88\x05\x0b\x15`\xf7""D c\x82\xaa\x83\"\x8f\xc9Ve\xb2\xacm\xd0\\8\xb2\xbat\x18L\xaeq\xcb,\x98""6\x9b\x03\x03\xbc\x9a\xcd\xd6\xbd\xdf""39\xb9\x85I\xbf;t\xe8\x89/\xf7\xf6\xfe\x87S\x9fM\xb4\xb0""7\x97\x1b\x16"
+"M\x8c\xbb-w\xa9\xb4]\x07\xccr&3c!\x8e\xfa\xb5[\xb6\xed\x9f'N\x9c\xf8\xb1\x87\x89\xc6\xd5lv\xd3P\xd8\\\0\xa2\x9b""6\xd1\xe2\xad{\xf7~\xf1\x8d\xb7\xde\xba!X\xd8\xc6\xe2\x11\xa3\x0c\xde""39)2\x91\xf8lw\xf7(\x9b\xfe\x88\x03\x15}nkF\x98(\xb1\x12\xba~\x1c\r"
+"\x9a\xb7n@L\xc6\x10\x93_\xd8\xb5+\xbd\x92\xcd\x16l\xdb\x9e\xfd\xfb\xed\xdb\xaf}\xe7\xec\xd9""5\x89%\x8b\xcc""F\xc7\x16\xf3\x18\xb7\xacQ\x95\t\xb8\x92J\r\x88&\xd5\xb5\x80\xfc\xbeS\x02\x9a\xc4\xff\xafj\x86\xb5\0\x8fYV\xfakO>\xf9\xefk\x13\x13?\xaa`\xe2\xe7"
+"b\"\xb3\x93\x85\x9f\x92\x12\x07T~\xd4\xd5\xd1""1\x1a\x90\x89\xba\x13\xa2\x12""3\x18/;b\xb1\x9f.g2\xe7\xcf\x1f<\xf8\x84\x07\xd0\xca""c2\x06\xb0\x17\x83\x96\xc6\xc7\x07\x10\xa0[\xa5\xae\x18\xe2P\xa3&Y\x12=oK\xb1\x10\x87\xfa\xfb\xfa.\x9c?x\xb0\xc7""D\xfb"
+"\xa1\x9b\xe8\xc7w\xee\x1cU\xae\0""1\x19\x80\xc1Z\x8b\x82\x02\x9a""B\xa3\x13\x88\x98\xec\xef\xeb\xbb`\x82\xc5V\x08\xe0\xd6Gq\x88\x83:\x15\xfd\xe3\xf8\xf1\x8c\xa8^\x99\x1f""6\x04\x0c\x86\xb0s\xa5\x05\xf2\x8dt\xfag\x12\x7f\xdcP\x1f\x8c\x0e\xff\x9b\xd4\xf4"
+"G\x83\x11""1\xd3\xca""2\xc8\xebP\xad+fY\x19\x87\xa9\xd6Z\xcc""Fd\x92@\x1e\x89X\x18\xd4LS3\x80\xfb\xcc\xe4\xe4\x1e\x97\xcc\xa9\xe9\xd8\x8bG\x8e$\x12\xbbw\xff\xda""bZ5\x04\xe8\xfeJo\xef\xab\0\xf0\x9a\xee\x86\x87\x15\x02kk\xaf+,\xd4\xad,\xf1\xde\xd1\xa3"
+"\t\r3\x1d\x01\x9ck\x87\xed<\x06\xdf~\xfb\xfa\xde\\\xee\xe5\xf5R\xe9\x15\x05\x16\x1f\x0e""b\xc9""B\r\xb2t\xcds\xb5|\xae\xab+\x03\x11\n"
+"~\x14\x01\xae\x02\xeb|O\0`\x7fiz\xfa""D\xd9\xb6\xe7\x14\x16\xfa\xb3\r\xd3\xc1^\xe6\xf9\xbd\xa3G\x13\x08\x90\x08RwL\xbc@\xb0I\0\x16\xb2\xb8\xfa\xd9\xfb\xb7n}\x9f[\xe1g;;\x0f\xeb\x8e\xdb\xb4\x89\xae""1\xb8\xc2\xbe\xc0\x91$\x98\xd9zl4\xc8[\x8e\xb1\xf9\xf9"
+"5\"Zd\x05J\x96\x95\xf4X\xe0\xb8]\0#\x93}\xaa\x95v_M\xa5\x86\x9a\xcc\x0f\x13\xf7(\x11-1\xeb\xec\x89\x02\x83\x8d\xfa\xdfj\xe9\xec\xe8\x08\x14""dD\0l\xf7_g\x14\xbc\xc6]\xe8\x12\x8d\x1e*\xc0""Bsq5\x95\x1aR\xdd\x9e\xf4\xec\xa0""e\r6Y\x90\xe5\x96""2\xa4#oL"
+"\x15\xcb kk\xaf+\xac""3e\x12\xaar\t\x9b\xc8L{\x9d\x91\xc2\x80\x8b""Fy\xb1\x84\x11""dUY\xe7[\x8a\xb6}\xb6\x85\xe5\x92\x97I\xad\xbd&\"\xee\xa9\xcc\x9b\x8d`\xb0p\xfb\xec\x9d\x91\x91\x1e\x8e<\"\xa2\xe5\x8dR\xe9R\x0b\xca%\xe4\x1eq\xcb\xda\xcf\xa9\xb0""d\xdb"
+"\x8b>\xe6\x7f[L4\x02\0>\xdf\xd7""7\xca""d\xef\x1f\xbez\xf2\xe4t\x8b\xca%\x11\xa0\x16""8\xce\x0e\x9d\x1e\x1e\xee\xe1nY\xfew}\xfd\x0c\xc8\xd3z\xb6%\xc8\x02\0\x80\x1d\xb1\x18\xcb\xff\xde/\x16/\x01\0\xd8\x0c\xa9\xd0""drI\n"
+"l\xf5\xb3\xaf?\xf5\xd4\xeb,\xf3L\xb4\xf8\xe2\xe9\xd3\r1\xd1\x81\xe4\xd1\x0b\xa7N\xcd\x01\0\x95l\x9b\xa5\x05\x9bH.\xb9\x81\xddr\\O\xa7_\x8fY\xd6!Ne\x9b\xb6\x9d\xf3\xd0\xd1\xac\x12""7\xc0\xdc\xda\xeb\xa5\xf1\xf1$G\x1eUXK\0@w77\xe7z\x1f}\xf4""8S.9\xdb\xa4"
+"\x88\xb2\xb8\x9a""0X\xd7\xc7\x0f\x8e\x1dK\xee~\xe4\x91\xc1\x1d\xb1\xd8\x0f\xb9\x12\x92\x88\x16\x9f\x9b\x9a\xcay\x80Ja\x02,\x94G\xdc\xec\x8d\x92m_\xacv:\xf9\xc6\x1b\x17W\xb2\xd9\x82\xdf\xa0\x11 \xf1\xce\xc8H\xcfw\xcf\x9d\xfb\x18\"z\xea\x10\x01\xbaW\xb3"
+"\xd9;\x86\x84t\xe1_w\xef~O \x8f\x1av\xba\x90\x9d\xbdq\xbfX\xbc\xe8\xec""4\x11-s~W\t\xe0\xb4\xb3\x1b\x9a\xa5\x10@\xe1\xf6\x83\x07#\x8e\x9ci\xed\x8d\x12\xa3Q4\xc7\xff\x12@\xe1\x85S\xa7\x16\x9c\xfe\xa4\xc2h\xdf\xe2\x11\xc0\xb5\x14\xc8""D\xb4|\xa3P\xf8\xd6"
+"\xc0\x9bo.J\xccq\xa8>8P\xf6\x86\xe3\x0cJ\xad\x93\x85\x8d\x8d\xd9\xcftv\xfe@C.\xb5\xd4\xfd'6\xcb\xe5\xe9/NM\xbd\x02\xf5\xe7\x91\x03\x07\x04""F\xfc/7{\xa3\x12""5\xd7\x99\x9d\x03""33\x8b\x9c\x9c%\x04\xe8^\x1a\x1fO\xb6*{c\x96\xb5\xf7\xfd\xb1\xb1\xfd&]\x90"
+"\t\x1d\xac$\x8f\n"
+"\x1b\x1b\xb3>\xcc\x96\x96J \xd7\xacg\x97\xe4\0#\xbe\xf4\xf9\xae\xaewo\xa6\xd3'U\xf7\x1fL\x01\x1c({\x83\0\n"
+"\x07""ff\x96""Dup\xf5\xb0$\x90\xc3\x16""b\xf2\xa1\x95L\xe6O&\x02\xca &\xba\xc6\x1en\xf6\x86\x83\xa5[\x16\xca\xca\x9d;S\xac\x86\x9b""7\xcb""Cm\x82\x11\x93\xcb\x99\xccyP\xbb\xc6\xda\x08\xc0\xda\xd9\x1b""E\xdb\xfe\xab\xc7\xaa\xc4o\xcf\xce.ss\x87\x05I\xf1"
+"\x91\0\x9a\0\n"
+"\x9f\x94\xcb\xbf\xda,\x97\x7f\xe9>\xca\xb6=\xc7\x95\x83""5p\x10\x07\xff""91\x91\t2F\x13\x1b\x1dl\xff{mmm\x1a$\xf7\xee\xb0\x89\x96""b\x88/1\xe4\xd2 \0LF1\x92~nj\xea' \xdeVD\0\x80\xd3\xc3\xc3=/>\xfd\xf4""9\x0bq?K\x1aZV\x06\0r\x02\x90\x8d\xef""dy\xca#\xee"
+"\xd6\xdb\xf3}}\x97V|.\xe2\xd6""4\xd3\x14!sM\x02\x99S\xed\x1f\x8e\xcd\xcf\xaf\x01\xc0""7W2\x99?r\x88\x81\x88\xc9+\xa9Tr_>\xff\x17\x9d\x05mi\xb2VY\x1eUe\x8e\xdf\xc1\xac\xc7""3)>\"\0\xbb\xd3""f\xdd\xe9\xb3\xf4\xe7\x0f?|\x99[\xe1\xe3\x1d\x1dY\xd0\xbc""f*"
+"\xa8\x0e""6\x96\\\xa7Z\x04Y\x1eQ\x04\xd8\xf6\xfa;6?\xbf""f\x13\xb1v\xf0\xac\x87\x16+\xb4(:\xb4\xe4\xf6\0\x9a""1)\xb3,\x11""ep\x9d\xf9\xfe\xa4\\\x9e\xe3\xcd>&D\xea%L\x1dl,\xb9\xdd\x90\x1f\x8e\xaa\xa9\x16\x81^{\xff\xb7\x8f>:\xc3um\xdb\xb1\x93\x15Jr{\x80"
+"\x10\xde\x99\xe5\x11\xf5$x!\xc3\x8f\\\xb8P\x08\xbb\x03\xba:\xb8\xa1\xfe\xb7Z\x1cY\x1eQf/\x80w6\x06)\\7\x1c\xda=:BOn\xd7^\x9d\x0f\xb3<Zn_\x9akEM\xe9`\xed\xe4v\"Z~&\x97\xdb\x07\xf2\x9c\xa2\xba\xba\xaf\xa6R\x87w\xed\xdc\xf9[\x8e\\rdy\xb4\xdc\xe9\xc3""F\x98"
+"h\xe5\xe4\xf6\xd2\xa7R\xc0V9\xfa\xf3\xf9Yn\x87\x1cY\x1e^\x0b""2\xaa\x85\xa2\0p\xa0\xe4v\0\x80\xfb\xc5\xe2,\x88\xaf\x93\x15]7[;\xb8\xa7\x0f\x1dY\x1e\xc2\x13\x10\xdc\xab\x07\xfe\xdf\x19\xac\x95\xdc\x0e\0\xb0/\x9f_\x10\x01\xe8\x02v\xcb\x05\xd2%\xe6&\0\x06"
+"\xd8\x04\x88\0{uY\xcc\x96\x86\xaa""A\x96\x9b""5~\xfewQ\x02\xaa{#\xa0\xee\xfdz\xb1\xb8\xc0\x95K\x95,\x0f\xa1YFDj\x10xF\x8b+\xf1?T\x99\x04\\yTa!\xe9\x1c\xfd\xf9\xfc\x02WB\xe8\xdclM\x91]\x14\"\xd0\xack\x84w\xc4""b\t\x9d\x88Z\x19\xe0+\xa9T\x92+\x8f*,\x14"
+"\x02\xb8\x9a\xcd\xd2j6K\x1e:Q\xc9\x0f\xeb\xdel\xcd""5[Z\x97g\x06\xde\xdd\"b-\xe2\x8e\xfa\xdb""8\x84\xc7\xe0\xca\x8d""B9#)\xf4\xe7\xf3\xbf\x17I#\x07\xb0 \0\xb9\xf6\xda&\xbal\xd2\xa2\x18\xda\x89R\xfd\r\xc9\xbe\xe7^\x1aji\x8eQ\x19\xe0\xca\x8d""B9\xfe\xf7"
+"r\xc0\t\xa2{\xc5\xe2\x19\xee\x8f\xaeML\xa4""A\xbc\xff\xab\xd5""6\x04\xb8\x9a\x80i\xa6\xab\x8b\xf8&w\x11\x7fp\xecXB\xd5\x05\xa8\x02L\\\xb6\xb8\0\x96^4\xe5""d\xb4\xb3\x8a}\xf9\xfc""e\xae\x1f\x8e[\xd6\x90\xc4\xdc\xab\x98h\xed\xdb/\xa0z\xbb\xf4\xf1\xfa\xfa"
+"$w\xf2\xfb\x1e{\xec""7\xaa.\xc4RY\xd9""7\xd2iv:\xc6\x83R\xe9\x8c\xa8#\x1e`z1\xc8&\xbe\x99\x1e\xf0`_\x10\xd3L\x1a\x0c\xf6[\xc4u\xf5\x1e\x98\x99\xb9n\x13\xb1,\x95\x85""8\xb4\x9c\xc9\xbc\xaa\x14[\xc8\x9e\x9a\x85\x0f\x1f}\xe6u\x95\xba;\x9a\x13\x99""6\xee"
+"\xa4\x8b\x1ev!k\xcf\xcbwW\xff\xca""2\x11\xd1\xa3\x9f^\xfd\xf3\xea\x07\xf9,\x8a-\xf7\xab\x0c""8Fa\xbd$\x01""1\xae\xb9*I\x02""0h\xfa""0\xbf\xc7\xccp\xdb\xf3\x8aXEu\xcb\x16\x89\xac\x8f^ \x80\x0f\xeb\xfd\x9e\"#{\xc4\x8e\x96\xfb\x88""3']f~\xc8GG\xaa\xe8I\xce"
+"ct\xfc\x80\xe4\xd4\xad\xa2{Qc\xdc\xc4 \x87h\xb1\xf9\xb5\xa5\xeczT\xb2*\xc9\x07|\xbf\t'\x85v\xd0@{\xba\xdaTg\xdc\xba""c\x0e}N\xe3\n"
+"\x13\x80L\x96\x98\xd8\xbaSy \x14)\x02\xa8\xfb\xf0K\x93\xe3V}V\xa1\xf6\xbc\xea""0\x18\x03\x0cZ\x97YA&\x82\xfb\x84O\x95\xc7\xcb\x9a\x1a\xb7\xa9""1\xea""E\xd1\xed\xd2\xfc\xa5\xfd\x04\xf0""6\xc0\xed\xd2\x06\xb8]\xda\0\xb7Kc\xca\xff\x06\0\x8b\x07\xa1\xe2\xda"
+".\xd6\x98\0\0\0\0IEND\xae""B`\x82";
+
+const char* airText_png = (const char*) temp_binary_data_0;
+
+//================== bigKnob_light.png ==================
+static const unsigned char temp_binary_data_1[] =
 { 137,80,78,71,13,10,26,10,0,0,0,13,73,72,68,82,0,0,1,34,0,0,1,34,8,6,0,0,0,93,190,223,182,0,0,0,9,112,72,89,115,0,0,11,19,0,0,11,19,1,0,154,156,24,0,0,10,79,105,67,67,80,80,104,111,116,111,115,104,111,112,32,73,67,67,32,112,114,111,102,105,108,101,0,0,
 120,218,157,83,103,84,83,233,22,61,247,222,244,66,75,136,128,148,75,111,82,21,8,32,82,66,139,128,20,145,38,42,33,9,16,74,136,33,161,217,21,81,193,17,69,69,4,27,200,160,136,3,142,142,128,140,21,81,44,12,138,10,216,7,228,33,162,142,131,163,136,138,202,
 251,225,123,163,107,214,188,247,230,205,254,181,215,62,231,172,243,157,179,207,7,192,8,12,150,72,51,81,53,128,12,169,66,30,17,224,131,199,196,198,225,228,46,64,129,10,36,112,0,16,8,179,100,33,115,253,35,1,0,248,126,60,60,43,34,192,7,190,0,1,120,211,11,
@@ -838,10 +1122,10 @@ static const unsigned char temp_binary_data_0[] =
 92,199,117,92,199,5,68,215,113,29,215,113,1,209,245,18,92,199,117,92,199,5,68,215,113,29,215,113,1,209,245,18,92,199,117,92,199,5,68,215,113,29,215,113,1,209,245,18,92,199,117,92,199,5,68,215,113,29,215,241,202,31,255,255,1,0,64,227,76,22,104,64,205,
 140,0,0,0,0,73,69,78,68,174,66,96,130,0,0 };
 
-const char* bigKnob_light_png = (const char*) temp_binary_data_0;
+const char* bigKnob_light_png = (const char*) temp_binary_data_1;
 
 //================== bigKnob_red.png ==================
-static const unsigned char temp_binary_data_1[] =
+static const unsigned char temp_binary_data_2[] =
 { 137,80,78,71,13,10,26,10,0,0,0,13,73,72,68,82,0,0,1,34,0,0,1,34,8,6,0,0,0,93,190,223,182,0,0,0,9,112,72,89,115,0,0,11,19,0,0,11,19,1,0,154,156,24,0,0,10,79,105,67,67,80,80,104,111,116,111,115,104,111,112,32,73,67,67,32,112,114,111,102,105,108,101,0,0,
 120,218,157,83,103,84,83,233,22,61,247,222,244,66,75,136,128,148,75,111,82,21,8,32,82,66,139,128,20,145,38,42,33,9,16,74,136,33,161,217,21,81,193,17,69,69,4,27,200,160,136,3,142,142,128,140,21,81,44,12,138,10,216,7,228,33,162,142,131,163,136,138,202,
 251,225,123,163,107,214,188,247,230,205,254,181,215,62,231,172,243,157,179,207,7,192,8,12,150,72,51,81,53,128,12,169,66,30,17,224,131,199,196,198,225,228,46,64,129,10,36,112,0,16,8,179,100,33,115,253,35,1,0,248,126,60,60,43,34,192,7,190,0,1,120,211,11,
@@ -1363,709 +1647,10 @@ static const unsigned char temp_binary_data_1[] =
 237,181,129,104,175,189,246,218,64,180,15,193,94,123,237,181,129,104,175,189,246,218,64,180,15,193,94,123,237,181,129,104,175,189,246,218,64,180,15,193,94,123,237,181,129,104,175,189,246,250,241,235,127,6,0,75,192,114,92,237,206,89,18,0,0,0,0,73,69,78,
 68,174,66,96,130,0,0 };
 
-const char* bigKnob_red_png = (const char*) temp_binary_data_1;
-
-//================== smallKnob_light.png ==================
-static const unsigned char temp_binary_data_2[] =
-{ 137,80,78,71,13,10,26,10,0,0,0,13,73,72,68,82,0,0,0,130,0,0,0,130,8,6,0,0,0,138,3,16,253,0,0,0,9,112,72,89,115,0,0,11,19,0,0,11,19,1,0,154,156,24,0,0,10,79,105,67,67,80,80,104,111,116,111,115,104,111,112,32,73,67,67,32,112,114,111,102,105,108,101,0,0,
-120,218,157,83,103,84,83,233,22,61,247,222,244,66,75,136,128,148,75,111,82,21,8,32,82,66,139,128,20,145,38,42,33,9,16,74,136,33,161,217,21,81,193,17,69,69,4,27,200,160,136,3,142,142,128,140,21,81,44,12,138,10,216,7,228,33,162,142,131,163,136,138,202,
-251,225,123,163,107,214,188,247,230,205,254,181,215,62,231,172,243,157,179,207,7,192,8,12,150,72,51,81,53,128,12,169,66,30,17,224,131,199,196,198,225,228,46,64,129,10,36,112,0,16,8,179,100,33,115,253,35,1,0,248,126,60,60,43,34,192,7,190,0,1,120,211,11,
-8,0,192,77,155,192,48,28,135,255,15,234,66,153,92,1,128,132,1,192,116,145,56,75,8,128,20,0,64,122,142,66,166,0,64,70,1,128,157,152,38,83,0,160,4,0,96,203,99,98,227,0,80,45,0,96,39,127,230,211,0,128,157,248,153,123,1,0,91,148,33,21,1,160,145,0,32,19,101,
-136,68,0,104,59,0,172,207,86,138,69,0,88,48,0,20,102,75,196,57,0,216,45,0,48,73,87,102,72,0,176,183,0,192,206,16,11,178,0,8,12,0,48,81,136,133,41,0,4,123,0,96,200,35,35,120,0,132,153,0,20,70,242,87,60,241,43,174,16,231,42,0,0,120,153,178,60,185,36,57,
-69,129,91,8,45,113,7,87,87,46,30,40,206,73,23,43,20,54,97,2,97,154,64,46,194,121,153,25,50,129,52,15,224,243,204,0,0,160,145,21,17,224,131,243,253,120,206,14,174,206,206,54,142,182,14,95,45,234,191,6,255,34,98,98,227,254,229,207,171,112,64,0,0,225,116,
-126,209,254,44,47,179,26,128,59,6,128,109,254,162,37,238,4,104,94,11,160,117,247,139,102,178,15,64,181,0,160,233,218,87,243,112,248,126,60,60,69,161,144,185,217,217,229,228,228,216,74,196,66,91,97,202,87,125,254,103,194,95,192,87,253,108,249,126,60,252,
-247,245,224,190,226,36,129,50,93,129,71,4,248,224,194,204,244,76,165,28,207,146,9,132,98,220,230,143,71,252,183,11,255,252,29,211,34,196,73,98,185,88,42,20,227,81,18,113,142,68,154,140,243,50,165,34,137,66,146,41,197,37,210,255,100,226,223,44,251,3,62,
-223,53,0,176,106,62,1,123,145,45,168,93,99,3,246,75,39,16,88,116,192,226,247,0,0,242,187,111,193,212,40,8,3,128,104,131,225,207,119,255,239,63,253,71,160,37,0,128,102,73,146,113,0,0,94,68,36,46,84,202,179,63,199,8,0,0,68,160,129,42,176,65,27,244,193,
-24,44,192,6,28,193,5,220,193,11,252,96,54,132,66,36,196,194,66,16,66,10,100,128,28,114,96,41,172,130,66,40,134,205,176,29,42,96,47,212,64,29,52,192,81,104,134,147,112,14,46,194,85,184,14,61,112,15,250,97,8,158,193,40,188,129,9,4,65,200,8,19,97,33,218,
-136,1,98,138,88,35,142,8,23,153,133,248,33,193,72,4,18,139,36,32,201,136,20,81,34,75,145,53,72,49,82,138,84,32,85,72,29,242,61,114,2,57,135,92,70,186,145,59,200,0,50,130,252,134,188,71,49,148,129,178,81,61,212,12,181,67,185,168,55,26,132,70,162,11,208,
-100,116,49,154,143,22,160,155,208,114,180,26,61,140,54,161,231,208,171,104,15,218,143,62,67,199,48,192,232,24,7,51,196,108,48,46,198,195,66,177,56,44,9,147,99,203,177,34,172,12,171,198,26,176,86,172,3,187,137,245,99,207,177,119,4,18,129,69,192,9,54,4,
-119,66,32,97,30,65,72,88,76,88,78,216,72,168,32,28,36,52,17,218,9,55,9,3,132,81,194,39,34,147,168,75,180,38,186,17,249,196,24,98,50,49,135,88,72,44,35,214,18,143,19,47,16,123,136,67,196,55,36,18,137,67,50,39,185,144,2,73,177,164,84,210,18,210,70,210,
-110,82,35,233,44,169,155,52,72,26,35,147,201,218,100,107,178,7,57,148,44,32,43,200,133,228,157,228,195,228,51,228,27,228,33,242,91,10,157,98,64,113,164,248,83,226,40,82,202,106,74,25,229,16,229,52,229,6,101,152,50,65,85,163,154,82,221,168,161,84,17,53,
-143,90,66,173,161,182,82,175,81,135,168,19,52,117,154,57,205,131,22,73,75,165,173,162,149,211,26,104,23,104,247,105,175,232,116,186,17,221,149,30,78,151,208,87,210,203,233,71,232,151,232,3,244,119,12,13,134,21,131,199,136,103,40,25,155,24,7,24,103,25,
-119,24,175,152,76,166,25,211,139,25,199,84,48,55,49,235,152,231,153,15,153,111,85,88,42,182,42,124,21,145,202,10,149,74,149,38,149,27,42,47,84,169,170,166,170,222,170,11,85,243,85,203,84,143,169,94,83,125,174,70,85,51,83,227,169,9,212,150,171,85,170,
-157,80,235,83,27,83,103,169,59,168,135,170,103,168,111,84,63,164,126,89,253,137,6,89,195,76,195,79,67,164,81,160,177,95,227,188,198,32,11,99,25,179,120,44,33,107,13,171,134,117,129,53,196,38,177,205,217,124,118,42,187,152,253,29,187,139,61,170,169,161,
-57,67,51,74,51,87,179,82,243,148,102,63,7,227,152,113,248,156,116,78,9,231,40,167,151,243,126,138,222,20,239,41,226,41,27,166,52,76,185,49,101,92,107,170,150,151,150,88,171,72,171,81,171,71,235,189,54,174,237,167,157,166,189,69,187,89,251,129,14,65,199,
-74,39,92,39,71,103,143,206,5,157,231,83,217,83,221,167,10,167,22,77,61,58,245,174,46,170,107,165,27,161,187,68,119,191,110,167,238,152,158,190,94,128,158,76,111,167,222,121,189,231,250,28,125,47,253,84,253,109,250,167,245,71,12,88,6,179,12,36,6,219,12,
-206,24,60,197,53,113,111,60,29,47,199,219,241,81,67,93,195,64,67,165,97,149,97,151,225,132,145,185,209,60,163,213,70,141,70,15,140,105,198,92,227,36,227,109,198,109,198,163,38,6,38,33,38,75,77,234,77,238,154,82,77,185,166,41,166,59,76,59,76,199,205,204,
-205,162,205,214,153,53,155,61,49,215,50,231,155,231,155,215,155,223,183,96,90,120,90,44,182,168,182,184,101,73,178,228,90,166,89,238,182,188,110,133,90,57,89,165,88,85,90,93,179,70,173,157,173,37,214,187,173,187,167,17,167,185,78,147,78,171,158,214,103,
-195,176,241,182,201,182,169,183,25,176,229,216,6,219,174,182,109,182,125,97,103,98,23,103,183,197,174,195,238,147,189,147,125,186,125,141,253,61,7,13,135,217,14,171,29,90,29,126,115,180,114,20,58,86,58,222,154,206,156,238,63,125,197,244,150,233,47,103,
-88,207,16,207,216,51,227,182,19,203,41,196,105,157,83,155,211,71,103,23,103,185,115,131,243,136,139,137,75,130,203,46,151,62,46,155,27,198,221,200,189,228,74,116,245,113,93,225,122,210,245,157,155,179,155,194,237,168,219,175,238,54,238,105,238,135,220,
-159,204,52,159,41,158,89,51,115,208,195,200,67,224,81,229,209,63,11,159,149,48,107,223,172,126,79,67,79,129,103,181,231,35,47,99,47,145,87,173,215,176,183,165,119,170,247,97,239,23,62,246,62,114,159,227,62,227,60,55,222,50,222,89,95,204,55,192,183,200,
-183,203,79,195,111,158,95,133,223,67,127,35,255,100,255,122,255,209,0,167,128,37,1,103,3,137,129,65,129,91,2,251,248,122,124,33,191,142,63,58,219,101,246,178,217,237,65,140,160,185,65,21,65,143,130,173,130,229,193,173,33,104,200,236,144,173,33,247,231,
-152,206,145,206,105,14,133,80,126,232,214,208,7,97,230,97,139,195,126,12,39,133,135,133,87,134,63,142,112,136,88,26,209,49,151,53,119,209,220,67,115,223,68,250,68,150,68,222,155,103,49,79,57,175,45,74,53,42,62,170,46,106,60,218,55,186,52,186,63,198,46,
-102,89,204,213,88,157,88,73,108,75,28,57,46,42,174,54,110,108,190,223,252,237,243,135,226,157,226,11,227,123,23,152,47,200,93,112,121,161,206,194,244,133,167,22,169,46,18,44,58,150,64,76,136,78,56,148,240,65,16,42,168,22,140,37,242,19,119,37,142,10,121,
-194,29,194,103,34,47,209,54,209,136,216,67,92,42,30,78,242,72,42,77,122,146,236,145,188,53,121,36,197,51,165,44,229,185,132,39,169,144,188,76,13,76,221,155,58,158,22,154,118,32,109,50,61,58,189,49,131,146,145,144,113,66,170,33,77,147,182,103,234,103,
-230,102,118,203,172,101,133,178,254,197,110,139,183,47,30,149,7,201,107,179,144,172,5,89,45,10,182,66,166,232,84,90,40,215,42,7,178,103,101,87,102,191,205,137,202,57,150,171,158,43,205,237,204,179,202,219,144,55,156,239,159,255,237,18,194,18,225,146,
-182,165,134,75,87,45,29,88,230,189,172,106,57,178,60,113,121,219,10,227,21,5,43,134,86,6,172,60,184,138,182,42,109,213,79,171,237,87,151,174,126,189,38,122,77,107,129,94,193,202,130,193,181,1,107,235,11,85,10,229,133,125,235,220,215,237,93,79,88,47,89,
-223,181,97,250,134,157,27,62,21,137,138,174,20,219,23,151,21,127,216,40,220,120,229,27,135,111,202,191,153,220,148,180,169,171,196,185,100,207,102,210,102,233,230,222,45,158,91,14,150,170,151,230,151,14,110,13,217,218,180,13,223,86,180,237,245,246,69,
-219,47,151,205,40,219,187,131,182,67,185,163,191,60,184,188,101,167,201,206,205,59,63,84,164,84,244,84,250,84,54,238,210,221,181,97,215,248,110,209,238,27,123,188,246,52,236,213,219,91,188,247,253,62,201,190,219,85,1,85,77,213,102,213,101,251,73,251,
-179,247,63,174,137,170,233,248,150,251,109,93,173,78,109,113,237,199,3,210,3,253,7,35,14,182,215,185,212,213,29,210,61,84,82,143,214,43,235,71,14,199,31,190,254,157,239,119,45,13,54,13,85,141,156,198,226,35,112,68,121,228,233,247,9,223,247,30,13,58,218,
-118,140,123,172,225,7,211,31,118,29,103,29,47,106,66,154,242,154,70,155,83,154,251,91,98,91,186,79,204,62,209,214,234,222,122,252,71,219,31,15,156,52,60,89,121,74,243,84,201,105,218,233,130,211,147,103,242,207,140,157,149,157,125,126,46,249,220,96,219,
-162,182,123,231,99,206,223,106,15,111,239,186,16,116,225,210,69,255,139,231,59,188,59,206,92,242,184,116,242,178,219,229,19,87,184,87,154,175,58,95,109,234,116,234,60,254,147,211,79,199,187,156,187,154,174,185,92,107,185,238,122,189,181,123,102,247,233,
-27,158,55,206,221,244,189,121,241,22,255,214,213,158,57,61,221,189,243,122,111,247,197,247,245,223,22,221,126,114,39,253,206,203,187,217,119,39,238,173,188,79,188,95,244,64,237,65,217,67,221,135,213,63,91,254,220,216,239,220,127,106,192,119,160,243,209,
-220,71,247,6,133,131,207,254,145,245,143,15,67,5,143,153,143,203,134,13,134,235,158,56,62,57,57,226,63,114,253,233,252,167,67,207,100,207,38,158,23,254,162,254,203,174,23,22,47,126,248,213,235,215,206,209,152,209,161,151,242,151,147,191,109,124,165,253,
-234,192,235,25,175,219,198,194,198,30,190,201,120,51,49,94,244,86,251,237,193,119,220,119,29,239,163,223,15,79,228,124,32,127,40,255,104,249,177,245,83,208,167,251,147,25,147,147,255,4,3,152,243,252,99,51,45,219,0,0,67,199,105,84,88,116,88,77,76,58,99,
-111,109,46,97,100,111,98,101,46,120,109,112,0,0,0,0,0,60,63,120,112,97,99,107,101,116,32,98,101,103,105,110,61,34,239,187,191,34,32,105,100,61,34,87,53,77,48,77,112,67,101,104,105,72,122,114,101,83,122,78,84,99,122,107,99,57,100,34,63,62,10,60,120,58,
-120,109,112,109,101,116,97,32,120,109,108,110,115,58,120,61,34,97,100,111,98,101,58,110,115,58,109,101,116,97,47,34,32,120,58,120,109,112,116,107,61,34,65,100,111,98,101,32,88,77,80,32,67,111,114,101,32,53,46,54,45,99,49,49,49,32,55,57,46,49,53,56,51,
-50,53,44,32,50,48,49,53,47,48,57,47,49,48,45,48,49,58,49,48,58,50,48,32,32,32,32,32,32,32,32,34,62,10,32,32,32,60,114,100,102,58,82,68,70,32,120,109,108,110,115,58,114,100,102,61,34,104,116,116,112,58,47,47,119,119,119,46,119,51,46,111,114,103,47,49,
-57,57,57,47,48,50,47,50,50,45,114,100,102,45,115,121,110,116,97,120,45,110,115,35,34,62,10,32,32,32,32,32,32,60,114,100,102,58,68,101,115,99,114,105,112,116,105,111,110,32,114,100,102,58,97,98,111,117,116,61,34,34,10,32,32,32,32,32,32,32,32,32,32,32,
-32,120,109,108,110,115,58,120,109,112,61,34,104,116,116,112,58,47,47,110,115,46,97,100,111,98,101,46,99,111,109,47,120,97,112,47,49,46,48,47,34,10,32,32,32,32,32,32,32,32,32,32,32,32,120,109,108,110,115,58,100,99,61,34,104,116,116,112,58,47,47,112,117,
-114,108,46,111,114,103,47,100,99,47,101,108,101,109,101,110,116,115,47,49,46,49,47,34,10,32,32,32,32,32,32,32,32,32,32,32,32,120,109,108,110,115,58,120,109,112,77,77,61,34,104,116,116,112,58,47,47,110,115,46,97,100,111,98,101,46,99,111,109,47,120,97,
-112,47,49,46,48,47,109,109,47,34,10,32,32,32,32,32,32,32,32,32,32,32,32,120,109,108,110,115,58,115,116,69,118,116,61,34,104,116,116,112,58,47,47,110,115,46,97,100,111,98,101,46,99,111,109,47,120,97,112,47,49,46,48,47,115,84,121,112,101,47,82,101,115,
-111,117,114,99,101,69,118,101,110,116,35,34,10,32,32,32,32,32,32,32,32,32,32,32,32,120,109,108,110,115,58,115,116,82,101,102,61,34,104,116,116,112,58,47,47,110,115,46,97,100,111,98,101,46,99,111,109,47,120,97,112,47,49,46,48,47,115,84,121,112,101,47,
-82,101,115,111,117,114,99,101,82,101,102,35,34,10,32,32,32,32,32,32,32,32,32,32,32,32,120,109,108,110,115,58,112,104,111,116,111,115,104,111,112,61,34,104,116,116,112,58,47,47,110,115,46,97,100,111,98,101,46,99,111,109,47,112,104,111,116,111,115,104,
-111,112,47,49,46,48,47,34,10,32,32,32,32,32,32,32,32,32,32,32,32,120,109,108,110,115,58,116,105,102,102,61,34,104,116,116,112,58,47,47,110,115,46,97,100,111,98,101,46,99,111,109,47,116,105,102,102,47,49,46,48,47,34,10,32,32,32,32,32,32,32,32,32,32,32,
-32,120,109,108,110,115,58,101,120,105,102,61,34,104,116,116,112,58,47,47,110,115,46,97,100,111,98,101,46,99,111,109,47,101,120,105,102,47,49,46,48,47,34,62,10,32,32,32,32,32,32,32,32,32,60,120,109,112,58,67,114,101,97,116,111,114,84,111,111,108,62,65,
-100,111,98,101,32,80,104,111,116,111,115,104,111,112,32,67,67,32,50,48,49,53,32,40,87,105,110,100,111,119,115,41,60,47,120,109,112,58,67,114,101,97,116,111,114,84,111,111,108,62,10,32,32,32,32,32,32,32,32,32,60,120,109,112,58,67,114,101,97,116,101,68,
-97,116,101,62,50,48,49,54,45,49,48,45,50,53,84,50,49,58,48,52,58,51,49,43,48,50,58,48,48,60,47,120,109,112,58,67,114,101,97,116,101,68,97,116,101,62,10,32,32,32,32,32,32,32,32,32,60,120,109,112,58,77,101,116,97,100,97,116,97,68,97,116,101,62,50,48,49,
-54,45,49,49,45,48,53,84,49,53,58,48,52,58,48,50,43,48,49,58,48,48,60,47,120,109,112,58,77,101,116,97,100,97,116,97,68,97,116,101,62,10,32,32,32,32,32,32,32,32,32,60,120,109,112,58,77,111,100,105,102,121,68,97,116,101,62,50,48,49,54,45,49,49,45,48,53,
-84,49,53,58,48,52,58,48,50,43,48,49,58,48,48,60,47,120,109,112,58,77,111,100,105,102,121,68,97,116,101,62,10,32,32,32,32,32,32,32,32,32,60,100,99,58,102,111,114,109,97,116,62,105,109,97,103,101,47,112,110,103,60,47,100,99,58,102,111,114,109,97,116,62,
-10,32,32,32,32,32,32,32,32,32,60,120,109,112,77,77,58,73,110,115,116,97,110,99,101,73,68,62,120,109,112,46,105,105,100,58,54,52,49,52,57,98,97,97,45,56,51,98,53,45,57,56,52,98,45,98,50,97,97,45,52,97,51,54,98,99,101,57,56,49,51,101,60,47,120,109,112,
-77,77,58,73,110,115,116,97,110,99,101,73,68,62,10,32,32,32,32,32,32,32,32,32,60,120,109,112,77,77,58,68,111,99,117,109,101,110,116,73,68,62,97,100,111,98,101,58,100,111,99,105,100,58,112,104,111,116,111,115,104,111,112,58,97,102,49,53,57,48,98,55,45,
-97,51,54,48,45,49,49,101,54,45,97,57,97,99,45,57,56,102,49,101,52,101,101,101,98,100,53,60,47,120,109,112,77,77,58,68,111,99,117,109,101,110,116,73,68,62,10,32,32,32,32,32,32,32,32,32,60,120,109,112,77,77,58,79,114,105,103,105,110,97,108,68,111,99,117,
-109,101,110,116,73,68,62,120,109,112,46,100,105,100,58,52,53,100,54,101,56,51,55,45,54,97,101,102,45,51,53,52,50,45,97,55,57,52,45,102,51,100,53,48,55,54,54,100,49,97,57,60,47,120,109,112,77,77,58,79,114,105,103,105,110,97,108,68,111,99,117,109,101,110,
-116,73,68,62,10,32,32,32,32,32,32,32,32,32,60,120,109,112,77,77,58,72,105,115,116,111,114,121,62,10,32,32,32,32,32,32,32,32,32,32,32,32,60,114,100,102,58,83,101,113,62,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,60,114,100,102,58,108,105,32,114,100,
-102,58,112,97,114,115,101,84,121,112,101,61,34,82,101,115,111,117,114,99,101,34,62,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,60,115,116,69,118,116,58,97,99,116,105,111,110,62,99,114,101,97,116,101,100,60,47,115,116,69,118,116,58,97,99,
-116,105,111,110,62,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,60,115,116,69,118,116,58,105,110,115,116,97,110,99,101,73,68,62,120,109,112,46,105,105,100,58,52,53,100,54,101,56,51,55,45,54,97,101,102,45,51,53,52,50,45,97,55,57,52,45,102,
-51,100,53,48,55,54,54,100,49,97,57,60,47,115,116,69,118,116,58,105,110,115,116,97,110,99,101,73,68,62,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,60,115,116,69,118,116,58,119,104,101,110,62,50,48,49,54,45,49,48,45,50,53,84,50,49,58,48,52,
-58,51,49,43,48,50,58,48,48,60,47,115,116,69,118,116,58,119,104,101,110,62,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,60,115,116,69,118,116,58,115,111,102,116,119,97,114,101,65,103,101,110,116,62,65,100,111,98,101,32,80,104,111,116,111,115,
-104,111,112,32,67,67,32,50,48,49,53,32,40,87,105,110,100,111,119,115,41,60,47,115,116,69,118,116,58,115,111,102,116,119,97,114,101,65,103,101,110,116,62,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,60,47,114,100,102,58,108,105,62,10,32,32,32,32,32,
-32,32,32,32,32,32,32,32,32,32,60,114,100,102,58,108,105,32,114,100,102,58,112,97,114,115,101,84,121,112,101,61,34,82,101,115,111,117,114,99,101,34,62,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,60,115,116,69,118,116,58,97,99,116,105,111,
-110,62,115,97,118,101,100,60,47,115,116,69,118,116,58,97,99,116,105,111,110,62,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,60,115,116,69,118,116,58,105,110,115,116,97,110,99,101,73,68,62,120,109,112,46,105,105,100,58,53,55,55,99,97,50,56,
-48,45,56,49,53,51,45,99,49,52,99,45,97,52,53,101,45,99,102,99,100,102,54,50,98,50,56,50,99,60,47,115,116,69,118,116,58,105,110,115,116,97,110,99,101,73,68,62,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,60,115,116,69,118,116,58,119,104,101,
-110,62,50,48,49,54,45,49,48,45,50,53,84,50,49,58,48,55,58,53,53,43,48,50,58,48,48,60,47,115,116,69,118,116,58,119,104,101,110,62,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,60,115,116,69,118,116,58,115,111,102,116,119,97,114,101,65,103,101,
-110,116,62,65,100,111,98,101,32,80,104,111,116,111,115,104,111,112,32,67,67,32,50,48,49,53,32,40,87,105,110,100,111,119,115,41,60,47,115,116,69,118,116,58,115,111,102,116,119,97,114,101,65,103,101,110,116,62,10,32,32,32,32,32,32,32,32,32,32,32,32,32,
-32,32,32,32,32,60,115,116,69,118,116,58,99,104,97,110,103,101,100,62,47,60,47,115,116,69,118,116,58,99,104,97,110,103,101,100,62,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,60,47,114,100,102,58,108,105,62,10,32,32,32,32,32,32,32,32,32,32,32,32,32,
-32,32,60,114,100,102,58,108,105,32,114,100,102,58,112,97,114,115,101,84,121,112,101,61,34,82,101,115,111,117,114,99,101,34,62,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,60,115,116,69,118,116,58,97,99,116,105,111,110,62,115,97,118,101,100,
-60,47,115,116,69,118,116,58,97,99,116,105,111,110,62,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,60,115,116,69,118,116,58,105,110,115,116,97,110,99,101,73,68,62,120,109,112,46,105,105,100,58,100,97,56,53,100,101,98,102,45,100,102,98,102,
-45,53,52,52,55,45,57,99,55,100,45,51,51,56,98,99,53,57,99,49,100,55,100,60,47,115,116,69,118,116,58,105,110,115,116,97,110,99,101,73,68,62,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,60,115,116,69,118,116,58,119,104,101,110,62,50,48,49,54,
-45,49,49,45,48,53,84,49,53,58,48,52,58,48,50,43,48,49,58,48,48,60,47,115,116,69,118,116,58,119,104,101,110,62,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,60,115,116,69,118,116,58,115,111,102,116,119,97,114,101,65,103,101,110,116,62,65,100,
-111,98,101,32,80,104,111,116,111,115,104,111,112,32,67,67,32,50,48,49,53,32,40,87,105,110,100,111,119,115,41,60,47,115,116,69,118,116,58,115,111,102,116,119,97,114,101,65,103,101,110,116,62,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,60,
-115,116,69,118,116,58,99,104,97,110,103,101,100,62,47,60,47,115,116,69,118,116,58,99,104,97,110,103,101,100,62,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,60,47,114,100,102,58,108,105,62,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,60,114,100,
-102,58,108,105,32,114,100,102,58,112,97,114,115,101,84,121,112,101,61,34,82,101,115,111,117,114,99,101,34,62,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,60,115,116,69,118,116,58,97,99,116,105,111,110,62,99,111,110,118,101,114,116,101,100,
-60,47,115,116,69,118,116,58,97,99,116,105,111,110,62,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,60,115,116,69,118,116,58,112,97,114,97,109,101,116,101,114,115,62,102,114,111,109,32,97,112,112,108,105,99,97,116,105,111,110,47,118,110,100,
-46,97,100,111,98,101,46,112,104,111,116,111,115,104,111,112,32,116,111,32,105,109,97,103,101,47,112,110,103,60,47,115,116,69,118,116,58,112,97,114,97,109,101,116,101,114,115,62,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,60,47,114,100,102,58,108,
-105,62,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,60,114,100,102,58,108,105,32,114,100,102,58,112,97,114,115,101,84,121,112,101,61,34,82,101,115,111,117,114,99,101,34,62,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,60,115,116,69,118,
-116,58,97,99,116,105,111,110,62,100,101,114,105,118,101,100,60,47,115,116,69,118,116,58,97,99,116,105,111,110,62,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,60,115,116,69,118,116,58,112,97,114,97,109,101,116,101,114,115,62,99,111,110,118,
-101,114,116,101,100,32,102,114,111,109,32,97,112,112,108,105,99,97,116,105,111,110,47,118,110,100,46,97,100,111,98,101,46,112,104,111,116,111,115,104,111,112,32,116,111,32,105,109,97,103,101,47,112,110,103,60,47,115,116,69,118,116,58,112,97,114,97,109,
-101,116,101,114,115,62,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,60,47,114,100,102,58,108,105,62,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,60,114,100,102,58,108,105,32,114,100,102,58,112,97,114,115,101,84,121,112,101,61,34,82,101,115,111,
-117,114,99,101,34,62,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,60,115,116,69,118,116,58,97,99,116,105,111,110,62,115,97,118,101,100,60,47,115,116,69,118,116,58,97,99,116,105,111,110,62,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,
-32,32,60,115,116,69,118,116,58,105,110,115,116,97,110,99,101,73,68,62,120,109,112,46,105,105,100,58,54,52,49,52,57,98,97,97,45,56,51,98,53,45,57,56,52,98,45,98,50,97,97,45,52,97,51,54,98,99,101,57,56,49,51,101,60,47,115,116,69,118,116,58,105,110,115,
-116,97,110,99,101,73,68,62,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,60,115,116,69,118,116,58,119,104,101,110,62,50,48,49,54,45,49,49,45,48,53,84,49,53,58,48,52,58,48,50,43,48,49,58,48,48,60,47,115,116,69,118,116,58,119,104,101,110,62,
-10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,60,115,116,69,118,116,58,115,111,102,116,119,97,114,101,65,103,101,110,116,62,65,100,111,98,101,32,80,104,111,116,111,115,104,111,112,32,67,67,32,50,48,49,53,32,40,87,105,110,100,111,119,115,41,
-60,47,115,116,69,118,116,58,115,111,102,116,119,97,114,101,65,103,101,110,116,62,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,60,115,116,69,118,116,58,99,104,97,110,103,101,100,62,47,60,47,115,116,69,118,116,58,99,104,97,110,103,101,100,62,
-10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,60,47,114,100,102,58,108,105,62,10,32,32,32,32,32,32,32,32,32,32,32,32,60,47,114,100,102,58,83,101,113,62,10,32,32,32,32,32,32,32,32,32,60,47,120,109,112,77,77,58,72,105,115,116,111,114,121,62,10,32,32,
-32,32,32,32,32,32,32,60,120,109,112,77,77,58,68,101,114,105,118,101,100,70,114,111,109,32,114,100,102,58,112,97,114,115,101,84,121,112,101,61,34,82,101,115,111,117,114,99,101,34,62,10,32,32,32,32,32,32,32,32,32,32,32,32,60,115,116,82,101,102,58,105,110,
-115,116,97,110,99,101,73,68,62,120,109,112,46,105,105,100,58,100,97,56,53,100,101,98,102,45,100,102,98,102,45,53,52,52,55,45,57,99,55,100,45,51,51,56,98,99,53,57,99,49,100,55,100,60,47,115,116,82,101,102,58,105,110,115,116,97,110,99,101,73,68,62,10,32,
-32,32,32,32,32,32,32,32,32,32,32,60,115,116,82,101,102,58,100,111,99,117,109,101,110,116,73,68,62,97,100,111,98,101,58,100,111,99,105,100,58,112,104,111,116,111,115,104,111,112,58,101,53,52,49,100,50,55,52,45,97,50,57,100,45,49,49,101,54,45,57,97,55,
-54,45,102,53,100,51,57,101,100,50,52,100,101,101,60,47,115,116,82,101,102,58,100,111,99,117,109,101,110,116,73,68,62,10,32,32,32,32,32,32,32,32,32,32,32,32,60,115,116,82,101,102,58,111,114,105,103,105,110,97,108,68,111,99,117,109,101,110,116,73,68,62,
-120,109,112,46,100,105,100,58,52,53,100,54,101,56,51,55,45,54,97,101,102,45,51,53,52,50,45,97,55,57,52,45,102,51,100,53,48,55,54,54,100,49,97,57,60,47,115,116,82,101,102,58,111,114,105,103,105,110,97,108,68,111,99,117,109,101,110,116,73,68,62,10,32,32,
-32,32,32,32,32,32,32,60,47,120,109,112,77,77,58,68,101,114,105,118,101,100,70,114,111,109,62,10,32,32,32,32,32,32,32,32,32,60,112,104,111,116,111,115,104,111,112,58,67,111,108,111,114,77,111,100,101,62,51,60,47,112,104,111,116,111,115,104,111,112,58,
-67,111,108,111,114,77,111,100,101,62,10,32,32,32,32,32,32,32,32,32,60,112,104,111,116,111,115,104,111,112,58,73,67,67,80,114,111,102,105,108,101,62,115,82,71,66,32,73,69,67,54,49,57,54,54,45,50,46,49,60,47,112,104,111,116,111,115,104,111,112,58,73,67,
-67,80,114,111,102,105,108,101,62,10,32,32,32,32,32,32,32,32,32,60,112,104,111,116,111,115,104,111,112,58,84,101,120,116,76,97,121,101,114,115,62,10,32,32,32,32,32,32,32,32,32,32,32,32,60,114,100,102,58,66,97,103,62,10,32,32,32,32,32,32,32,32,32,32,32,
-32,32,32,32,60,114,100,102,58,108,105,32,114,100,102,58,112,97,114,115,101,84,121,112,101,61,34,82,101,115,111,117,114,99,101,34,62,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,60,112,104,111,116,111,115,104,111,112,58,76,97,121,101,114,78,
-97,109,101,62,65,73,82,60,47,112,104,111,116,111,115,104,111,112,58,76,97,121,101,114,78,97,109,101,62,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,60,112,104,111,116,111,115,104,111,112,58,76,97,121,101,114,84,101,120,116,62,65,73,82,60,
-47,112,104,111,116,111,115,104,111,112,58,76,97,121,101,114,84,101,120,116,62,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,60,47,114,100,102,58,108,105,62,10,32,32,32,32,32,32,32,32,32,32,32,32,60,47,114,100,102,58,66,97,103,62,10,32,32,32,32,32,32,
-32,32,32,60,47,112,104,111,116,111,115,104,111,112,58,84,101,120,116,76,97,121,101,114,115,62,10,32,32,32,32,32,32,32,32,32,60,112,104,111,116,111,115,104,111,112,58,68,111,99,117,109,101,110,116,65,110,99,101,115,116,111,114,115,62,10,32,32,32,32,32,
-32,32,32,32,32,32,32,60,114,100,102,58,66,97,103,62,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,60,114,100,102,58,108,105,62,97,100,111,98,101,58,100,111,99,105,100,58,112,104,111,116,111,115,104,111,112,58,52,52,102,52,50,56,99,101,45,97,51,53,51,
-45,49,49,101,54,45,56,99,51,56,45,101,51,55,50,48,100,51,53,97,51,57,101,60,47,114,100,102,58,108,105,62,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,60,114,100,102,58,108,105,62,97,100,111,98,101,58,100,111,99,105,100,58,112,104,111,116,111,115,104,
-111,112,58,57,57,99,48,50,55,50,55,45,97,50,57,99,45,49,49,101,54,45,57,97,55,54,45,102,53,100,51,57,101,100,50,52,100,101,101,60,47,114,100,102,58,108,105,62,10,32,32,32,32,32,32,32,32,32,32,32,32,60,47,114,100,102,58,66,97,103,62,10,32,32,32,32,32,
-32,32,32,32,60,47,112,104,111,116,111,115,104,111,112,58,68,111,99,117,109,101,110,116,65,110,99,101,115,116,111,114,115,62,10,32,32,32,32,32,32,32,32,32,60,116,105,102,102,58,79,114,105,101,110,116,97,116,105,111,110,62,49,60,47,116,105,102,102,58,79,
-114,105,101,110,116,97,116,105,111,110,62,10,32,32,32,32,32,32,32,32,32,60,116,105,102,102,58,88,82,101,115,111,108,117,116,105,111,110,62,55,50,48,48,48,48,47,49,48,48,48,48,60,47,116,105,102,102,58,88,82,101,115,111,108,117,116,105,111,110,62,10,32,
-32,32,32,32,32,32,32,32,60,116,105,102,102,58,89,82,101,115,111,108,117,116,105,111,110,62,55,50,48,48,48,48,47,49,48,48,48,48,60,47,116,105,102,102,58,89,82,101,115,111,108,117,116,105,111,110,62,10,32,32,32,32,32,32,32,32,32,60,116,105,102,102,58,82,
-101,115,111,108,117,116,105,111,110,85,110,105,116,62,50,60,47,116,105,102,102,58,82,101,115,111,108,117,116,105,111,110,85,110,105,116,62,10,32,32,32,32,32,32,32,32,32,60,101,120,105,102,58,67,111,108,111,114,83,112,97,99,101,62,49,60,47,101,120,105,
-102,58,67,111,108,111,114,83,112,97,99,101,62,10,32,32,32,32,32,32,32,32,32,60,101,120,105,102,58,80,105,120,101,108,88,68,105,109,101,110,115,105,111,110,62,49,51,48,60,47,101,120,105,102,58,80,105,120,101,108,88,68,105,109,101,110,115,105,111,110,62,
-10,32,32,32,32,32,32,32,32,32,60,101,120,105,102,58,80,105,120,101,108,89,68,105,109,101,110,115,105,111,110,62,49,51,48,60,47,101,120,105,102,58,80,105,120,101,108,89,68,105,109,101,110,115,105,111,110,62,10,32,32,32,32,32,32,60,47,114,100,102,58,68,
-101,115,99,114,105,112,116,105,111,110,62,10,32,32,32,60,47,114,100,102,58,82,68,70,62,10,60,47,120,58,120,109,112,109,101,116,97,62,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,
-32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,
-32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,10,32,32,32,32,
-32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,
-32,32,32,32,32,32,32,32,32,32,32,32,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,
-32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,
-32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,
-32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,
-32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,10,32,32,32,
-32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,
-32,32,32,32,32,32,32,32,32,32,32,32,32,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,
-32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,
-32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,
-32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,
-32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,10,32,32,
-32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,
-32,32,32,32,32,32,32,32,32,32,32,32,32,32,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,
-32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,
-32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,
-32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,
-32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,10,32,
-32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,
-32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,
-32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,
-32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,
-32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,
-32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,10,
-32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,
-32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,
-32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,
-32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,
-32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,
-32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,
-10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,
-32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,
-32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,
-32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,
-32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,
-32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,
-32,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,
-32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,
-32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,
-32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,
-32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,
-32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,
-32,32,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,
-32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,
-32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,
-32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,
-32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,10,32,32,32,32,32,32,32,32,32,32,32,32,32,
-32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,
-32,32,32,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,
-32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,
-32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,
-32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,
-32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,10,32,32,32,32,32,32,32,32,32,32,32,32,
-32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,
-32,32,32,32,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,
-32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,
-32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,
-32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,
-32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,10,32,32,32,32,32,32,32,32,32,32,32,
-32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,
-32,32,32,32,32,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,
-32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,
-32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,
-32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,
-32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,10,32,32,32,32,32,32,32,32,32,32,
-32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,
-32,32,32,32,32,32,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,
-32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,
-32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,
-32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,
-32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,10,32,32,32,32,32,32,32,32,32,
-32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,
-32,32,32,32,32,32,32,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,
-32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,
-32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,
-32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,
-32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,10,32,32,32,32,32,32,32,32,
-32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,
-32,32,32,32,32,32,32,32,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,
-32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,
-32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,
-32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,
-32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,10,32,32,32,32,32,32,32,
-32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,
-32,32,32,32,32,32,32,32,32,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,
-32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,
-32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,
-32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,
-32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,10,32,32,32,32,32,32,
-32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,
-32,32,32,32,32,32,32,32,32,32,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,
-32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,
-32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,
-32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,
-32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,10,32,32,32,32,32,
-32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,
-32,32,32,32,32,32,32,32,32,32,32,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,
-32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,
-32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,
-32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,
-32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,10,32,32,32,32,
-32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,
-32,32,32,32,32,32,32,32,32,32,32,32,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,
-32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,
-32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,
-32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,
-32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,10,32,32,32,
-32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,
-32,32,32,32,32,32,32,32,32,32,32,32,32,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,
-32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,
-32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,
-32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,
-32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,10,32,32,
-32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,
-32,32,32,32,32,32,32,32,32,32,32,32,32,32,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,
-32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,
-32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,
-32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,
-32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,10,32,
-32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,
-32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,
-32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,
-32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,
-32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,
-32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,10,
-32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,
-32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,
-32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,
-32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,
-32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,
-32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,
-10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,
-32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,
-32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,
-32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,
-32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,
-32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,
-32,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,
-32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,
-32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,
-32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,10,60,63,
-120,112,97,99,107,101,116,32,101,110,100,61,34,119,34,63,62,182,95,29,136,0,0,0,32,99,72,82,77,0,0,122,37,0,0,128,131,0,0,249,255,0,0,128,233,0,0,117,48,0,0,234,96,0,0,58,152,0,0,23,111,146,95,197,70,0,0,42,253,73,68,65,84,120,218,236,157,107,172,117,
-235,85,215,127,255,49,231,122,145,30,17,14,61,20,228,11,208,246,3,144,192,39,161,156,82,130,225,210,150,15,96,213,4,140,9,180,150,42,104,192,75,2,90,136,120,195,112,49,36,96,144,132,187,5,253,32,36,32,130,225,86,136,24,169,165,212,104,34,137,240,161,
-229,162,70,209,22,107,34,5,207,222,107,62,127,63,140,49,158,57,247,105,43,231,244,236,247,125,247,233,89,51,61,93,235,221,123,237,189,215,154,207,120,198,248,143,49,254,227,255,200,54,151,235,114,197,229,22,92,174,139,33,92,174,139,33,92,174,139,33,92,
-174,139,33,92,174,139,33,92,174,139,33,92,174,139,33,92,174,139,33,92,174,139,33,92,174,139,33,92,174,139,33,92,174,139,33,92,174,139,33,92,174,139,33,92,174,139,33,92,174,91,190,214,219,248,37,127,230,171,190,251,174,126,190,5,120,49,240,73,192,39,0,
-31,11,124,12,240,2,224,249,192,7,3,31,82,247,225,12,252,31,224,247,129,223,1,254,39,240,91,192,111,2,191,10,252,10,240,54,96,3,16,112,151,40,61,255,236,91,254,194,195,55,132,167,123,221,199,155,184,0,159,10,124,46,240,25,192,75,128,63,140,201,255,201,
-150,133,49,82,190,7,129,49,103,11,4,31,98,243,71,4,31,9,250,68,68,191,74,245,226,223,5,222,2,252,27,195,27,129,95,110,195,120,122,159,171,254,242,7,154,71,120,186,31,242,150,141,224,4,124,54,240,69,192,23,0,143,98,12,54,249,127,27,216,2,108,25,6,32,219,
-245,181,92,66,201,182,235,141,207,247,151,47,145,246,117,126,30,240,89,160,207,6,255,29,208,187,128,31,7,126,8,248,121,195,245,83,223,10,119,203,56,214,251,179,223,31,200,245,34,224,207,3,175,1,94,224,92,102,3,155,177,65,105,12,78,79,144,70,96,231,75,
-146,168,57,192,8,201,166,28,5,136,220,253,184,63,136,204,252,186,10,87,73,66,216,31,138,244,37,192,171,43,148,188,1,248,30,224,237,119,248,190,221,157,208,240,12,175,79,3,190,26,120,85,109,36,27,159,15,30,192,249,213,49,230,138,155,129,109,100,132,7,
-40,191,33,151,185,40,95,41,96,8,201,96,9,36,100,140,37,43,141,64,218,240,144,211,22,162,220,76,72,60,6,250,106,224,171,128,127,1,124,11,240,230,231,20,88,188,223,88,161,94,247,41,192,223,5,94,89,203,63,234,199,71,239,124,227,1,12,227,129,169,173,78,191,
-46,95,211,166,65,249,16,202,55,8,24,40,189,71,111,79,71,70,18,148,102,98,137,16,38,192,50,142,252,174,194,86,136,50,10,120,21,210,159,2,126,10,248,219,192,91,239,42,54,184,207,134,240,222,62,240,123,126,237,41,98,133,199,12,223,0,188,182,176,221,150,
-254,221,3,103,252,7,6,246,48,12,245,162,51,134,135,12,30,245,119,172,124,157,173,94,233,180,158,246,255,158,97,225,24,26,20,249,114,131,8,123,8,16,86,8,34,33,196,8,80,164,17,40,156,78,37,144,94,1,188,2,248,126,224,107,64,239,124,142,121,4,221,70,12,12,
-224,75,129,111,48,126,62,102,72,222,108,182,94,248,116,247,180,97,108,25,10,108,155,77,249,180,188,129,71,25,222,104,63,224,6,143,202,32,49,17,66,129,199,253,77,59,44,41,19,141,92,244,12,11,14,171,13,65,11,182,16,75,253,174,176,88,176,7,210,34,244,165,
-21,202,190,22,248,190,116,65,119,43,5,187,171,24,225,69,192,15,24,94,170,116,237,103,240,150,14,223,155,203,16,84,95,179,188,9,15,155,161,4,135,99,152,173,12,197,74,244,56,0,39,110,236,101,111,236,8,110,15,96,129,124,48,4,5,25,43,52,80,128,67,68,148,
-247,88,148,11,191,33,66,102,148,113,132,210,8,35,223,15,129,244,40,240,93,5,44,95,253,254,1,202,251,151,130,221,69,67,248,98,224,59,48,143,72,222,58,253,195,222,156,187,126,212,78,223,70,61,50,60,10,31,108,3,134,60,189,193,176,109,167,49,213,46,244,112,
-175,250,40,48,89,113,129,14,1,157,82,38,6,0,36,43,119,189,32,172,33,13,22,164,205,88,72,75,226,6,13,112,128,22,75,33,179,56,131,205,146,217,11,150,121,28,233,63,0,95,1,252,224,115,16,44,254,129,64,233,131,128,111,5,127,185,81,237,118,111,136,49,141,160,
-23,222,101,16,120,96,159,19,27,120,36,48,244,54,210,91,140,244,28,9,38,109,44,49,118,7,80,240,64,5,39,73,135,79,38,146,181,209,103,9,62,96,164,39,200,148,163,240,64,44,137,27,188,9,45,22,27,102,81,61,26,13,217,75,193,208,69,38,44,45,194,207,3,189,161,
-50,160,191,6,60,241,28,50,132,255,175,17,60,6,252,115,204,75,17,91,122,118,182,220,189,222,10,20,14,204,217,140,13,188,85,74,184,101,101,207,155,19,44,110,74,52,183,117,6,81,32,50,33,193,240,72,52,144,22,149,224,241,96,170,51,91,64,32,105,102,11,68,150,
-27,70,32,150,252,22,139,61,130,4,133,11,137,9,22,208,72,3,242,16,26,70,101,4,182,209,82,41,237,146,166,198,151,129,62,9,248,147,192,59,159,35,134,240,62,175,23,2,63,13,188,200,242,144,217,106,157,206,185,208,30,5,254,206,185,184,62,219,237,21,60,31,157,
-158,98,184,158,171,13,96,122,143,74,30,61,83,206,170,60,223,48,214,246,9,85,104,200,226,81,122,129,8,112,96,66,210,50,32,36,5,176,10,109,182,150,131,65,132,164,181,60,129,243,125,201,74,108,18,157,206,26,45,146,95,10,122,115,101,23,191,254,176,82,204,
-135,109,8,159,8,252,28,246,71,90,12,217,91,122,0,111,89,36,162,113,193,217,212,247,240,198,240,57,179,133,113,238,112,97,124,222,189,132,183,145,89,198,72,124,224,12,15,36,152,180,25,116,9,193,93,101,158,158,160,42,76,146,179,238,88,198,176,5,40,144,
-2,23,14,192,33,116,182,89,145,67,104,193,90,145,86,18,56,174,101,132,75,149,172,6,176,162,42,87,230,159,178,228,143,3,253,34,240,57,160,255,244,92,243,8,31,15,252,43,240,99,25,14,188,25,15,227,179,40,151,111,159,177,207,181,243,207,224,51,238,20,210,
-103,60,206,204,231,249,179,13,18,129,205,99,102,24,157,66,142,145,32,192,12,217,5,8,152,37,38,42,75,236,226,81,214,11,80,151,149,21,30,181,235,81,0,75,238,106,109,178,22,195,146,149,203,216,44,214,252,187,26,66,182,100,85,22,131,101,171,222,135,51,76,
-0,47,0,253,2,240,153,100,183,243,57,97,8,47,2,222,8,126,172,227,188,119,64,120,174,221,93,222,96,92,219,236,70,64,25,196,240,57,95,79,253,204,104,227,169,159,43,28,145,153,195,214,149,69,118,47,81,189,167,39,37,227,146,24,153,84,56,189,65,200,18,98,201,
-164,65,75,46,158,218,24,214,140,249,94,176,214,4,186,99,193,218,144,134,204,226,96,224,177,102,104,136,68,34,105,36,105,140,238,230,38,207,71,252,44,240,199,111,45,189,188,195,134,240,17,192,79,27,62,122,130,189,220,249,245,156,179,225,12,227,140,57,
-219,156,177,207,246,56,11,206,246,56,239,248,97,92,167,119,168,215,102,22,177,57,191,63,216,61,203,12,13,5,15,71,161,195,189,140,148,233,157,50,177,204,180,81,86,164,49,56,232,170,33,44,86,44,152,8,188,228,123,137,213,210,138,188,137,216,176,87,66,43,
-150,51,76,200,89,187,142,194,146,114,246,59,111,214,48,171,231,245,209,133,153,94,10,188,227,3,213,16,238,1,63,146,0,177,82,65,230,14,62,132,129,244,0,182,175,119,15,225,107,107,46,120,27,199,117,26,71,254,124,166,113,51,60,20,120,220,65,100,213,15,59,
-76,184,49,130,204,164,41,204,14,100,174,86,104,72,89,37,36,140,22,164,144,183,5,105,25,104,5,133,24,155,208,86,222,97,32,109,12,6,170,250,69,18,32,140,134,133,78,89,205,72,40,42,242,221,170,255,102,62,125,17,226,71,201,246,250,213,7,162,33,124,27,230,
-101,150,55,70,161,253,140,241,189,248,155,115,225,175,203,75,92,207,127,151,49,244,163,237,179,218,72,210,83,108,216,215,163,194,133,201,106,99,61,207,122,66,214,37,50,119,144,198,161,176,56,139,140,201,77,144,170,213,148,117,131,76,251,36,98,177,189,
-32,150,4,134,177,34,175,150,54,28,155,204,230,24,91,1,70,203,49,186,84,101,70,181,198,51,38,37,62,80,194,82,170,219,169,230,201,128,224,211,65,223,6,252,165,15,52,67,248,98,236,47,79,96,200,150,197,151,242,4,25,10,54,231,2,215,98,143,235,250,250,53,195,
-215,144,139,63,31,221,216,97,180,225,180,17,21,176,100,212,191,135,96,184,107,17,89,146,206,252,98,242,22,114,117,202,29,168,122,145,213,91,168,62,2,4,98,69,4,102,181,35,208,182,86,166,112,178,124,182,116,210,208,134,34,91,224,26,67,25,30,12,81,213,206,
-200,146,136,148,127,201,81,118,151,1,34,75,23,174,242,150,191,28,244,75,15,162,2,249,160,12,225,133,192,119,24,117,179,104,184,107,0,89,36,58,99,174,201,140,225,156,11,205,217,246,85,133,134,43,102,152,24,215,237,17,192,215,120,156,109,174,43,84,100,
-136,40,176,89,217,198,24,176,201,213,158,46,99,152,121,194,161,221,100,87,9,169,122,12,69,87,9,73,217,96,178,215,194,13,43,108,11,104,35,235,7,3,98,145,61,172,24,102,12,101,182,48,76,140,238,134,38,189,161,49,98,36,82,137,161,44,79,184,12,47,84,125,241,
-115,165,154,255,8,120,211,253,6,143,15,194,16,4,252,19,195,35,194,91,46,214,49,28,140,27,241,61,189,194,190,219,177,175,96,92,39,13,108,187,98,112,93,198,176,99,7,167,65,84,185,185,241,198,142,63,204,230,163,33,48,177,66,119,29,204,76,31,84,113,58,179,
-5,83,117,3,177,24,157,171,174,176,130,22,57,214,17,172,26,30,146,87,43,6,140,33,199,112,120,228,42,143,42,78,202,16,100,136,136,233,131,114,235,143,238,120,202,182,178,112,105,16,195,232,17,165,71,248,140,91,237,90,62,4,67,248,82,224,113,58,165,203,170,
-222,49,77,60,23,62,184,30,185,235,107,209,71,133,137,209,222,224,170,12,230,170,12,224,202,140,51,195,215,19,83,236,225,99,243,14,60,251,239,117,42,153,32,174,161,34,195,55,108,182,114,196,110,49,103,106,168,69,70,40,22,219,43,214,57,75,205,219,137,17,
-231,108,62,113,146,199,0,141,172,144,70,246,196,34,92,230,102,154,52,235,81,187,159,34,186,40,1,106,19,43,51,139,17,104,83,54,181,30,175,251,248,61,207,82,67,240,243,65,223,52,23,1,186,20,188,145,30,96,27,51,99,32,227,62,245,56,218,8,210,27,216,227,26,
-143,43,83,30,96,248,42,23,126,92,183,103,56,120,137,198,9,93,155,216,108,119,165,49,219,211,71,118,202,44,54,107,207,24,178,65,164,236,32,170,249,5,139,208,53,210,73,214,98,105,147,198,201,214,144,180,89,218,32,78,130,65,131,195,65,118,175,211,232,52,
-28,149,33,72,102,212,242,43,132,132,67,153,142,34,73,91,149,29,71,26,33,223,8,252,40,73,181,127,182,25,130,190,9,120,20,60,43,135,93,55,112,215,2,236,235,172,38,142,153,22,30,118,119,130,196,225,39,234,249,21,35,241,66,99,133,204,36,10,55,84,161,137,
-89,111,168,190,195,168,158,69,177,155,68,119,36,155,221,92,165,132,228,44,202,170,38,19,35,176,178,180,140,22,225,172,36,162,205,104,21,58,27,13,208,102,197,144,113,133,2,15,162,208,159,247,92,145,12,3,38,148,109,136,152,76,105,167,171,8,164,16,200,30,
-202,94,134,183,74,41,31,5,127,51,232,117,207,54,67,248,99,192,107,171,130,86,229,227,247,104,22,157,203,72,206,182,175,149,53,130,92,104,183,55,240,19,204,16,49,174,12,215,102,60,145,6,51,174,236,25,26,174,15,153,196,86,134,51,128,243,168,66,83,133,137,
-110,70,141,42,27,140,228,31,54,31,197,178,139,121,36,34,121,137,138,236,54,198,162,240,226,161,19,161,76,19,211,16,78,9,70,53,32,70,101,42,5,47,134,197,100,197,215,127,153,74,148,233,69,50,169,135,204,18,146,163,184,213,225,180,24,232,175,161,215,34,
-190,19,248,119,207,38,67,248,123,85,189,223,42,16,119,41,57,115,123,119,190,223,21,195,74,25,171,80,84,174,253,138,49,206,134,43,134,175,10,31,164,129,216,87,109,8,135,236,225,10,198,217,227,80,91,184,81,93,236,214,118,17,94,171,53,216,188,148,217,116,
-18,97,163,204,16,8,161,37,187,139,99,97,104,1,111,26,90,173,56,1,155,192,140,49,144,146,10,199,226,238,112,203,85,53,42,206,202,140,70,73,151,174,174,102,49,161,84,0,90,147,54,31,120,100,57,82,105,28,130,175,7,62,239,89,97,8,130,151,24,127,30,86,151,
-122,147,40,146,92,129,115,22,123,216,139,65,227,80,23,168,29,158,187,124,236,225,128,113,85,6,114,197,244,26,101,12,123,246,112,213,21,74,51,54,103,74,122,131,183,80,36,149,236,66,106,100,134,168,236,21,102,62,63,132,147,170,62,50,104,135,173,168,142,
-98,160,88,201,42,98,102,8,104,88,50,142,173,58,216,73,141,8,37,38,21,153,129,122,72,66,131,8,37,201,101,201,223,155,229,235,164,192,57,60,103,39,146,28,235,32,180,123,146,1,122,37,57,193,245,150,155,164,159,59,104,8,134,215,99,13,51,186,19,152,187,112,
-79,225,58,181,235,69,171,180,239,8,252,50,107,232,2,83,61,62,81,6,114,133,189,27,70,26,209,85,225,130,235,39,119,38,15,252,134,98,58,167,49,84,136,120,18,127,149,73,75,175,172,161,240,129,206,217,122,30,27,84,67,105,20,54,16,155,53,238,169,43,135,138,
-28,176,203,45,47,60,68,68,133,130,17,56,228,24,137,5,80,136,37,192,139,241,89,34,140,54,85,202,10,202,170,104,113,47,193,3,233,245,69,102,121,42,164,159,135,102,8,47,6,62,191,24,58,182,198,216,27,64,99,134,4,110,240,14,188,183,156,59,44,152,107,246,133,
-190,170,231,215,120,60,225,78,39,61,174,106,215,39,166,128,89,83,232,118,118,134,137,102,55,29,120,140,98,168,90,79,131,156,96,233,154,191,219,85,103,217,111,201,26,130,43,141,76,35,96,104,100,221,96,27,16,163,194,125,65,14,114,228,37,89,110,61,21,37,
-51,36,34,189,128,181,84,220,88,202,56,22,49,2,98,19,99,67,177,36,166,26,129,34,209,101,22,154,148,247,151,23,147,67,185,119,53,52,248,117,85,41,233,252,61,119,159,189,201,197,59,216,233,103,155,236,109,12,102,182,80,134,113,93,164,147,46,20,93,151,7,
-104,76,112,229,174,51,100,56,168,239,31,74,209,30,213,119,168,114,115,134,163,109,54,157,70,121,132,226,182,167,83,144,92,213,127,178,167,208,196,212,5,34,100,78,213,128,26,22,91,48,18,28,122,88,138,234,122,135,148,180,233,42,89,15,153,170,28,102,209,
-32,178,13,153,108,39,236,133,208,82,165,246,152,198,97,54,165,57,45,153,113,209,220,199,102,73,189,14,120,253,93,53,132,19,232,53,244,124,89,182,251,55,10,69,187,83,184,221,59,156,177,207,194,215,131,73,60,57,31,26,77,135,140,96,254,151,6,193,184,2,63,
-225,196,17,133,23,124,109,141,89,92,58,144,90,186,193,213,89,195,40,138,187,39,149,149,158,128,147,148,68,148,51,16,153,65,176,192,88,138,100,178,88,218,194,49,134,113,68,38,31,158,252,54,149,39,143,48,67,16,161,236,49,45,73,104,245,34,198,162,180,156,
-69,26,11,237,117,164,77,102,203,118,182,55,96,177,181,213,188,196,70,149,38,235,253,189,6,248,58,158,242,224,237,131,53,132,207,49,126,193,172,243,79,234,185,15,196,147,249,189,115,99,133,193,152,161,33,1,99,122,1,103,254,191,131,71,178,126,112,88,252,
-235,153,110,50,174,212,160,113,175,49,52,14,41,166,210,36,193,14,171,6,100,107,8,122,102,13,153,68,228,220,163,181,40,119,232,154,6,164,1,81,52,180,205,40,108,135,179,177,52,114,207,123,8,133,146,183,88,233,167,29,98,92,23,239,113,201,190,197,88,32,206,
-25,110,188,56,119,254,98,205,9,174,77,82,178,179,161,122,26,30,208,236,38,62,50,169,109,252,212,93,52,132,47,204,182,138,7,147,36,90,143,25,147,135,229,193,168,116,174,58,134,253,193,51,44,140,170,50,250,92,133,162,194,13,227,218,227,176,219,71,135,132,
-198,17,221,163,184,209,169,60,151,49,157,143,140,37,176,61,178,21,93,40,161,59,144,73,73,203,162,146,138,13,29,137,1,8,137,181,26,74,107,143,81,123,18,11,172,164,45,26,198,200,180,211,105,16,68,245,42,236,5,124,173,172,29,156,177,23,219,139,228,53,25,
-77,25,42,133,54,98,146,114,23,146,215,152,88,100,210,246,25,72,95,120,23,13,97,1,190,160,120,194,174,44,202,51,83,24,99,59,16,80,71,147,83,119,170,89,151,134,171,27,201,56,87,39,241,16,30,200,231,213,95,240,24,215,59,64,244,149,247,34,211,217,112,173,
-100,51,29,232,107,179,158,144,232,126,140,49,199,93,71,85,255,241,62,187,144,238,59,208,24,89,80,82,45,6,67,128,199,64,146,106,56,74,213,82,168,208,226,176,71,72,92,101,183,41,174,133,23,52,22,59,86,236,179,164,85,253,222,228,173,140,225,12,94,106,177,
-55,96,83,126,111,73,250,130,170,88,133,73,61,136,14,27,119,193,16,12,232,83,128,15,87,186,124,207,162,141,202,59,168,199,212,52,170,208,51,108,111,233,10,61,100,111,131,164,164,101,120,96,107,154,26,163,185,6,187,113,96,95,163,113,157,45,232,81,5,41,
-95,87,204,188,46,128,117,141,199,118,240,56,57,56,51,187,143,141,14,156,179,211,35,25,170,213,146,12,85,85,49,203,131,181,0,12,207,9,121,119,193,112,130,67,229,76,75,36,40,204,250,192,162,225,107,203,139,228,179,205,42,113,6,175,9,96,181,129,207,178,
-87,242,223,3,229,125,170,238,104,165,164,12,229,44,101,210,88,242,158,62,74,42,196,188,249,142,24,130,0,94,94,224,208,61,68,82,52,173,162,169,147,222,193,135,1,149,29,51,204,197,215,177,198,144,139,62,227,188,224,60,198,228,37,108,140,196,19,59,78,240,
-129,151,80,28,133,157,14,119,150,171,170,168,25,186,14,178,41,110,234,98,20,63,37,167,153,114,128,101,36,215,160,152,200,80,165,145,16,163,172,71,145,3,178,99,9,194,11,140,69,94,214,185,195,25,155,173,179,208,57,189,2,85,84,211,90,213,201,13,245,198,
-200,130,149,84,158,2,109,200,107,241,168,138,231,64,78,81,73,47,191,67,134,0,192,203,122,215,87,167,113,106,23,84,118,182,221,192,14,222,167,149,154,43,208,148,178,206,38,60,170,228,90,161,163,10,70,231,27,133,168,196,4,179,56,213,13,168,230,56,148,1,
-108,170,242,182,247,217,201,244,227,35,41,33,184,31,171,138,231,52,130,34,164,100,51,146,145,5,7,112,146,88,198,117,181,10,162,58,133,161,170,9,0,11,26,231,124,238,5,116,70,94,243,253,168,197,187,86,203,91,192,102,57,201,51,217,37,205,233,238,82,121,
-41,30,93,25,226,129,80,147,24,231,101,119,9,35,44,192,227,53,76,216,61,254,81,60,225,217,228,193,26,104,204,130,206,113,6,65,149,230,85,26,217,101,233,61,211,232,255,50,195,168,176,65,131,192,110,65,95,23,11,122,207,76,26,144,106,122,160,50,2,143,131,
-86,210,205,199,92,208,1,209,164,148,124,187,147,50,128,208,56,203,145,99,243,248,156,249,253,216,196,146,30,72,245,254,228,117,126,190,220,249,99,206,106,170,187,178,26,178,183,84,99,97,75,66,74,78,105,37,107,37,231,35,96,134,168,81,247,220,228,252,228,
-51,198,9,183,165,179,248,98,224,17,221,204,203,93,83,3,206,15,221,242,4,19,32,86,185,57,43,143,221,140,106,226,74,1,190,4,152,186,129,252,207,51,108,184,83,195,177,167,137,30,27,206,176,81,69,169,125,14,162,59,159,71,35,120,175,144,39,121,11,118,253,
-76,61,175,46,233,89,123,171,252,96,140,153,251,183,103,210,62,120,51,103,46,236,177,141,227,52,87,111,4,237,155,70,85,136,43,47,214,44,170,141,30,237,223,249,182,85,194,228,145,186,255,220,5,67,248,164,227,93,116,233,85,204,208,96,134,111,166,147,38,
-171,45,163,60,198,54,73,36,244,34,76,102,209,161,32,84,100,84,31,234,19,251,44,228,96,159,146,58,91,253,115,84,247,115,206,64,62,29,16,236,3,221,190,72,53,69,174,97,134,172,158,200,62,24,230,62,106,103,23,89,247,208,248,210,212,120,168,225,155,38,206,
-84,177,235,160,248,53,202,19,84,74,222,124,199,50,139,41,253,115,188,255,15,215,16,62,190,134,204,221,29,184,93,121,130,81,105,89,171,151,100,133,81,204,137,103,121,28,56,132,237,21,230,28,99,221,208,100,24,221,152,118,242,52,148,49,189,76,15,209,122,
-108,168,121,8,53,233,244,126,167,68,109,4,99,122,176,61,172,141,243,254,30,180,15,213,48,14,110,190,94,239,158,206,158,141,183,44,108,149,170,75,61,159,50,64,204,13,213,175,209,96,86,68,155,26,143,201,241,193,59,97,8,31,139,106,112,203,147,242,211,115,
-68,53,133,222,138,118,165,115,228,250,144,61,150,38,207,98,79,183,174,43,200,76,221,131,242,44,123,71,179,210,170,10,27,115,152,165,177,128,205,86,191,247,153,245,105,115,2,97,236,30,161,119,189,111,118,84,85,238,222,205,193,216,9,49,19,12,51,113,81,
-15,191,180,200,71,101,85,7,13,151,190,31,28,88,215,165,236,80,158,161,129,205,11,239,138,33,124,28,187,24,217,254,198,181,91,115,209,201,167,137,235,168,129,168,249,241,234,198,208,30,165,39,153,119,45,36,177,229,26,184,211,210,94,232,142,253,179,159,
-48,119,225,237,84,74,90,174,111,203,148,152,247,178,168,61,108,107,87,177,108,190,239,2,125,115,241,75,187,99,42,194,49,227,255,252,218,216,71,111,14,178,129,213,18,163,97,107,154,195,199,220,21,67,248,163,222,169,55,85,245,202,182,19,135,226,77,39,63,
-249,33,117,67,246,46,67,68,26,138,246,112,224,67,230,49,118,129,60,109,85,3,176,106,166,177,83,211,52,30,213,239,120,166,140,141,247,80,134,219,180,99,135,27,70,176,167,191,51,199,247,174,237,53,149,25,14,41,181,70,77,184,141,131,17,180,212,235,40,58,
-115,123,157,86,251,244,12,13,110,26,182,0,62,234,174,24,194,163,93,148,153,238,160,7,206,253,100,14,205,4,63,173,94,179,107,32,106,238,12,246,81,49,6,58,222,196,242,38,148,170,154,15,34,89,181,24,158,101,100,141,103,236,7,222,243,159,163,242,227,242,
-16,237,225,230,180,181,117,244,18,170,80,183,215,87,186,128,101,213,208,213,172,110,106,183,156,222,238,197,116,156,86,181,107,136,226,157,97,199,135,223,21,67,248,224,201,202,108,134,166,14,74,168,45,94,187,79,26,234,112,107,231,78,152,190,67,197,34,
-106,164,92,20,129,169,147,185,47,138,45,151,82,218,13,41,180,61,166,222,50,217,162,152,207,85,248,77,3,85,71,60,237,5,107,207,31,168,247,37,185,139,88,197,135,235,149,237,162,219,65,0,180,57,83,7,61,217,155,46,234,176,175,108,82,101,254,225,27,130,224,
-121,115,229,167,66,205,164,130,178,123,248,201,1,176,246,172,226,80,202,201,130,189,59,4,86,99,88,179,101,92,184,195,55,176,199,68,164,199,27,116,191,36,244,123,160,58,183,115,97,156,28,139,233,143,94,24,97,214,80,154,155,177,39,77,52,35,134,30,108,169,
-110,85,203,186,153,93,214,171,230,51,103,177,174,110,201,190,183,84,181,132,135,111,8,134,83,107,17,170,72,225,7,153,115,171,152,219,58,208,132,93,252,29,239,150,62,63,232,132,146,204,146,74,122,71,29,54,133,52,99,228,113,155,136,99,51,233,22,233,184,
-243,111,232,240,23,15,111,125,126,16,77,174,233,244,127,55,100,186,122,254,254,230,238,62,250,251,30,182,153,62,68,71,71,87,20,26,142,90,47,207,188,66,124,91,161,225,186,212,203,111,40,65,73,253,201,15,155,255,70,136,224,120,110,194,252,132,154,55,180,
-127,160,39,144,166,190,209,225,158,236,138,55,236,9,246,13,49,221,219,233,174,62,249,253,207,57,234,14,227,122,79,231,225,195,79,79,53,12,73,58,178,163,166,178,223,12,154,218,93,92,91,133,110,198,189,150,96,234,87,159,239,138,33,252,94,193,125,184,33,
-147,238,227,102,210,17,60,206,168,95,120,200,135,79,181,63,105,57,108,239,91,70,83,214,164,0,246,124,30,125,171,85,76,163,251,18,27,166,227,158,166,89,0,64,45,222,63,247,189,250,185,246,167,117,87,226,198,93,208,238,5,90,186,41,59,154,53,29,231,233,91,
-223,135,31,226,221,119,197,16,126,255,112,159,90,87,160,183,165,230,254,158,62,181,149,8,116,99,219,207,177,225,29,94,74,16,53,49,222,120,116,238,193,36,155,246,48,169,123,227,204,27,201,251,228,121,235,105,135,132,246,113,61,187,222,198,103,235,38,62,
-158,187,91,53,205,36,108,197,92,252,36,60,76,19,216,67,9,153,245,106,143,141,245,76,148,200,194,60,51,226,104,15,186,121,255,31,182,33,188,171,63,145,246,188,96,15,148,133,109,181,239,247,152,70,210,243,96,57,13,158,161,65,245,117,85,2,37,207,161,143,
-57,248,145,68,206,38,154,214,136,90,145,65,180,111,171,167,148,22,62,197,244,113,122,31,181,135,107,123,79,251,176,90,151,49,37,249,74,236,32,14,11,23,115,252,61,207,126,104,227,142,186,7,71,80,112,3,46,207,52,83,251,247,180,123,137,255,117,87,12,225,
-191,239,48,120,58,187,138,213,115,244,47,122,228,188,110,113,20,13,83,205,237,241,238,92,99,74,219,129,32,250,92,132,227,9,42,209,70,84,55,103,26,10,86,24,197,147,80,221,45,68,5,105,26,99,50,81,22,245,104,90,14,163,8,105,169,105,231,152,38,205,110,172,
-101,24,81,86,170,233,65,149,50,126,222,125,103,48,103,31,119,111,116,132,87,169,193,99,128,223,190,43,134,240,155,220,132,116,236,130,36,7,215,173,233,52,162,118,82,148,187,235,27,211,178,247,57,1,148,55,187,207,69,104,62,127,73,222,150,172,205,244,16,
-237,45,20,10,69,121,138,69,53,147,126,11,87,178,146,197,52,182,105,124,234,80,161,165,80,205,141,207,163,30,123,23,113,8,157,123,120,209,52,48,29,126,174,239,230,228,197,245,225,33,7,56,222,238,227,63,223,21,67,248,141,185,222,233,225,26,237,104,199,
-74,229,18,203,149,107,238,118,69,123,129,244,26,234,29,118,112,249,165,119,120,252,90,237,198,28,29,143,69,98,73,57,252,154,69,72,227,58,156,169,240,140,146,199,156,78,110,67,195,65,164,20,111,170,172,165,49,212,231,93,148,90,203,141,11,234,125,105,129,
-150,225,41,5,215,36,148,84,8,153,97,71,53,27,179,27,65,75,40,228,189,216,143,21,218,195,223,219,239,138,33,252,218,177,114,42,115,28,1,111,148,28,154,110,125,162,189,142,169,75,223,40,196,162,60,236,34,14,55,112,105,141,2,136,133,84,59,237,239,173,233,
-150,35,149,206,230,66,40,167,147,232,159,127,255,194,68,27,65,253,205,165,6,92,106,250,41,223,131,67,139,136,181,223,103,190,119,173,234,247,194,52,228,165,13,116,254,222,50,242,2,131,75,109,140,131,151,105,196,57,215,170,240,147,166,146,111,223,255,
-103,114,221,22,85,237,87,110,212,200,212,233,91,139,76,20,90,48,117,15,54,117,156,172,241,174,218,109,115,71,87,140,140,37,69,171,114,247,185,99,114,74,224,151,0,182,2,177,230,180,245,28,2,169,105,231,10,79,154,32,188,59,128,79,213,12,122,44,254,96,80,
-90,36,22,181,65,214,215,74,181,125,45,35,92,43,100,44,40,162,127,110,134,145,156,155,95,234,102,44,236,143,157,145,132,138,17,219,131,184,233,6,34,118,47,209,86,106,64,191,114,87,12,225,109,192,187,49,31,156,55,175,141,96,180,139,43,128,21,1,35,111,66,
-2,186,165,67,130,112,140,157,232,89,55,215,233,126,137,5,143,197,196,2,99,149,84,76,232,216,172,177,150,100,229,66,176,170,219,56,98,215,171,234,209,209,46,218,238,76,37,191,175,156,177,148,215,43,92,149,142,82,42,174,175,16,107,237,248,122,44,113,173,
-244,108,107,29,223,211,50,189,233,73,52,189,217,58,61,26,229,249,90,236,155,10,63,146,102,86,20,25,18,83,6,216,101,28,211,155,11,244,110,240,219,238,138,33,108,192,155,5,159,117,208,32,170,140,160,78,61,113,31,130,149,0,203,154,51,3,113,92,248,118,183,
-201,244,213,106,233,44,123,29,169,116,190,165,236,156,230,100,80,206,35,198,102,198,82,81,104,72,163,79,243,172,194,119,151,232,25,52,47,160,79,84,105,189,254,131,172,201,140,189,45,190,157,26,5,107,123,131,186,111,107,45,244,138,98,149,180,166,103,138,
-246,16,235,52,140,50,10,65,27,64,48,195,95,123,147,26,120,157,158,81,203,1,39,81,217,117,85,20,111,132,214,95,42,189,134,59,97,8,0,111,178,248,28,237,35,193,228,180,143,150,82,95,95,76,4,108,170,93,144,50,247,133,13,236,188,81,166,31,203,197,166,138,
-233,89,57,115,120,54,219,154,108,223,142,203,99,88,140,140,42,77,145,84,169,151,229,65,11,37,138,37,151,36,174,204,200,1,229,61,17,19,58,118,70,163,69,174,166,75,135,53,1,105,46,190,114,241,79,181,195,87,208,42,162,140,65,39,161,117,122,16,41,127,150,
-254,89,149,145,76,236,51,255,78,129,219,101,71,136,58,226,171,120,18,72,4,248,197,91,73,137,110,209,16,126,86,179,136,216,82,163,19,232,76,73,91,53,64,82,27,195,30,99,213,238,183,119,88,3,44,230,141,91,149,138,37,39,164,83,186,225,56,229,205,101,21,90,
-21,115,129,78,10,157,80,172,66,39,34,78,189,107,169,239,31,126,199,90,139,123,66,58,229,66,197,9,105,85,104,141,254,187,138,83,255,87,154,202,43,210,73,161,246,8,253,59,23,164,213,51,116,104,117,121,184,14,23,41,226,29,245,153,10,83,84,120,81,131,228,
-84,115,123,82,198,146,105,40,123,25,253,141,183,177,120,183,233,17,126,25,120,23,240,161,135,78,81,161,223,146,135,113,132,25,203,65,237,60,119,152,11,137,31,36,240,77,172,178,79,86,108,104,108,192,73,236,170,166,56,5,186,170,64,49,250,12,132,196,5,33,
-234,64,134,42,233,164,14,129,34,57,141,98,142,198,207,14,177,246,238,129,243,4,22,69,3,196,153,234,77,131,76,227,11,221,51,113,2,221,179,226,20,101,88,146,210,88,210,176,214,198,23,149,110,182,145,87,136,137,202,20,10,71,244,125,96,175,131,20,136,158,
-37,248,152,197,58,189,139,27,18,58,119,195,16,54,224,199,177,190,164,228,100,99,231,169,168,14,184,240,68,252,66,171,131,51,131,197,137,9,150,220,65,62,99,214,156,1,212,154,179,130,74,90,184,148,28,69,105,160,152,231,51,165,124,98,144,210,117,93,143,
-143,46,9,159,115,162,217,117,2,219,12,15,217,235,207,185,247,210,196,158,149,74,237,25,195,60,196,171,240,64,47,100,123,145,246,6,25,38,68,156,72,227,88,145,78,81,223,75,227,72,111,147,159,63,42,188,80,191,155,194,18,76,224,168,86,115,203,112,57,235,
-40,222,27,20,63,193,45,12,192,222,182,33,0,252,48,226,53,153,210,101,230,144,234,32,5,16,243,240,171,141,206,243,205,138,98,19,99,117,234,26,167,96,165,216,156,146,52,171,24,167,60,32,203,39,91,35,20,54,99,16,12,70,228,12,140,162,40,141,49,7,81,25,4,
-210,181,61,82,255,40,15,10,141,194,91,61,61,180,207,63,238,41,67,212,225,93,51,117,100,175,115,84,166,16,237,230,107,129,227,158,210,75,156,16,21,146,18,39,56,241,194,233,224,9,86,205,240,195,50,127,95,129,67,185,1,169,86,55,184,156,165,245,74,41,61,
-191,246,195,183,181,112,183,109,8,63,7,252,15,137,199,240,172,234,45,117,227,27,248,100,138,104,45,41,32,197,154,82,179,218,80,10,81,215,205,27,152,213,41,120,189,73,229,210,71,228,96,173,70,117,131,23,70,227,211,36,75,131,35,20,41,81,163,12,7,97,43,
-127,71,17,76,83,14,113,178,132,146,241,54,181,145,21,83,143,25,45,14,150,92,160,233,186,19,123,136,83,41,173,222,75,3,142,123,146,238,49,23,63,210,80,66,19,215,180,17,52,136,172,172,98,85,22,196,18,195,164,225,117,150,16,114,135,167,58,131,58,145,237,
-59,110,11,31,220,15,67,184,6,222,0,252,245,174,166,85,55,173,12,194,117,216,149,150,76,31,235,132,52,82,40,34,1,152,243,224,11,199,54,98,156,228,48,30,195,10,231,88,248,176,137,194,2,165,101,152,74,166,213,232,74,249,186,4,87,99,177,117,78,144,154,169,
-102,106,49,59,177,108,105,50,119,207,74,59,249,40,42,239,232,74,97,233,28,113,136,241,154,134,128,56,73,113,15,233,30,17,247,32,159,43,191,126,18,186,151,160,53,102,134,113,168,67,52,38,104,44,49,83,205,174,55,168,235,12,45,220,156,222,224,31,115,75,
-178,57,247,195,16,0,190,23,248,234,102,38,41,211,196,161,66,190,19,4,57,86,195,38,198,130,98,177,182,220,105,244,32,168,134,146,26,238,156,9,136,145,26,86,205,130,140,27,220,159,170,207,71,106,150,68,158,226,170,101,99,140,150,190,57,59,61,73,209,200,
-147,66,238,93,4,175,185,4,93,29,93,50,68,103,213,79,93,51,200,221,122,154,169,98,198,254,123,229,226,79,80,94,65,106,227,168,76,162,51,138,61,51,105,79,161,67,216,152,134,119,35,229,36,246,50,249,108,224,126,239,109,46,218,253,48,132,183,129,126,2,248,
-252,74,115,92,101,230,69,214,102,121,169,137,224,69,40,227,191,25,5,8,71,166,102,35,207,57,240,33,43,232,211,184,178,111,85,205,249,160,199,40,165,37,106,52,34,208,184,198,90,176,55,34,22,193,230,49,22,5,35,15,113,61,214,18,124,236,242,139,73,11,218,
-171,158,165,149,176,84,109,96,57,224,131,114,235,141,19,116,47,189,131,78,21,34,210,75,144,233,102,26,77,165,139,153,246,86,86,209,222,32,22,164,147,165,37,14,216,164,192,162,180,119,58,127,130,91,148,214,187,95,134,0,240,141,136,47,168,78,226,16,46,
-217,25,214,61,5,100,45,209,135,122,140,145,83,207,195,57,62,239,161,136,210,58,74,181,243,52,0,142,66,34,217,192,202,179,219,82,143,80,35,24,177,128,175,19,115,120,193,30,138,216,114,28,157,26,54,45,145,93,237,140,47,77,150,148,58,245,213,94,58,102,111,
-102,237,117,142,211,172,55,72,247,106,113,247,199,80,134,133,40,131,104,3,105,35,234,180,146,189,92,221,30,200,249,59,247,98,82,214,28,186,215,240,205,183,189,96,247,203,16,222,2,252,140,224,229,73,16,241,40,173,225,72,45,99,213,40,120,86,6,167,2,72,
-2,185,20,128,112,56,181,33,40,58,120,84,5,48,21,11,131,20,177,46,201,220,32,178,92,109,43,20,46,161,170,113,78,16,154,51,137,145,186,5,57,9,53,21,93,84,138,253,147,105,203,228,10,168,203,221,179,192,179,236,77,165,189,178,152,128,48,238,169,189,3,241,
-65,109,4,93,164,106,175,0,187,55,80,167,153,209,216,161,178,146,27,189,136,3,147,41,27,108,63,203,45,40,164,60,40,67,0,248,91,72,175,72,13,33,53,41,189,70,123,212,131,173,35,119,91,148,90,89,140,212,40,138,145,149,227,48,26,198,145,202,200,131,116,50,
-225,18,184,30,201,89,140,8,165,207,175,86,116,30,249,35,45,107,74,245,105,32,234,176,175,154,56,138,28,61,113,106,221,218,173,185,90,58,204,123,137,153,32,14,221,71,205,240,112,154,85,80,56,193,1,3,192,61,53,70,64,247,18,44,118,214,16,247,160,195,7,123,
-211,106,26,90,23,215,104,15,80,159,105,50,178,190,238,126,44,214,253,52,132,183,2,223,47,243,218,62,72,51,21,202,168,163,112,154,157,150,108,254,200,211,56,157,253,168,49,38,21,180,15,52,81,100,38,57,137,172,35,76,68,201,219,38,6,145,175,109,47,54,75,
-80,18,182,210,58,101,122,82,51,97,104,142,239,51,91,146,205,158,171,14,223,206,145,204,231,7,36,31,139,50,197,219,139,75,138,198,11,247,52,203,215,25,30,20,251,227,110,16,149,86,54,70,200,108,34,235,14,89,18,95,118,3,208,129,164,195,247,215,125,125,86,
-25,2,192,235,145,94,133,253,97,133,122,115,241,75,7,192,53,0,170,60,65,213,68,73,119,235,56,68,18,61,24,156,28,32,47,74,173,140,144,24,97,47,33,249,186,75,215,194,171,240,217,74,237,36,51,245,11,71,213,18,122,54,177,15,214,168,227,247,116,152,218,211,
-222,134,110,165,244,201,135,184,209,106,62,77,239,128,78,142,238,123,232,30,196,170,208,61,136,123,10,78,74,47,113,207,138,53,208,201,133,51,18,104,178,170,1,99,183,211,39,15,146,165,10,97,239,226,22,37,119,31,180,33,188,19,248,26,73,223,85,103,45,46,
-169,148,162,165,128,91,141,139,69,22,248,18,7,212,121,136,145,165,227,153,227,151,210,129,28,179,110,160,136,26,60,11,136,197,100,21,49,101,110,83,174,174,164,109,82,240,83,99,20,104,45,173,66,23,83,124,103,167,38,79,182,155,58,132,98,86,242,150,216,
-251,14,221,252,58,22,133,78,81,217,196,108,74,73,105,0,229,33,60,51,7,173,193,13,207,113,104,105,51,153,86,245,119,187,180,252,181,117,63,15,41,243,179,199,16,0,190,15,120,141,20,159,150,42,182,44,35,111,254,210,243,255,117,120,246,90,202,101,167,154,
-35,204,69,177,165,38,184,72,243,44,36,229,169,89,33,188,88,78,49,203,84,58,207,156,63,133,45,206,210,56,205,6,21,203,232,94,245,156,194,238,49,155,178,183,154,153,73,207,16,147,139,24,221,7,168,69,90,119,175,192,9,69,117,77,247,122,130,166,219,159,117,
-134,238,128,158,170,224,52,67,75,102,80,135,212,148,73,130,233,22,248,155,159,92,55,240,179,204,35,20,61,140,87,3,255,30,226,121,228,174,173,137,120,89,242,226,57,229,87,7,52,59,242,172,109,230,217,42,42,129,235,172,246,56,22,171,14,186,144,83,222,126,
-212,153,75,137,9,242,112,16,121,197,49,172,84,51,99,14,168,198,80,205,209,231,159,8,218,246,116,131,54,111,149,68,254,178,179,136,210,93,239,64,49,187,145,93,83,160,155,76,189,227,67,157,98,238,95,75,140,113,154,124,134,73,113,99,199,5,201,110,14,229,
-20,211,171,185,143,71,253,61,40,67,104,42,219,87,32,222,144,165,60,47,40,172,49,214,39,29,214,94,52,198,129,28,42,153,193,157,231,153,19,232,65,56,74,141,54,187,153,142,133,232,147,226,116,70,62,73,165,194,54,82,184,50,75,203,26,173,212,98,52,98,206,
-209,26,19,69,23,158,45,244,195,76,130,118,4,191,167,117,59,159,32,187,147,39,205,66,83,83,217,170,23,161,72,174,2,49,67,67,167,146,187,1,81,37,232,57,35,209,236,232,175,184,237,226,209,3,54,4,63,153,56,252,131,192,227,146,190,108,158,197,220,68,194,195,
-169,233,146,235,112,181,212,224,82,132,60,90,146,96,164,155,206,234,97,216,177,164,190,177,23,82,240,122,157,231,34,193,106,107,203,106,162,55,53,64,173,138,98,180,74,44,251,172,28,125,70,115,181,249,186,241,52,169,232,204,162,78,113,24,89,113,101,17,
-71,143,144,253,135,101,175,28,30,59,144,113,202,118,59,167,36,175,36,243,73,138,157,4,187,119,59,191,155,7,112,28,240,125,54,132,247,198,30,247,95,1,125,178,208,167,21,5,96,57,216,75,179,225,179,138,156,71,225,85,249,184,149,211,83,0,83,34,242,108,230,
-60,251,160,104,111,75,75,215,33,175,165,104,182,225,145,250,69,246,86,39,50,148,70,180,118,113,14,61,233,141,103,8,80,121,136,96,14,160,76,206,97,101,14,44,147,108,210,128,47,207,132,236,56,223,134,176,58,251,19,39,223,172,27,236,21,69,177,40,185,26,
-213,99,224,45,192,95,126,64,30,251,65,159,22,175,43,224,85,192,191,69,122,225,209,8,114,53,198,78,62,158,195,146,17,213,89,60,107,31,60,205,82,50,58,87,1,169,58,155,165,248,158,103,73,149,184,230,146,26,139,117,184,82,19,92,167,66,217,84,156,224,120,
-34,107,83,24,99,146,77,103,223,129,170,52,70,119,12,67,58,54,163,88,20,211,51,84,47,162,43,134,28,56,140,145,20,54,138,26,159,7,141,86,131,73,111,39,149,215,175,238,75,138,240,240,13,1,170,143,254,74,224,23,144,62,186,125,65,79,51,27,31,167,228,170,13,
-20,93,115,82,158,135,228,25,22,178,131,201,146,173,107,175,169,136,186,180,24,231,64,222,106,94,108,20,181,109,20,76,205,131,116,166,28,199,28,199,221,77,35,91,207,61,135,168,157,150,78,88,141,23,122,158,33,241,66,179,150,39,19,169,8,42,220,100,57,175,
-236,224,112,221,7,114,180,32,254,27,121,156,223,59,238,91,138,240,192,12,225,15,182,224,183,3,159,11,252,107,161,199,50,155,12,236,49,122,140,217,115,76,174,37,243,57,23,103,175,22,158,115,157,176,114,182,189,168,68,46,83,237,220,91,30,165,155,50,182,
-165,156,234,108,120,57,241,65,164,212,189,116,3,209,236,198,176,3,199,30,102,77,146,74,150,154,246,169,39,246,231,53,113,213,237,227,53,20,107,13,226,116,177,168,141,36,105,121,69,143,247,62,38,247,78,224,229,15,2,28,62,24,67,120,106,22,252,107,192,103,
-2,63,47,226,163,14,82,34,53,101,80,156,2,31,230,169,115,34,234,60,207,72,172,3,45,10,23,156,205,50,133,188,35,11,88,251,113,66,202,227,123,194,218,117,137,52,117,10,159,60,109,190,107,30,204,195,59,178,247,16,157,214,101,124,143,218,213,113,163,24,164,
-206,42,166,7,89,26,67,100,25,121,159,143,100,114,29,248,109,242,104,158,95,125,8,94,250,161,121,132,163,49,188,12,248,25,164,23,185,223,83,158,101,160,125,122,46,67,130,138,253,156,6,48,250,208,139,214,91,94,37,118,5,244,102,44,183,216,101,139,89,102,
-195,202,129,199,36,183,220,16,97,58,148,154,59,76,68,211,195,212,53,133,30,126,73,6,145,143,104,127,146,88,14,221,202,125,232,165,102,27,15,35,112,90,203,3,188,18,248,117,30,210,181,222,151,133,127,122,49,237,55,128,199,129,31,19,188,212,53,239,7,99,
-171,51,146,122,30,112,49,156,243,72,117,45,38,234,64,12,205,147,89,168,115,15,234,176,144,65,104,215,92,84,243,219,105,246,51,135,190,7,112,67,77,33,42,42,73,145,243,25,117,140,95,96,213,20,52,123,155,56,122,32,247,198,208,107,79,58,197,129,142,86,122,
-10,177,236,196,88,222,68,30,230,249,78,30,226,181,222,110,40,48,239,231,208,241,239,164,91,212,183,9,190,44,103,213,66,185,219,165,100,53,179,101,39,66,81,160,47,242,40,60,47,82,157,130,150,83,142,91,241,30,83,200,59,100,118,99,168,22,184,33,162,180,
-17,117,208,53,59,10,145,168,69,59,138,154,95,103,51,207,145,181,92,212,214,113,96,2,190,67,189,161,189,70,15,196,166,23,208,222,46,231,59,129,191,10,60,193,67,190,214,219,143,9,239,247,245,4,240,23,129,95,2,190,93,226,145,154,79,217,92,248,160,206,95,
-171,118,100,187,233,177,21,25,118,120,36,239,32,201,46,116,43,123,116,73,210,61,9,45,29,164,130,231,120,220,241,152,240,134,13,225,214,101,82,207,105,132,26,23,84,87,80,133,250,243,232,31,21,0,244,20,246,56,242,10,106,60,94,239,6,190,18,248,129,91,42,
-214,61,43,211,199,63,232,250,1,224,23,65,255,84,226,37,28,135,87,237,81,7,116,38,123,53,60,24,90,138,141,188,69,48,178,176,20,243,148,22,118,82,99,73,250,78,129,219,156,135,232,35,96,163,128,163,90,220,165,136,108,114,139,162,69,147,89,187,53,29,209,
-122,73,170,226,86,36,119,97,214,31,118,26,186,90,105,37,11,69,95,252,48,50,131,103,155,33,116,122,249,233,160,175,4,254,190,208,35,198,91,38,18,206,35,221,247,208,144,2,214,179,197,157,135,119,229,238,47,25,240,112,203,253,147,149,99,151,118,71,246,47,
-91,188,193,193,84,160,168,47,74,83,181,111,206,59,28,230,15,75,218,71,10,103,44,153,76,34,113,99,236,95,192,239,1,127,19,248,246,103,222,64,210,7,138,33,60,37,215,54,128,127,8,252,8,226,31,8,125,81,2,7,141,108,77,218,204,17,232,194,1,193,214,231,29,168,
-207,122,168,243,145,154,92,63,229,239,131,36,55,204,131,80,180,11,132,206,208,160,34,187,207,38,245,193,59,36,135,176,90,164,113,67,79,97,106,62,204,64,243,67,192,223,0,254,203,29,221,120,15,203,16,158,150,69,255,87,224,207,2,223,138,244,245,192,203,
-43,139,232,62,117,98,134,160,4,45,114,94,161,74,18,21,34,98,234,63,239,162,127,187,228,187,14,71,2,239,106,96,110,134,251,205,142,36,83,210,79,187,219,119,11,59,234,0,30,3,248,25,146,99,248,214,251,21,219,159,61,134,112,123,117,242,183,86,174,253,56,
-226,171,176,254,68,166,104,45,239,159,13,165,12,5,229,33,10,23,80,114,141,206,239,167,250,53,38,28,147,176,24,83,59,145,93,13,78,83,234,118,23,228,106,165,179,140,5,187,34,90,75,175,230,171,126,12,248,22,222,131,109,44,158,187,30,225,246,235,228,111,
-198,252,105,224,197,136,215,129,254,156,224,35,202,195,215,222,244,48,17,154,135,202,180,58,74,30,228,187,87,177,91,85,197,83,48,85,7,253,83,116,84,209,237,178,247,148,10,140,162,52,149,119,224,29,228,184,223,247,220,53,32,248,108,6,139,79,229,122,27,
-73,230,252,58,224,115,5,95,136,244,249,130,71,171,236,60,170,145,48,136,41,231,124,56,10,103,215,50,214,147,117,196,225,168,88,150,158,98,2,8,69,117,41,131,84,60,253,151,133,1,222,200,251,156,69,244,157,246,6,207,50,67,120,159,55,243,26,248,73,193,79,
-166,250,10,159,138,120,5,232,211,5,47,1,62,196,158,135,106,79,85,223,206,34,251,92,132,154,113,217,199,223,124,112,244,59,99,225,119,129,183,32,222,84,241,255,151,121,74,250,4,122,110,122,132,251,211,62,215,83,137,64,91,197,229,142,205,11,240,98,137,
-79,6,62,65,240,113,72,31,3,124,4,210,243,5,127,8,248,48,237,178,254,255,27,248,191,192,239,148,171,255,45,224,55,16,191,10,252,199,242,66,27,31,128,215,126,230,245,229,122,78,95,113,185,5,151,235,98,8,151,235,98,8,151,235,98,8,151,235,98,8,151,235,98,
-8,151,235,98,8,151,235,98,8,151,235,98,8,151,235,98,8,151,235,98,8,151,235,98,8,151,235,98,8,151,235,98,8,151,235,98,8,151,235,246,174,255,55,0,68,140,229,123,149,134,75,22,0,0,0,0,73,69,78,68,174,66,96,130,0,0 };
-
-const char* smallKnob_light_png = (const char*) temp_binary_data_2;
-
-//================== airText.png ==================
-static const unsigned char temp_binary_data_3[] =
-"\x89PNG\r\n"
-"\x1a\n"
-"\0\0\0\rIHDR\0\0\0x\0\0\0H\x08\x06\0\0\0=\x1e""1\x7f\0\0\0\tpHYs\0\0\x0b\x13\0\0\x0b\x13\x01\0\x9a\x9c\x18\0\0\n"
-"OiCCPPhotoshop ICC profile\0\0x\xda\x9dSgTS\xe9\x16=\xf7\xde\xf4""BK\x88\x80\x94KoR\x15\x08 RB\x8b\x80\x14\x91&*!\t\x10J\x88!\xa1\xd9\x15Q\xc1\x11""EE\x04\x1b\xc8\xa0\x88\x03\x8e\x8e\x80\x8c\x15Q,\x0c\x8a\n"
-"\xd8\x07\xe4!\xa2\x8e\x83\xa3\x88\x8a\xca\xfb\xe1{\xa3k\xd6\xbc\xf7\xe6\xcd\xfe\xb5\xd7>\xe7\xac\xf3\x9d\xb3\xcf\x07\xc0\x08\x0c\x96H3Q5\x80\x0c\xa9""B\x1e\x11\xe0\x83\xc7\xc4\xc6\xe1\xe4.@\x81\n"
-"$p\0\x10\x08\xb3""d!s\xfd#\x01\0\xf8~<<+\"\xc0\x07\xbe\0\x01x\xd3\x0b\x08\0\xc0M\x9b\xc0""0\x1c\x87\xff\x0f\xea""B\x99\\\x01\x80\x84\x01\xc0t\x91""8K\x08\x80\x14\0@z\x8e""B\xa6\0@F\x01\x80\x9d\x98&S\0\xa0\x04\0`\xcb""cb\xe3\0P-\0`'\x7f\xe6\xd3\0\x80\x9d"
-"\xf8\x99{\x01\0[\x94!\x15\x01\xa0\x91\0 \x13""e\x88""D\0h;\0\xac\xcfV\x8a""E\0X0\0\x14""fK\xc4""9\0\xd8-\0""0IWfH\0\xb0\xb7\0\xc0\xce\x10\x0b\xb2\0\x08\x0c\0""0Q\x88\x85)\0\x04{\0`\xc8##x\0\x84\x99\0\x14""F\xf2W<\xf1+\xae\x10\xe7*\0\0x\x99\xb2<\xb9$9"
-"E\x81[\x08-q\x07WW.\x1e(\xceI\x17+\x14""6a\x02""a\x9a@.\xc2y\x99\x19""2\x81""4\x0f\xe0\xf3\xcc\0\0\xa0\x91\x15\x11\xe0\x83\xf3\xfdx\xce\x0e\xae\xce\xce""6\x8e\xb6\x0e_-\xea\xbf\x06\xff\"bb\xe3\xfe\xe5\xcf\xabp@\0\0\xe1t~\xd1\xfe,/\xb3\x1a\x80;\x06\x80"
-"m\xfe\xa2%\xee\x04h^\x0b\xa0u\xf7\x8b""f\xb2\x0f@\xb5\0\xa0\xe9\xdaW\xf3p\xf8~<<E\xa1\x90\xb9\xd9\xd9\xe5\xe4\xe4\xd8J\xc4""B[a\xcaW}\xfeg\xc2_\xc0W\xfdl\xf9~<\xfc\xf7\xf5\xe0\xbe\xe2$\x81""2]\x81G\x04\xf8\xe0\xc2\xcc\xf4L\xa5\x1c\xcf\x92\t\x84""b\xdc"
-"\xe6\x8fG\xfc\xb7\x0b\xff\xfc\x1d\xd3\"\xc4Ib\xb9X*\x14\xe3Q\x12q\x8e""D\x9a\x8c\xf3""2\xa5\"\x89""B\x92)\xc5%\xd2\xff""d\xe2\xdf,\xfb\x03>\xdf""5\0\xb0j>\x01{\x91-\xa8]c\x03\xf6K'\x10Xt\xc0\xe2\xf7\0\0\xf2\xbbo\xc1\xd4(\x08\x03\x80h\x83\xe1\xcfw\xff"
-"\xef?\xfdG\xa0%\0\x80""fI\x92q\0\0^D$.T\xca\xb3?\xc7\x08\0\0""D\xa0\x81*\xb0""A\x1b\xf4\xc1\x18,\xc0\x06\x1c\xc1\x05\xdc\xc1\x0b\xfc`6\x84""B$\xc4\xc2""B\x10""B\n"
-"d\x80\x1cr`)\xac\x82""B(\x86\xcd\xb0\x1d*`/\xd4@\x1d""4\xc0Qh\x86\x93p\x0e.\xc2U\xb8\x0e=p\x0f\xfa""a\x08\x9e\xc1(\xbc\x81\t\x04""A\xc8\x08\x13""a!\xda\x88\x01""b\x8aX#\x8e\x08\x17\x99\x85\xf8!\xc1H\x04\x12\x8b$ \xc9\x88\x14Q\"K\x91""5H1R\x8aT UH\x1d"
-"\xf2=r\x02""9\x87\\F\xba\x91;\xc8\0""2\x82\xfc\x86\xbcG1\x94\x81\xb2Q=\xd4\x0c\xb5""C\xb9\xa8""7\x1a\x84""F\xa2\x0b\xd0""dt1\x9a\x8f\x16\xa0\x9b\xd0r\xb4\x1a=\x8c""6\xa1\xe7\xd0\xabh\x0f\xda\x8f>C\xc7""0\xc0\xe8\x18\x07""3\xc4l0.\xc6\xc3""B\xb1""8,\t"
-"\x93""c\xcb\xb1\"\xac\x0c\xab\xc6\x1a\xb0V\xac\x03\xbb\x89\xf5""c\xcf\xb1w\x04\x12\x81""E\xc0\t6\x04wB a\x1e""AHXLXN\xd8H\xa8 \x1c$4\x11\xda\t7\t\x03\x84Q\xc2'\"\x93\xa8K\xb4&\xba\x11\xf9\xc4\x18""b21\x87XH,#\xd6\x12\x8f\x13/\x10{\x88""C\xc4""7$\x12\x89"
-"C2'\xb9\x90\x02I\xb1\xa4T\xd2\x12\xd2""F\xd2nR#\xe9,\xa9\x9b""4H\x1a#\x93\xc9\xda""dk\xb2\x07""9\x94, +\xc8\x85\xe4\x9d\xe4\xc3\xe4""3\xe4\x1b\xe4!\xf2[\n"
-"\x9d""b@q\xa4\xf8S\xe2(R\xcajJ\x19\xe5\x10\xe5""4\xe5\x06""e\x98""2AU\xa3\x9aR\xdd\xa8\xa1T\x11""5\x8fZB\xad\xa1\xb6R\xafQ\x87\xa8\x13""4u\x9a""9\xcd\x83\x16IK\xa5\xad\xa2\x95\xd3\x1ah\x17h\xf7i\xaf\xe8t\xba\x11\xdd\x95\x1eN\x97\xd0W\xd2\xcb\xe9G\xe8"
-"\x97\xe8\x03\xf4w\x0c\r\x86\x15\x83\xc7\x88g(\x19\x9b\x18\x07\x18g\x19w\x18\xaf\x98L\xa6\x19\xd3\x8b\x19\xc7T071\xeb\x98\xe7\x99\x0f\x99oUX*\xb6*|\x15\x91\xca\n"
-"\x95J\x95&\x95\x1b*/T\xa9\xaa\xa6\xaa\xde\xaa\x0bU\xf3U\xcbT\x8f\xa9^S}\xae""FU3S\xe3\xa9\t\xd4\x96\xabU\xaa\x9dP\xebS\x1bSg\xa9;\xa8\x87\xaag\xa8oT?\xa4~Y\xfd\x89\x06Y\xc3L\xc3OC\xa4Q\xa0\xb1_\xe3\xbc\xc6 \x0b""c\x19\xb3x,!k\r\xab\x86u\x81""5\xc4&\xb1"
-"\xcd\xd9|v*\xbb\x98\xfd\x1d\xbb\x8b=\xaa\xa9\xa1""9C3J3W\xb3R\xf3\x94""f?\x07\xe3\x98q\xf8\x9ctN\t\xe7(\xa7\x97\xf3~\x8a\xde\x14\xef)\xe2)\x1b\xa6""4L\xb9""1e\\k\xaa\x96\x97\x96X\xabH\xabQ\xabG\xeb\xbd""6\xae\xed\xa7\x9d\xa6\xbd""E\xbbY\xfb\x81\x0e""A"
-"\xc7J'\\'Gg\x8f\xce\x05\x9d\xe7S\xd9S\xdd\xa7\n"
-"\xa7\x16M=:\xf5\xae.\xaak\xa5\x1b\xa1\xbb""Dw\xbfn\xa7\xee\x98\x9e\xbe^\x80\x9eLo\xa7\xdey\xbd\xe7\xfa\x1c}/\xfdT\xfdm\xfa\xa7\xf5G\x0cX\x06\xb3\x0c$\x06\xdb\x0c\xce\x18<\xc5""5qo<\x1d/\xc7\xdb\xf1QC]\xc3@C\xa5""a\x95""a\x97\xe1\x84\x91\xb9\xd1<\xa3\xd5"
-"F\x8d""F\x0f\x8ci\xc6\\\xe3$\xe3m\xc6m\xc6\xa3&\x06&!&KM\xeaM\xee\x9aRM\xb9\xa6)\xa6;L;L\xc7\xcd\xcc\xcd\xa2\xcd\xd6\x99""5\x9b=1\xd7""2\xe7\x9b\xe7\x9b\xd7\x9b\xdf\xb7`ZxZ,\xb6\xa8\xb6\xb8""eI\xb2\xe4Z\xa6Y\xee\xb6\xbcn\x85Z9Y\xa5XUZ]\xb3""F\xad\x9d"
-"\xad%\xd6\xbb\xad\xbb\xa7\x11\xa7\xb9N\x93N\xab\x9e\xd6g\xc3\xb0\xf1\xb6\xc9\xb6\xa9\xb7\x19\xb0\xe5\xd8\x06\xdb\xae\xb6m\xb6}agb\x17g\xb7\xc5\xae\xc3\xee\x93\xbd\x93}\xba}\x8d\xfd=\x07\r\x87\xd9\x0e\xab\x1dZ\x1d~s\xb4r\x14:V:\xde\x9a\xce\x9c\xee?}\xc5"
-"\xf4\x96\xe9/gX\xcf\x10\xcf\xd8""3\xe3\xb6\x13\xcb)\xc4i\x9dS\x9b\xd3Gg\x17g\xb9s\x83\xf3\x88\x8b\x89K\x82\xcb.\x97>.\x9b\x1b\xc6\xdd\xc8\xbd\xe4Jt\xf5q]\xe1z\xd2\xf5\x9d\x9b\xb3\x9b\xc2\xed\xa8\xdb\xaf\xee""6\xeei\xee\x87\xdc\x9f\xcc""4\x9f)\x9eY3s\xd0"
-"\xc3\xc8""C\xe0Q\xe5\xd1?\x0b\x9f\x95""0k\xdf\xac~OCO\x81g\xb5\xe7#/c/\x91W\xad\xd7\xb0\xb7\xa5w\xaa\xf7""a\xef\x17>\xf6>r\x9f\xe3>\xe3<7\xde""2\xdeY_\xcc""7\xc0\xb7\xc8\xb7\xcbO\xc3o\x9e_\x85\xdf""C\x7f#\xff""d\xffz\xff\xd1\0\xa7\x80%\x01g\x03\x89\x81"
-"A\x81[\x02\xfb\xf8z|!\xbf\x8e?:\xdb""e\xf6\xb2\xd9\xed""A\x8c\xa0\xb9""A\x15""A\x8f\x82\xad\x82\xe5\xc1\xad!h\xc8\xec\x90\xad!\xf7\xe7\x98\xce\x91\xcei\x0e\x85P~\xe8\xd6\xd0\x07""a\xe6""a\x8b\xc3~\x0c'\x85\x87\x85W\x86?\x8ep\x88X\x1a\xd1""1\x97""5w\xd1"
-"\xdc""Cs\xdf""D\xfa""D\x96""D\xde\x9bg1O9\xaf-J5*>\xaa.j<\xda""7\xba""4\xba?\xc6.fY\xcc\xd5X\x9dXIlK\x1c""9.*\xae""6nl\xbe\xdf\xfc\xed\xf3\x87\xe2\x9d\xe2\x0b\xe3{\x17\x98/\xc8]py\xa1\xce\xc2\xf4\x85\xa7\x16\xa9.\x12,:\x96@L\x88N8\x94\xf0""A\x10*\xa8"
-"\x16\x8c%\xf2\x13w%\x8e\n"
-"y\xc2\x1d\xc2g\"/\xd1""6\xd1\x88\xd8""C\\*\x1eN\xf2H*Mz\x92\xec\x91\xbc""5y$\xc5""3\xa5,\xe5\xb9\x84'\xa9\x90\xbcL\rL\xdd\x9b:\x9e\x16\x9av m2=:\xbd""1\x83\x92\x91\x90qB\xaa!M\x93\xb6g\xeag\xe6""fv\xcb\xac""e\x85\xb2\xfe\xc5n\x8b\xb7/\x1e\x95\x07\xc9"
-"k\xb3\x90\xac\x05Y-\n"
-"\xb6""B\xa6\xe8TZ(\xd7*\x07\xb2geWf\xbf\xcd\x89\xca""9\x96\xab\x9e+\xcd\xed\xcc\xb3\xca\xdb\x90""7\x9c\xef\x9f\xff\xed\x12\xc2\x12\xe1\x92\xb6\xa5\x86KW-\x1dX\xe6\xbd\xacj9\xb2<qy\xdb\n"
-"\xe3\x15\x05+\x86V\x06\xac<\xb8\x8a\xb6*m\xd5O\xab\xedW\x97\xae~\xbd&zMk\x81^\xc1\xca\x82\xc1\xb5\x01k\xeb\x0bU\n"
-"\xe5\x85}\xeb\xdc\xd7\xed]OX/Y\xdf\xb5""a\xfa\x86\x9d\x1b>\x15\x89\x8a\xae\x14\xdb\x17\x97\x15\x7f\xd8(\xdcx\xe5\x1b\x87o\xca\xbf\x99\xdc\x94\xb4\xa9\xab\xc4\xb9""d\xcf""f\xd2""f\xe9\xe6\xde-\x9e[\x0e\x96\xaa\x97\xe6\x97\x0en\r\xd9\xda\xb4\r\xdfV\xb4"
-"\xed\xf5\xf6""E\xdb/\x97\xcd(\xdb\xbb\x83\xb6""C\xb9\xa3\xbf<\xb8\xbc""e\xa7\xc9\xce\xcd;?T\xa4T\xf4T\xfaT6\xee\xd2\xdd\xb5""a\xd7\xf8n\xd1\xee\x1b{\xbc\xf6""4\xec\xd5\xdb[\xbc\xf7\xfd>\xc9\xbe\xdbU\x01UM\xd5""f\xd5""e\xfbI\xfb\xb3\xf7?\xae\x89\xaa\xe9"
-"\xf8\x96\xfbm]\xadNmq\xed\xc7\x03\xd2\x03\xfd\x07#\x0e\xb6\xd7\xb9\xd4\xd5\x1d\xd2=TR\x8f\xd6+\xebG\x0e\xc7\x1f\xbe\xfe\x9d\xefw-\r6\rU\x8d\x9c\xc6\xe2#pDy\xe4\xe9\xf7\t\xdf\xf7\x1e\r:\xdav\x8c{\xac\xe1\x07\xd3\x1fv\x1dg\x1d/jB\x9a\xf2\x9a""F\x9bS\x9a"
-"\xfb[b[\xbaO\xcc>\xd1\xd6\xea\xdez\xfcG\xdb\x1f\x0f\x9c""4<YyJ\xf3T\xc9i\xda\xe9\x82\xd3\x93g\xf2\xcf\x8c\x9d\x95\x9d}~.\xf9\xdc`\xdb\xa2\xb6{\xe7""c\xce\xdfj\x0fo\xef\xba\x10t\xe1\xd2""E\xff\x8b\xe7;\xbc;\xce\\\xf2\xb8t\xf2\xb2\xdb\xe5\x13W\xb8W\x9a"
-"\xaf:_m\xeat\xea<\xfe\x93\xd3O\xc7\xbb\x9c\xbb\x9a\xae\xb9\\k\xb9\xeez\xbd\xb5{f\xf7\xe9\x1b\x9e""7\xce\xdd\xf4\xbdy\xf1\x16\xff\xd6\xd5\x9e""9=\xdd\xbd\xf3zo\xf7\xc5\xf7\xf5\xdf\x16\xdd~r'\xfd\xce\xcb\xbb\xd9w'\xee\xad\xbcO\xbc_\xf4@\xed""A\xd9""C\xdd"
-"\x87\xd5?[\xfe\xdc\xd8\xef\xdc\x7fj\xc0w\xa0\xf3\xd1\xdcG\xf7\x06\x85\x83\xcf\xfe\x91\xf5\x8f\x0f""C\x05\x8f\x99\x8f\xcb\x86\r\x86\xeb\x9e""8>99\xe2?r\xfd\xe9\xfc\xa7""C\xcf""d\xcf&\x9e\x17\xfe\xa2\xfe\xcb\xae\x17\x16/~\xf8\xd5\xeb\xd7\xce\xd1\x98\xd1"
-"\xa1\x97\xf2\x97\x93\xbfm|\xa5\xfd\xea\xc0\xeb\x19\xaf\xdb\xc6\xc2\xc6\x1e\xbe\xc9x31^\xf4V\xfb\xed\xc1w\xdcw\x1d\xef\xa3\xdf\x0fO\xe4| \x7f(\xffh\xf9\xb1\xf5S\xd0\xa7\xfb\x93\x19\x93\x93\xff\x04\x03\x98\xf3\xfc""c3-\xdb\0\0""B\x94iTXtXML:com.adobe.x"
-"mp\0\0\0\0\0<?xpacket begin=\"\xef\xbb\xbf\" id=\"W5M0MpCehiHzreSzNTczkc9d\"?>\n"
-"<x:xmpmeta xmlns:x=\"adobe:ns:meta/\" x:xmptk=\"Adobe XMP Core 5.6-c111 79.158325, 2015/09/10-01:10:20        \">\n"
-"   <rdf:RDF xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\">\n"
-"      <rdf:Description rdf:about=\"\"\n"
-"            xmlns:xmp=\"http://ns.adobe.com/xap/1.0/\"\n"
-"            xmlns:dc=\"http://purl.org/dc/elements/1.1/\"\n"
-"            xmlns:xmpMM=\"http://ns.adobe.com/xap/1.0/mm/\"\n"
-"            xmlns:stEvt=\"http://ns.adobe.com/xap/1.0/sType/ResourceEvent#\"\n"
-"            xmlns:stRef=\"http://ns.adobe.com/xap/1.0/sType/ResourceRef#\"\n"
-"            xmlns:photoshop=\"http://ns.adobe.com/photoshop/1.0/\"\n"
-"            xmlns:tiff=\"http://ns.adobe.com/tiff/1.0/\"\n"
-"            xmlns:exif=\"http://ns.adobe.com/exif/1.0/\">\n"
-"         <xmp:CreatorTool>Adobe Photoshop CC 2015 (Windows)</xmp:CreatorTool>\n"
-"         <xmp:CreateDate>2016-10-25T21:04:31+02:00</xmp:CreateDate>\n"
-"         <xmp:MetadataDate>2016-11-05T13:28:10+01:00</xmp:MetadataDate>\n"
-"         <xmp:ModifyDate>2016-11-05T13:28:10+01:00</xmp:ModifyDate>\n"
-"         <dc:format>image/png</dc:format>\n"
-"         <xmpMM:InstanceID>xmp.iid:34841e16-e05c-8943-9c00-8b61b0736e34</xmpMM:InstanceID>\n"
-"         <xmpMM:DocumentID>adobe:docid:photoshop:44f428ce-a353-11e6-8c38-e3720d35a39e</xmpMM:DocumentID>\n"
-"         <xmpMM:OriginalDocumentID>xmp.did:45d6e837-6aef-3542-a794-f3d50766d1a9</xmpMM:OriginalDocumentID>\n"
-"         <xmpMM:History>\n"
-"            <rdf:Seq>\n"
-"               <rdf:li rdf:parseType=\"Resource\">\n"
-"                  <stEvt:action>created</stEvt:action>\n"
-"                  <stEvt:instanceID>xmp.iid:45d6e837-6aef-3542-a794-f3d50766d1a9</stEvt:instanceID>\n"
-"                  <stEvt:when>2016-10-25T21:04:31+02:00</stEvt:when>\n"
-"                  <stEvt:softwareAgent>Adobe Photoshop CC 2015 (Windows)</stEvt:softwareAgent>\n"
-"               </rdf:li>\n"
-"               <rdf:li rdf:parseType=\"Resource\">\n"
-"                  <stEvt:action>saved</stEvt:action>\n"
-"                  <stEvt:instanceID>xmp.iid:577ca280-8153-c14c-a45e-cfcdf62b282c</stEvt:instanceID>\n"
-"                  <stEvt:when>2016-10-25T21:07:55+02:00</stEvt:when>\n"
-"                  <stEvt:softwareAgent>Adobe Photoshop CC 2015 (Windows)</stEvt:softwareAgent>\n"
-"                  <stEvt:changed>/</stEvt:changed>\n"
-"               </rdf:li>\n"
-"               <rdf:li rdf:parseType=\"Resource\">\n"
-"                  <stEvt:action>saved</stEvt:action>\n"
-"                  <stEvt:instanceID>xmp.iid:3d090bfe-099d-654e-97d5-7dee6972a251</stEvt:instanceID>\n"
-"                  <stEvt:when>2016-11-05T13:28:10+01:00</stEvt:when>\n"
-"                  <stEvt:softwareAgent>Adobe Photoshop CC 2015 (Windows)</stEvt:softwareAgent>\n"
-"                  <stEvt:changed>/</stEvt:changed>\n"
-"               </rdf:li>\n"
-"               <rdf:li rdf:parseType=\"Resource\">\n"
-"                  <stEvt:action>converted</stEvt:action>\n"
-"                  <stEvt:parameters>from application/vnd.adobe.photoshop to image/png</stEvt:parameters>\n"
-"               </rdf:li>\n"
-"               <rdf:li rdf:parseType=\"Resource\">\n"
-"                  <stEvt:action>derived</stEvt:action>\n"
-"                  <stEvt:parameters>converted from application/vnd.adobe.photoshop to image/png</stEvt:parameters>\n"
-"               </rdf:li>\n"
-"               <rdf:li rdf:parseType=\"Resource\">\n"
-"                  <stEvt:action>saved</stEvt:action>\n"
-"                  <stEvt:instanceID>xmp.iid:34841e16-e05c-8943-9c00-8b61b0736e34</stEvt:instanceID>\n"
-"                  <stEvt:when>2016-11-05T13:28:10+01:00</stEvt:when>\n"
-"                  <stEvt:softwareAgent>Adobe Photoshop CC 2015 (Windows)</stEvt:softwareAgent>\n"
-"                  <stEvt:changed>/</stEvt:changed>\n"
-"               </rdf:li>\n"
-"            </rdf:Seq>\n"
-"         </xmpMM:History>\n"
-"         <xmpMM:DerivedFrom rdf:parseType=\"Resource\">\n"
-"            <stRef:instanceID>xmp.iid:3d090bfe-099d-654e-97d5-7dee6972a251</stRef:instanceID>\n"
-"            <stRef:documentID>adobe:docid:photoshop:a9017a65-a34a-11e6-b23a-a77bf65a7ede</stRef:documentID>\n"
-"            <stRef:originalDocumentID>xmp.did:45d6e837-6aef-3542-a794-f3d50766d1a9</stRef:originalDocumentID>\n"
-"         </xmpMM:DerivedFrom>\n"
-"         <photoshop:ColorMode>3</photoshop:ColorMode>\n"
-"         <photoshop:ICCProfile>sRGB IEC61966-2.1</photoshop:ICCProfile>\n"
-"         <photoshop:TextLayers>\n"
-"            <rdf:Bag>\n"
-"               <rdf:li rdf:parseType=\"Resource\">\n"
-"                  <photoshop:LayerName>AIR</photoshop:LayerName>\n"
-"                  <photoshop:LayerText>AIR</photoshop:LayerText>\n"
-"               </rdf:li>\n"
-"            </rdf:Bag>\n"
-"         </photoshop:TextLayers>\n"
-"         <tiff:Orientation>1</tiff:Orientation>\n"
-"         <tiff:XResolution>720000/10000</tiff:XResolution>\n"
-"         <tiff:YResolution>720000/10000</tiff:YResolution>\n"
-"         <tiff:ResolutionUnit>2</tiff:ResolutionUnit>\n"
-"         <exif:ColorSpace>1</exif:ColorSpace>\n"
-"         <exif:PixelXDimension>120</exif:PixelXDimension>\n"
-"         <exif:PixelYDimension>72</exif:PixelYDimension>\n"
-"      </rdf:Description>\n"
-"   </rdf:RDF>\n"
-"</x:xmpmeta>\n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                            \n"
-"<?xpacket end=\"w\"?>\xa0'&b\0\0\0 cHRM\0\0z%\0\0\x80\x83\0\0\xf9\xff\0\0\x80\xe9\0\0u0\0\0\xea`\0\0:\x98\0\0\x17o\x92_\xc5""F\0\0\n"
-"\x03IDATx\xda\xec]]l\x1cW\x15>gv\x9d\xb4\xb5\x9b\xd8\xb5\xcbO+\xd2lE\x05\x14\x93""f\xadHT\x02\xa4\xda\xbcX\xc2UH\x1c""E\x8e\xccJ\xf1\xee\xbeR\tT^\xa8\xc4\x0b<\x82@T\xbcyc\x93M\xeb\xa8j\xec""FJ\"\x0b\t'\x14*T\xa9\xc4&D<@~l\x8b\x06T\x91z\xa3\xfc\xd8\xf5"
-"\xee\xce\xe1\xa1\xbb\x9b\xd9\xf1\x9d;\xe7\xde\xb9\xe3\x9d]\xf6J#\xef\x8f\xf7\xfe}\xf7;\xe7|w\xce\xcc \x11""A\xbb\xb4n\xb1\xdaS\xd0\x06\xb8]\x9a\xb8\xc4""e_\"\xa2\xc9\xb6\xb8\x95\x85\xe1""3\xd0@\xbb\x18""B\xbf\x8c\x8cU\xe6""f\xe3\xdb\xb0\x88\x90\xf9\x19"
-"\t\xbe\xa3\x10@\xf5\xaa\x1f""CX\xac~\xc0""b\xd8\x8b;\xbe\x8d\xc0\xa2\x06\x9bPs\xd0\xc8x-\xaa\x9f""4\xea\xd4\x9d\x1b\x92\0NQ\x07\x18%\xc0\"s\xd0\xd5\x81\xaa\x82\xac\xd3\xb6\xb3-/f\xa3\xcf\xc2U5\xc7^\xe3\"\x93@\x87m\xa2\xd1""51\xc8""0\xd1\"p\xb9 \xa3""b"
-"\xdb\xe4\xc1&d\x8e\x83\x0b""2y\x98""c\x94\xf4!\x88\x05\x0b\x15`\xf7""D c\x82\xaa\x83\"\x8f\xc9Ve\xb2\xacm\xd0\\8\xb2\xbat\x18L\xaeq\xcb,\x98""6\x9b\x03\x03\xbc\x9a\xcd\xd6\xbd\xdf""39\xb9\x85I\xbf;t\xe8\x89/\xf7\xf6\xfe\x87S\x9fM\xb4\xb0""7\x97\x1b\x16"
-"M\x8c\xbb-w\xa9\xb4]\x07\xccr&3c!\x8e\xfa\xb5[\xb6\xed\x9f'N\x9c\xf8\xb1\x87\x89\xc6\xd5lv\xd3P\xd8\\\0\xa2\x9b""6\xd1\xe2\xad{\xf7~\xf1\x8d\xb7\xde\xba!X\xd8\xc6\xe2\x11\xa3\x0c\xde""39)2\x91\xf8lw\xf7(\x9b\xfe\x88\x03\x15}nkF\x98(\xb1\x12\xba~\x1c\r"
-"\x9a\xb7n@L\xc6\x10\x93_\xd8\xb5+\xbd\x92\xcd\x16l\xdb\x9e\xfd\xfb\xed\xdb\xaf}\xe7\xec\xd9""5\x89%\x8b\xcc""F\xc7\x16\xf3\x18\xb7\xacQ\x95\t\xb8\x92J\r\x88&\xd5\xb5\x80\xfc\xbeS\x02\x9a\xc4\xff\xafj\x86\xb5\0\x8fYV\xfakO>\xf9\xefk\x13\x13?\xaa`\xe2\xe7"
-"b\"\xb3\x93\x85\x9f\x92\x12\x07T~\xd4\xd5\xd1""1\x1a\x90\x89\xba\x13\xa2\x12""3\x18/;b\xb1\x9f.g2\xe7\xcf\x1f<\xf8\x84\x07\xd0\xca""c2\x06\xb0\x17\x83\x96\xc6\xc7\x07\x10\xa0[\xa5\xae\x18\xe2P\xa3&Y\x12=oK\xb1\x10\x87\xfa\xfb\xfa.\x9c?x\xb0\xc7""D\xfb"
-"\xa1\x9b\xe8\xc7w\xee\x1cU\xae\0""1\x19\x80\xc1Z\x8b\x82\x02\x9a""B\xa3\x13\x88\x98\xec\xef\xeb\xbb`\x82\xc5V\x08\xe0\xd6Gq\x88\x83:\x15\xfd\xe3\xf8\xf1\x8c\xa8^\x99\x1f""6\x04\x0c\x86\xb0s\xa5\x05\xf2\x8dt\xfag\x12\x7f\xdcP\x1f\x8c\x0e\xff\x9b\xd4\xf4"
-"G\x83\x11""1\xd3\xca""2\xc8\xebP\xad+fY\x19\x87\xa9\xd6Z\xcc""Fd\x92@\x1e\x89X\x18\xd4LS3\x80\xfb\xcc\xe4\xe4\x1e\x97\xcc\xa9\xe9\xd8\x8bG\x8e$\x12\xbbw\xff\xda""bZ5\x04\xe8\xfeJo\xef\xab\0\xf0\x9a\xee\x86\x87\x15\x02kk\xaf+,\xd4\xad,\xf1\xde\xd1\xa3"
-"\t\r3\x1d\x01\x9ck\x87\xed<\x06\xdf~\xfb\xfa\xde\\\xee\xe5\xf5R\xe9\x15\x05\x16\x1f\x0e""b\xc9""B\r\xb2t\xcds\xb5|\xae\xab+\x03\x11\n"
-"~\x14\x01\xae\x02\xeb|O\0`\x7fiz\xfa""D\xd9\xb6\xe7\x14\x16\xfa\xb3\r\xd3\xc1^\xe6\xf9\xbd\xa3G\x13\x08\x90\x08RwL\xbc@\xb0I\0\x16\xb2\xb8\xfa\xd9\xfb\xb7n}\x9f[\xe1g;;\x0f\xeb\x8e\xdb\xb4\x89\xae""1\xb8\xc2\xbe\xc0\x91$\x98\xd9zl4\xc8[\x8e\xb1\xf9\xf9"
-"5\"Zd\x05J\x96\x95\xf4X\xe0\xb8]\0#\x93}\xaa\x95v_M\xa5\x86\x9a\xcc\x0f\x13\xf7(\x11-1\xeb\xec\x89\x02\x83\x8d\xfa\xdfj\xe9\xec\xe8\x08\x14""dD\0l\xf7_g\x14\xbc\xc6]\xe8\x12\x8d\x1e*\xc0""Bsq5\x95\x1aR\xdd\x9e\xf4\xec\xa0""e\r6Y\x90\xe5\x96""2\xa4#oL"
-"\x15\xcb kk\xaf+\xac""3e\x12\xaar\t\x9b\xc8L{\x9d\x91\xc2\x80\x8b""Fy\xb1\x84\x11""dUY\xe7[\x8a\xb6}\xb6\x85\xe5\x92\x97I\xad\xbd&\"\xee\xa9\xcc\x9b\x8d`\xb0p\xfb\xec\x9d\x91\x91\x1e\x8e<\"\xa2\xe5\x8dR\xe9R\x0b\xca%\xe4\x1eq\xcb\xda\xcf\xa9\xb0""d\xdb"
-"\x8b>\xe6\x7f[L4\x02\0>\xdf\xd7""7\xca""d\xef\x1f\xbez\xf2\xe4t\x8b\xca%\x11\xa0\x16""8\xce\x0e\x9d\x1e\x1e\xee\xe1nY\xfew}\xfd\x0c\xc8\xd3z\xb6%\xc8\x02\0\x80\x1d\xb1\x18\xcb\xff\xde/\x16/\x01\0\xd8\x0c\xa9\xd0""drI\n"
-"l\xf5\xb3\xaf?\xf5\xd4\xeb,\xf3L\xb4\xf8\xe2\xe9\xd3\r1\xd1\x81\xe4\xd1\x0b\xa7N\xcd\x01\0\x95l\x9b\xa5\x05\x9bH.\xb9\x81\xddr\\O\xa7_\x8fY\xd6!Ne\x9b\xb6\x9d\xf3\xd0\xd1\xac\x12""7\xc0\xdc\xda\xeb\xa5\xf1\xf1$G\x1eUXK\0@w77\xe7z\x1f}\xf4""8S.9\xdb\xa4"
-"\x88\xb2\xb8\x9a""0X\xd7\xc7\x0f\x8e\x1dK\xee~\xe4\x91\xc1\x1d\xb1\xd8\x0f\xb9\x12\x92\x88\x16\x9f\x9b\x9a\xcay\x80Ja\x02,\x94G\xdc\xec\x8d\x92m_\xacv:\xf9\xc6\x1b\x17W\xb2\xd9\x82\xdf\xa0\x11 \xf1\xce\xc8H\xcfw\xcf\x9d\xfb\x18\"z\xea\x10\x01\xbaW\xb3"
-"\xd9;\x86\x84t\xe1_w\xef~O \x8f\x1av\xba\x90\x9d\xbdq\xbfX\xbc\xe8\xec""4\x11-s~W\t\xe0\xb4\xb3\x1b\x9a\xa5\x10@\xe1\xf6\x83\x07#\x8e\x9ci\xed\x8d\x12\xa3Q4\xc7\xff\x12@\xe1\x85S\xa7\x16\x9c\xfe\xa4\xc2h\xdf\xe2\x11\xc0\xb5\x14\xc8""D\xb4|\xa3P\xf8\xd6"
-"\xc0\x9bo.J\xccq\xa8>8P\xf6\x86\xe3\x0cJ\xad\x93\x85\x8d\x8d\xd9\xcftv\xfe@C.\xb5\xd4\xfd'6\xcb\xe5\xe9/NM\xbd\x02\xf5\xe7\x91\x03\x07\x04""F\xfc/7{\xa3\x12""5\xd7\x99\x9d\x03""33\x8b\x9c\x9c%\x04\xe8^\x1a\x1fO\xb6*{c\x96\xb5\xf7\xfd\xb1\xb1\xfd&]\x90"
-"\t\x1d\xac$\x8f\n"
-"\x1b\x1b\xb3>\xcc\x96\x96J \xd7\xacg\x97\xe4\0#\xbe\xf4\xf9\xae\xaewo\xa6\xd3'U\xf7\x1fL\x01\x1c({\x83\0\n"
-"\x07""ff\x96""Dup\xf5\xb0$\x90\xc3\x16""b\xf2\xa1\x95L\xe6O&\x02\xca &\xba\xc6\x1en\xf6\x86\x83\xa5[\x16\xca\xca\x9d;S\xac\x86\x9b""7\xcb""Cm\x82\x11\x93\xcb\x99\xccyP\xbb\xc6\xda\x08\xc0\xda\xd9\x1b""E\xdb\xfe\xab\xc7\xaa\xc4o\xcf\xce.ss\x87\x05I\xf1"
-"\x91\0\x9a\0\n"
-"\x9f\x94\xcb\xbf\xda,\x97\x7f\xe9>\xca\xb6=\xc7\x95\x83""5p\x10\x07\xff""91\x91\t2F\x13\x1b\x1dl\xff{mmm\x1a$\xf7\xee\xb0\x89\x96""b\x88/1\xe4\xd2 \0LF1\x92~nj\xea' \xdeVD\0\x80\xd3\xc3\xc3=/>\xfd\xf4""9\x0bq?K\x1aZV\x06\0r\x02\x90\x8d\xef""dy\xca#\xee"
-"\xd6\xdb\xf3}}\x97V|.\xe2\xd6""4\xd3\x14!sM\x02\x99S\xed\x1f\x8e\xcd\xcf\xaf\x01\xc0""7W2\x99?r\x88\x81\x88\xc9+\xa9Tr_>\xff\x17\x9d\x05mi\xb2VY\x1eUe\x8e\xdf\xc1\xac\xc7""3)>\"\0\xbb\xd3""f\xdd\xe9\xb3\xf4\xe7\x0f?|\x99[\xe1\xe3\x1d\x1dY\xd0\xbc""f*"
-"\xa8\x0e""6\x96\\\xa7Z\x04Y\x1eQ\x04\xd8\xf6\xfa;6?\xbf""f\x13\xb1v\xf0\xac\x87\x16+\xb4(:\xb4\xe4\xf6\0\x9a""1)\xb3,\x11""ep\x9d\xf9\xfe\xa4\\\x9e\xe3\xcd>&D\xea%L\x1dl,\xb9\xdd\x90\x1f\x8e\xaa\xa9\x16\x81^{\xff\xb7\x8f>:\xc3um\xdb\xb1\x93\x15Jr{\x80"
-"\x10\xde\x99\xe5\x11\xf5$x!\xc3\x8f\\\xb8P\x08\xbb\x03\xba:\xb8\xa1\xfe\xb7Z\x1cY\x1eQf/\x80w6\x06)\\7\x1c\xda=:BOn\xd7^\x9d\x0f\xb3<Zn_\x9akEM\xe9`\xed\xe4v\"Z~&\x97\xdb\x07\xf2\x9c\xa2\xba\xba\xaf\xa6R\x87w\xed\xdc\xf9[\x8e\\rdy\xb4\xdc\xe9\xc3""F\x98"
-"h\xe5\xe4\xf6\xd2\xa7R\xc0V9\xfa\xf3\xf9Yn\x87\x1cY\x1e^\x0b""2\xaa\x85\xa2\0p\xa0\xe4v\0\x80\xfb\xc5\xe2,\x88\xaf\x93\x15]7[;\xb8\xa7\x0f\x1dY\x1e\xc2\x13\x10\xdc\xab\x07\xfe\xdf\x19\xac\x95\xdc\x0e\0\xb0/\x9f_\x10\x01\xe8\x02v\xcb\x05\xd2%\xe6&\0\x06"
-"\xd8\x04\x88\0{uY\xcc\x96\x86\xaa""A\x96\x9b""5~\xfewQ\x02\xaa{#\xa0\xee\xfdz\xb1\xb8\xc0\x95K\x95,\x0f\xa1YFDj\x10xF\x8b+\xf1?T\x99\x04\\yTa!\xe9\x1c\xfd\xf9\xfc\x02WB\xe8\xdclM\x91]\x14\"\xd0\xack\x84w\xc4""b\t\x9d\x88Z\x19\xe0+\xa9T\x92+\x8f*,\x14"
-"\x02\xb8\x9a\xcd\xd2j6K\x1e:Q\xc9\x0f\xeb\xdel\xcd""5[Z\x97g\x06\xde\xdd\"b-\xe2\x8e\xfa\xdb""8\x84\xc7\xe0\xca\x8d""B9#)\xf4\xe7\xf3\xbf\x17I#\x07\xb0 \0\xb9\xf6\xda&\xbal\xd2\xa2\x18\xda\x89R\xfd\r\xc9\xbe\xe7^\x1aji\x8eQ\x19\xe0\xca\x8d""B9\xfe\xf7"
-"r\xc0\t\xa2{\xc5\xe2\x19\xee\x8f\xaeML\xa4""A\xbc\xff\xab\xd5""6\x04\xb8\x9a\x80i\xa6\xab\x8b\xf8&w\x11\x7fp\xecXB\xd5\x05\xa8\x02L\\\xb6\xb8\0\x96^4\xe5""d\xb4\xb3\x8a}\xf9\xfc""e\xae\x1f\x8e[\xd6\x90\xc4\xdc\xab\x98h\xed\xdb/\xa0z\xbb\xf4\xf1\xfa\xfa"
-"$w\xf2\xfb\x1e{\xec""7\xaa.\xc4RY\xd9""7\xd2iv:\xc6\x83R\xe9\x8c\xa8#\x1e`z1\xc8&\xbe\x99\x1e\xf0`_\x10\xd3L\x1a\x0c\xf6[\xc4u\xf5\x1e\x98\x99\xb9n\x13\xb1,\x95\x85""8\xb4\x9c\xc9\xbc\xaa\x14[\xc8\x9e\x9a\x85\x0f\x1f}\xe6u\x95\xba;\x9a\x13\x99""6\xee"
-"\xa4\x8b\x1ev!k\xcf\xcbwW\xff\xca""2\x11\xd1\xa3\x9f^\xfd\xf3\xea\x07\xf9,\x8a-\xf7\xab\x0c""8Fa\xbd$\x01""1\xae\xb9*I\x02""0h\xfa""0\xbf\xc7\xccp\xdb\xf3\x8aXEu\xcb\x16\x89\xac\x8f^ \x80\x0f\xeb\xfd\x9e\"#{\xc4\x8e\x96\xfb\x88""3']f~\xc8GG\xaa\xe8I\xce"
-"ct\xfc\x80\xe4\xd4\xad\xa2{Qc\xdc\xc4 \x87h\xb1\xf9\xb5\xa5\xeczT\xb2*\xc9\x07|\xbf\t'\x85v\xd0@{\xba\xdaTg\xdc\xba""c\x0e}N\xe3\n"
-"\x13\x80L\x96\x98\xd8\xbaSy \x14)\x02\xa8\xfb\xf0K\x93\xe3V}V\xa1\xf6\xbc\xea""0\x18\x03\x0cZ\x97YA&\x82\xfb\x84O\x95\xc7\xcb\x9a\x1a\xb7\xa9""1\xea""E\xd1\xed\xd2\xfc\xa5\xfd\x04\xf0""6\xc0\xed\xd2\x06\xb8]\xda\0\xb7Kc\xca\xff\x06\0\x8b\x07\xa1\xe2\xda"
-".\xd6\x98\0\0\0\0IEND\xae""B`\x82";
-
-const char* airText_png = (const char*) temp_binary_data_3;
+const char* bigKnob_red_png = (const char*) temp_binary_data_2;
 
 //================== bigKnob.png ==================
-static const unsigned char temp_binary_data_4[] =
+static const unsigned char temp_binary_data_3[] =
 { 137,80,78,71,13,10,26,10,0,0,0,13,73,72,68,82,0,0,1,34,0,0,1,34,8,6,0,0,0,93,190,223,182,0,0,0,9,112,72,89,115,0,0,11,19,0,0,11,19,1,0,154,156,24,0,0,10,79,105,67,67,80,80,104,111,116,111,115,104,111,112,32,73,67,67,32,112,114,111,102,105,108,101,0,0,
 120,218,157,83,103,84,83,233,22,61,247,222,244,66,75,136,128,148,75,111,82,21,8,32,82,66,139,128,20,145,38,42,33,9,16,74,136,33,161,217,21,81,193,17,69,69,4,27,200,160,136,3,142,142,128,140,21,81,44,12,138,10,216,7,228,33,162,142,131,163,136,138,202,
 251,225,123,163,107,214,188,247,230,205,254,181,215,62,231,172,243,157,179,207,7,192,8,12,150,72,51,81,53,128,12,169,66,30,17,224,131,199,196,198,225,228,46,64,129,10,36,112,0,16,8,179,100,33,115,253,35,1,0,248,126,60,60,43,34,192,7,190,0,1,120,211,11,
@@ -2708,10 +2293,1542 @@ static const unsigned char temp_binary_data_4[] =
 68,98,236,134,112,74,55,196,106,14,144,18,67,128,72,140,102,12,40,94,88,9,192,136,209,32,3,81,42,230,133,24,98,136,209,184,3,139,67,32,134,24,98,8,16,137,33,134,24,2,68,226,16,136,33,134,24,2,68,98,136,33,134,0,145,56,4,98,136,33,70,99,143,255,31,0,224,
 7,207,182,225,174,28,238,0,0,0,0,73,69,78,68,174,66,96,130,0,0 };
 
-const char* bigKnob_png = (const char*) temp_binary_data_4;
+const char* bigKnob_png = (const char*) temp_binary_data_3;
+
+//================== label_freq.png ==================
+static const unsigned char temp_binary_data_4[] =
+"\x89PNG\r\n"
+"\x1a\n"
+"\0\0\0\rIHDR\0\0\0\x82\0\0\0\x82\x08\x06\0\0\0\x8a\x03\x10\xfd\0\0\0\tpHYs\0\0\x0b\x13\0\0\x0b\x13\x01\0\x9a\x9c\x18\0\0\n"
+"OiCCPPhotoshop ICC profile\0\0x\xda\x9dSgTS\xe9\x16=\xf7\xde\xf4""BK\x88\x80\x94KoR\x15\x08 RB\x8b\x80\x14\x91&*!\t\x10J\x88!\xa1\xd9\x15Q\xc1\x11""EE\x04\x1b\xc8\xa0\x88\x03\x8e\x8e\x80\x8c\x15Q,\x0c\x8a\n"
+"\xd8\x07\xe4!\xa2\x8e\x83\xa3\x88\x8a\xca\xfb\xe1{\xa3k\xd6\xbc\xf7\xe6\xcd\xfe\xb5\xd7>\xe7\xac\xf3\x9d\xb3\xcf\x07\xc0\x08\x0c\x96H3Q5\x80\x0c\xa9""B\x1e\x11\xe0\x83\xc7\xc4\xc6\xe1\xe4.@\x81\n"
+"$p\0\x10\x08\xb3""d!s\xfd#\x01\0\xf8~<<+\"\xc0\x07\xbe\0\x01x\xd3\x0b\x08\0\xc0M\x9b\xc0""0\x1c\x87\xff\x0f\xea""B\x99\\\x01\x80\x84\x01\xc0t\x91""8K\x08\x80\x14\0@z\x8e""B\xa6\0@F\x01\x80\x9d\x98&S\0\xa0\x04\0`\xcb""cb\xe3\0P-\0`'\x7f\xe6\xd3\0\x80\x9d"
+"\xf8\x99{\x01\0[\x94!\x15\x01\xa0\x91\0 \x13""e\x88""D\0h;\0\xac\xcfV\x8a""E\0X0\0\x14""fK\xc4""9\0\xd8-\0""0IWfH\0\xb0\xb7\0\xc0\xce\x10\x0b\xb2\0\x08\x0c\0""0Q\x88\x85)\0\x04{\0`\xc8##x\0\x84\x99\0\x14""F\xf2W<\xf1+\xae\x10\xe7*\0\0x\x99\xb2<\xb9$9"
+"E\x81[\x08-q\x07WW.\x1e(\xceI\x17+\x14""6a\x02""a\x9a@.\xc2y\x99\x19""2\x81""4\x0f\xe0\xf3\xcc\0\0\xa0\x91\x15\x11\xe0\x83\xf3\xfdx\xce\x0e\xae\xce\xce""6\x8e\xb6\x0e_-\xea\xbf\x06\xff\"bb\xe3\xfe\xe5\xcf\xabp@\0\0\xe1t~\xd1\xfe,/\xb3\x1a\x80;\x06\x80"
+"m\xfe\xa2%\xee\x04h^\x0b\xa0u\xf7\x8b""f\xb2\x0f@\xb5\0\xa0\xe9\xdaW\xf3p\xf8~<<E\xa1\x90\xb9\xd9\xd9\xe5\xe4\xe4\xd8J\xc4""B[a\xcaW}\xfeg\xc2_\xc0W\xfdl\xf9~<\xfc\xf7\xf5\xe0\xbe\xe2$\x81""2]\x81G\x04\xf8\xe0\xc2\xcc\xf4L\xa5\x1c\xcf\x92\t\x84""b\xdc"
+"\xe6\x8fG\xfc\xb7\x0b\xff\xfc\x1d\xd3\"\xc4Ib\xb9X*\x14\xe3Q\x12q\x8e""D\x9a\x8c\xf3""2\xa5\"\x89""B\x92)\xc5%\xd2\xff""d\xe2\xdf,\xfb\x03>\xdf""5\0\xb0j>\x01{\x91-\xa8]c\x03\xf6K'\x10Xt\xc0\xe2\xf7\0\0\xf2\xbbo\xc1\xd4(\x08\x03\x80h\x83\xe1\xcfw\xff"
+"\xef?\xfdG\xa0%\0\x80""fI\x92q\0\0^D$.T\xca\xb3?\xc7\x08\0\0""D\xa0\x81*\xb0""A\x1b\xf4\xc1\x18,\xc0\x06\x1c\xc1\x05\xdc\xc1\x0b\xfc`6\x84""B$\xc4\xc2""B\x10""B\n"
+"d\x80\x1cr`)\xac\x82""B(\x86\xcd\xb0\x1d*`/\xd4@\x1d""4\xc0Qh\x86\x93p\x0e.\xc2U\xb8\x0e=p\x0f\xfa""a\x08\x9e\xc1(\xbc\x81\t\x04""A\xc8\x08\x13""a!\xda\x88\x01""b\x8aX#\x8e\x08\x17\x99\x85\xf8!\xc1H\x04\x12\x8b$ \xc9\x88\x14Q\"K\x91""5H1R\x8aT UH\x1d"
+"\xf2=r\x02""9\x87\\F\xba\x91;\xc8\0""2\x82\xfc\x86\xbcG1\x94\x81\xb2Q=\xd4\x0c\xb5""C\xb9\xa8""7\x1a\x84""F\xa2\x0b\xd0""dt1\x9a\x8f\x16\xa0\x9b\xd0r\xb4\x1a=\x8c""6\xa1\xe7\xd0\xabh\x0f\xda\x8f>C\xc7""0\xc0\xe8\x18\x07""3\xc4l0.\xc6\xc3""B\xb1""8,\t"
+"\x93""c\xcb\xb1\"\xac\x0c\xab\xc6\x1a\xb0V\xac\x03\xbb\x89\xf5""c\xcf\xb1w\x04\x12\x81""E\xc0\t6\x04wB a\x1e""AHXLXN\xd8H\xa8 \x1c$4\x11\xda\t7\t\x03\x84Q\xc2'\"\x93\xa8K\xb4&\xba\x11\xf9\xc4\x18""b21\x87XH,#\xd6\x12\x8f\x13/\x10{\x88""C\xc4""7$\x12\x89"
+"C2'\xb9\x90\x02I\xb1\xa4T\xd2\x12\xd2""F\xd2nR#\xe9,\xa9\x9b""4H\x1a#\x93\xc9\xda""dk\xb2\x07""9\x94, +\xc8\x85\xe4\x9d\xe4\xc3\xe4""3\xe4\x1b\xe4!\xf2[\n"
+"\x9d""b@q\xa4\xf8S\xe2(R\xcajJ\x19\xe5\x10\xe5""4\xe5\x06""e\x98""2AU\xa3\x9aR\xdd\xa8\xa1T\x11""5\x8fZB\xad\xa1\xb6R\xafQ\x87\xa8\x13""4u\x9a""9\xcd\x83\x16IK\xa5\xad\xa2\x95\xd3\x1ah\x17h\xf7i\xaf\xe8t\xba\x11\xdd\x95\x1eN\x97\xd0W\xd2\xcb\xe9G\xe8"
+"\x97\xe8\x03\xf4w\x0c\r\x86\x15\x83\xc7\x88g(\x19\x9b\x18\x07\x18g\x19w\x18\xaf\x98L\xa6\x19\xd3\x8b\x19\xc7T071\xeb\x98\xe7\x99\x0f\x99oUX*\xb6*|\x15\x91\xca\n"
+"\x95J\x95&\x95\x1b*/T\xa9\xaa\xa6\xaa\xde\xaa\x0bU\xf3U\xcbT\x8f\xa9^S}\xae""FU3S\xe3\xa9\t\xd4\x96\xabU\xaa\x9dP\xebS\x1bSg\xa9;\xa8\x87\xaag\xa8oT?\xa4~Y\xfd\x89\x06Y\xc3L\xc3OC\xa4Q\xa0\xb1_\xe3\xbc\xc6 \x0b""c\x19\xb3x,!k\r\xab\x86u\x81""5\xc4&\xb1"
+"\xcd\xd9|v*\xbb\x98\xfd\x1d\xbb\x8b=\xaa\xa9\xa1""9C3J3W\xb3R\xf3\x94""f?\x07\xe3\x98q\xf8\x9ctN\t\xe7(\xa7\x97\xf3~\x8a\xde\x14\xef)\xe2)\x1b\xa6""4L\xb9""1e\\k\xaa\x96\x97\x96X\xabH\xabQ\xabG\xeb\xbd""6\xae\xed\xa7\x9d\xa6\xbd""E\xbbY\xfb\x81\x0e""A"
+"\xc7J'\\'Gg\x8f\xce\x05\x9d\xe7S\xd9S\xdd\xa7\n"
+"\xa7\x16M=:\xf5\xae.\xaak\xa5\x1b\xa1\xbb""Dw\xbfn\xa7\xee\x98\x9e\xbe^\x80\x9eLo\xa7\xdey\xbd\xe7\xfa\x1c}/\xfdT\xfdm\xfa\xa7\xf5G\x0cX\x06\xb3\x0c$\x06\xdb\x0c\xce\x18<\xc5""5qo<\x1d/\xc7\xdb\xf1QC]\xc3@C\xa5""a\x95""a\x97\xe1\x84\x91\xb9\xd1<\xa3\xd5"
+"F\x8d""F\x0f\x8ci\xc6\\\xe3$\xe3m\xc6m\xc6\xa3&\x06&!&KM\xeaM\xee\x9aRM\xb9\xa6)\xa6;L;L\xc7\xcd\xcc\xcd\xa2\xcd\xd6\x99""5\x9b=1\xd7""2\xe7\x9b\xe7\x9b\xd7\x9b\xdf\xb7`ZxZ,\xb6\xa8\xb6\xb8""eI\xb2\xe4Z\xa6Y\xee\xb6\xbcn\x85Z9Y\xa5XUZ]\xb3""F\xad\x9d"
+"\xad%\xd6\xbb\xad\xbb\xa7\x11\xa7\xb9N\x93N\xab\x9e\xd6g\xc3\xb0\xf1\xb6\xc9\xb6\xa9\xb7\x19\xb0\xe5\xd8\x06\xdb\xae\xb6m\xb6}agb\x17g\xb7\xc5\xae\xc3\xee\x93\xbd\x93}\xba}\x8d\xfd=\x07\r\x87\xd9\x0e\xab\x1dZ\x1d~s\xb4r\x14:V:\xde\x9a\xce\x9c\xee?}\xc5"
+"\xf4\x96\xe9/gX\xcf\x10\xcf\xd8""3\xe3\xb6\x13\xcb)\xc4i\x9dS\x9b\xd3Gg\x17g\xb9s\x83\xf3\x88\x8b\x89K\x82\xcb.\x97>.\x9b\x1b\xc6\xdd\xc8\xbd\xe4Jt\xf5q]\xe1z\xd2\xf5\x9d\x9b\xb3\x9b\xc2\xed\xa8\xdb\xaf\xee""6\xeei\xee\x87\xdc\x9f\xcc""4\x9f)\x9eY3s\xd0"
+"\xc3\xc8""C\xe0Q\xe5\xd1?\x0b\x9f\x95""0k\xdf\xac~OCO\x81g\xb5\xe7#/c/\x91W\xad\xd7\xb0\xb7\xa5w\xaa\xf7""a\xef\x17>\xf6>r\x9f\xe3>\xe3<7\xde""2\xdeY_\xcc""7\xc0\xb7\xc8\xb7\xcbO\xc3o\x9e_\x85\xdf""C\x7f#\xff""d\xffz\xff\xd1\0\xa7\x80%\x01g\x03\x89\x81"
+"A\x81[\x02\xfb\xf8z|!\xbf\x8e?:\xdb""e\xf6\xb2\xd9\xed""A\x8c\xa0\xb9""A\x15""A\x8f\x82\xad\x82\xe5\xc1\xad!h\xc8\xec\x90\xad!\xf7\xe7\x98\xce\x91\xcei\x0e\x85P~\xe8\xd6\xd0\x07""a\xe6""a\x8b\xc3~\x0c'\x85\x87\x85W\x86?\x8ep\x88X\x1a\xd1""1\x97""5w\xd1"
+"\xdc""Cs\xdf""D\xfa""D\x96""D\xde\x9bg1O9\xaf-J5*>\xaa.j<\xda""7\xba""4\xba?\xc6.fY\xcc\xd5X\x9dXIlK\x1c""9.*\xae""6nl\xbe\xdf\xfc\xed\xf3\x87\xe2\x9d\xe2\x0b\xe3{\x17\x98/\xc8]py\xa1\xce\xc2\xf4\x85\xa7\x16\xa9.\x12,:\x96@L\x88N8\x94\xf0""A\x10*\xa8"
+"\x16\x8c%\xf2\x13w%\x8e\n"
+"y\xc2\x1d\xc2g\"/\xd1""6\xd1\x88\xd8""C\\*\x1eN\xf2H*Mz\x92\xec\x91\xbc""5y$\xc5""3\xa5,\xe5\xb9\x84'\xa9\x90\xbcL\rL\xdd\x9b:\x9e\x16\x9av m2=:\xbd""1\x83\x92\x91\x90qB\xaa!M\x93\xb6g\xeag\xe6""fv\xcb\xac""e\x85\xb2\xfe\xc5n\x8b\xb7/\x1e\x95\x07\xc9"
+"k\xb3\x90\xac\x05Y-\n"
+"\xb6""B\xa6\xe8TZ(\xd7*\x07\xb2geWf\xbf\xcd\x89\xca""9\x96\xab\x9e+\xcd\xed\xcc\xb3\xca\xdb\x90""7\x9c\xef\x9f\xff\xed\x12\xc2\x12\xe1\x92\xb6\xa5\x86KW-\x1dX\xe6\xbd\xacj9\xb2<qy\xdb\n"
+"\xe3\x15\x05+\x86V\x06\xac<\xb8\x8a\xb6*m\xd5O\xab\xedW\x97\xae~\xbd&zMk\x81^\xc1\xca\x82\xc1\xb5\x01k\xeb\x0bU\n"
+"\xe5\x85}\xeb\xdc\xd7\xed]OX/Y\xdf\xb5""a\xfa\x86\x9d\x1b>\x15\x89\x8a\xae\x14\xdb\x17\x97\x15\x7f\xd8(\xdcx\xe5\x1b\x87o\xca\xbf\x99\xdc\x94\xb4\xa9\xab\xc4\xb9""d\xcf""f\xd2""f\xe9\xe6\xde-\x9e[\x0e\x96\xaa\x97\xe6\x97\x0en\r\xd9\xda\xb4\r\xdfV\xb4"
+"\xed\xf5\xf6""E\xdb/\x97\xcd(\xdb\xbb\x83\xb6""C\xb9\xa3\xbf<\xb8\xbc""e\xa7\xc9\xce\xcd;?T\xa4T\xf4T\xfaT6\xee\xd2\xdd\xb5""a\xd7\xf8n\xd1\xee\x1b{\xbc\xf6""4\xec\xd5\xdb[\xbc\xf7\xfd>\xc9\xbe\xdbU\x01UM\xd5""f\xd5""e\xfbI\xfb\xb3\xf7?\xae\x89\xaa\xe9"
+"\xf8\x96\xfbm]\xadNmq\xed\xc7\x03\xd2\x03\xfd\x07#\x0e\xb6\xd7\xb9\xd4\xd5\x1d\xd2=TR\x8f\xd6+\xebG\x0e\xc7\x1f\xbe\xfe\x9d\xefw-\r6\rU\x8d\x9c\xc6\xe2#pDy\xe4\xe9\xf7\t\xdf\xf7\x1e\r:\xdav\x8c{\xac\xe1\x07\xd3\x1fv\x1dg\x1d/jB\x9a\xf2\x9a""F\x9bS\x9a"
+"\xfb[b[\xbaO\xcc>\xd1\xd6\xea\xdez\xfcG\xdb\x1f\x0f\x9c""4<YyJ\xf3T\xc9i\xda\xe9\x82\xd3\x93g\xf2\xcf\x8c\x9d\x95\x9d}~.\xf9\xdc`\xdb\xa2\xb6{\xe7""c\xce\xdfj\x0fo\xef\xba\x10t\xe1\xd2""E\xff\x8b\xe7;\xbc;\xce\\\xf2\xb8t\xf2\xb2\xdb\xe5\x13W\xb8W\x9a"
+"\xaf:_m\xeat\xea<\xfe\x93\xd3O\xc7\xbb\x9c\xbb\x9a\xae\xb9\\k\xb9\xeez\xbd\xb5{f\xf7\xe9\x1b\x9e""7\xce\xdd\xf4\xbdy\xf1\x16\xff\xd6\xd5\x9e""9=\xdd\xbd\xf3zo\xf7\xc5\xf7\xf5\xdf\x16\xdd~r'\xfd\xce\xcb\xbb\xd9w'\xee\xad\xbcO\xbc_\xf4@\xed""A\xd9""C\xdd"
+"\x87\xd5?[\xfe\xdc\xd8\xef\xdc\x7fj\xc0w\xa0\xf3\xd1\xdcG\xf7\x06\x85\x83\xcf\xfe\x91\xf5\x8f\x0f""C\x05\x8f\x99\x8f\xcb\x86\r\x86\xeb\x9e""8>99\xe2?r\xfd\xe9\xfc\xa7""C\xcf""d\xcf&\x9e\x17\xfe\xa2\xfe\xcb\xae\x17\x16/~\xf8\xd5\xeb\xd7\xce\xd1\x98\xd1"
+"\xa1\x97\xf2\x97\x93\xbfm|\xa5\xfd\xea\xc0\xeb\x19\xaf\xdb\xc6\xc2\xc6\x1e\xbe\xc9x31^\xf4V\xfb\xed\xc1w\xdcw\x1d\xef\xa3\xdf\x0fO\xe4| \x7f(\xffh\xf9\xb1\xf5S\xd0\xa7\xfb\x93\x19\x93\x93\xff\x04\x03\x98\xf3\xfc""c3-\xdb\0\0""F;iTXtXML:com.adobe.xmp\0"
+"\0\0\0\0<?xpacket begin=\"\xef\xbb\xbf\" id=\"W5M0MpCehiHzreSzNTczkc9d\"?>\n"
+"<x:xmpmeta xmlns:x=\"adobe:ns:meta/\" x:xmptk=\"Adobe XMP Core 5.6-c111 79.158325, 2015/09/10-01:10:20        \">\n"
+"   <rdf:RDF xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\">\n"
+"      <rdf:Description rdf:about=\"\"\n"
+"            xmlns:xmp=\"http://ns.adobe.com/xap/1.0/\"\n"
+"            xmlns:dc=\"http://purl.org/dc/elements/1.1/\"\n"
+"            xmlns:xmpMM=\"http://ns.adobe.com/xap/1.0/mm/\"\n"
+"            xmlns:stEvt=\"http://ns.adobe.com/xap/1.0/sType/ResourceEvent#\"\n"
+"            xmlns:stRef=\"http://ns.adobe.com/xap/1.0/sType/ResourceRef#\"\n"
+"            xmlns:photoshop=\"http://ns.adobe.com/photoshop/1.0/\"\n"
+"            xmlns:tiff=\"http://ns.adobe.com/tiff/1.0/\"\n"
+"            xmlns:exif=\"http://ns.adobe.com/exif/1.0/\">\n"
+"         <xmp:CreatorTool>Adobe Photoshop CC 2015 (Windows)</xmp:CreatorTool>\n"
+"         <xmp:CreateDate>2016-10-25T21:04:31+02:00</xmp:CreateDate>\n"
+"         <xmp:MetadataDate>2016-11-08T20:32:17+01:00</xmp:MetadataDate>\n"
+"         <xmp:ModifyDate>2016-11-08T20:32:17+01:00</xmp:ModifyDate>\n"
+"         <dc:format>image/png</dc:format>\n"
+"         <xmpMM:InstanceID>xmp.iid:9c37b425-56a5-494c-a7bf-3c19ebd872b1</xmpMM:InstanceID>\n"
+"         <xmpMM:DocumentID>adobe:docid:photoshop:035315c8-a5ea-11e6-824c-d23118c46444</xmpMM:DocumentID>\n"
+"         <xmpMM:OriginalDocumentID>xmp.did:45d6e837-6aef-3542-a794-f3d50766d1a9</xmpMM:OriginalDocumentID>\n"
+"         <xmpMM:History>\n"
+"            <rdf:Seq>\n"
+"               <rdf:li rdf:parseType=\"Resource\">\n"
+"                  <stEvt:action>created</stEvt:action>\n"
+"                  <stEvt:instanceID>xmp.iid:45d6e837-6aef-3542-a794-f3d50766d1a9</stEvt:instanceID>\n"
+"                  <stEvt:when>2016-10-25T21:04:31+02:00</stEvt:when>\n"
+"                  <stEvt:softwareAgent>Adobe Photoshop CC 2015 (Windows)</stEvt:softwareAgent>\n"
+"               </rdf:li>\n"
+"               <rdf:li rdf:parseType=\"Resource\">\n"
+"                  <stEvt:action>saved</stEvt:action>\n"
+"                  <stEvt:instanceID>xmp.iid:577ca280-8153-c14c-a45e-cfcdf62b282c</stEvt:instanceID>\n"
+"                  <stEvt:when>2016-10-25T21:07:55+02:00</stEvt:when>\n"
+"                  <stEvt:softwareAgent>Adobe Photoshop CC 2015 (Windows)</stEvt:softwareAgent>\n"
+"                  <stEvt:changed>/</stEvt:changed>\n"
+"               </rdf:li>\n"
+"               <rdf:li rdf:parseType=\"Resource\">\n"
+"                  <stEvt:action>saved</stEvt:action>\n"
+"                  <stEvt:instanceID>xmp.iid:c50f0358-afd8-af4c-a8ad-00983ddb4d72</stEvt:instanceID>\n"
+"                  <stEvt:when>2016-11-08T20:32:17+01:00</stEvt:when>\n"
+"                  <stEvt:softwareAgent>Adobe Photoshop CC 2015 (Windows)</stEvt:softwareAgent>\n"
+"                  <stEvt:changed>/</stEvt:changed>\n"
+"               </rdf:li>\n"
+"               <rdf:li rdf:parseType=\"Resource\">\n"
+"                  <stEvt:action>converted</stEvt:action>\n"
+"                  <stEvt:parameters>from application/vnd.adobe.photoshop to image/png</stEvt:parameters>\n"
+"               </rdf:li>\n"
+"               <rdf:li rdf:parseType=\"Resource\">\n"
+"                  <stEvt:action>derived</stEvt:action>\n"
+"                  <stEvt:parameters>converted from application/vnd.adobe.photoshop to image/png</stEvt:parameters>\n"
+"               </rdf:li>\n"
+"               <rdf:li rdf:parseType=\"Resource\">\n"
+"                  <stEvt:action>saved</stEvt:action>\n"
+"                  <stEvt:instanceID>xmp.iid:9c37b425-56a5-494c-a7bf-3c19ebd872b1</stEvt:instanceID>\n"
+"                  <stEvt:when>2016-11-08T20:32:17+01:00</stEvt:when>\n"
+"                  <stEvt:softwareAgent>Adobe Photoshop CC 2015 (Windows)</stEvt:softwareAgent>\n"
+"                  <stEvt:changed>/</stEvt:changed>\n"
+"               </rdf:li>\n"
+"            </rdf:Seq>\n"
+"         </xmpMM:History>\n"
+"         <xmpMM:DerivedFrom rdf:parseType=\"Resource\">\n"
+"            <stRef:instanceID>xmp.iid:c50f0358-afd8-af4c-a8ad-00983ddb4d72</stRef:instanceID>\n"
+"            <stRef:documentID>adobe:docid:photoshop:e541d274-a29d-11e6-9a76-f5d39ed24dee</stRef:documentID>\n"
+"            <stRef:originalDocumentID>xmp.did:45d6e837-6aef-3542-a794-f3d50766d1a9</stRef:originalDocumentID>\n"
+"         </xmpMM:DerivedFrom>\n"
+"         <photoshop:ColorMode>3</photoshop:ColorMode>\n"
+"         <photoshop:ICCProfile>sRGB IEC61966-2.1</photoshop:ICCProfile>\n"
+"         <photoshop:TextLayers>\n"
+"            <rdf:Bag>\n"
+"               <rdf:li rdf:parseType=\"Resource\">\n"
+"                  <photoshop:LayerName>THRESH</photoshop:LayerName>\n"
+"                  <photoshop:LayerText>THRESH</photoshop:LayerText>\n"
+"               </rdf:li>\n"
+"               <rdf:li rdf:parseType=\"Resource\">\n"
+"                  <photoshop:LayerName>CUTOFF</photoshop:LayerName>\n"
+"                  <photoshop:LayerText>CUTOFF</photoshop:LayerText>\n"
+"               </rdf:li>\n"
+"               <rdf:li rdf:parseType=\"Resource\">\n"
+"                  <photoshop:LayerName>GAIN</photoshop:LayerName>\n"
+"                  <photoshop:LayerText>GAIN</photoshop:LayerText>\n"
+"               </rdf:li>\n"
+"               <rdf:li rdf:parseType=\"Resource\">\n"
+"                  <photoshop:LayerName>FREQ</photoshop:LayerName>\n"
+"                  <photoshop:LayerText>FREQ</photoshop:LayerText>\n"
+"               </rdf:li>\n"
+"            </rdf:Bag>\n"
+"         </photoshop:TextLayers>\n"
+"         <photoshop:DocumentAncestors>\n"
+"            <rdf:Bag>\n"
+"               <rdf:li>adobe:docid:photoshop:44f428ce-a353-11e6-8c38-e3720d35a39e</rdf:li>\n"
+"               <rdf:li>adobe:docid:photoshop:99c02727-a29c-11e6-9a76-f5d39ed24dee</rdf:li>\n"
+"            </rdf:Bag>\n"
+"         </photoshop:DocumentAncestors>\n"
+"         <tiff:Orientation>1</tiff:Orientation>\n"
+"         <tiff:XResolution>720000/10000</tiff:XResolution>\n"
+"         <tiff:YResolution>720000/10000</tiff:YResolution>\n"
+"         <tiff:ResolutionUnit>2</tiff:ResolutionUnit>\n"
+"         <exif:ColorSpace>1</exif:ColorSpace>\n"
+"         <exif:PixelXDimension>130</exif:PixelXDimension>\n"
+"         <exif:PixelYDimension>130</exif:PixelYDimension>\n"
+"      </rdf:Description>\n"
+"   </rdf:RDF>\n"
+"</x:xmpmeta>\n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                            \n"
+"<?xpacket end=\"w\"?>+\x7f\xbbJ\0\0\0 cHRM\0\0z%\0\0\x80\x83\0\0\xf9\xff\0\0\x80\xe9\0\0u0\0\0\xea`\0\0:\x98\0\0\x17o\x92_\xc5""F\0\0\x02\xb4IDATx\xda\xec\xdd\xc1M\"Q\0\xc7\xe1\xbf\x9bm\x80\x16""8\xd0\0wNX\x82\x96 %H\tR\xc2X\x82\x96\xe0\x9c\xb8O\x03\x1c"
+"l\x81\x12\xdc\xc3\xbeq'd\x06\xdc""du\x19\xf9\xbe\xc4\xa8\xf0\x08\x86\xf9\xcd\xe3=\xc7\xc4\xab\xb7\xb7\xb7\xc0\x0f/\x01""B@\x08\x08\x01! \x04\x84\x80\x10\x10\x02""B@\x08\x08\x01! \x04\x84\x80\x10\x10\x02""B@\x08\x08\x01! \x04\x84\x80\x10\x10\x02""B@\x08"
+"\x08\x01! \x04\x84\x80\x10\x10\x02""B@\x08\x08\x01! \x04\x84\x80\x10\x10\x02""B@\x08\x08\x01! \x04\x84\x80\x10\x10\x02""B@\x08\x08\x01\x84\x80\x10\x10\x02""B\xa0\xd7\xcf""1\xfe\xd0\xd5v7M2=2\xe4\xb5|\xcc\x93L\x0e\xee\xdb'iz\x1e\xd3""7\xb6\xab>\xf8~\x9a"
+"d\xd9yL\xbdZ\xcc\x9a\xb1\x86p5\xc6\xff\x04[mw\xf7I\x1e\x8e\x0cY'\xd9$y)\x07+=1\xac\x93<vn\x1b\x1a\xfb\xfeZu\xbe\x1ez\xfe:\xc9\xedj1\xdb\x9b\x11\xbe\xd6""c\x92\xe7\x81\x19\xe1""0\x8c\xa6s&?$\xa9\xca\xb8\xfa\xc8\xd8>7\xe5\xf1M\x92\xf5j1\xab\xcb\x0cu\x9f"
+"\xe4.\xc9S\x92k!|\xad\xbe\x03\xd9\xa7\xe9\x19W\x95\x03W\x7f`lW;\x13\xdc\xb6\xc1\xad\x16\xb3\xd7$\xab\x12\xc4\xb2\xda\xee\x96\xab\xc5\xac\x1e\xd3\x0by\xa9\x8b\xc5v\xc6\x98\xfc\xe5\xe3\xe6""eFizf\x9d\xee:bn\xd7\xf0\xbdM:k\x8c\xa1\x99''\xd6\x1a\xde\x1a\xce"
+"\xc8\xdd\xc0N`\xe8ln\x8e\x1c|\xdb\xc7""39\xa0\x87g\xdf\xf3\xc1n\xa0}_\xdfw\x16\x8b\xd3""2fsd\r\xd0u\xfd\xc1\xb5\x88\x10\xce\xdc|`\x0b""9\xb4\x13y=\xb1\x0b\x11\xc2\x19n\x1f""7\x1f\x18\xd7=\xa3'e\x8bw_b\xd8\xf4\xcc(u.\xcc%.\x16\xbb\x07\x7f\xf9\x89\xcf!"
+"\x84\x0b\xd8vNO\xbc\x05""5B\xf8\xfe!4\xf9s\x9d\xe1]\xb5\xddMN\xec""F\xac\x11\xce\xd0\xb1\xfd\xfe\xcd\xc0\xe2\xb2};Y\xe7\xf7u\x89\xa7$\x9bj\xbbk\xc3\xb8+\x9f\xf7""c\\\\^j\x08\xed\xc1j\xcf\xec\xba\xe7w\x0c""C!\xd4""e\xf1Y\x1dl5\xf7\xe5\xbe""e\xb9}5\xa6"
+"\x17""d\x94W\x1f\x0f\xa6\xe4\xff\xf9\xf4\xef\x97\xc3\xdbk\x0b\xd5v\xf7Rf\x94\xdb""1]o\xb8\xd4\x19\xe1\x9f\xad\x19\xca\x05\xa7\xae\xdb$\xd3\xb1\xfdm\xc2\xe8g\x04\xec\x1a\x10\x02""B@\x08\x08\x01! \x04\x84\x80\x10\x10\x02""B@\x08\x08\x01! \x04\x84\x80\x10"
+"\x10\x02""B@\x08\x08\x01! \x04\x84\x80\x10\x10\x02""B@\x08\x08\x01! \x04\x84\x80\x10\x10\x02""B@\x08\x08\x01!\x80\x10\x10\x02""B@\x08\x08\x01! \x04\x84\x80\x10\x10\x02""B@\x08\x08\x01! \x04\x84\x80\x10\xf8$\xbf\x06\0M2\x86\xcaR\x8e\xac\xfb\0\0\0\0IEN"
+"D\xae""B`\x82";
+
+const char* label_freq_png = (const char*) temp_binary_data_4;
+
+//================== label_gain.png ==================
+static const unsigned char temp_binary_data_5[] =
+"\x89PNG\r\n"
+"\x1a\n"
+"\0\0\0\rIHDR\0\0\0\x82\0\0\0\x82\x08\x06\0\0\0\x8a\x03\x10\xfd\0\0\0\tpHYs\0\0\x0b\x13\0\0\x0b\x13\x01\0\x9a\x9c\x18\0\0\n"
+"OiCCPPhotoshop ICC profile\0\0x\xda\x9dSgTS\xe9\x16=\xf7\xde\xf4""BK\x88\x80\x94KoR\x15\x08 RB\x8b\x80\x14\x91&*!\t\x10J\x88!\xa1\xd9\x15Q\xc1\x11""EE\x04\x1b\xc8\xa0\x88\x03\x8e\x8e\x80\x8c\x15Q,\x0c\x8a\n"
+"\xd8\x07\xe4!\xa2\x8e\x83\xa3\x88\x8a\xca\xfb\xe1{\xa3k\xd6\xbc\xf7\xe6\xcd\xfe\xb5\xd7>\xe7\xac\xf3\x9d\xb3\xcf\x07\xc0\x08\x0c\x96H3Q5\x80\x0c\xa9""B\x1e\x11\xe0\x83\xc7\xc4\xc6\xe1\xe4.@\x81\n"
+"$p\0\x10\x08\xb3""d!s\xfd#\x01\0\xf8~<<+\"\xc0\x07\xbe\0\x01x\xd3\x0b\x08\0\xc0M\x9b\xc0""0\x1c\x87\xff\x0f\xea""B\x99\\\x01\x80\x84\x01\xc0t\x91""8K\x08\x80\x14\0@z\x8e""B\xa6\0@F\x01\x80\x9d\x98&S\0\xa0\x04\0`\xcb""cb\xe3\0P-\0`'\x7f\xe6\xd3\0\x80\x9d"
+"\xf8\x99{\x01\0[\x94!\x15\x01\xa0\x91\0 \x13""e\x88""D\0h;\0\xac\xcfV\x8a""E\0X0\0\x14""fK\xc4""9\0\xd8-\0""0IWfH\0\xb0\xb7\0\xc0\xce\x10\x0b\xb2\0\x08\x0c\0""0Q\x88\x85)\0\x04{\0`\xc8##x\0\x84\x99\0\x14""F\xf2W<\xf1+\xae\x10\xe7*\0\0x\x99\xb2<\xb9$9"
+"E\x81[\x08-q\x07WW.\x1e(\xceI\x17+\x14""6a\x02""a\x9a@.\xc2y\x99\x19""2\x81""4\x0f\xe0\xf3\xcc\0\0\xa0\x91\x15\x11\xe0\x83\xf3\xfdx\xce\x0e\xae\xce\xce""6\x8e\xb6\x0e_-\xea\xbf\x06\xff\"bb\xe3\xfe\xe5\xcf\xabp@\0\0\xe1t~\xd1\xfe,/\xb3\x1a\x80;\x06\x80"
+"m\xfe\xa2%\xee\x04h^\x0b\xa0u\xf7\x8b""f\xb2\x0f@\xb5\0\xa0\xe9\xdaW\xf3p\xf8~<<E\xa1\x90\xb9\xd9\xd9\xe5\xe4\xe4\xd8J\xc4""B[a\xcaW}\xfeg\xc2_\xc0W\xfdl\xf9~<\xfc\xf7\xf5\xe0\xbe\xe2$\x81""2]\x81G\x04\xf8\xe0\xc2\xcc\xf4L\xa5\x1c\xcf\x92\t\x84""b\xdc"
+"\xe6\x8fG\xfc\xb7\x0b\xff\xfc\x1d\xd3\"\xc4Ib\xb9X*\x14\xe3Q\x12q\x8e""D\x9a\x8c\xf3""2\xa5\"\x89""B\x92)\xc5%\xd2\xff""d\xe2\xdf,\xfb\x03>\xdf""5\0\xb0j>\x01{\x91-\xa8]c\x03\xf6K'\x10Xt\xc0\xe2\xf7\0\0\xf2\xbbo\xc1\xd4(\x08\x03\x80h\x83\xe1\xcfw\xff"
+"\xef?\xfdG\xa0%\0\x80""fI\x92q\0\0^D$.T\xca\xb3?\xc7\x08\0\0""D\xa0\x81*\xb0""A\x1b\xf4\xc1\x18,\xc0\x06\x1c\xc1\x05\xdc\xc1\x0b\xfc`6\x84""B$\xc4\xc2""B\x10""B\n"
+"d\x80\x1cr`)\xac\x82""B(\x86\xcd\xb0\x1d*`/\xd4@\x1d""4\xc0Qh\x86\x93p\x0e.\xc2U\xb8\x0e=p\x0f\xfa""a\x08\x9e\xc1(\xbc\x81\t\x04""A\xc8\x08\x13""a!\xda\x88\x01""b\x8aX#\x8e\x08\x17\x99\x85\xf8!\xc1H\x04\x12\x8b$ \xc9\x88\x14Q\"K\x91""5H1R\x8aT UH\x1d"
+"\xf2=r\x02""9\x87\\F\xba\x91;\xc8\0""2\x82\xfc\x86\xbcG1\x94\x81\xb2Q=\xd4\x0c\xb5""C\xb9\xa8""7\x1a\x84""F\xa2\x0b\xd0""dt1\x9a\x8f\x16\xa0\x9b\xd0r\xb4\x1a=\x8c""6\xa1\xe7\xd0\xabh\x0f\xda\x8f>C\xc7""0\xc0\xe8\x18\x07""3\xc4l0.\xc6\xc3""B\xb1""8,\t"
+"\x93""c\xcb\xb1\"\xac\x0c\xab\xc6\x1a\xb0V\xac\x03\xbb\x89\xf5""c\xcf\xb1w\x04\x12\x81""E\xc0\t6\x04wB a\x1e""AHXLXN\xd8H\xa8 \x1c$4\x11\xda\t7\t\x03\x84Q\xc2'\"\x93\xa8K\xb4&\xba\x11\xf9\xc4\x18""b21\x87XH,#\xd6\x12\x8f\x13/\x10{\x88""C\xc4""7$\x12\x89"
+"C2'\xb9\x90\x02I\xb1\xa4T\xd2\x12\xd2""F\xd2nR#\xe9,\xa9\x9b""4H\x1a#\x93\xc9\xda""dk\xb2\x07""9\x94, +\xc8\x85\xe4\x9d\xe4\xc3\xe4""3\xe4\x1b\xe4!\xf2[\n"
+"\x9d""b@q\xa4\xf8S\xe2(R\xcajJ\x19\xe5\x10\xe5""4\xe5\x06""e\x98""2AU\xa3\x9aR\xdd\xa8\xa1T\x11""5\x8fZB\xad\xa1\xb6R\xafQ\x87\xa8\x13""4u\x9a""9\xcd\x83\x16IK\xa5\xad\xa2\x95\xd3\x1ah\x17h\xf7i\xaf\xe8t\xba\x11\xdd\x95\x1eN\x97\xd0W\xd2\xcb\xe9G\xe8"
+"\x97\xe8\x03\xf4w\x0c\r\x86\x15\x83\xc7\x88g(\x19\x9b\x18\x07\x18g\x19w\x18\xaf\x98L\xa6\x19\xd3\x8b\x19\xc7T071\xeb\x98\xe7\x99\x0f\x99oUX*\xb6*|\x15\x91\xca\n"
+"\x95J\x95&\x95\x1b*/T\xa9\xaa\xa6\xaa\xde\xaa\x0bU\xf3U\xcbT\x8f\xa9^S}\xae""FU3S\xe3\xa9\t\xd4\x96\xabU\xaa\x9dP\xebS\x1bSg\xa9;\xa8\x87\xaag\xa8oT?\xa4~Y\xfd\x89\x06Y\xc3L\xc3OC\xa4Q\xa0\xb1_\xe3\xbc\xc6 \x0b""c\x19\xb3x,!k\r\xab\x86u\x81""5\xc4&\xb1"
+"\xcd\xd9|v*\xbb\x98\xfd\x1d\xbb\x8b=\xaa\xa9\xa1""9C3J3W\xb3R\xf3\x94""f?\x07\xe3\x98q\xf8\x9ctN\t\xe7(\xa7\x97\xf3~\x8a\xde\x14\xef)\xe2)\x1b\xa6""4L\xb9""1e\\k\xaa\x96\x97\x96X\xabH\xabQ\xabG\xeb\xbd""6\xae\xed\xa7\x9d\xa6\xbd""E\xbbY\xfb\x81\x0e""A"
+"\xc7J'\\'Gg\x8f\xce\x05\x9d\xe7S\xd9S\xdd\xa7\n"
+"\xa7\x16M=:\xf5\xae.\xaak\xa5\x1b\xa1\xbb""Dw\xbfn\xa7\xee\x98\x9e\xbe^\x80\x9eLo\xa7\xdey\xbd\xe7\xfa\x1c}/\xfdT\xfdm\xfa\xa7\xf5G\x0cX\x06\xb3\x0c$\x06\xdb\x0c\xce\x18<\xc5""5qo<\x1d/\xc7\xdb\xf1QC]\xc3@C\xa5""a\x95""a\x97\xe1\x84\x91\xb9\xd1<\xa3\xd5"
+"F\x8d""F\x0f\x8ci\xc6\\\xe3$\xe3m\xc6m\xc6\xa3&\x06&!&KM\xeaM\xee\x9aRM\xb9\xa6)\xa6;L;L\xc7\xcd\xcc\xcd\xa2\xcd\xd6\x99""5\x9b=1\xd7""2\xe7\x9b\xe7\x9b\xd7\x9b\xdf\xb7`ZxZ,\xb6\xa8\xb6\xb8""eI\xb2\xe4Z\xa6Y\xee\xb6\xbcn\x85Z9Y\xa5XUZ]\xb3""F\xad\x9d"
+"\xad%\xd6\xbb\xad\xbb\xa7\x11\xa7\xb9N\x93N\xab\x9e\xd6g\xc3\xb0\xf1\xb6\xc9\xb6\xa9\xb7\x19\xb0\xe5\xd8\x06\xdb\xae\xb6m\xb6}agb\x17g\xb7\xc5\xae\xc3\xee\x93\xbd\x93}\xba}\x8d\xfd=\x07\r\x87\xd9\x0e\xab\x1dZ\x1d~s\xb4r\x14:V:\xde\x9a\xce\x9c\xee?}\xc5"
+"\xf4\x96\xe9/gX\xcf\x10\xcf\xd8""3\xe3\xb6\x13\xcb)\xc4i\x9dS\x9b\xd3Gg\x17g\xb9s\x83\xf3\x88\x8b\x89K\x82\xcb.\x97>.\x9b\x1b\xc6\xdd\xc8\xbd\xe4Jt\xf5q]\xe1z\xd2\xf5\x9d\x9b\xb3\x9b\xc2\xed\xa8\xdb\xaf\xee""6\xeei\xee\x87\xdc\x9f\xcc""4\x9f)\x9eY3s\xd0"
+"\xc3\xc8""C\xe0Q\xe5\xd1?\x0b\x9f\x95""0k\xdf\xac~OCO\x81g\xb5\xe7#/c/\x91W\xad\xd7\xb0\xb7\xa5w\xaa\xf7""a\xef\x17>\xf6>r\x9f\xe3>\xe3<7\xde""2\xdeY_\xcc""7\xc0\xb7\xc8\xb7\xcbO\xc3o\x9e_\x85\xdf""C\x7f#\xff""d\xffz\xff\xd1\0\xa7\x80%\x01g\x03\x89\x81"
+"A\x81[\x02\xfb\xf8z|!\xbf\x8e?:\xdb""e\xf6\xb2\xd9\xed""A\x8c\xa0\xb9""A\x15""A\x8f\x82\xad\x82\xe5\xc1\xad!h\xc8\xec\x90\xad!\xf7\xe7\x98\xce\x91\xcei\x0e\x85P~\xe8\xd6\xd0\x07""a\xe6""a\x8b\xc3~\x0c'\x85\x87\x85W\x86?\x8ep\x88X\x1a\xd1""1\x97""5w\xd1"
+"\xdc""Cs\xdf""D\xfa""D\x96""D\xde\x9bg1O9\xaf-J5*>\xaa.j<\xda""7\xba""4\xba?\xc6.fY\xcc\xd5X\x9dXIlK\x1c""9.*\xae""6nl\xbe\xdf\xfc\xed\xf3\x87\xe2\x9d\xe2\x0b\xe3{\x17\x98/\xc8]py\xa1\xce\xc2\xf4\x85\xa7\x16\xa9.\x12,:\x96@L\x88N8\x94\xf0""A\x10*\xa8"
+"\x16\x8c%\xf2\x13w%\x8e\n"
+"y\xc2\x1d\xc2g\"/\xd1""6\xd1\x88\xd8""C\\*\x1eN\xf2H*Mz\x92\xec\x91\xbc""5y$\xc5""3\xa5,\xe5\xb9\x84'\xa9\x90\xbcL\rL\xdd\x9b:\x9e\x16\x9av m2=:\xbd""1\x83\x92\x91\x90qB\xaa!M\x93\xb6g\xeag\xe6""fv\xcb\xac""e\x85\xb2\xfe\xc5n\x8b\xb7/\x1e\x95\x07\xc9"
+"k\xb3\x90\xac\x05Y-\n"
+"\xb6""B\xa6\xe8TZ(\xd7*\x07\xb2geWf\xbf\xcd\x89\xca""9\x96\xab\x9e+\xcd\xed\xcc\xb3\xca\xdb\x90""7\x9c\xef\x9f\xff\xed\x12\xc2\x12\xe1\x92\xb6\xa5\x86KW-\x1dX\xe6\xbd\xacj9\xb2<qy\xdb\n"
+"\xe3\x15\x05+\x86V\x06\xac<\xb8\x8a\xb6*m\xd5O\xab\xedW\x97\xae~\xbd&zMk\x81^\xc1\xca\x82\xc1\xb5\x01k\xeb\x0bU\n"
+"\xe5\x85}\xeb\xdc\xd7\xed]OX/Y\xdf\xb5""a\xfa\x86\x9d\x1b>\x15\x89\x8a\xae\x14\xdb\x17\x97\x15\x7f\xd8(\xdcx\xe5\x1b\x87o\xca\xbf\x99\xdc\x94\xb4\xa9\xab\xc4\xb9""d\xcf""f\xd2""f\xe9\xe6\xde-\x9e[\x0e\x96\xaa\x97\xe6\x97\x0en\r\xd9\xda\xb4\r\xdfV\xb4"
+"\xed\xf5\xf6""E\xdb/\x97\xcd(\xdb\xbb\x83\xb6""C\xb9\xa3\xbf<\xb8\xbc""e\xa7\xc9\xce\xcd;?T\xa4T\xf4T\xfaT6\xee\xd2\xdd\xb5""a\xd7\xf8n\xd1\xee\x1b{\xbc\xf6""4\xec\xd5\xdb[\xbc\xf7\xfd>\xc9\xbe\xdbU\x01UM\xd5""f\xd5""e\xfbI\xfb\xb3\xf7?\xae\x89\xaa\xe9"
+"\xf8\x96\xfbm]\xadNmq\xed\xc7\x03\xd2\x03\xfd\x07#\x0e\xb6\xd7\xb9\xd4\xd5\x1d\xd2=TR\x8f\xd6+\xebG\x0e\xc7\x1f\xbe\xfe\x9d\xefw-\r6\rU\x8d\x9c\xc6\xe2#pDy\xe4\xe9\xf7\t\xdf\xf7\x1e\r:\xdav\x8c{\xac\xe1\x07\xd3\x1fv\x1dg\x1d/jB\x9a\xf2\x9a""F\x9bS\x9a"
+"\xfb[b[\xbaO\xcc>\xd1\xd6\xea\xdez\xfcG\xdb\x1f\x0f\x9c""4<YyJ\xf3T\xc9i\xda\xe9\x82\xd3\x93g\xf2\xcf\x8c\x9d\x95\x9d}~.\xf9\xdc`\xdb\xa2\xb6{\xe7""c\xce\xdfj\x0fo\xef\xba\x10t\xe1\xd2""E\xff\x8b\xe7;\xbc;\xce\\\xf2\xb8t\xf2\xb2\xdb\xe5\x13W\xb8W\x9a"
+"\xaf:_m\xeat\xea<\xfe\x93\xd3O\xc7\xbb\x9c\xbb\x9a\xae\xb9\\k\xb9\xeez\xbd\xb5{f\xf7\xe9\x1b\x9e""7\xce\xdd\xf4\xbdy\xf1\x16\xff\xd6\xd5\x9e""9=\xdd\xbd\xf3zo\xf7\xc5\xf7\xf5\xdf\x16\xdd~r'\xfd\xce\xcb\xbb\xd9w'\xee\xad\xbcO\xbc_\xf4@\xed""A\xd9""C\xdd"
+"\x87\xd5?[\xfe\xdc\xd8\xef\xdc\x7fj\xc0w\xa0\xf3\xd1\xdcG\xf7\x06\x85\x83\xcf\xfe\x91\xf5\x8f\x0f""C\x05\x8f\x99\x8f\xcb\x86\r\x86\xeb\x9e""8>99\xe2?r\xfd\xe9\xfc\xa7""C\xcf""d\xcf&\x9e\x17\xfe\xa2\xfe\xcb\xae\x17\x16/~\xf8\xd5\xeb\xd7\xce\xd1\x98\xd1"
+"\xa1\x97\xf2\x97\x93\xbfm|\xa5\xfd\xea\xc0\xeb\x19\xaf\xdb\xc6\xc2\xc6\x1e\xbe\xc9x31^\xf4V\xfb\xed\xc1w\xdcw\x1d\xef\xa3\xdf\x0fO\xe4| \x7f(\xffh\xf9\xb1\xf5S\xd0\xa7\xfb\x93\x19\x93\x93\xff\x04\x03\x98\xf3\xfc""c3-\xdb\0\0G\x05iTXtXML:com.adobe.xmp"
+"\0\0\0\0\0<?xpacket begin=\"\xef\xbb\xbf\" id=\"W5M0MpCehiHzreSzNTczkc9d\"?>\n"
+"<x:xmpmeta xmlns:x=\"adobe:ns:meta/\" x:xmptk=\"Adobe XMP Core 5.6-c111 79.158325, 2015/09/10-01:10:20        \">\n"
+"   <rdf:RDF xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\">\n"
+"      <rdf:Description rdf:about=\"\"\n"
+"            xmlns:xmp=\"http://ns.adobe.com/xap/1.0/\"\n"
+"            xmlns:dc=\"http://purl.org/dc/elements/1.1/\"\n"
+"            xmlns:xmpMM=\"http://ns.adobe.com/xap/1.0/mm/\"\n"
+"            xmlns:stEvt=\"http://ns.adobe.com/xap/1.0/sType/ResourceEvent#\"\n"
+"            xmlns:stRef=\"http://ns.adobe.com/xap/1.0/sType/ResourceRef#\"\n"
+"            xmlns:photoshop=\"http://ns.adobe.com/photoshop/1.0/\"\n"
+"            xmlns:tiff=\"http://ns.adobe.com/tiff/1.0/\"\n"
+"            xmlns:exif=\"http://ns.adobe.com/exif/1.0/\">\n"
+"         <xmp:CreatorTool>Adobe Photoshop CC 2015 (Windows)</xmp:CreatorTool>\n"
+"         <xmp:CreateDate>2016-10-25T21:04:31+02:00</xmp:CreateDate>\n"
+"         <xmp:MetadataDate>2016-11-05T15:11:23+01:00</xmp:MetadataDate>\n"
+"         <xmp:ModifyDate>2016-11-05T15:11:23+01:00</xmp:ModifyDate>\n"
+"         <dc:format>image/png</dc:format>\n"
+"         <xmpMM:InstanceID>xmp.iid:db1dda5a-b12c-a44e-a75b-b2dfd298f809</xmpMM:InstanceID>\n"
+"         <xmpMM:DocumentID>adobe:docid:photoshop:bb471d2b-a361-11e6-a9ac-98f1e4eeebd5</xmpMM:DocumentID>\n"
+"         <xmpMM:OriginalDocumentID>xmp.did:45d6e837-6aef-3542-a794-f3d50766d1a9</xmpMM:OriginalDocumentID>\n"
+"         <xmpMM:History>\n"
+"            <rdf:Seq>\n"
+"               <rdf:li rdf:parseType=\"Resource\">\n"
+"                  <stEvt:action>created</stEvt:action>\n"
+"                  <stEvt:instanceID>xmp.iid:45d6e837-6aef-3542-a794-f3d50766d1a9</stEvt:instanceID>\n"
+"                  <stEvt:when>2016-10-25T21:04:31+02:00</stEvt:when>\n"
+"                  <stEvt:softwareAgent>Adobe Photoshop CC 2015 (Windows)</stEvt:softwareAgent>\n"
+"               </rdf:li>\n"
+"               <rdf:li rdf:parseType=\"Resource\">\n"
+"                  <stEvt:action>saved</stEvt:action>\n"
+"                  <stEvt:instanceID>xmp.iid:577ca280-8153-c14c-a45e-cfcdf62b282c</stEvt:instanceID>\n"
+"                  <stEvt:when>2016-10-25T21:07:55+02:00</stEvt:when>\n"
+"                  <stEvt:softwareAgent>Adobe Photoshop CC 2015 (Windows)</stEvt:softwareAgent>\n"
+"                  <stEvt:changed>/</stEvt:changed>\n"
+"               </rdf:li>\n"
+"               <rdf:li rdf:parseType=\"Resource\">\n"
+"                  <stEvt:action>saved</stEvt:action>\n"
+"                  <stEvt:instanceID>xmp.iid:e4cb414a-ab6b-e141-8385-06f1a70620a9</stEvt:instanceID>\n"
+"                  <stEvt:when>2016-11-05T15:11:23+01:00</stEvt:when>\n"
+"                  <stEvt:softwareAgent>Adobe Photoshop CC 2015 (Windows)</stEvt:softwareAgent>\n"
+"                  <stEvt:changed>/</stEvt:changed>\n"
+"               </rdf:li>\n"
+"               <rdf:li rdf:parseType=\"Resource\">\n"
+"                  <stEvt:action>converted</stEvt:action>\n"
+"                  <stEvt:parameters>from application/vnd.adobe.photoshop to image/png</stEvt:parameters>\n"
+"               </rdf:li>\n"
+"               <rdf:li rdf:parseType=\"Resource\">\n"
+"                  <stEvt:action>derived</stEvt:action>\n"
+"                  <stEvt:parameters>converted from application/vnd.adobe.photoshop to image/png</stEvt:parameters>\n"
+"               </rdf:li>\n"
+"               <rdf:li rdf:parseType=\"Resource\">\n"
+"                  <stEvt:action>saved</stEvt:action>\n"
+"                  <stEvt:instanceID>xmp.iid:db1dda5a-b12c-a44e-a75b-b2dfd298f809</stEvt:instanceID>\n"
+"                  <stEvt:when>2016-11-05T15:11:23+01:00</stEvt:when>\n"
+"                  <stEvt:softwareAgent>Adobe Photoshop CC 2015 (Windows)</stEvt:softwareAgent>\n"
+"                  <stEvt:changed>/</stEvt:changed>\n"
+"               </rdf:li>\n"
+"            </rdf:Seq>\n"
+"         </xmpMM:History>\n"
+"         <xmpMM:DerivedFrom rdf:parseType=\"Resource\">\n"
+"            <stRef:instanceID>xmp.iid:e4cb414a-ab6b-e141-8385-06f1a70620a9</stRef:instanceID>\n"
+"            <stRef:documentID>adobe:docid:photoshop:e541d274-a29d-11e6-9a76-f5d39ed24dee</stRef:documentID>\n"
+"            <stRef:originalDocumentID>xmp.did:45d6e837-6aef-3542-a794-f3d50766d1a9</stRef:originalDocumentID>\n"
+"         </xmpMM:DerivedFrom>\n"
+"         <photoshop:ColorMode>3</photoshop:ColorMode>\n"
+"         <photoshop:ICCProfile>sRGB IEC61966-2.1</photoshop:ICCProfile>\n"
+"         <photoshop:TextLayers>\n"
+"            <rdf:Bag>\n"
+"               <rdf:li rdf:parseType=\"Resource\">\n"
+"                  <photoshop:LayerName>THRESH</photoshop:LayerName>\n"
+"                  <photoshop:LayerText>THRESH</photoshop:LayerText>\n"
+"               </rdf:li>\n"
+"               <rdf:li rdf:parseType=\"Resource\">\n"
+"                  <photoshop:LayerName>CUTOFF</photoshop:LayerName>\n"
+"                  <photoshop:LayerText>CUTOFF</photoshop:LayerText>\n"
+"               </rdf:li>\n"
+"               <rdf:li rdf:parseType=\"Resource\">\n"
+"                  <photoshop:LayerName>GAIN</photoshop:LayerName>\n"
+"                  <photoshop:LayerText>GAIN</photoshop:LayerText>\n"
+"               </rdf:li>\n"
+"               <rdf:li rdf:parseType=\"Resource\">\n"
+"                  <photoshop:LayerName>MIX</photoshop:LayerName>\n"
+"                  <photoshop:LayerText>MIX</photoshop:LayerText>\n"
+"               </rdf:li>\n"
+"               <rdf:li rdf:parseType=\"Resource\">\n"
+"                  <photoshop:LayerName>AIR</photoshop:LayerName>\n"
+"                  <photoshop:LayerText>AIR</photoshop:LayerText>\n"
+"               </rdf:li>\n"
+"            </rdf:Bag>\n"
+"         </photoshop:TextLayers>\n"
+"         <photoshop:DocumentAncestors>\n"
+"            <rdf:Bag>\n"
+"               <rdf:li>adobe:docid:photoshop:44f428ce-a353-11e6-8c38-e3720d35a39e</rdf:li>\n"
+"               <rdf:li>adobe:docid:photoshop:99c02727-a29c-11e6-9a76-f5d39ed24dee</rdf:li>\n"
+"            </rdf:Bag>\n"
+"         </photoshop:DocumentAncestors>\n"
+"         <tiff:Orientation>1</tiff:Orientation>\n"
+"         <tiff:XResolution>720000/10000</tiff:XResolution>\n"
+"         <tiff:YResolution>720000/10000</tiff:YResolution>\n"
+"         <tiff:ResolutionUnit>2</tiff:ResolutionUnit>\n"
+"         <exif:ColorSpace>1</exif:ColorSpace>\n"
+"         <exif:PixelXDimension>130</exif:PixelXDimension>\n"
+"         <exif:PixelYDimension>130</exif:PixelYDimension>\n"
+"      </rdf:Description>\n"
+"   </rdf:RDF>\n"
+"</x:xmpmeta>\n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                            \n"
+"<?xpacket end=\"w\"?>~\xc8\x8fv\0\0\0 cHRM\0\0z%\0\0\x80\x83\0\0\xf9\xff\0\0\x80\xe9\0\0u0\0\0\xea`\0\0:\x98\0\0\x17o\x92_\xc5""F\0\0\x02\xb7IDATx\xda\xec\xd9\xd1m\xda@\0\xc7\xe1\x7f\xaa,\xc0\n"
+"\xa9\x94\x05x\xcf\x93""3\x02+\x84\x11\xc2\x08""d\x84""d\x84""2B\xfc\xd4\xe7\xb0@\xa5\xb2\x02#\x90\x87\x1e\xd2\xd5\xc2""4XJ\x89\xd1\xf7IV$\xac\x13\x01~\xbe;\xc3\xd5n\xb7\x0b|\xf3\x16 \x04\x84\x80\x10\x10\x02""B@\x08\x08\x01! \x04\x84\x80\x10\x10\x02""B"
+"@\x08\x08\x01! \x04\x84\x80\x10\x10\x02""B@\x08\x08\x01! \x04\x84\x80\x10\x10\x02""B@\x08\x08\x01! \x04\x84\x80\x10\x10\x02""B@\x08\x08\x01! \x04\x84\x80\x10\x10\x02""B@\x08\x08\x01! \x04\x84\x80\x10@\x08\x08\x01! \x04\x0e\xba\x1e\xfb\x0bx\xfe\xf9+I\xa6"
+"I\x9a\xea\xe1U\x92\xcd\x91""a\x93""2f\x9b""d\xfd\xc1\xf3""7\xe5\xf8k\xcc\xfc\xeev\xff\x7fL\xcb\xb8\xf5\xfc\xeevkF\xf8\xbf\x11L\x92\xfcH\xf2\x96""dY\x1d\xbf\xcb\xdf>\xb3$\xaf\xe5""8dZ\xce-{\xc6L\x0e\x8cY\x96sSK\xc3\x19Z(\x1f\xd0*\xc9\xf7$WI\xee\xcb\x15"
+"\xfbX\xce\x1d\xd2TW\xfe\xec\xc4\xe7\x9c$y\xb0G\xf8:\xb3\xc1M\xf9\x10""7I\xe6\xd5R\xd0&y\xaa\xae\xe2\xbe\x19\xa1\xbe\xfaO\xf5\xd8""3+\x08\xe1\x0c""f\xd5~\xa0\xbb&\xb7\xe5\xd8\xfc""c\\\x06\xcc\x08\x9bK\x9c\x15.\xe1\xae""a\xdb\xf3\xd8}\x92\xc5\x91""e\xa1"
+"-K\xc8\xcd\x89\xb3\xc2K\x89""aY\xc6\n"
+"a\xa4\x9ajFXu\x1e\xfb\xa8""E\xb5""D\x08""a\x84\xa6\xe5*^\x97Y\xa3\x1d\x18\xc2\xaa\x8c}({\x15!|1\xafIv\x9d\xa3o6H\x15""D3`\xf3\xf7tI\xb3\xc2\xa5\x85\xb0({\x83\xfb\x0f\xdc-4\xe5X\x0f\xdc""4\xb6\xd5\xac""0\x1d\xfb\x1bw}a!\xac\x8f\x9c\xab""7\x85\xcb\x9e""e"
+"#\x03""f\x85&\xc7\xbf\xbc\x12\xc2'\xdb\x9c\xf8\x01""6\x9d+\xb9\xb6,3\xc2|\xc0\xac\xb0*c\xb7""B8\x8f\xb6\xbc\xf9\xb3r\xb5\xd7\xdf\x19L\x8e\x84\xf0R\xed\x11\xea%c\xff{E;`9\x9a""e\xe4_0\x8dv\x8fP~\xd8\xd9o\xd8\xde\xf2\xe7\x0b\x9e\xa6\xfc}\xad>\xf4\xee\xfe"
+"\xa0\xed\xb9\x0b\x18r\xf7\x90\xf9\xdd\xed\xa6\xf3<B8C\x0cO\xd5t\xfe\\\x02x.3\xc4\xa2:7\xeb\xcc\"\x87""f\x97""A!t\xee F\xebj\xb7\xdb\x8d\xfa\x05\x94\x9f\xa1\xf7{\x85\xc9\x91\xab\xfe\xb3""b\xbc\x88]\xf6\xe8""C\xc0\xd2\x80\x10\x10\x02""B@\x08\x08\x01! \x04"
+"\x84\x80\x10\x10\x02""B@\x08\x08\x01! \x04\x84\x80\x10\x10\x02""B@\x08\x08\x01! \x04\x84\x80\x10\x10\x02""B@\x08\x08\x01! \x04\x84\x80\x10\x10\x02""B@\x08\x08\x01\x84\x80\x10\x10\x02""B@\x08\x08\x01! \x04\x84\x80\x10\x10\x02""B@\x08\x08\x01! \x04\x84"
+"\x80\x10\xf8L\xef\x03\0*h\x82' \x8b\xf3\xf1\0\0\0\0IEND\xae""B`\x82";
+
+const char* label_gain_png = (const char*) temp_binary_data_5;
+
+//================== label_mix.png ==================
+static const unsigned char temp_binary_data_6[] =
+"\x89PNG\r\n"
+"\x1a\n"
+"\0\0\0\rIHDR\0\0\0\x82\0\0\0\x82\x08\x06\0\0\0\x8a\x03\x10\xfd\0\0\0\tpHYs\0\0\x0b\x13\0\0\x0b\x13\x01\0\x9a\x9c\x18\0\0\n"
+"OiCCPPhotoshop ICC profile\0\0x\xda\x9dSgTS\xe9\x16=\xf7\xde\xf4""BK\x88\x80\x94KoR\x15\x08 RB\x8b\x80\x14\x91&*!\t\x10J\x88!\xa1\xd9\x15Q\xc1\x11""EE\x04\x1b\xc8\xa0\x88\x03\x8e\x8e\x80\x8c\x15Q,\x0c\x8a\n"
+"\xd8\x07\xe4!\xa2\x8e\x83\xa3\x88\x8a\xca\xfb\xe1{\xa3k\xd6\xbc\xf7\xe6\xcd\xfe\xb5\xd7>\xe7\xac\xf3\x9d\xb3\xcf\x07\xc0\x08\x0c\x96H3Q5\x80\x0c\xa9""B\x1e\x11\xe0\x83\xc7\xc4\xc6\xe1\xe4.@\x81\n"
+"$p\0\x10\x08\xb3""d!s\xfd#\x01\0\xf8~<<+\"\xc0\x07\xbe\0\x01x\xd3\x0b\x08\0\xc0M\x9b\xc0""0\x1c\x87\xff\x0f\xea""B\x99\\\x01\x80\x84\x01\xc0t\x91""8K\x08\x80\x14\0@z\x8e""B\xa6\0@F\x01\x80\x9d\x98&S\0\xa0\x04\0`\xcb""cb\xe3\0P-\0`'\x7f\xe6\xd3\0\x80\x9d"
+"\xf8\x99{\x01\0[\x94!\x15\x01\xa0\x91\0 \x13""e\x88""D\0h;\0\xac\xcfV\x8a""E\0X0\0\x14""fK\xc4""9\0\xd8-\0""0IWfH\0\xb0\xb7\0\xc0\xce\x10\x0b\xb2\0\x08\x0c\0""0Q\x88\x85)\0\x04{\0`\xc8##x\0\x84\x99\0\x14""F\xf2W<\xf1+\xae\x10\xe7*\0\0x\x99\xb2<\xb9$9"
+"E\x81[\x08-q\x07WW.\x1e(\xceI\x17+\x14""6a\x02""a\x9a@.\xc2y\x99\x19""2\x81""4\x0f\xe0\xf3\xcc\0\0\xa0\x91\x15\x11\xe0\x83\xf3\xfdx\xce\x0e\xae\xce\xce""6\x8e\xb6\x0e_-\xea\xbf\x06\xff\"bb\xe3\xfe\xe5\xcf\xabp@\0\0\xe1t~\xd1\xfe,/\xb3\x1a\x80;\x06\x80"
+"m\xfe\xa2%\xee\x04h^\x0b\xa0u\xf7\x8b""f\xb2\x0f@\xb5\0\xa0\xe9\xdaW\xf3p\xf8~<<E\xa1\x90\xb9\xd9\xd9\xe5\xe4\xe4\xd8J\xc4""B[a\xcaW}\xfeg\xc2_\xc0W\xfdl\xf9~<\xfc\xf7\xf5\xe0\xbe\xe2$\x81""2]\x81G\x04\xf8\xe0\xc2\xcc\xf4L\xa5\x1c\xcf\x92\t\x84""b\xdc"
+"\xe6\x8fG\xfc\xb7\x0b\xff\xfc\x1d\xd3\"\xc4Ib\xb9X*\x14\xe3Q\x12q\x8e""D\x9a\x8c\xf3""2\xa5\"\x89""B\x92)\xc5%\xd2\xff""d\xe2\xdf,\xfb\x03>\xdf""5\0\xb0j>\x01{\x91-\xa8]c\x03\xf6K'\x10Xt\xc0\xe2\xf7\0\0\xf2\xbbo\xc1\xd4(\x08\x03\x80h\x83\xe1\xcfw\xff"
+"\xef?\xfdG\xa0%\0\x80""fI\x92q\0\0^D$.T\xca\xb3?\xc7\x08\0\0""D\xa0\x81*\xb0""A\x1b\xf4\xc1\x18,\xc0\x06\x1c\xc1\x05\xdc\xc1\x0b\xfc`6\x84""B$\xc4\xc2""B\x10""B\n"
+"d\x80\x1cr`)\xac\x82""B(\x86\xcd\xb0\x1d*`/\xd4@\x1d""4\xc0Qh\x86\x93p\x0e.\xc2U\xb8\x0e=p\x0f\xfa""a\x08\x9e\xc1(\xbc\x81\t\x04""A\xc8\x08\x13""a!\xda\x88\x01""b\x8aX#\x8e\x08\x17\x99\x85\xf8!\xc1H\x04\x12\x8b$ \xc9\x88\x14Q\"K\x91""5H1R\x8aT UH\x1d"
+"\xf2=r\x02""9\x87\\F\xba\x91;\xc8\0""2\x82\xfc\x86\xbcG1\x94\x81\xb2Q=\xd4\x0c\xb5""C\xb9\xa8""7\x1a\x84""F\xa2\x0b\xd0""dt1\x9a\x8f\x16\xa0\x9b\xd0r\xb4\x1a=\x8c""6\xa1\xe7\xd0\xabh\x0f\xda\x8f>C\xc7""0\xc0\xe8\x18\x07""3\xc4l0.\xc6\xc3""B\xb1""8,\t"
+"\x93""c\xcb\xb1\"\xac\x0c\xab\xc6\x1a\xb0V\xac\x03\xbb\x89\xf5""c\xcf\xb1w\x04\x12\x81""E\xc0\t6\x04wB a\x1e""AHXLXN\xd8H\xa8 \x1c$4\x11\xda\t7\t\x03\x84Q\xc2'\"\x93\xa8K\xb4&\xba\x11\xf9\xc4\x18""b21\x87XH,#\xd6\x12\x8f\x13/\x10{\x88""C\xc4""7$\x12\x89"
+"C2'\xb9\x90\x02I\xb1\xa4T\xd2\x12\xd2""F\xd2nR#\xe9,\xa9\x9b""4H\x1a#\x93\xc9\xda""dk\xb2\x07""9\x94, +\xc8\x85\xe4\x9d\xe4\xc3\xe4""3\xe4\x1b\xe4!\xf2[\n"
+"\x9d""b@q\xa4\xf8S\xe2(R\xcajJ\x19\xe5\x10\xe5""4\xe5\x06""e\x98""2AU\xa3\x9aR\xdd\xa8\xa1T\x11""5\x8fZB\xad\xa1\xb6R\xafQ\x87\xa8\x13""4u\x9a""9\xcd\x83\x16IK\xa5\xad\xa2\x95\xd3\x1ah\x17h\xf7i\xaf\xe8t\xba\x11\xdd\x95\x1eN\x97\xd0W\xd2\xcb\xe9G\xe8"
+"\x97\xe8\x03\xf4w\x0c\r\x86\x15\x83\xc7\x88g(\x19\x9b\x18\x07\x18g\x19w\x18\xaf\x98L\xa6\x19\xd3\x8b\x19\xc7T071\xeb\x98\xe7\x99\x0f\x99oUX*\xb6*|\x15\x91\xca\n"
+"\x95J\x95&\x95\x1b*/T\xa9\xaa\xa6\xaa\xde\xaa\x0bU\xf3U\xcbT\x8f\xa9^S}\xae""FU3S\xe3\xa9\t\xd4\x96\xabU\xaa\x9dP\xebS\x1bSg\xa9;\xa8\x87\xaag\xa8oT?\xa4~Y\xfd\x89\x06Y\xc3L\xc3OC\xa4Q\xa0\xb1_\xe3\xbc\xc6 \x0b""c\x19\xb3x,!k\r\xab\x86u\x81""5\xc4&\xb1"
+"\xcd\xd9|v*\xbb\x98\xfd\x1d\xbb\x8b=\xaa\xa9\xa1""9C3J3W\xb3R\xf3\x94""f?\x07\xe3\x98q\xf8\x9ctN\t\xe7(\xa7\x97\xf3~\x8a\xde\x14\xef)\xe2)\x1b\xa6""4L\xb9""1e\\k\xaa\x96\x97\x96X\xabH\xabQ\xabG\xeb\xbd""6\xae\xed\xa7\x9d\xa6\xbd""E\xbbY\xfb\x81\x0e""A"
+"\xc7J'\\'Gg\x8f\xce\x05\x9d\xe7S\xd9S\xdd\xa7\n"
+"\xa7\x16M=:\xf5\xae.\xaak\xa5\x1b\xa1\xbb""Dw\xbfn\xa7\xee\x98\x9e\xbe^\x80\x9eLo\xa7\xdey\xbd\xe7\xfa\x1c}/\xfdT\xfdm\xfa\xa7\xf5G\x0cX\x06\xb3\x0c$\x06\xdb\x0c\xce\x18<\xc5""5qo<\x1d/\xc7\xdb\xf1QC]\xc3@C\xa5""a\x95""a\x97\xe1\x84\x91\xb9\xd1<\xa3\xd5"
+"F\x8d""F\x0f\x8ci\xc6\\\xe3$\xe3m\xc6m\xc6\xa3&\x06&!&KM\xeaM\xee\x9aRM\xb9\xa6)\xa6;L;L\xc7\xcd\xcc\xcd\xa2\xcd\xd6\x99""5\x9b=1\xd7""2\xe7\x9b\xe7\x9b\xd7\x9b\xdf\xb7`ZxZ,\xb6\xa8\xb6\xb8""eI\xb2\xe4Z\xa6Y\xee\xb6\xbcn\x85Z9Y\xa5XUZ]\xb3""F\xad\x9d"
+"\xad%\xd6\xbb\xad\xbb\xa7\x11\xa7\xb9N\x93N\xab\x9e\xd6g\xc3\xb0\xf1\xb6\xc9\xb6\xa9\xb7\x19\xb0\xe5\xd8\x06\xdb\xae\xb6m\xb6}agb\x17g\xb7\xc5\xae\xc3\xee\x93\xbd\x93}\xba}\x8d\xfd=\x07\r\x87\xd9\x0e\xab\x1dZ\x1d~s\xb4r\x14:V:\xde\x9a\xce\x9c\xee?}\xc5"
+"\xf4\x96\xe9/gX\xcf\x10\xcf\xd8""3\xe3\xb6\x13\xcb)\xc4i\x9dS\x9b\xd3Gg\x17g\xb9s\x83\xf3\x88\x8b\x89K\x82\xcb.\x97>.\x9b\x1b\xc6\xdd\xc8\xbd\xe4Jt\xf5q]\xe1z\xd2\xf5\x9d\x9b\xb3\x9b\xc2\xed\xa8\xdb\xaf\xee""6\xeei\xee\x87\xdc\x9f\xcc""4\x9f)\x9eY3s\xd0"
+"\xc3\xc8""C\xe0Q\xe5\xd1?\x0b\x9f\x95""0k\xdf\xac~OCO\x81g\xb5\xe7#/c/\x91W\xad\xd7\xb0\xb7\xa5w\xaa\xf7""a\xef\x17>\xf6>r\x9f\xe3>\xe3<7\xde""2\xdeY_\xcc""7\xc0\xb7\xc8\xb7\xcbO\xc3o\x9e_\x85\xdf""C\x7f#\xff""d\xffz\xff\xd1\0\xa7\x80%\x01g\x03\x89\x81"
+"A\x81[\x02\xfb\xf8z|!\xbf\x8e?:\xdb""e\xf6\xb2\xd9\xed""A\x8c\xa0\xb9""A\x15""A\x8f\x82\xad\x82\xe5\xc1\xad!h\xc8\xec\x90\xad!\xf7\xe7\x98\xce\x91\xcei\x0e\x85P~\xe8\xd6\xd0\x07""a\xe6""a\x8b\xc3~\x0c'\x85\x87\x85W\x86?\x8ep\x88X\x1a\xd1""1\x97""5w\xd1"
+"\xdc""Cs\xdf""D\xfa""D\x96""D\xde\x9bg1O9\xaf-J5*>\xaa.j<\xda""7\xba""4\xba?\xc6.fY\xcc\xd5X\x9dXIlK\x1c""9.*\xae""6nl\xbe\xdf\xfc\xed\xf3\x87\xe2\x9d\xe2\x0b\xe3{\x17\x98/\xc8]py\xa1\xce\xc2\xf4\x85\xa7\x16\xa9.\x12,:\x96@L\x88N8\x94\xf0""A\x10*\xa8"
+"\x16\x8c%\xf2\x13w%\x8e\n"
+"y\xc2\x1d\xc2g\"/\xd1""6\xd1\x88\xd8""C\\*\x1eN\xf2H*Mz\x92\xec\x91\xbc""5y$\xc5""3\xa5,\xe5\xb9\x84'\xa9\x90\xbcL\rL\xdd\x9b:\x9e\x16\x9av m2=:\xbd""1\x83\x92\x91\x90qB\xaa!M\x93\xb6g\xeag\xe6""fv\xcb\xac""e\x85\xb2\xfe\xc5n\x8b\xb7/\x1e\x95\x07\xc9"
+"k\xb3\x90\xac\x05Y-\n"
+"\xb6""B\xa6\xe8TZ(\xd7*\x07\xb2geWf\xbf\xcd\x89\xca""9\x96\xab\x9e+\xcd\xed\xcc\xb3\xca\xdb\x90""7\x9c\xef\x9f\xff\xed\x12\xc2\x12\xe1\x92\xb6\xa5\x86KW-\x1dX\xe6\xbd\xacj9\xb2<qy\xdb\n"
+"\xe3\x15\x05+\x86V\x06\xac<\xb8\x8a\xb6*m\xd5O\xab\xedW\x97\xae~\xbd&zMk\x81^\xc1\xca\x82\xc1\xb5\x01k\xeb\x0bU\n"
+"\xe5\x85}\xeb\xdc\xd7\xed]OX/Y\xdf\xb5""a\xfa\x86\x9d\x1b>\x15\x89\x8a\xae\x14\xdb\x17\x97\x15\x7f\xd8(\xdcx\xe5\x1b\x87o\xca\xbf\x99\xdc\x94\xb4\xa9\xab\xc4\xb9""d\xcf""f\xd2""f\xe9\xe6\xde-\x9e[\x0e\x96\xaa\x97\xe6\x97\x0en\r\xd9\xda\xb4\r\xdfV\xb4"
+"\xed\xf5\xf6""E\xdb/\x97\xcd(\xdb\xbb\x83\xb6""C\xb9\xa3\xbf<\xb8\xbc""e\xa7\xc9\xce\xcd;?T\xa4T\xf4T\xfaT6\xee\xd2\xdd\xb5""a\xd7\xf8n\xd1\xee\x1b{\xbc\xf6""4\xec\xd5\xdb[\xbc\xf7\xfd>\xc9\xbe\xdbU\x01UM\xd5""f\xd5""e\xfbI\xfb\xb3\xf7?\xae\x89\xaa\xe9"
+"\xf8\x96\xfbm]\xadNmq\xed\xc7\x03\xd2\x03\xfd\x07#\x0e\xb6\xd7\xb9\xd4\xd5\x1d\xd2=TR\x8f\xd6+\xebG\x0e\xc7\x1f\xbe\xfe\x9d\xefw-\r6\rU\x8d\x9c\xc6\xe2#pDy\xe4\xe9\xf7\t\xdf\xf7\x1e\r:\xdav\x8c{\xac\xe1\x07\xd3\x1fv\x1dg\x1d/jB\x9a\xf2\x9a""F\x9bS\x9a"
+"\xfb[b[\xbaO\xcc>\xd1\xd6\xea\xdez\xfcG\xdb\x1f\x0f\x9c""4<YyJ\xf3T\xc9i\xda\xe9\x82\xd3\x93g\xf2\xcf\x8c\x9d\x95\x9d}~.\xf9\xdc`\xdb\xa2\xb6{\xe7""c\xce\xdfj\x0fo\xef\xba\x10t\xe1\xd2""E\xff\x8b\xe7;\xbc;\xce\\\xf2\xb8t\xf2\xb2\xdb\xe5\x13W\xb8W\x9a"
+"\xaf:_m\xeat\xea<\xfe\x93\xd3O\xc7\xbb\x9c\xbb\x9a\xae\xb9\\k\xb9\xeez\xbd\xb5{f\xf7\xe9\x1b\x9e""7\xce\xdd\xf4\xbdy\xf1\x16\xff\xd6\xd5\x9e""9=\xdd\xbd\xf3zo\xf7\xc5\xf7\xf5\xdf\x16\xdd~r'\xfd\xce\xcb\xbb\xd9w'\xee\xad\xbcO\xbc_\xf4@\xed""A\xd9""C\xdd"
+"\x87\xd5?[\xfe\xdc\xd8\xef\xdc\x7fj\xc0w\xa0\xf3\xd1\xdcG\xf7\x06\x85\x83\xcf\xfe\x91\xf5\x8f\x0f""C\x05\x8f\x99\x8f\xcb\x86\r\x86\xeb\x9e""8>99\xe2?r\xfd\xe9\xfc\xa7""C\xcf""d\xcf&\x9e\x17\xfe\xa2\xfe\xcb\xae\x17\x16/~\xf8\xd5\xeb\xd7\xce\xd1\x98\xd1"
+"\xa1\x97\xf2\x97\x93\xbfm|\xa5\xfd\xea\xc0\xeb\x19\xaf\xdb\xc6\xc2\xc6\x1e\xbe\xc9x31^\xf4V\xfb\xed\xc1w\xdcw\x1d\xef\xa3\xdf\x0fO\xe4| \x7f(\xffh\xf9\xb1\xf5S\xd0\xa7\xfb\x93\x19\x93\x93\xff\x04\x03\x98\xf3\xfc""c3-\xdb\0\0G\x05iTXtXML:com.adobe.xmp"
+"\0\0\0\0\0<?xpacket begin=\"\xef\xbb\xbf\" id=\"W5M0MpCehiHzreSzNTczkc9d\"?>\n"
+"<x:xmpmeta xmlns:x=\"adobe:ns:meta/\" x:xmptk=\"Adobe XMP Core 5.6-c111 79.158325, 2015/09/10-01:10:20        \">\n"
+"   <rdf:RDF xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\">\n"
+"      <rdf:Description rdf:about=\"\"\n"
+"            xmlns:xmp=\"http://ns.adobe.com/xap/1.0/\"\n"
+"            xmlns:dc=\"http://purl.org/dc/elements/1.1/\"\n"
+"            xmlns:xmpMM=\"http://ns.adobe.com/xap/1.0/mm/\"\n"
+"            xmlns:stEvt=\"http://ns.adobe.com/xap/1.0/sType/ResourceEvent#\"\n"
+"            xmlns:stRef=\"http://ns.adobe.com/xap/1.0/sType/ResourceRef#\"\n"
+"            xmlns:photoshop=\"http://ns.adobe.com/photoshop/1.0/\"\n"
+"            xmlns:tiff=\"http://ns.adobe.com/tiff/1.0/\"\n"
+"            xmlns:exif=\"http://ns.adobe.com/exif/1.0/\">\n"
+"         <xmp:CreatorTool>Adobe Photoshop CC 2015 (Windows)</xmp:CreatorTool>\n"
+"         <xmp:CreateDate>2016-10-25T21:04:31+02:00</xmp:CreateDate>\n"
+"         <xmp:MetadataDate>2016-11-05T15:11:38+01:00</xmp:MetadataDate>\n"
+"         <xmp:ModifyDate>2016-11-05T15:11:38+01:00</xmp:ModifyDate>\n"
+"         <dc:format>image/png</dc:format>\n"
+"         <xmpMM:InstanceID>xmp.iid:245ccf65-f817-c34e-bafc-72f2e576aca3</xmpMM:InstanceID>\n"
+"         <xmpMM:DocumentID>adobe:docid:photoshop:bd152337-a361-11e6-a9ac-98f1e4eeebd5</xmpMM:DocumentID>\n"
+"         <xmpMM:OriginalDocumentID>xmp.did:45d6e837-6aef-3542-a794-f3d50766d1a9</xmpMM:OriginalDocumentID>\n"
+"         <xmpMM:History>\n"
+"            <rdf:Seq>\n"
+"               <rdf:li rdf:parseType=\"Resource\">\n"
+"                  <stEvt:action>created</stEvt:action>\n"
+"                  <stEvt:instanceID>xmp.iid:45d6e837-6aef-3542-a794-f3d50766d1a9</stEvt:instanceID>\n"
+"                  <stEvt:when>2016-10-25T21:04:31+02:00</stEvt:when>\n"
+"                  <stEvt:softwareAgent>Adobe Photoshop CC 2015 (Windows)</stEvt:softwareAgent>\n"
+"               </rdf:li>\n"
+"               <rdf:li rdf:parseType=\"Resource\">\n"
+"                  <stEvt:action>saved</stEvt:action>\n"
+"                  <stEvt:instanceID>xmp.iid:577ca280-8153-c14c-a45e-cfcdf62b282c</stEvt:instanceID>\n"
+"                  <stEvt:when>2016-10-25T21:07:55+02:00</stEvt:when>\n"
+"                  <stEvt:softwareAgent>Adobe Photoshop CC 2015 (Windows)</stEvt:softwareAgent>\n"
+"                  <stEvt:changed>/</stEvt:changed>\n"
+"               </rdf:li>\n"
+"               <rdf:li rdf:parseType=\"Resource\">\n"
+"                  <stEvt:action>saved</stEvt:action>\n"
+"                  <stEvt:instanceID>xmp.iid:523039a3-6cfe-b04d-a142-99e51e8e9ee2</stEvt:instanceID>\n"
+"                  <stEvt:when>2016-11-05T15:11:38+01:00</stEvt:when>\n"
+"                  <stEvt:softwareAgent>Adobe Photoshop CC 2015 (Windows)</stEvt:softwareAgent>\n"
+"                  <stEvt:changed>/</stEvt:changed>\n"
+"               </rdf:li>\n"
+"               <rdf:li rdf:parseType=\"Resource\">\n"
+"                  <stEvt:action>converted</stEvt:action>\n"
+"                  <stEvt:parameters>from application/vnd.adobe.photoshop to image/png</stEvt:parameters>\n"
+"               </rdf:li>\n"
+"               <rdf:li rdf:parseType=\"Resource\">\n"
+"                  <stEvt:action>derived</stEvt:action>\n"
+"                  <stEvt:parameters>converted from application/vnd.adobe.photoshop to image/png</stEvt:parameters>\n"
+"               </rdf:li>\n"
+"               <rdf:li rdf:parseType=\"Resource\">\n"
+"                  <stEvt:action>saved</stEvt:action>\n"
+"                  <stEvt:instanceID>xmp.iid:245ccf65-f817-c34e-bafc-72f2e576aca3</stEvt:instanceID>\n"
+"                  <stEvt:when>2016-11-05T15:11:38+01:00</stEvt:when>\n"
+"                  <stEvt:softwareAgent>Adobe Photoshop CC 2015 (Windows)</stEvt:softwareAgent>\n"
+"                  <stEvt:changed>/</stEvt:changed>\n"
+"               </rdf:li>\n"
+"            </rdf:Seq>\n"
+"         </xmpMM:History>\n"
+"         <xmpMM:DerivedFrom rdf:parseType=\"Resource\">\n"
+"            <stRef:instanceID>xmp.iid:523039a3-6cfe-b04d-a142-99e51e8e9ee2</stRef:instanceID>\n"
+"            <stRef:documentID>adobe:docid:photoshop:e541d274-a29d-11e6-9a76-f5d39ed24dee</stRef:documentID>\n"
+"            <stRef:originalDocumentID>xmp.did:45d6e837-6aef-3542-a794-f3d50766d1a9</stRef:originalDocumentID>\n"
+"         </xmpMM:DerivedFrom>\n"
+"         <photoshop:ColorMode>3</photoshop:ColorMode>\n"
+"         <photoshop:ICCProfile>sRGB IEC61966-2.1</photoshop:ICCProfile>\n"
+"         <photoshop:TextLayers>\n"
+"            <rdf:Bag>\n"
+"               <rdf:li rdf:parseType=\"Resource\">\n"
+"                  <photoshop:LayerName>THRESH</photoshop:LayerName>\n"
+"                  <photoshop:LayerText>THRESH</photoshop:LayerText>\n"
+"               </rdf:li>\n"
+"               <rdf:li rdf:parseType=\"Resource\">\n"
+"                  <photoshop:LayerName>CUTOFF</photoshop:LayerName>\n"
+"                  <photoshop:LayerText>CUTOFF</photoshop:LayerText>\n"
+"               </rdf:li>\n"
+"               <rdf:li rdf:parseType=\"Resource\">\n"
+"                  <photoshop:LayerName>GAIN</photoshop:LayerName>\n"
+"                  <photoshop:LayerText>GAIN</photoshop:LayerText>\n"
+"               </rdf:li>\n"
+"               <rdf:li rdf:parseType=\"Resource\">\n"
+"                  <photoshop:LayerName>MIX</photoshop:LayerName>\n"
+"                  <photoshop:LayerText>MIX</photoshop:LayerText>\n"
+"               </rdf:li>\n"
+"               <rdf:li rdf:parseType=\"Resource\">\n"
+"                  <photoshop:LayerName>AIR</photoshop:LayerName>\n"
+"                  <photoshop:LayerText>AIR</photoshop:LayerText>\n"
+"               </rdf:li>\n"
+"            </rdf:Bag>\n"
+"         </photoshop:TextLayers>\n"
+"         <photoshop:DocumentAncestors>\n"
+"            <rdf:Bag>\n"
+"               <rdf:li>adobe:docid:photoshop:44f428ce-a353-11e6-8c38-e3720d35a39e</rdf:li>\n"
+"               <rdf:li>adobe:docid:photoshop:99c02727-a29c-11e6-9a76-f5d39ed24dee</rdf:li>\n"
+"            </rdf:Bag>\n"
+"         </photoshop:DocumentAncestors>\n"
+"         <tiff:Orientation>1</tiff:Orientation>\n"
+"         <tiff:XResolution>720000/10000</tiff:XResolution>\n"
+"         <tiff:YResolution>720000/10000</tiff:YResolution>\n"
+"         <tiff:ResolutionUnit>2</tiff:ResolutionUnit>\n"
+"         <exif:ColorSpace>1</exif:ColorSpace>\n"
+"         <exif:PixelXDimension>130</exif:PixelXDimension>\n"
+"         <exif:PixelYDimension>130</exif:PixelYDimension>\n"
+"      </rdf:Description>\n"
+"   </rdf:RDF>\n"
+"</x:xmpmeta>\n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                            \n"
+"<?xpacket end=\"w\"?>\x8du\xb2\x98\0\0\0 cHRM\0\0z%\0\0\x80\x83\0\0\xf9\xff\0\0\x80\xe9\0\0u0\0\0\xea`\0\0:\x98\0\0\x17o\x92_\xc5""F\0\0\x02""cIDATx\xda\xec\xda\xb1q\xe2@\x18\x86\xe1\xcf""7\xd7\0-\x10\xb8\x01r\"]\t\xb4`J\xc0%\x98\x12\xa0\x84\xa3\x04\x13"
+"\x91\xd3\0\x01-P\x82.Y\xcd\xech\xe0\xe6\x90\x83\x03\xf9y\x12l\x0c\x9a""1\xbc\xfc\xbb\x92\xfd\xd2\xb6m\xe0\x87\x97\0! \x04\x84\x80\x10\x10\x02""B@\x08\x08\x01! \x04\x84\x80\x10\x10\x02""B@\x08\x08\x01! \x04\x84\x80\x10\x10\x02""B@\x08\x08\x01! \x04\x84"
+"\x80\x10\x10\x02""B@\x08\x08\x01! \x04\x84\x80\x10\x10\x02""B@\x08\x08\x01! \x04\x84\x80\x10\x10\x02""B@\x08\x08\x01! \x04\x84\0""B@\x08\x08\x01!p\xd5\xcf""1\xfd""2\x9b\xc3i\x96""d\x92$\xcb\xf9\xeb\xfe\xc6""c&If\xe5\xdb""c\x92K\xf9\xba{nw_\xfd\xb8k\xc7"
+"j\xca\xedy9\x7f=\x9b\x08\x8f\xe5#\xc9g\x92\xcf\xcd\xe1""4\xbd\xf1\x98\xb7\xee""1\xd5\x1b]?\xb7\xbe\xefw\xb9\xaf\xb9\x12""Aw\x0cK\xc3\x83k\xee\xbc\xbf\xef\x92""d]\xc5S[\x94\xdb\xf7""1L\x83o\x17""BY\x16\x9a;\x8e\xb1-A,\x92t\x13""fZ\xc2\xb8\x94\x9f\x9b\x08"
+"\x0f\xecr\xe3\r_\x0c""8N7\x15V\xbd\xdbu\xb5\xbf\x10\xc2\x83\xda%\x99l\x0e\xa7\xfe\x1b_o\x12\xff\xd5:\xc9\xb9L\x81""f\x8c\xd3`\xcc!\xec{o|=\x11v\x03>\xc9\xddT\xe8""6\x87\xef""c\x9a\x06""c_\x1av\xf5RP\x9dZ\xee\x07\x1co[\xa6""B\xca\xedvl/\xd8\x98""7\x8b"
+"\xc7$\xd3\xea""4rQ-\x1b\xf7\x9at\xd7'\xca""fq*\x84\xe7\xda'\xd4\x01""4I\xf6\xcb\xf9\xeb\x90\x91\xfe\xd1\x9b&+!<\x89r~\x7fL\xd2\x94\xa9""0\x1b\xb8,\xd4\xa7\x8b\xbf\xaa\x8d\xe3L\x08\xcf""5\x15\x9a/.\x0b\xab\xde\x86q]M\t!<\xd9\xf2\xb0Jr\x1cp\x15\xf0\xda"
+"\xe9""b\xb7qlr\xdf\xc5)!\xfc\xe7\xe5\xe1\\\xd6\xf7\xafN\x83K\xef,bTS\xe1;\xfc\x19z7pY\xe8>\xf1\xd7.\x1eu\x97\x9eg\x9b\xc3\xe9m\x0c/\xd2K\xdb\xb6\x01\xff\x98\x82\x10\x10\x02""B@\x08\x08\x01! \x04\x84\x80\x10\x10\x02""B@\x08\x08\x01! \x04\x84\x80\x10\x10"
+"\x02""B@\x08\x08\x01! \x04\x84\x80\x10\x10\x02""B@\x08\x08\x01! \x04\x84\x80\x10\x10\x02""B@\x08\x08\x01! \x04\x84\x80\x10\x10\x02""B@\x08\x08\x01! \x04\x84\x80\x10\x10\x02""B\0! \x04\x84\x80\x10\x10\x02\x7f\xf1g\0\x18\xdet\x82\x89\xdd\xec\xaa\0\0\0\0"
+"IEND\xae""B`\x82";
+
+const char* label_mix_png = (const char*) temp_binary_data_6;
+
+//================== label_thresh.png ==================
+static const unsigned char temp_binary_data_7[] =
+"\x89PNG\r\n"
+"\x1a\n"
+"\0\0\0\rIHDR\0\0\0\x82\0\0\0\x82\x08\x06\0\0\0\x8a\x03\x10\xfd\0\0\0\tpHYs\0\0\x0b\x13\0\0\x0b\x13\x01\0\x9a\x9c\x18\0\0\n"
+"OiCCPPhotoshop ICC profile\0\0x\xda\x9dSgTS\xe9\x16=\xf7\xde\xf4""BK\x88\x80\x94KoR\x15\x08 RB\x8b\x80\x14\x91&*!\t\x10J\x88!\xa1\xd9\x15Q\xc1\x11""EE\x04\x1b\xc8\xa0\x88\x03\x8e\x8e\x80\x8c\x15Q,\x0c\x8a\n"
+"\xd8\x07\xe4!\xa2\x8e\x83\xa3\x88\x8a\xca\xfb\xe1{\xa3k\xd6\xbc\xf7\xe6\xcd\xfe\xb5\xd7>\xe7\xac\xf3\x9d\xb3\xcf\x07\xc0\x08\x0c\x96H3Q5\x80\x0c\xa9""B\x1e\x11\xe0\x83\xc7\xc4\xc6\xe1\xe4.@\x81\n"
+"$p\0\x10\x08\xb3""d!s\xfd#\x01\0\xf8~<<+\"\xc0\x07\xbe\0\x01x\xd3\x0b\x08\0\xc0M\x9b\xc0""0\x1c\x87\xff\x0f\xea""B\x99\\\x01\x80\x84\x01\xc0t\x91""8K\x08\x80\x14\0@z\x8e""B\xa6\0@F\x01\x80\x9d\x98&S\0\xa0\x04\0`\xcb""cb\xe3\0P-\0`'\x7f\xe6\xd3\0\x80\x9d"
+"\xf8\x99{\x01\0[\x94!\x15\x01\xa0\x91\0 \x13""e\x88""D\0h;\0\xac\xcfV\x8a""E\0X0\0\x14""fK\xc4""9\0\xd8-\0""0IWfH\0\xb0\xb7\0\xc0\xce\x10\x0b\xb2\0\x08\x0c\0""0Q\x88\x85)\0\x04{\0`\xc8##x\0\x84\x99\0\x14""F\xf2W<\xf1+\xae\x10\xe7*\0\0x\x99\xb2<\xb9$9"
+"E\x81[\x08-q\x07WW.\x1e(\xceI\x17+\x14""6a\x02""a\x9a@.\xc2y\x99\x19""2\x81""4\x0f\xe0\xf3\xcc\0\0\xa0\x91\x15\x11\xe0\x83\xf3\xfdx\xce\x0e\xae\xce\xce""6\x8e\xb6\x0e_-\xea\xbf\x06\xff\"bb\xe3\xfe\xe5\xcf\xabp@\0\0\xe1t~\xd1\xfe,/\xb3\x1a\x80;\x06\x80"
+"m\xfe\xa2%\xee\x04h^\x0b\xa0u\xf7\x8b""f\xb2\x0f@\xb5\0\xa0\xe9\xdaW\xf3p\xf8~<<E\xa1\x90\xb9\xd9\xd9\xe5\xe4\xe4\xd8J\xc4""B[a\xcaW}\xfeg\xc2_\xc0W\xfdl\xf9~<\xfc\xf7\xf5\xe0\xbe\xe2$\x81""2]\x81G\x04\xf8\xe0\xc2\xcc\xf4L\xa5\x1c\xcf\x92\t\x84""b\xdc"
+"\xe6\x8fG\xfc\xb7\x0b\xff\xfc\x1d\xd3\"\xc4Ib\xb9X*\x14\xe3Q\x12q\x8e""D\x9a\x8c\xf3""2\xa5\"\x89""B\x92)\xc5%\xd2\xff""d\xe2\xdf,\xfb\x03>\xdf""5\0\xb0j>\x01{\x91-\xa8]c\x03\xf6K'\x10Xt\xc0\xe2\xf7\0\0\xf2\xbbo\xc1\xd4(\x08\x03\x80h\x83\xe1\xcfw\xff"
+"\xef?\xfdG\xa0%\0\x80""fI\x92q\0\0^D$.T\xca\xb3?\xc7\x08\0\0""D\xa0\x81*\xb0""A\x1b\xf4\xc1\x18,\xc0\x06\x1c\xc1\x05\xdc\xc1\x0b\xfc`6\x84""B$\xc4\xc2""B\x10""B\n"
+"d\x80\x1cr`)\xac\x82""B(\x86\xcd\xb0\x1d*`/\xd4@\x1d""4\xc0Qh\x86\x93p\x0e.\xc2U\xb8\x0e=p\x0f\xfa""a\x08\x9e\xc1(\xbc\x81\t\x04""A\xc8\x08\x13""a!\xda\x88\x01""b\x8aX#\x8e\x08\x17\x99\x85\xf8!\xc1H\x04\x12\x8b$ \xc9\x88\x14Q\"K\x91""5H1R\x8aT UH\x1d"
+"\xf2=r\x02""9\x87\\F\xba\x91;\xc8\0""2\x82\xfc\x86\xbcG1\x94\x81\xb2Q=\xd4\x0c\xb5""C\xb9\xa8""7\x1a\x84""F\xa2\x0b\xd0""dt1\x9a\x8f\x16\xa0\x9b\xd0r\xb4\x1a=\x8c""6\xa1\xe7\xd0\xabh\x0f\xda\x8f>C\xc7""0\xc0\xe8\x18\x07""3\xc4l0.\xc6\xc3""B\xb1""8,\t"
+"\x93""c\xcb\xb1\"\xac\x0c\xab\xc6\x1a\xb0V\xac\x03\xbb\x89\xf5""c\xcf\xb1w\x04\x12\x81""E\xc0\t6\x04wB a\x1e""AHXLXN\xd8H\xa8 \x1c$4\x11\xda\t7\t\x03\x84Q\xc2'\"\x93\xa8K\xb4&\xba\x11\xf9\xc4\x18""b21\x87XH,#\xd6\x12\x8f\x13/\x10{\x88""C\xc4""7$\x12\x89"
+"C2'\xb9\x90\x02I\xb1\xa4T\xd2\x12\xd2""F\xd2nR#\xe9,\xa9\x9b""4H\x1a#\x93\xc9\xda""dk\xb2\x07""9\x94, +\xc8\x85\xe4\x9d\xe4\xc3\xe4""3\xe4\x1b\xe4!\xf2[\n"
+"\x9d""b@q\xa4\xf8S\xe2(R\xcajJ\x19\xe5\x10\xe5""4\xe5\x06""e\x98""2AU\xa3\x9aR\xdd\xa8\xa1T\x11""5\x8fZB\xad\xa1\xb6R\xafQ\x87\xa8\x13""4u\x9a""9\xcd\x83\x16IK\xa5\xad\xa2\x95\xd3\x1ah\x17h\xf7i\xaf\xe8t\xba\x11\xdd\x95\x1eN\x97\xd0W\xd2\xcb\xe9G\xe8"
+"\x97\xe8\x03\xf4w\x0c\r\x86\x15\x83\xc7\x88g(\x19\x9b\x18\x07\x18g\x19w\x18\xaf\x98L\xa6\x19\xd3\x8b\x19\xc7T071\xeb\x98\xe7\x99\x0f\x99oUX*\xb6*|\x15\x91\xca\n"
+"\x95J\x95&\x95\x1b*/T\xa9\xaa\xa6\xaa\xde\xaa\x0bU\xf3U\xcbT\x8f\xa9^S}\xae""FU3S\xe3\xa9\t\xd4\x96\xabU\xaa\x9dP\xebS\x1bSg\xa9;\xa8\x87\xaag\xa8oT?\xa4~Y\xfd\x89\x06Y\xc3L\xc3OC\xa4Q\xa0\xb1_\xe3\xbc\xc6 \x0b""c\x19\xb3x,!k\r\xab\x86u\x81""5\xc4&\xb1"
+"\xcd\xd9|v*\xbb\x98\xfd\x1d\xbb\x8b=\xaa\xa9\xa1""9C3J3W\xb3R\xf3\x94""f?\x07\xe3\x98q\xf8\x9ctN\t\xe7(\xa7\x97\xf3~\x8a\xde\x14\xef)\xe2)\x1b\xa6""4L\xb9""1e\\k\xaa\x96\x97\x96X\xabH\xabQ\xabG\xeb\xbd""6\xae\xed\xa7\x9d\xa6\xbd""E\xbbY\xfb\x81\x0e""A"
+"\xc7J'\\'Gg\x8f\xce\x05\x9d\xe7S\xd9S\xdd\xa7\n"
+"\xa7\x16M=:\xf5\xae.\xaak\xa5\x1b\xa1\xbb""Dw\xbfn\xa7\xee\x98\x9e\xbe^\x80\x9eLo\xa7\xdey\xbd\xe7\xfa\x1c}/\xfdT\xfdm\xfa\xa7\xf5G\x0cX\x06\xb3\x0c$\x06\xdb\x0c\xce\x18<\xc5""5qo<\x1d/\xc7\xdb\xf1QC]\xc3@C\xa5""a\x95""a\x97\xe1\x84\x91\xb9\xd1<\xa3\xd5"
+"F\x8d""F\x0f\x8ci\xc6\\\xe3$\xe3m\xc6m\xc6\xa3&\x06&!&KM\xeaM\xee\x9aRM\xb9\xa6)\xa6;L;L\xc7\xcd\xcc\xcd\xa2\xcd\xd6\x99""5\x9b=1\xd7""2\xe7\x9b\xe7\x9b\xd7\x9b\xdf\xb7`ZxZ,\xb6\xa8\xb6\xb8""eI\xb2\xe4Z\xa6Y\xee\xb6\xbcn\x85Z9Y\xa5XUZ]\xb3""F\xad\x9d"
+"\xad%\xd6\xbb\xad\xbb\xa7\x11\xa7\xb9N\x93N\xab\x9e\xd6g\xc3\xb0\xf1\xb6\xc9\xb6\xa9\xb7\x19\xb0\xe5\xd8\x06\xdb\xae\xb6m\xb6}agb\x17g\xb7\xc5\xae\xc3\xee\x93\xbd\x93}\xba}\x8d\xfd=\x07\r\x87\xd9\x0e\xab\x1dZ\x1d~s\xb4r\x14:V:\xde\x9a\xce\x9c\xee?}\xc5"
+"\xf4\x96\xe9/gX\xcf\x10\xcf\xd8""3\xe3\xb6\x13\xcb)\xc4i\x9dS\x9b\xd3Gg\x17g\xb9s\x83\xf3\x88\x8b\x89K\x82\xcb.\x97>.\x9b\x1b\xc6\xdd\xc8\xbd\xe4Jt\xf5q]\xe1z\xd2\xf5\x9d\x9b\xb3\x9b\xc2\xed\xa8\xdb\xaf\xee""6\xeei\xee\x87\xdc\x9f\xcc""4\x9f)\x9eY3s\xd0"
+"\xc3\xc8""C\xe0Q\xe5\xd1?\x0b\x9f\x95""0k\xdf\xac~OCO\x81g\xb5\xe7#/c/\x91W\xad\xd7\xb0\xb7\xa5w\xaa\xf7""a\xef\x17>\xf6>r\x9f\xe3>\xe3<7\xde""2\xdeY_\xcc""7\xc0\xb7\xc8\xb7\xcbO\xc3o\x9e_\x85\xdf""C\x7f#\xff""d\xffz\xff\xd1\0\xa7\x80%\x01g\x03\x89\x81"
+"A\x81[\x02\xfb\xf8z|!\xbf\x8e?:\xdb""e\xf6\xb2\xd9\xed""A\x8c\xa0\xb9""A\x15""A\x8f\x82\xad\x82\xe5\xc1\xad!h\xc8\xec\x90\xad!\xf7\xe7\x98\xce\x91\xcei\x0e\x85P~\xe8\xd6\xd0\x07""a\xe6""a\x8b\xc3~\x0c'\x85\x87\x85W\x86?\x8ep\x88X\x1a\xd1""1\x97""5w\xd1"
+"\xdc""Cs\xdf""D\xfa""D\x96""D\xde\x9bg1O9\xaf-J5*>\xaa.j<\xda""7\xba""4\xba?\xc6.fY\xcc\xd5X\x9dXIlK\x1c""9.*\xae""6nl\xbe\xdf\xfc\xed\xf3\x87\xe2\x9d\xe2\x0b\xe3{\x17\x98/\xc8]py\xa1\xce\xc2\xf4\x85\xa7\x16\xa9.\x12,:\x96@L\x88N8\x94\xf0""A\x10*\xa8"
+"\x16\x8c%\xf2\x13w%\x8e\n"
+"y\xc2\x1d\xc2g\"/\xd1""6\xd1\x88\xd8""C\\*\x1eN\xf2H*Mz\x92\xec\x91\xbc""5y$\xc5""3\xa5,\xe5\xb9\x84'\xa9\x90\xbcL\rL\xdd\x9b:\x9e\x16\x9av m2=:\xbd""1\x83\x92\x91\x90qB\xaa!M\x93\xb6g\xeag\xe6""fv\xcb\xac""e\x85\xb2\xfe\xc5n\x8b\xb7/\x1e\x95\x07\xc9"
+"k\xb3\x90\xac\x05Y-\n"
+"\xb6""B\xa6\xe8TZ(\xd7*\x07\xb2geWf\xbf\xcd\x89\xca""9\x96\xab\x9e+\xcd\xed\xcc\xb3\xca\xdb\x90""7\x9c\xef\x9f\xff\xed\x12\xc2\x12\xe1\x92\xb6\xa5\x86KW-\x1dX\xe6\xbd\xacj9\xb2<qy\xdb\n"
+"\xe3\x15\x05+\x86V\x06\xac<\xb8\x8a\xb6*m\xd5O\xab\xedW\x97\xae~\xbd&zMk\x81^\xc1\xca\x82\xc1\xb5\x01k\xeb\x0bU\n"
+"\xe5\x85}\xeb\xdc\xd7\xed]OX/Y\xdf\xb5""a\xfa\x86\x9d\x1b>\x15\x89\x8a\xae\x14\xdb\x17\x97\x15\x7f\xd8(\xdcx\xe5\x1b\x87o\xca\xbf\x99\xdc\x94\xb4\xa9\xab\xc4\xb9""d\xcf""f\xd2""f\xe9\xe6\xde-\x9e[\x0e\x96\xaa\x97\xe6\x97\x0en\r\xd9\xda\xb4\r\xdfV\xb4"
+"\xed\xf5\xf6""E\xdb/\x97\xcd(\xdb\xbb\x83\xb6""C\xb9\xa3\xbf<\xb8\xbc""e\xa7\xc9\xce\xcd;?T\xa4T\xf4T\xfaT6\xee\xd2\xdd\xb5""a\xd7\xf8n\xd1\xee\x1b{\xbc\xf6""4\xec\xd5\xdb[\xbc\xf7\xfd>\xc9\xbe\xdbU\x01UM\xd5""f\xd5""e\xfbI\xfb\xb3\xf7?\xae\x89\xaa\xe9"
+"\xf8\x96\xfbm]\xadNmq\xed\xc7\x03\xd2\x03\xfd\x07#\x0e\xb6\xd7\xb9\xd4\xd5\x1d\xd2=TR\x8f\xd6+\xebG\x0e\xc7\x1f\xbe\xfe\x9d\xefw-\r6\rU\x8d\x9c\xc6\xe2#pDy\xe4\xe9\xf7\t\xdf\xf7\x1e\r:\xdav\x8c{\xac\xe1\x07\xd3\x1fv\x1dg\x1d/jB\x9a\xf2\x9a""F\x9bS\x9a"
+"\xfb[b[\xbaO\xcc>\xd1\xd6\xea\xdez\xfcG\xdb\x1f\x0f\x9c""4<YyJ\xf3T\xc9i\xda\xe9\x82\xd3\x93g\xf2\xcf\x8c\x9d\x95\x9d}~.\xf9\xdc`\xdb\xa2\xb6{\xe7""c\xce\xdfj\x0fo\xef\xba\x10t\xe1\xd2""E\xff\x8b\xe7;\xbc;\xce\\\xf2\xb8t\xf2\xb2\xdb\xe5\x13W\xb8W\x9a"
+"\xaf:_m\xeat\xea<\xfe\x93\xd3O\xc7\xbb\x9c\xbb\x9a\xae\xb9\\k\xb9\xeez\xbd\xb5{f\xf7\xe9\x1b\x9e""7\xce\xdd\xf4\xbdy\xf1\x16\xff\xd6\xd5\x9e""9=\xdd\xbd\xf3zo\xf7\xc5\xf7\xf5\xdf\x16\xdd~r'\xfd\xce\xcb\xbb\xd9w'\xee\xad\xbcO\xbc_\xf4@\xed""A\xd9""C\xdd"
+"\x87\xd5?[\xfe\xdc\xd8\xef\xdc\x7fj\xc0w\xa0\xf3\xd1\xdcG\xf7\x06\x85\x83\xcf\xfe\x91\xf5\x8f\x0f""C\x05\x8f\x99\x8f\xcb\x86\r\x86\xeb\x9e""8>99\xe2?r\xfd\xe9\xfc\xa7""C\xcf""d\xcf&\x9e\x17\xfe\xa2\xfe\xcb\xae\x17\x16/~\xf8\xd5\xeb\xd7\xce\xd1\x98\xd1"
+"\xa1\x97\xf2\x97\x93\xbfm|\xa5\xfd\xea\xc0\xeb\x19\xaf\xdb\xc6\xc2\xc6\x1e\xbe\xc9x31^\xf4V\xfb\xed\xc1w\xdcw\x1d\xef\xa3\xdf\x0fO\xe4| \x7f(\xffh\xf9\xb1\xf5S\xd0\xa7\xfb\x93\x19\x93\x93\xff\x04\x03\x98\xf3\xfc""c3-\xdb\0\0G\x05iTXtXML:com.adobe.xmp"
+"\0\0\0\0\0<?xpacket begin=\"\xef\xbb\xbf\" id=\"W5M0MpCehiHzreSzNTczkc9d\"?>\n"
+"<x:xmpmeta xmlns:x=\"adobe:ns:meta/\" x:xmptk=\"Adobe XMP Core 5.6-c111 79.158325, 2015/09/10-01:10:20        \">\n"
+"   <rdf:RDF xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\">\n"
+"      <rdf:Description rdf:about=\"\"\n"
+"            xmlns:xmp=\"http://ns.adobe.com/xap/1.0/\"\n"
+"            xmlns:dc=\"http://purl.org/dc/elements/1.1/\"\n"
+"            xmlns:xmpMM=\"http://ns.adobe.com/xap/1.0/mm/\"\n"
+"            xmlns:stEvt=\"http://ns.adobe.com/xap/1.0/sType/ResourceEvent#\"\n"
+"            xmlns:stRef=\"http://ns.adobe.com/xap/1.0/sType/ResourceRef#\"\n"
+"            xmlns:photoshop=\"http://ns.adobe.com/photoshop/1.0/\"\n"
+"            xmlns:tiff=\"http://ns.adobe.com/tiff/1.0/\"\n"
+"            xmlns:exif=\"http://ns.adobe.com/exif/1.0/\">\n"
+"         <xmp:CreatorTool>Adobe Photoshop CC 2015 (Windows)</xmp:CreatorTool>\n"
+"         <xmp:CreateDate>2016-10-25T21:04:31+02:00</xmp:CreateDate>\n"
+"         <xmp:MetadataDate>2016-11-05T15:10:48+01:00</xmp:MetadataDate>\n"
+"         <xmp:ModifyDate>2016-11-05T15:10:48+01:00</xmp:ModifyDate>\n"
+"         <dc:format>image/png</dc:format>\n"
+"         <xmpMM:InstanceID>xmp.iid:3c3d2de9-a678-fb45-84d1-97c483394f7c</xmpMM:InstanceID>\n"
+"         <xmpMM:DocumentID>adobe:docid:photoshop:9ed2dab6-a361-11e6-a9ac-98f1e4eeebd5</xmpMM:DocumentID>\n"
+"         <xmpMM:OriginalDocumentID>xmp.did:45d6e837-6aef-3542-a794-f3d50766d1a9</xmpMM:OriginalDocumentID>\n"
+"         <xmpMM:History>\n"
+"            <rdf:Seq>\n"
+"               <rdf:li rdf:parseType=\"Resource\">\n"
+"                  <stEvt:action>created</stEvt:action>\n"
+"                  <stEvt:instanceID>xmp.iid:45d6e837-6aef-3542-a794-f3d50766d1a9</stEvt:instanceID>\n"
+"                  <stEvt:when>2016-10-25T21:04:31+02:00</stEvt:when>\n"
+"                  <stEvt:softwareAgent>Adobe Photoshop CC 2015 (Windows)</stEvt:softwareAgent>\n"
+"               </rdf:li>\n"
+"               <rdf:li rdf:parseType=\"Resource\">\n"
+"                  <stEvt:action>saved</stEvt:action>\n"
+"                  <stEvt:instanceID>xmp.iid:577ca280-8153-c14c-a45e-cfcdf62b282c</stEvt:instanceID>\n"
+"                  <stEvt:when>2016-10-25T21:07:55+02:00</stEvt:when>\n"
+"                  <stEvt:softwareAgent>Adobe Photoshop CC 2015 (Windows)</stEvt:softwareAgent>\n"
+"                  <stEvt:changed>/</stEvt:changed>\n"
+"               </rdf:li>\n"
+"               <rdf:li rdf:parseType=\"Resource\">\n"
+"                  <stEvt:action>saved</stEvt:action>\n"
+"                  <stEvt:instanceID>xmp.iid:d854b343-c723-524e-bff7-92578d11f519</stEvt:instanceID>\n"
+"                  <stEvt:when>2016-11-05T15:10:48+01:00</stEvt:when>\n"
+"                  <stEvt:softwareAgent>Adobe Photoshop CC 2015 (Windows)</stEvt:softwareAgent>\n"
+"                  <stEvt:changed>/</stEvt:changed>\n"
+"               </rdf:li>\n"
+"               <rdf:li rdf:parseType=\"Resource\">\n"
+"                  <stEvt:action>converted</stEvt:action>\n"
+"                  <stEvt:parameters>from application/vnd.adobe.photoshop to image/png</stEvt:parameters>\n"
+"               </rdf:li>\n"
+"               <rdf:li rdf:parseType=\"Resource\">\n"
+"                  <stEvt:action>derived</stEvt:action>\n"
+"                  <stEvt:parameters>converted from application/vnd.adobe.photoshop to image/png</stEvt:parameters>\n"
+"               </rdf:li>\n"
+"               <rdf:li rdf:parseType=\"Resource\">\n"
+"                  <stEvt:action>saved</stEvt:action>\n"
+"                  <stEvt:instanceID>xmp.iid:3c3d2de9-a678-fb45-84d1-97c483394f7c</stEvt:instanceID>\n"
+"                  <stEvt:when>2016-11-05T15:10:48+01:00</stEvt:when>\n"
+"                  <stEvt:softwareAgent>Adobe Photoshop CC 2015 (Windows)</stEvt:softwareAgent>\n"
+"                  <stEvt:changed>/</stEvt:changed>\n"
+"               </rdf:li>\n"
+"            </rdf:Seq>\n"
+"         </xmpMM:History>\n"
+"         <xmpMM:DerivedFrom rdf:parseType=\"Resource\">\n"
+"            <stRef:instanceID>xmp.iid:d854b343-c723-524e-bff7-92578d11f519</stRef:instanceID>\n"
+"            <stRef:documentID>adobe:docid:photoshop:e541d274-a29d-11e6-9a76-f5d39ed24dee</stRef:documentID>\n"
+"            <stRef:originalDocumentID>xmp.did:45d6e837-6aef-3542-a794-f3d50766d1a9</stRef:originalDocumentID>\n"
+"         </xmpMM:DerivedFrom>\n"
+"         <photoshop:ColorMode>3</photoshop:ColorMode>\n"
+"         <photoshop:ICCProfile>sRGB IEC61966-2.1</photoshop:ICCProfile>\n"
+"         <photoshop:TextLayers>\n"
+"            <rdf:Bag>\n"
+"               <rdf:li rdf:parseType=\"Resource\">\n"
+"                  <photoshop:LayerName>THRESH</photoshop:LayerName>\n"
+"                  <photoshop:LayerText>THRESH</photoshop:LayerText>\n"
+"               </rdf:li>\n"
+"               <rdf:li rdf:parseType=\"Resource\">\n"
+"                  <photoshop:LayerName>CUTOFF</photoshop:LayerName>\n"
+"                  <photoshop:LayerText>CUTOFF</photoshop:LayerText>\n"
+"               </rdf:li>\n"
+"               <rdf:li rdf:parseType=\"Resource\">\n"
+"                  <photoshop:LayerName>GAIN</photoshop:LayerName>\n"
+"                  <photoshop:LayerText>GAIN</photoshop:LayerText>\n"
+"               </rdf:li>\n"
+"               <rdf:li rdf:parseType=\"Resource\">\n"
+"                  <photoshop:LayerName>MIX</photoshop:LayerName>\n"
+"                  <photoshop:LayerText>MIX</photoshop:LayerText>\n"
+"               </rdf:li>\n"
+"               <rdf:li rdf:parseType=\"Resource\">\n"
+"                  <photoshop:LayerName>AIR</photoshop:LayerName>\n"
+"                  <photoshop:LayerText>AIR</photoshop:LayerText>\n"
+"               </rdf:li>\n"
+"            </rdf:Bag>\n"
+"         </photoshop:TextLayers>\n"
+"         <photoshop:DocumentAncestors>\n"
+"            <rdf:Bag>\n"
+"               <rdf:li>adobe:docid:photoshop:44f428ce-a353-11e6-8c38-e3720d35a39e</rdf:li>\n"
+"               <rdf:li>adobe:docid:photoshop:99c02727-a29c-11e6-9a76-f5d39ed24dee</rdf:li>\n"
+"            </rdf:Bag>\n"
+"         </photoshop:DocumentAncestors>\n"
+"         <tiff:Orientation>1</tiff:Orientation>\n"
+"         <tiff:XResolution>720000/10000</tiff:XResolution>\n"
+"         <tiff:YResolution>720000/10000</tiff:YResolution>\n"
+"         <tiff:ResolutionUnit>2</tiff:ResolutionUnit>\n"
+"         <exif:ColorSpace>1</exif:ColorSpace>\n"
+"         <exif:PixelXDimension>130</exif:PixelXDimension>\n"
+"         <exif:PixelYDimension>130</exif:PixelYDimension>\n"
+"      </rdf:Description>\n"
+"   </rdf:RDF>\n"
+"</x:xmpmeta>\n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                                                                                                    \n"
+"                            \n"
+"<?xpacket end=\"w\"?>\xcbjd\xfd\0\0\0 cHRM\0\0z%\0\0\x80\x83\0\0\xf9\xff\0\0\x80\xe9\0\0u0\0\0\xea`\0\0:\x98\0\0\x17o\x92_\xc5""F\0\0\x02\xe2IDATx\xda\xec\xd9\xc1m\xe2@\x14\x80\xe1\x97\xd5""6\xe0\x16X)\rp\xcf\x89\x94\xc0\x96@J\x08%\x84\x12\xa0\x84\xa4"
+"\x04""8\xe5N\x03""9\xb8\x05\x97\xc0^\xdeH#\xcb&D\xd9\x15\xf1\xe6\xfb$\xa4\x84\x8c\r\xc2\xbf\xed\x19rs:\x9d\x02~\xf8\x08\x10\x02""B@\x08\x08\x01! \x04\x84\x80\x10\x10\x02""B@\x08\x08\x01! \x04\x84\x80\x10\x10\x02""B@\x08\x08\x01! \x04\x84\x80\x10\x10\x02"
+"B@\x08\x08\x01! \x04\x84\x80\x10\x10\x02""B@\x08\x08\x01! \x04\x84\x80\x10\x10\x02""B@\x08\x08\x01! \x04\x84\x80\x10\x10\x02""B@\x08 \x04\x84\x80\x10\x10\x02\x83~^\xfb\rl_\xdf\x9a\x88\x98_0\xf4\x18\x11]D,\xf2\xf7\xc3\xc0\x98\xb2\xaf.\xc7G\xfe\xde\xf4"
+"\xc6\xd5\x7f\xaf\r\x8d\xad\x1d\x06\xc6\x97\xf7\xd3""F\xc4K\xef\xef\xb3|\xb4\xf9\x18{\xbd\xe3\xc3\xddm\xf7\xad""C\xc8\x0f""c\x7f\xc1\xb8\xfb<\x10""e\xec\xcd\x99}\x1dr|D\xc4Su\xb0\xfa""1\xac#bW=766z\xaf\xd9""D\xc4\xf3\xc0\xd8""6\"~W\x91-s\x9f\xeb\x88\xd8"
+"\x0c\xec\xaf\xbc\xde\xfdH\xd8\xdf*\x84""cu\xd0\xca\x87\xb7\xca\x03\xf4\xd2\x1b\xf7\x19\xebj\x1f\xb3<\x08\xdb<x\x87""3c\x87<\xe6\x01\xdc\xe5\xd8.\x9f{\xca@~\xb9""5|\\\xd7;\x10\xf3\xea\xec:\xfc\xe5\xe0\xfa\xfb\xdb""ft\x87\x0b\xc6\xf6""C\x88*\x82\xc8""3"
+"~\x9e!/\x07n\x13""B\xf8\xa2\xda\xea""2\xff\x99\x88\xfbs\x88\xe6\x93\xfb\xb4j\x98\x90\x12@\x7f\x8e\xb0\xcb\xdb\xdcN\x08\xd3\xb1:\xb3\xfa(\xab\x81\xfaQ\x9f\xe5""e\xe2\xf7\x9c\xb7\x89""f\xea\x1f\xc6\x94o\r\xfb\x91\xe5\xe3\x98\xa7\xeaL.\xcb\xba\xdd\x99\xd9"
+"\xfc\xd8\xaa\xa5\x0e\xa1L\x10\x1fsN\xb0\x19Y&\xae""FV#s!\\g\x99\xfa\xde=\xbe\xbe\xc4\xb7#s\x8a\xfa\xaa\xb0\xcb\x83\\\x1e\xcb\x81%\xa9+\xc2?v?\xf0\xdc\xe2\xccw\x12\xf5\x19\xddT\x97\xf5n\xe0\xaa\xf0r\xe1\x8a\xa5l\xbb\xa9\xae\x0e\xdb\xdc\xb6\xed\x85\xb5"
+"\x19\xb9\xaa-\xcc\x11\xae;\xd9\xdb\x8cL\xf8\xde\xd3\xe4""6\xb3\x81+\xc4\xa6\xfa.\xc4""d\xf1\x1b\xdc""b\xf6\xd5w\t\x97\xdcj\x84\xf0\x1f\x7f\xff\xb0\x18\x98\x9c\xce\xac\x1a\xa6\xe7x\xe6\xd6\xb0\x1c\x99\\\x96UA\x99$\xee\xf3\xb9.\xc7\xaf\xf2g\x93\xc5\x89"
+"\xcd\x13\xda<\x8b\x17\xbd\xc9\xe1jd\x9b""2\x07x\xc8m\x1fs\xd2\x19\xd5w\x12\xeb)\xde\"nN\xa7\xd3U\xdf\xc0\xf6\xf5m\xea""A\xd5\xff\x86n?\xba\xf1\xc3\xdd\xad\x10""0YD\x08\x08\x01! \x04\x84\x80\x10\x10\x02""B@\x08\x08\x01! \x04\x84\x80\x10\x10\x02""B@\x08"
+"\x08\x01! \x04\x84\x80\x10\x10\x02\x08\x01! \x04\x84\x80\x10\x10\x02""B@\x08\x08\x01! \x04\x84\x80\x10\x10\x02""B@\x08\x08\x01! \x04\x84\x80\x10\x10\x02""B@\x08\x08\x01! \x04\x84\x80\x10\x10\x02""B@\x08|u\x7f\x06\0\xff\xc7\x89\x86""9A\x91w\0\0\0\0IEN"
+"D\xae""B`\x82";
+
+const char* label_thresh_png = (const char*) temp_binary_data_7;
+
+//================== smallKnob_light.png ==================
+static const unsigned char temp_binary_data_8[] =
+{ 137,80,78,71,13,10,26,10,0,0,0,13,73,72,68,82,0,0,0,130,0,0,0,130,8,6,0,0,0,138,3,16,253,0,0,0,9,112,72,89,115,0,0,11,19,0,0,11,19,1,0,154,156,24,0,0,10,79,105,67,67,80,80,104,111,116,111,115,104,111,112,32,73,67,67,32,112,114,111,102,105,108,101,0,0,
+120,218,157,83,103,84,83,233,22,61,247,222,244,66,75,136,128,148,75,111,82,21,8,32,82,66,139,128,20,145,38,42,33,9,16,74,136,33,161,217,21,81,193,17,69,69,4,27,200,160,136,3,142,142,128,140,21,81,44,12,138,10,216,7,228,33,162,142,131,163,136,138,202,
+251,225,123,163,107,214,188,247,230,205,254,181,215,62,231,172,243,157,179,207,7,192,8,12,150,72,51,81,53,128,12,169,66,30,17,224,131,199,196,198,225,228,46,64,129,10,36,112,0,16,8,179,100,33,115,253,35,1,0,248,126,60,60,43,34,192,7,190,0,1,120,211,11,
+8,0,192,77,155,192,48,28,135,255,15,234,66,153,92,1,128,132,1,192,116,145,56,75,8,128,20,0,64,122,142,66,166,0,64,70,1,128,157,152,38,83,0,160,4,0,96,203,99,98,227,0,80,45,0,96,39,127,230,211,0,128,157,248,153,123,1,0,91,148,33,21,1,160,145,0,32,19,101,
+136,68,0,104,59,0,172,207,86,138,69,0,88,48,0,20,102,75,196,57,0,216,45,0,48,73,87,102,72,0,176,183,0,192,206,16,11,178,0,8,12,0,48,81,136,133,41,0,4,123,0,96,200,35,35,120,0,132,153,0,20,70,242,87,60,241,43,174,16,231,42,0,0,120,153,178,60,185,36,57,
+69,129,91,8,45,113,7,87,87,46,30,40,206,73,23,43,20,54,97,2,97,154,64,46,194,121,153,25,50,129,52,15,224,243,204,0,0,160,145,21,17,224,131,243,253,120,206,14,174,206,206,54,142,182,14,95,45,234,191,6,255,34,98,98,227,254,229,207,171,112,64,0,0,225,116,
+126,209,254,44,47,179,26,128,59,6,128,109,254,162,37,238,4,104,94,11,160,117,247,139,102,178,15,64,181,0,160,233,218,87,243,112,248,126,60,60,69,161,144,185,217,217,229,228,228,216,74,196,66,91,97,202,87,125,254,103,194,95,192,87,253,108,249,126,60,252,
+247,245,224,190,226,36,129,50,93,129,71,4,248,224,194,204,244,76,165,28,207,146,9,132,98,220,230,143,71,252,183,11,255,252,29,211,34,196,73,98,185,88,42,20,227,81,18,113,142,68,154,140,243,50,165,34,137,66,146,41,197,37,210,255,100,226,223,44,251,3,62,
+223,53,0,176,106,62,1,123,145,45,168,93,99,3,246,75,39,16,88,116,192,226,247,0,0,242,187,111,193,212,40,8,3,128,104,131,225,207,119,255,239,63,253,71,160,37,0,128,102,73,146,113,0,0,94,68,36,46,84,202,179,63,199,8,0,0,68,160,129,42,176,65,27,244,193,
+24,44,192,6,28,193,5,220,193,11,252,96,54,132,66,36,196,194,66,16,66,10,100,128,28,114,96,41,172,130,66,40,134,205,176,29,42,96,47,212,64,29,52,192,81,104,134,147,112,14,46,194,85,184,14,61,112,15,250,97,8,158,193,40,188,129,9,4,65,200,8,19,97,33,218,
+136,1,98,138,88,35,142,8,23,153,133,248,33,193,72,4,18,139,36,32,201,136,20,81,34,75,145,53,72,49,82,138,84,32,85,72,29,242,61,114,2,57,135,92,70,186,145,59,200,0,50,130,252,134,188,71,49,148,129,178,81,61,212,12,181,67,185,168,55,26,132,70,162,11,208,
+100,116,49,154,143,22,160,155,208,114,180,26,61,140,54,161,231,208,171,104,15,218,143,62,67,199,48,192,232,24,7,51,196,108,48,46,198,195,66,177,56,44,9,147,99,203,177,34,172,12,171,198,26,176,86,172,3,187,137,245,99,207,177,119,4,18,129,69,192,9,54,4,
+119,66,32,97,30,65,72,88,76,88,78,216,72,168,32,28,36,52,17,218,9,55,9,3,132,81,194,39,34,147,168,75,180,38,186,17,249,196,24,98,50,49,135,88,72,44,35,214,18,143,19,47,16,123,136,67,196,55,36,18,137,67,50,39,185,144,2,73,177,164,84,210,18,210,70,210,
+110,82,35,233,44,169,155,52,72,26,35,147,201,218,100,107,178,7,57,148,44,32,43,200,133,228,157,228,195,228,51,228,27,228,33,242,91,10,157,98,64,113,164,248,83,226,40,82,202,106,74,25,229,16,229,52,229,6,101,152,50,65,85,163,154,82,221,168,161,84,17,53,
+143,90,66,173,161,182,82,175,81,135,168,19,52,117,154,57,205,131,22,73,75,165,173,162,149,211,26,104,23,104,247,105,175,232,116,186,17,221,149,30,78,151,208,87,210,203,233,71,232,151,232,3,244,119,12,13,134,21,131,199,136,103,40,25,155,24,7,24,103,25,
+119,24,175,152,76,166,25,211,139,25,199,84,48,55,49,235,152,231,153,15,153,111,85,88,42,182,42,124,21,145,202,10,149,74,149,38,149,27,42,47,84,169,170,166,170,222,170,11,85,243,85,203,84,143,169,94,83,125,174,70,85,51,83,227,169,9,212,150,171,85,170,
+157,80,235,83,27,83,103,169,59,168,135,170,103,168,111,84,63,164,126,89,253,137,6,89,195,76,195,79,67,164,81,160,177,95,227,188,198,32,11,99,25,179,120,44,33,107,13,171,134,117,129,53,196,38,177,205,217,124,118,42,187,152,253,29,187,139,61,170,169,161,
+57,67,51,74,51,87,179,82,243,148,102,63,7,227,152,113,248,156,116,78,9,231,40,167,151,243,126,138,222,20,239,41,226,41,27,166,52,76,185,49,101,92,107,170,150,151,150,88,171,72,171,81,171,71,235,189,54,174,237,167,157,166,189,69,187,89,251,129,14,65,199,
+74,39,92,39,71,103,143,206,5,157,231,83,217,83,221,167,10,167,22,77,61,58,245,174,46,170,107,165,27,161,187,68,119,191,110,167,238,152,158,190,94,128,158,76,111,167,222,121,189,231,250,28,125,47,253,84,253,109,250,167,245,71,12,88,6,179,12,36,6,219,12,
+206,24,60,197,53,113,111,60,29,47,199,219,241,81,67,93,195,64,67,165,97,149,97,151,225,132,145,185,209,60,163,213,70,141,70,15,140,105,198,92,227,36,227,109,198,109,198,163,38,6,38,33,38,75,77,234,77,238,154,82,77,185,166,41,166,59,76,59,76,199,205,204,
+205,162,205,214,153,53,155,61,49,215,50,231,155,231,155,215,155,223,183,96,90,120,90,44,182,168,182,184,101,73,178,228,90,166,89,238,182,188,110,133,90,57,89,165,88,85,90,93,179,70,173,157,173,37,214,187,173,187,167,17,167,185,78,147,78,171,158,214,103,
+195,176,241,182,201,182,169,183,25,176,229,216,6,219,174,182,109,182,125,97,103,98,23,103,183,197,174,195,238,147,189,147,125,186,125,141,253,61,7,13,135,217,14,171,29,90,29,126,115,180,114,20,58,86,58,222,154,206,156,238,63,125,197,244,150,233,47,103,
+88,207,16,207,216,51,227,182,19,203,41,196,105,157,83,155,211,71,103,23,103,185,115,131,243,136,139,137,75,130,203,46,151,62,46,155,27,198,221,200,189,228,74,116,245,113,93,225,122,210,245,157,155,179,155,194,237,168,219,175,238,54,238,105,238,135,220,
+159,204,52,159,41,158,89,51,115,208,195,200,67,224,81,229,209,63,11,159,149,48,107,223,172,126,79,67,79,129,103,181,231,35,47,99,47,145,87,173,215,176,183,165,119,170,247,97,239,23,62,246,62,114,159,227,62,227,60,55,222,50,222,89,95,204,55,192,183,200,
+183,203,79,195,111,158,95,133,223,67,127,35,255,100,255,122,255,209,0,167,128,37,1,103,3,137,129,65,129,91,2,251,248,122,124,33,191,142,63,58,219,101,246,178,217,237,65,140,160,185,65,21,65,143,130,173,130,229,193,173,33,104,200,236,144,173,33,247,231,
+152,206,145,206,105,14,133,80,126,232,214,208,7,97,230,97,139,195,126,12,39,133,135,133,87,134,63,142,112,136,88,26,209,49,151,53,119,209,220,67,115,223,68,250,68,150,68,222,155,103,49,79,57,175,45,74,53,42,62,170,46,106,60,218,55,186,52,186,63,198,46,
+102,89,204,213,88,157,88,73,108,75,28,57,46,42,174,54,110,108,190,223,252,237,243,135,226,157,226,11,227,123,23,152,47,200,93,112,121,161,206,194,244,133,167,22,169,46,18,44,58,150,64,76,136,78,56,148,240,65,16,42,168,22,140,37,242,19,119,37,142,10,121,
+194,29,194,103,34,47,209,54,209,136,216,67,92,42,30,78,242,72,42,77,122,146,236,145,188,53,121,36,197,51,165,44,229,185,132,39,169,144,188,76,13,76,221,155,58,158,22,154,118,32,109,50,61,58,189,49,131,146,145,144,113,66,170,33,77,147,182,103,234,103,
+230,102,118,203,172,101,133,178,254,197,110,139,183,47,30,149,7,201,107,179,144,172,5,89,45,10,182,66,166,232,84,90,40,215,42,7,178,103,101,87,102,191,205,137,202,57,150,171,158,43,205,237,204,179,202,219,144,55,156,239,159,255,237,18,194,18,225,146,
+182,165,134,75,87,45,29,88,230,189,172,106,57,178,60,113,121,219,10,227,21,5,43,134,86,6,172,60,184,138,182,42,109,213,79,171,237,87,151,174,126,189,38,122,77,107,129,94,193,202,130,193,181,1,107,235,11,85,10,229,133,125,235,220,215,237,93,79,88,47,89,
+223,181,97,250,134,157,27,62,21,137,138,174,20,219,23,151,21,127,216,40,220,120,229,27,135,111,202,191,153,220,148,180,169,171,196,185,100,207,102,210,102,233,230,222,45,158,91,14,150,170,151,230,151,14,110,13,217,218,180,13,223,86,180,237,245,246,69,
+219,47,151,205,40,219,187,131,182,67,185,163,191,60,184,188,101,167,201,206,205,59,63,84,164,84,244,84,250,84,54,238,210,221,181,97,215,248,110,209,238,27,123,188,246,52,236,213,219,91,188,247,253,62,201,190,219,85,1,85,77,213,102,213,101,251,73,251,
+179,247,63,174,137,170,233,248,150,251,109,93,173,78,109,113,237,199,3,210,3,253,7,35,14,182,215,185,212,213,29,210,61,84,82,143,214,43,235,71,14,199,31,190,254,157,239,119,45,13,54,13,85,141,156,198,226,35,112,68,121,228,233,247,9,223,247,30,13,58,218,
+118,140,123,172,225,7,211,31,118,29,103,29,47,106,66,154,242,154,70,155,83,154,251,91,98,91,186,79,204,62,209,214,234,222,122,252,71,219,31,15,156,52,60,89,121,74,243,84,201,105,218,233,130,211,147,103,242,207,140,157,149,157,125,126,46,249,220,96,219,
+162,182,123,231,99,206,223,106,15,111,239,186,16,116,225,210,69,255,139,231,59,188,59,206,92,242,184,116,242,178,219,229,19,87,184,87,154,175,58,95,109,234,116,234,60,254,147,211,79,199,187,156,187,154,174,185,92,107,185,238,122,189,181,123,102,247,233,
+27,158,55,206,221,244,189,121,241,22,255,214,213,158,57,61,221,189,243,122,111,247,197,247,245,223,22,221,126,114,39,253,206,203,187,217,119,39,238,173,188,79,188,95,244,64,237,65,217,67,221,135,213,63,91,254,220,216,239,220,127,106,192,119,160,243,209,
+220,71,247,6,133,131,207,254,145,245,143,15,67,5,143,153,143,203,134,13,134,235,158,56,62,57,57,226,63,114,253,233,252,167,67,207,100,207,38,158,23,254,162,254,203,174,23,22,47,126,248,213,235,215,206,209,152,209,161,151,242,151,147,191,109,124,165,253,
+234,192,235,25,175,219,198,194,198,30,190,201,120,51,49,94,244,86,251,237,193,119,220,119,29,239,163,223,15,79,228,124,32,127,40,255,104,249,177,245,83,208,167,251,147,25,147,147,255,4,3,152,243,252,99,51,45,219,0,0,67,199,105,84,88,116,88,77,76,58,99,
+111,109,46,97,100,111,98,101,46,120,109,112,0,0,0,0,0,60,63,120,112,97,99,107,101,116,32,98,101,103,105,110,61,34,239,187,191,34,32,105,100,61,34,87,53,77,48,77,112,67,101,104,105,72,122,114,101,83,122,78,84,99,122,107,99,57,100,34,63,62,10,60,120,58,
+120,109,112,109,101,116,97,32,120,109,108,110,115,58,120,61,34,97,100,111,98,101,58,110,115,58,109,101,116,97,47,34,32,120,58,120,109,112,116,107,61,34,65,100,111,98,101,32,88,77,80,32,67,111,114,101,32,53,46,54,45,99,49,49,49,32,55,57,46,49,53,56,51,
+50,53,44,32,50,48,49,53,47,48,57,47,49,48,45,48,49,58,49,48,58,50,48,32,32,32,32,32,32,32,32,34,62,10,32,32,32,60,114,100,102,58,82,68,70,32,120,109,108,110,115,58,114,100,102,61,34,104,116,116,112,58,47,47,119,119,119,46,119,51,46,111,114,103,47,49,
+57,57,57,47,48,50,47,50,50,45,114,100,102,45,115,121,110,116,97,120,45,110,115,35,34,62,10,32,32,32,32,32,32,60,114,100,102,58,68,101,115,99,114,105,112,116,105,111,110,32,114,100,102,58,97,98,111,117,116,61,34,34,10,32,32,32,32,32,32,32,32,32,32,32,
+32,120,109,108,110,115,58,120,109,112,61,34,104,116,116,112,58,47,47,110,115,46,97,100,111,98,101,46,99,111,109,47,120,97,112,47,49,46,48,47,34,10,32,32,32,32,32,32,32,32,32,32,32,32,120,109,108,110,115,58,100,99,61,34,104,116,116,112,58,47,47,112,117,
+114,108,46,111,114,103,47,100,99,47,101,108,101,109,101,110,116,115,47,49,46,49,47,34,10,32,32,32,32,32,32,32,32,32,32,32,32,120,109,108,110,115,58,120,109,112,77,77,61,34,104,116,116,112,58,47,47,110,115,46,97,100,111,98,101,46,99,111,109,47,120,97,
+112,47,49,46,48,47,109,109,47,34,10,32,32,32,32,32,32,32,32,32,32,32,32,120,109,108,110,115,58,115,116,69,118,116,61,34,104,116,116,112,58,47,47,110,115,46,97,100,111,98,101,46,99,111,109,47,120,97,112,47,49,46,48,47,115,84,121,112,101,47,82,101,115,
+111,117,114,99,101,69,118,101,110,116,35,34,10,32,32,32,32,32,32,32,32,32,32,32,32,120,109,108,110,115,58,115,116,82,101,102,61,34,104,116,116,112,58,47,47,110,115,46,97,100,111,98,101,46,99,111,109,47,120,97,112,47,49,46,48,47,115,84,121,112,101,47,
+82,101,115,111,117,114,99,101,82,101,102,35,34,10,32,32,32,32,32,32,32,32,32,32,32,32,120,109,108,110,115,58,112,104,111,116,111,115,104,111,112,61,34,104,116,116,112,58,47,47,110,115,46,97,100,111,98,101,46,99,111,109,47,112,104,111,116,111,115,104,
+111,112,47,49,46,48,47,34,10,32,32,32,32,32,32,32,32,32,32,32,32,120,109,108,110,115,58,116,105,102,102,61,34,104,116,116,112,58,47,47,110,115,46,97,100,111,98,101,46,99,111,109,47,116,105,102,102,47,49,46,48,47,34,10,32,32,32,32,32,32,32,32,32,32,32,
+32,120,109,108,110,115,58,101,120,105,102,61,34,104,116,116,112,58,47,47,110,115,46,97,100,111,98,101,46,99,111,109,47,101,120,105,102,47,49,46,48,47,34,62,10,32,32,32,32,32,32,32,32,32,60,120,109,112,58,67,114,101,97,116,111,114,84,111,111,108,62,65,
+100,111,98,101,32,80,104,111,116,111,115,104,111,112,32,67,67,32,50,48,49,53,32,40,87,105,110,100,111,119,115,41,60,47,120,109,112,58,67,114,101,97,116,111,114,84,111,111,108,62,10,32,32,32,32,32,32,32,32,32,60,120,109,112,58,67,114,101,97,116,101,68,
+97,116,101,62,50,48,49,54,45,49,48,45,50,53,84,50,49,58,48,52,58,51,49,43,48,50,58,48,48,60,47,120,109,112,58,67,114,101,97,116,101,68,97,116,101,62,10,32,32,32,32,32,32,32,32,32,60,120,109,112,58,77,101,116,97,100,97,116,97,68,97,116,101,62,50,48,49,
+54,45,49,49,45,48,53,84,49,53,58,48,52,58,48,50,43,48,49,58,48,48,60,47,120,109,112,58,77,101,116,97,100,97,116,97,68,97,116,101,62,10,32,32,32,32,32,32,32,32,32,60,120,109,112,58,77,111,100,105,102,121,68,97,116,101,62,50,48,49,54,45,49,49,45,48,53,
+84,49,53,58,48,52,58,48,50,43,48,49,58,48,48,60,47,120,109,112,58,77,111,100,105,102,121,68,97,116,101,62,10,32,32,32,32,32,32,32,32,32,60,100,99,58,102,111,114,109,97,116,62,105,109,97,103,101,47,112,110,103,60,47,100,99,58,102,111,114,109,97,116,62,
+10,32,32,32,32,32,32,32,32,32,60,120,109,112,77,77,58,73,110,115,116,97,110,99,101,73,68,62,120,109,112,46,105,105,100,58,54,52,49,52,57,98,97,97,45,56,51,98,53,45,57,56,52,98,45,98,50,97,97,45,52,97,51,54,98,99,101,57,56,49,51,101,60,47,120,109,112,
+77,77,58,73,110,115,116,97,110,99,101,73,68,62,10,32,32,32,32,32,32,32,32,32,60,120,109,112,77,77,58,68,111,99,117,109,101,110,116,73,68,62,97,100,111,98,101,58,100,111,99,105,100,58,112,104,111,116,111,115,104,111,112,58,97,102,49,53,57,48,98,55,45,
+97,51,54,48,45,49,49,101,54,45,97,57,97,99,45,57,56,102,49,101,52,101,101,101,98,100,53,60,47,120,109,112,77,77,58,68,111,99,117,109,101,110,116,73,68,62,10,32,32,32,32,32,32,32,32,32,60,120,109,112,77,77,58,79,114,105,103,105,110,97,108,68,111,99,117,
+109,101,110,116,73,68,62,120,109,112,46,100,105,100,58,52,53,100,54,101,56,51,55,45,54,97,101,102,45,51,53,52,50,45,97,55,57,52,45,102,51,100,53,48,55,54,54,100,49,97,57,60,47,120,109,112,77,77,58,79,114,105,103,105,110,97,108,68,111,99,117,109,101,110,
+116,73,68,62,10,32,32,32,32,32,32,32,32,32,60,120,109,112,77,77,58,72,105,115,116,111,114,121,62,10,32,32,32,32,32,32,32,32,32,32,32,32,60,114,100,102,58,83,101,113,62,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,60,114,100,102,58,108,105,32,114,100,
+102,58,112,97,114,115,101,84,121,112,101,61,34,82,101,115,111,117,114,99,101,34,62,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,60,115,116,69,118,116,58,97,99,116,105,111,110,62,99,114,101,97,116,101,100,60,47,115,116,69,118,116,58,97,99,
+116,105,111,110,62,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,60,115,116,69,118,116,58,105,110,115,116,97,110,99,101,73,68,62,120,109,112,46,105,105,100,58,52,53,100,54,101,56,51,55,45,54,97,101,102,45,51,53,52,50,45,97,55,57,52,45,102,
+51,100,53,48,55,54,54,100,49,97,57,60,47,115,116,69,118,116,58,105,110,115,116,97,110,99,101,73,68,62,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,60,115,116,69,118,116,58,119,104,101,110,62,50,48,49,54,45,49,48,45,50,53,84,50,49,58,48,52,
+58,51,49,43,48,50,58,48,48,60,47,115,116,69,118,116,58,119,104,101,110,62,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,60,115,116,69,118,116,58,115,111,102,116,119,97,114,101,65,103,101,110,116,62,65,100,111,98,101,32,80,104,111,116,111,115,
+104,111,112,32,67,67,32,50,48,49,53,32,40,87,105,110,100,111,119,115,41,60,47,115,116,69,118,116,58,115,111,102,116,119,97,114,101,65,103,101,110,116,62,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,60,47,114,100,102,58,108,105,62,10,32,32,32,32,32,
+32,32,32,32,32,32,32,32,32,32,60,114,100,102,58,108,105,32,114,100,102,58,112,97,114,115,101,84,121,112,101,61,34,82,101,115,111,117,114,99,101,34,62,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,60,115,116,69,118,116,58,97,99,116,105,111,
+110,62,115,97,118,101,100,60,47,115,116,69,118,116,58,97,99,116,105,111,110,62,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,60,115,116,69,118,116,58,105,110,115,116,97,110,99,101,73,68,62,120,109,112,46,105,105,100,58,53,55,55,99,97,50,56,
+48,45,56,49,53,51,45,99,49,52,99,45,97,52,53,101,45,99,102,99,100,102,54,50,98,50,56,50,99,60,47,115,116,69,118,116,58,105,110,115,116,97,110,99,101,73,68,62,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,60,115,116,69,118,116,58,119,104,101,
+110,62,50,48,49,54,45,49,48,45,50,53,84,50,49,58,48,55,58,53,53,43,48,50,58,48,48,60,47,115,116,69,118,116,58,119,104,101,110,62,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,60,115,116,69,118,116,58,115,111,102,116,119,97,114,101,65,103,101,
+110,116,62,65,100,111,98,101,32,80,104,111,116,111,115,104,111,112,32,67,67,32,50,48,49,53,32,40,87,105,110,100,111,119,115,41,60,47,115,116,69,118,116,58,115,111,102,116,119,97,114,101,65,103,101,110,116,62,10,32,32,32,32,32,32,32,32,32,32,32,32,32,
+32,32,32,32,32,60,115,116,69,118,116,58,99,104,97,110,103,101,100,62,47,60,47,115,116,69,118,116,58,99,104,97,110,103,101,100,62,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,60,47,114,100,102,58,108,105,62,10,32,32,32,32,32,32,32,32,32,32,32,32,32,
+32,32,60,114,100,102,58,108,105,32,114,100,102,58,112,97,114,115,101,84,121,112,101,61,34,82,101,115,111,117,114,99,101,34,62,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,60,115,116,69,118,116,58,97,99,116,105,111,110,62,115,97,118,101,100,
+60,47,115,116,69,118,116,58,97,99,116,105,111,110,62,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,60,115,116,69,118,116,58,105,110,115,116,97,110,99,101,73,68,62,120,109,112,46,105,105,100,58,100,97,56,53,100,101,98,102,45,100,102,98,102,
+45,53,52,52,55,45,57,99,55,100,45,51,51,56,98,99,53,57,99,49,100,55,100,60,47,115,116,69,118,116,58,105,110,115,116,97,110,99,101,73,68,62,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,60,115,116,69,118,116,58,119,104,101,110,62,50,48,49,54,
+45,49,49,45,48,53,84,49,53,58,48,52,58,48,50,43,48,49,58,48,48,60,47,115,116,69,118,116,58,119,104,101,110,62,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,60,115,116,69,118,116,58,115,111,102,116,119,97,114,101,65,103,101,110,116,62,65,100,
+111,98,101,32,80,104,111,116,111,115,104,111,112,32,67,67,32,50,48,49,53,32,40,87,105,110,100,111,119,115,41,60,47,115,116,69,118,116,58,115,111,102,116,119,97,114,101,65,103,101,110,116,62,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,60,
+115,116,69,118,116,58,99,104,97,110,103,101,100,62,47,60,47,115,116,69,118,116,58,99,104,97,110,103,101,100,62,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,60,47,114,100,102,58,108,105,62,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,60,114,100,
+102,58,108,105,32,114,100,102,58,112,97,114,115,101,84,121,112,101,61,34,82,101,115,111,117,114,99,101,34,62,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,60,115,116,69,118,116,58,97,99,116,105,111,110,62,99,111,110,118,101,114,116,101,100,
+60,47,115,116,69,118,116,58,97,99,116,105,111,110,62,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,60,115,116,69,118,116,58,112,97,114,97,109,101,116,101,114,115,62,102,114,111,109,32,97,112,112,108,105,99,97,116,105,111,110,47,118,110,100,
+46,97,100,111,98,101,46,112,104,111,116,111,115,104,111,112,32,116,111,32,105,109,97,103,101,47,112,110,103,60,47,115,116,69,118,116,58,112,97,114,97,109,101,116,101,114,115,62,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,60,47,114,100,102,58,108,
+105,62,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,60,114,100,102,58,108,105,32,114,100,102,58,112,97,114,115,101,84,121,112,101,61,34,82,101,115,111,117,114,99,101,34,62,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,60,115,116,69,118,
+116,58,97,99,116,105,111,110,62,100,101,114,105,118,101,100,60,47,115,116,69,118,116,58,97,99,116,105,111,110,62,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,60,115,116,69,118,116,58,112,97,114,97,109,101,116,101,114,115,62,99,111,110,118,
+101,114,116,101,100,32,102,114,111,109,32,97,112,112,108,105,99,97,116,105,111,110,47,118,110,100,46,97,100,111,98,101,46,112,104,111,116,111,115,104,111,112,32,116,111,32,105,109,97,103,101,47,112,110,103,60,47,115,116,69,118,116,58,112,97,114,97,109,
+101,116,101,114,115,62,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,60,47,114,100,102,58,108,105,62,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,60,114,100,102,58,108,105,32,114,100,102,58,112,97,114,115,101,84,121,112,101,61,34,82,101,115,111,
+117,114,99,101,34,62,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,60,115,116,69,118,116,58,97,99,116,105,111,110,62,115,97,118,101,100,60,47,115,116,69,118,116,58,97,99,116,105,111,110,62,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,
+32,32,60,115,116,69,118,116,58,105,110,115,116,97,110,99,101,73,68,62,120,109,112,46,105,105,100,58,54,52,49,52,57,98,97,97,45,56,51,98,53,45,57,56,52,98,45,98,50,97,97,45,52,97,51,54,98,99,101,57,56,49,51,101,60,47,115,116,69,118,116,58,105,110,115,
+116,97,110,99,101,73,68,62,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,60,115,116,69,118,116,58,119,104,101,110,62,50,48,49,54,45,49,49,45,48,53,84,49,53,58,48,52,58,48,50,43,48,49,58,48,48,60,47,115,116,69,118,116,58,119,104,101,110,62,
+10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,60,115,116,69,118,116,58,115,111,102,116,119,97,114,101,65,103,101,110,116,62,65,100,111,98,101,32,80,104,111,116,111,115,104,111,112,32,67,67,32,50,48,49,53,32,40,87,105,110,100,111,119,115,41,
+60,47,115,116,69,118,116,58,115,111,102,116,119,97,114,101,65,103,101,110,116,62,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,60,115,116,69,118,116,58,99,104,97,110,103,101,100,62,47,60,47,115,116,69,118,116,58,99,104,97,110,103,101,100,62,
+10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,60,47,114,100,102,58,108,105,62,10,32,32,32,32,32,32,32,32,32,32,32,32,60,47,114,100,102,58,83,101,113,62,10,32,32,32,32,32,32,32,32,32,60,47,120,109,112,77,77,58,72,105,115,116,111,114,121,62,10,32,32,
+32,32,32,32,32,32,32,60,120,109,112,77,77,58,68,101,114,105,118,101,100,70,114,111,109,32,114,100,102,58,112,97,114,115,101,84,121,112,101,61,34,82,101,115,111,117,114,99,101,34,62,10,32,32,32,32,32,32,32,32,32,32,32,32,60,115,116,82,101,102,58,105,110,
+115,116,97,110,99,101,73,68,62,120,109,112,46,105,105,100,58,100,97,56,53,100,101,98,102,45,100,102,98,102,45,53,52,52,55,45,57,99,55,100,45,51,51,56,98,99,53,57,99,49,100,55,100,60,47,115,116,82,101,102,58,105,110,115,116,97,110,99,101,73,68,62,10,32,
+32,32,32,32,32,32,32,32,32,32,32,60,115,116,82,101,102,58,100,111,99,117,109,101,110,116,73,68,62,97,100,111,98,101,58,100,111,99,105,100,58,112,104,111,116,111,115,104,111,112,58,101,53,52,49,100,50,55,52,45,97,50,57,100,45,49,49,101,54,45,57,97,55,
+54,45,102,53,100,51,57,101,100,50,52,100,101,101,60,47,115,116,82,101,102,58,100,111,99,117,109,101,110,116,73,68,62,10,32,32,32,32,32,32,32,32,32,32,32,32,60,115,116,82,101,102,58,111,114,105,103,105,110,97,108,68,111,99,117,109,101,110,116,73,68,62,
+120,109,112,46,100,105,100,58,52,53,100,54,101,56,51,55,45,54,97,101,102,45,51,53,52,50,45,97,55,57,52,45,102,51,100,53,48,55,54,54,100,49,97,57,60,47,115,116,82,101,102,58,111,114,105,103,105,110,97,108,68,111,99,117,109,101,110,116,73,68,62,10,32,32,
+32,32,32,32,32,32,32,60,47,120,109,112,77,77,58,68,101,114,105,118,101,100,70,114,111,109,62,10,32,32,32,32,32,32,32,32,32,60,112,104,111,116,111,115,104,111,112,58,67,111,108,111,114,77,111,100,101,62,51,60,47,112,104,111,116,111,115,104,111,112,58,
+67,111,108,111,114,77,111,100,101,62,10,32,32,32,32,32,32,32,32,32,60,112,104,111,116,111,115,104,111,112,58,73,67,67,80,114,111,102,105,108,101,62,115,82,71,66,32,73,69,67,54,49,57,54,54,45,50,46,49,60,47,112,104,111,116,111,115,104,111,112,58,73,67,
+67,80,114,111,102,105,108,101,62,10,32,32,32,32,32,32,32,32,32,60,112,104,111,116,111,115,104,111,112,58,84,101,120,116,76,97,121,101,114,115,62,10,32,32,32,32,32,32,32,32,32,32,32,32,60,114,100,102,58,66,97,103,62,10,32,32,32,32,32,32,32,32,32,32,32,
+32,32,32,32,60,114,100,102,58,108,105,32,114,100,102,58,112,97,114,115,101,84,121,112,101,61,34,82,101,115,111,117,114,99,101,34,62,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,60,112,104,111,116,111,115,104,111,112,58,76,97,121,101,114,78,
+97,109,101,62,65,73,82,60,47,112,104,111,116,111,115,104,111,112,58,76,97,121,101,114,78,97,109,101,62,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,60,112,104,111,116,111,115,104,111,112,58,76,97,121,101,114,84,101,120,116,62,65,73,82,60,
+47,112,104,111,116,111,115,104,111,112,58,76,97,121,101,114,84,101,120,116,62,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,60,47,114,100,102,58,108,105,62,10,32,32,32,32,32,32,32,32,32,32,32,32,60,47,114,100,102,58,66,97,103,62,10,32,32,32,32,32,32,
+32,32,32,60,47,112,104,111,116,111,115,104,111,112,58,84,101,120,116,76,97,121,101,114,115,62,10,32,32,32,32,32,32,32,32,32,60,112,104,111,116,111,115,104,111,112,58,68,111,99,117,109,101,110,116,65,110,99,101,115,116,111,114,115,62,10,32,32,32,32,32,
+32,32,32,32,32,32,32,60,114,100,102,58,66,97,103,62,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,60,114,100,102,58,108,105,62,97,100,111,98,101,58,100,111,99,105,100,58,112,104,111,116,111,115,104,111,112,58,52,52,102,52,50,56,99,101,45,97,51,53,51,
+45,49,49,101,54,45,56,99,51,56,45,101,51,55,50,48,100,51,53,97,51,57,101,60,47,114,100,102,58,108,105,62,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,60,114,100,102,58,108,105,62,97,100,111,98,101,58,100,111,99,105,100,58,112,104,111,116,111,115,104,
+111,112,58,57,57,99,48,50,55,50,55,45,97,50,57,99,45,49,49,101,54,45,57,97,55,54,45,102,53,100,51,57,101,100,50,52,100,101,101,60,47,114,100,102,58,108,105,62,10,32,32,32,32,32,32,32,32,32,32,32,32,60,47,114,100,102,58,66,97,103,62,10,32,32,32,32,32,
+32,32,32,32,60,47,112,104,111,116,111,115,104,111,112,58,68,111,99,117,109,101,110,116,65,110,99,101,115,116,111,114,115,62,10,32,32,32,32,32,32,32,32,32,60,116,105,102,102,58,79,114,105,101,110,116,97,116,105,111,110,62,49,60,47,116,105,102,102,58,79,
+114,105,101,110,116,97,116,105,111,110,62,10,32,32,32,32,32,32,32,32,32,60,116,105,102,102,58,88,82,101,115,111,108,117,116,105,111,110,62,55,50,48,48,48,48,47,49,48,48,48,48,60,47,116,105,102,102,58,88,82,101,115,111,108,117,116,105,111,110,62,10,32,
+32,32,32,32,32,32,32,32,60,116,105,102,102,58,89,82,101,115,111,108,117,116,105,111,110,62,55,50,48,48,48,48,47,49,48,48,48,48,60,47,116,105,102,102,58,89,82,101,115,111,108,117,116,105,111,110,62,10,32,32,32,32,32,32,32,32,32,60,116,105,102,102,58,82,
+101,115,111,108,117,116,105,111,110,85,110,105,116,62,50,60,47,116,105,102,102,58,82,101,115,111,108,117,116,105,111,110,85,110,105,116,62,10,32,32,32,32,32,32,32,32,32,60,101,120,105,102,58,67,111,108,111,114,83,112,97,99,101,62,49,60,47,101,120,105,
+102,58,67,111,108,111,114,83,112,97,99,101,62,10,32,32,32,32,32,32,32,32,32,60,101,120,105,102,58,80,105,120,101,108,88,68,105,109,101,110,115,105,111,110,62,49,51,48,60,47,101,120,105,102,58,80,105,120,101,108,88,68,105,109,101,110,115,105,111,110,62,
+10,32,32,32,32,32,32,32,32,32,60,101,120,105,102,58,80,105,120,101,108,89,68,105,109,101,110,115,105,111,110,62,49,51,48,60,47,101,120,105,102,58,80,105,120,101,108,89,68,105,109,101,110,115,105,111,110,62,10,32,32,32,32,32,32,60,47,114,100,102,58,68,
+101,115,99,114,105,112,116,105,111,110,62,10,32,32,32,60,47,114,100,102,58,82,68,70,62,10,60,47,120,58,120,109,112,109,101,116,97,62,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,
+32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,
+32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,10,32,32,32,32,
+32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,
+32,32,32,32,32,32,32,32,32,32,32,32,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,
+32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,
+32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,
+32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,
+32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,10,32,32,32,
+32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,
+32,32,32,32,32,32,32,32,32,32,32,32,32,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,
+32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,
+32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,
+32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,
+32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,10,32,32,
+32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,
+32,32,32,32,32,32,32,32,32,32,32,32,32,32,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,
+32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,
+32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,
+32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,
+32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,10,32,
+32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,
+32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,
+32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,
+32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,
+32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,
+32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,10,
+32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,
+32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,
+32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,
+32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,
+32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,
+32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,
+10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,
+32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,
+32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,
+32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,
+32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,
+32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,
+32,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,
+32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,
+32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,
+32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,
+32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,
+32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,
+32,32,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,
+32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,
+32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,
+32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,
+32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,10,32,32,32,32,32,32,32,32,32,32,32,32,32,
+32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,
+32,32,32,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,
+32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,
+32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,
+32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,
+32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,10,32,32,32,32,32,32,32,32,32,32,32,32,
+32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,
+32,32,32,32,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,
+32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,
+32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,
+32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,
+32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,10,32,32,32,32,32,32,32,32,32,32,32,
+32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,
+32,32,32,32,32,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,
+32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,
+32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,
+32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,
+32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,10,32,32,32,32,32,32,32,32,32,32,
+32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,
+32,32,32,32,32,32,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,
+32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,
+32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,
+32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,
+32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,10,32,32,32,32,32,32,32,32,32,
+32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,
+32,32,32,32,32,32,32,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,
+32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,
+32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,
+32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,
+32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,10,32,32,32,32,32,32,32,32,
+32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,
+32,32,32,32,32,32,32,32,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,
+32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,
+32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,
+32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,
+32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,10,32,32,32,32,32,32,32,
+32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,
+32,32,32,32,32,32,32,32,32,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,
+32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,
+32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,
+32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,
+32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,10,32,32,32,32,32,32,
+32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,
+32,32,32,32,32,32,32,32,32,32,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,
+32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,
+32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,
+32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,
+32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,10,32,32,32,32,32,
+32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,
+32,32,32,32,32,32,32,32,32,32,32,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,
+32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,
+32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,
+32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,
+32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,10,32,32,32,32,
+32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,
+32,32,32,32,32,32,32,32,32,32,32,32,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,
+32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,
+32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,
+32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,
+32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,10,32,32,32,
+32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,
+32,32,32,32,32,32,32,32,32,32,32,32,32,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,
+32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,
+32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,
+32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,
+32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,10,32,32,
+32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,
+32,32,32,32,32,32,32,32,32,32,32,32,32,32,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,
+32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,
+32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,
+32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,
+32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,10,32,
+32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,
+32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,
+32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,
+32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,
+32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,
+32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,10,
+32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,
+32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,
+32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,
+32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,
+32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,
+32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,
+10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,
+32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,
+32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,
+32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,
+32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,
+32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,
+32,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,
+32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,
+32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,
+32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,10,60,63,
+120,112,97,99,107,101,116,32,101,110,100,61,34,119,34,63,62,182,95,29,136,0,0,0,32,99,72,82,77,0,0,122,37,0,0,128,131,0,0,249,255,0,0,128,233,0,0,117,48,0,0,234,96,0,0,58,152,0,0,23,111,146,95,197,70,0,0,42,253,73,68,65,84,120,218,236,157,107,172,117,
+235,85,215,127,255,49,231,122,145,30,17,14,61,20,228,11,208,246,3,144,192,39,161,156,82,130,225,210,150,15,96,213,4,140,9,180,150,42,104,192,75,2,90,136,120,195,112,49,36,96,144,132,187,5,253,32,36,32,130,225,86,136,24,169,165,212,104,34,137,240,161,
+229,162,70,209,22,107,34,5,207,222,107,62,127,63,140,49,158,57,247,105,43,231,244,236,247,125,247,233,89,51,61,93,235,221,123,237,189,215,154,207,120,198,248,143,49,254,227,255,200,54,151,235,114,197,229,22,92,174,139,33,92,174,139,33,92,174,139,33,92,
+174,139,33,92,174,139,33,92,174,139,33,92,174,139,33,92,174,139,33,92,174,139,33,92,174,139,33,92,174,139,33,92,174,139,33,92,174,139,33,92,174,139,33,92,174,139,33,92,174,91,190,214,219,248,37,127,230,171,190,251,174,126,190,5,120,49,240,73,192,39,0,
+31,11,124,12,240,2,224,249,192,7,3,31,82,247,225,12,252,31,224,247,129,223,1,254,39,240,91,192,111,2,191,10,252,10,240,54,96,3,16,112,151,40,61,255,236,91,254,194,195,55,132,167,123,221,199,155,184,0,159,10,124,46,240,25,192,75,128,63,140,201,255,201,
+150,133,49,82,190,7,129,49,103,11,4,31,98,243,71,4,31,9,250,68,68,191,74,245,226,223,5,222,2,252,27,195,27,129,95,110,195,120,122,159,171,254,242,7,154,71,120,186,31,242,150,141,224,4,124,54,240,69,192,23,0,143,98,12,54,249,127,27,216,2,108,25,6,32,219,
+245,181,92,66,201,182,235,141,207,247,151,47,145,246,117,126,30,240,89,160,207,6,255,29,208,187,128,31,7,126,8,248,121,195,245,83,223,10,119,203,56,214,251,179,223,31,200,245,34,224,207,3,175,1,94,224,92,102,3,155,177,65,105,12,78,79,144,70,96,231,75,
+146,168,57,192,8,201,166,28,5,136,220,253,184,63,136,204,252,186,10,87,73,66,216,31,138,244,37,192,171,43,148,188,1,248,30,224,237,119,248,190,221,157,208,240,12,175,79,3,190,26,120,85,109,36,27,159,15,30,192,249,213,49,230,138,155,129,109,100,132,7,
+40,191,33,151,185,40,95,41,96,8,201,96,9,36,100,140,37,43,141,64,218,240,144,211,22,162,220,76,72,60,6,250,106,224,171,128,127,1,124,11,240,230,231,20,88,188,223,88,161,94,247,41,192,223,5,94,89,203,63,234,199,71,239,124,227,1,12,227,129,169,173,78,191,
+46,95,211,166,65,249,16,202,55,8,24,40,189,71,111,79,71,70,18,148,102,98,137,16,38,192,50,142,252,174,194,86,136,50,10,120,21,210,159,2,126,10,248,219,192,91,239,42,54,184,207,134,240,222,62,240,123,126,237,41,98,133,199,12,223,0,188,182,176,221,150,
+254,221,3,103,252,7,6,246,48,12,245,162,51,134,135,12,30,245,119,172,124,157,173,94,233,180,158,246,255,158,97,225,24,26,20,249,114,131,8,123,8,16,86,8,34,33,196,8,80,164,17,40,156,78,37,144,94,1,188,2,248,126,224,107,64,239,124,142,121,4,221,70,12,12,
+224,75,129,111,48,126,62,102,72,222,108,182,94,248,116,247,180,97,108,25,10,108,155,77,249,180,188,129,71,25,222,104,63,224,6,143,202,32,49,17,66,129,199,253,77,59,44,41,19,141,92,244,12,11,14,171,13,65,11,182,16,75,253,174,176,88,176,7,210,34,244,165,
+21,202,190,22,248,190,116,65,119,43,5,187,171,24,225,69,192,15,24,94,170,116,237,103,240,150,14,223,155,203,16,84,95,179,188,9,15,155,161,4,135,99,152,173,12,197,74,244,56,0,39,110,236,101,111,236,8,110,15,96,129,124,48,4,5,25,43,52,80,128,67,68,148,
+247,88,148,11,191,33,66,102,148,113,132,210,8,35,223,15,129,244,40,240,93,5,44,95,253,254,1,202,251,151,130,221,69,67,248,98,224,59,48,143,72,222,58,253,195,222,156,187,126,212,78,223,70,61,50,60,10,31,108,3,134,60,189,193,176,109,167,49,213,46,244,112,
+175,250,40,48,89,113,129,14,1,157,82,38,6,0,36,43,119,189,32,172,33,13,22,164,205,88,72,75,226,6,13,112,128,22,75,33,179,56,131,205,146,217,11,150,121,28,233,63,0,95,1,252,224,115,16,44,254,129,64,233,131,128,111,5,127,185,81,237,118,111,136,49,141,160,
+23,222,101,16,120,96,159,19,27,120,36,48,244,54,210,91,140,244,28,9,38,109,44,49,118,7,80,240,64,5,39,73,135,79,38,146,181,209,103,9,62,96,164,39,200,148,163,240,64,44,137,27,188,9,45,22,27,102,81,61,26,13,217,75,193,208,69,38,44,45,194,207,3,189,161,
+50,160,191,6,60,241,28,50,132,255,175,17,60,6,252,115,204,75,17,91,122,118,182,220,189,222,10,20,14,204,217,140,13,188,85,74,184,101,101,207,155,19,44,110,74,52,183,117,6,81,32,50,33,193,240,72,52,144,22,149,224,241,96,170,51,91,64,32,105,102,11,68,150,
+27,70,32,150,252,22,139,61,130,4,133,11,137,9,22,208,72,3,242,16,26,70,101,4,182,209,82,41,237,146,166,198,151,129,62,9,248,147,192,59,159,35,134,240,62,175,23,2,63,13,188,200,242,144,217,106,157,206,185,208,30,5,254,206,185,184,62,219,237,21,60,31,157,
+158,98,184,158,171,13,96,122,143,74,30,61,83,206,170,60,223,48,214,246,9,85,104,200,226,81,122,129,8,112,96,66,210,50,32,36,5,176,10,109,182,150,131,65,132,164,181,60,129,243,125,201,74,108,18,157,206,26,45,146,95,10,122,115,101,23,191,254,176,82,204,
+135,109,8,159,8,252,28,246,71,90,12,217,91,122,0,111,89,36,162,113,193,217,212,247,240,198,240,57,179,133,113,238,112,97,124,222,189,132,183,145,89,198,72,124,224,12,15,36,152,180,25,116,9,193,93,101,158,158,160,42,76,146,179,238,88,198,176,5,40,144,
+2,23,14,192,33,116,182,89,145,67,104,193,90,145,86,18,56,174,101,132,75,149,172,6,176,162,42,87,230,159,178,228,143,3,253,34,240,57,160,255,244,92,243,8,31,15,252,43,240,99,25,14,188,25,15,227,179,40,151,111,159,177,207,181,243,207,224,51,238,20,210,
+103,60,206,204,231,249,179,13,18,129,205,99,102,24,157,66,142,145,32,192,12,217,5,8,152,37,38,42,75,236,226,81,214,11,80,151,149,21,30,181,235,81,0,75,238,106,109,178,22,195,146,149,203,216,44,214,252,187,26,66,182,100,85,22,131,101,171,222,135,51,76,
+0,47,0,253,2,240,153,100,183,243,57,97,8,47,2,222,8,126,172,227,188,119,64,120,174,221,93,222,96,92,219,236,70,64,25,196,240,57,95,79,253,204,104,227,169,159,43,28,145,153,195,214,149,69,118,47,81,189,167,39,37,227,146,24,153,84,56,189,65,200,18,98,201,
+164,65,75,46,158,218,24,214,140,249,94,176,214,4,186,99,193,218,144,134,204,226,96,224,177,102,104,136,68,34,105,36,105,140,238,230,38,207,71,252,44,240,199,111,45,189,188,195,134,240,17,192,79,27,62,122,130,189,220,249,245,156,179,225,12,227,140,57,
+219,156,177,207,246,56,11,206,246,56,239,248,97,92,167,119,168,215,102,22,177,57,191,63,216,61,203,12,13,5,15,71,161,195,189,140,148,233,157,50,177,204,180,81,86,164,49,56,232,170,33,44,86,44,152,8,188,228,123,137,213,210,138,188,137,216,176,87,66,43,
+150,51,76,200,89,187,142,194,146,114,246,59,111,214,48,171,231,245,209,133,153,94,10,188,227,3,213,16,238,1,63,146,0,177,82,65,230,14,62,132,129,244,0,182,175,119,15,225,107,107,46,120,27,199,117,26,71,254,124,166,113,51,60,20,120,220,65,100,213,15,59,
+76,184,49,130,204,164,41,204,14,100,174,86,104,72,89,37,36,140,22,164,144,183,5,105,25,104,5,133,24,155,208,86,222,97,32,109,12,6,170,250,69,18,32,140,134,133,78,89,205,72,40,42,242,221,170,255,102,62,125,17,226,71,201,246,250,213,7,162,33,124,27,230,
+101,150,55,70,161,253,140,241,189,248,155,115,225,175,203,75,92,207,127,151,49,244,163,237,179,218,72,210,83,108,216,215,163,194,133,201,106,99,61,207,122,66,214,37,50,119,144,198,161,176,56,139,140,201,77,144,170,213,148,117,131,76,251,36,98,177,189,
+32,150,4,134,177,34,175,150,54,28,155,204,230,24,91,1,70,203,49,186,84,101,70,181,198,51,38,37,62,80,194,82,170,219,169,230,201,128,224,211,65,223,6,252,165,15,52,67,248,98,236,47,79,96,200,150,197,151,242,4,25,10,54,231,2,215,98,143,235,250,250,53,195,
+215,144,139,63,31,221,216,97,180,225,180,17,21,176,100,212,191,135,96,184,107,17,89,146,206,252,98,242,22,114,117,202,29,168,122,145,213,91,168,62,2,4,98,69,4,102,181,35,208,182,86,166,112,178,124,182,116,210,208,134,34,91,224,26,67,25,30,12,81,213,206,
+200,146,136,148,127,201,81,118,151,1,34,75,23,174,242,150,191,28,244,75,15,162,2,249,160,12,225,133,192,119,24,117,179,104,184,107,0,89,36,58,99,174,201,140,225,156,11,205,217,246,85,133,134,43,102,152,24,215,237,17,192,215,120,156,109,174,43,84,100,
+136,40,176,89,217,198,24,176,201,213,158,46,99,152,121,194,161,221,100,87,9,169,122,12,69,87,9,73,217,96,178,215,194,13,43,108,11,104,35,235,7,3,98,145,61,172,24,102,12,101,182,48,76,140,238,134,38,189,161,49,98,36,82,137,161,44,79,184,12,47,84,125,241,
+115,165,154,255,8,120,211,253,6,143,15,194,16,4,252,19,195,35,194,91,46,214,49,28,140,27,241,61,189,194,190,219,177,175,96,92,39,13,108,187,98,112,93,198,176,99,7,167,65,84,185,185,241,198,142,63,204,230,163,33,48,177,66,119,29,204,76,31,84,113,58,179,
+5,83,117,3,177,24,157,171,174,176,130,22,57,214,17,172,26,30,146,87,43,6,140,33,199,112,120,228,42,143,42,78,202,16,100,136,136,233,131,114,235,143,238,120,202,182,178,112,105,16,195,232,17,165,71,248,140,91,237,90,62,4,67,248,82,224,113,58,165,203,170,
+222,49,77,60,23,62,184,30,185,235,107,209,71,133,137,209,222,224,170,12,230,170,12,224,202,140,51,195,215,19,83,236,225,99,243,14,60,251,239,117,42,153,32,174,161,34,195,55,108,182,114,196,110,49,103,106,168,69,70,40,22,219,43,214,57,75,205,219,137,17,
+231,108,62,113,146,199,0,141,172,144,70,246,196,34,92,230,102,154,52,235,81,187,159,34,186,40,1,106,19,43,51,139,17,104,83,54,181,30,175,251,248,61,207,82,67,240,243,65,223,52,23,1,186,20,188,145,30,96,27,51,99,32,227,62,245,56,218,8,210,27,216,227,26,
+143,43,83,30,96,248,42,23,126,92,183,103,56,120,137,198,9,93,155,216,108,119,165,49,219,211,71,118,202,44,54,107,207,24,178,65,164,236,32,170,249,5,139,208,53,210,73,214,98,105,147,198,201,214,144,180,89,218,32,78,130,65,131,195,65,118,175,211,232,52,
+28,149,33,72,102,212,242,43,132,132,67,153,142,34,73,91,149,29,71,26,33,223,8,252,40,73,181,127,182,25,130,190,9,120,20,60,43,135,93,55,112,215,2,236,235,172,38,142,153,22,30,118,119,130,196,225,39,234,249,21,35,241,66,99,133,204,36,10,55,84,161,137,
+89,111,168,190,195,168,158,69,177,155,68,119,36,155,221,92,165,132,228,44,202,170,38,19,35,176,178,180,140,22,225,172,36,162,205,104,21,58,27,13,208,102,197,144,113,133,2,15,162,208,159,247,92,145,12,3,38,148,109,136,152,76,105,167,171,8,164,16,200,30,
+202,94,134,183,74,41,31,5,127,51,232,117,207,54,67,248,99,192,107,171,130,86,229,227,247,104,22,157,203,72,206,182,175,149,53,130,92,104,183,55,240,19,204,16,49,174,12,215,102,60,145,6,51,174,236,25,26,174,15,153,196,86,134,51,128,243,168,66,83,133,137,
+110,70,141,42,27,140,228,31,54,31,197,178,139,121,36,34,121,137,138,236,54,198,162,240,226,161,19,161,76,19,211,16,78,9,70,53,32,70,101,42,5,47,134,197,100,197,215,127,153,74,148,233,69,50,169,135,204,18,146,163,184,213,225,180,24,232,175,161,215,34,
+190,19,248,119,207,38,67,248,123,85,189,223,42,16,119,41,57,115,123,119,190,223,21,195,74,25,171,80,84,174,253,138,49,206,134,43,134,175,10,31,164,129,216,87,109,8,135,236,225,10,198,217,227,80,91,184,81,93,236,214,118,17,94,171,53,216,188,148,217,116,
+18,97,163,204,16,8,161,37,187,139,99,97,104,1,111,26,90,173,56,1,155,192,140,49,144,146,10,199,226,238,112,203,85,53,42,206,202,140,70,73,151,174,174,102,49,161,84,0,90,147,54,31,120,100,57,82,105,28,130,175,7,62,239,89,97,8,130,151,24,127,30,86,151,
+122,147,40,146,92,129,115,22,123,216,139,65,227,80,23,168,29,158,187,124,236,225,128,113,85,6,114,197,244,26,101,12,123,246,112,213,21,74,51,54,103,74,122,131,183,80,36,149,236,66,106,100,134,168,236,21,102,62,63,132,147,170,62,50,104,135,173,168,142,
+98,160,88,201,42,98,102,8,104,88,50,142,173,58,216,73,141,8,37,38,21,153,129,122,72,66,131,8,37,201,101,201,223,155,229,235,164,192,57,60,103,39,146,28,235,32,180,123,146,1,122,37,57,193,245,150,155,164,159,59,104,8,134,215,99,13,51,186,19,152,187,112,
+79,225,58,181,235,69,171,180,239,8,252,50,107,232,2,83,61,62,81,6,114,133,189,27,70,26,209,85,225,130,235,39,119,38,15,252,134,98,58,167,49,84,136,120,18,127,149,73,75,175,172,161,240,129,206,217,122,30,27,84,67,105,20,54,16,155,53,238,169,43,135,138,
+28,176,203,45,47,60,68,68,133,130,17,56,228,24,137,5,80,136,37,192,139,241,89,34,140,54,85,202,10,202,170,104,113,47,193,3,233,245,69,102,121,42,164,159,135,102,8,47,6,62,191,24,58,182,198,216,27,64,99,134,4,110,240,14,188,183,156,59,44,152,107,246,133,
+190,170,231,215,120,60,225,78,39,61,174,106,215,39,166,128,89,83,232,118,118,134,137,102,55,29,120,140,98,168,90,79,131,156,96,233,154,191,219,85,103,217,111,201,26,130,43,141,76,35,96,104,100,221,96,27,16,163,194,125,65,14,114,228,37,89,110,61,21,37,
+51,36,34,189,128,181,84,220,88,202,56,22,49,2,98,19,99,67,177,36,166,26,129,34,209,101,22,154,148,247,151,23,147,67,185,119,53,52,248,117,85,41,233,252,61,119,159,189,201,197,59,216,233,103,155,236,109,12,102,182,80,134,113,93,164,147,46,20,93,151,7,
+104,76,112,229,174,51,100,56,168,239,31,74,209,30,213,119,168,114,115,134,163,109,54,157,70,121,132,226,182,167,83,144,92,213,127,178,167,208,196,212,5,34,100,78,213,128,26,22,91,48,18,28,122,88,138,234,122,135,148,180,233,42,89,15,153,170,28,102,209,
+32,178,13,153,108,39,236,133,208,82,165,246,152,198,97,54,165,57,45,153,113,209,220,199,102,73,189,14,120,253,93,53,132,19,232,53,244,124,89,182,251,55,10,69,187,83,184,221,59,156,177,207,194,215,131,73,60,57,31,26,77,135,140,96,254,151,6,193,184,2,63,
+225,196,17,133,23,124,109,141,89,92,58,144,90,186,193,213,89,195,40,138,187,39,149,149,158,128,147,148,68,148,51,16,153,65,176,192,88,138,100,178,88,218,194,49,134,113,68,38,31,158,252,54,149,39,143,48,67,16,161,236,49,45,73,104,245,34,198,162,180,156,
+69,26,11,237,117,164,77,102,203,118,182,55,96,177,181,213,188,196,70,149,38,235,253,189,6,248,58,158,242,224,237,131,53,132,207,49,126,193,172,243,79,234,185,15,196,147,249,189,115,99,133,193,152,161,33,1,99,122,1,103,254,191,131,71,178,126,112,88,252,
+235,153,110,50,174,212,160,113,175,49,52,14,41,166,210,36,193,14,171,6,100,107,8,122,102,13,153,68,228,220,163,181,40,119,232,154,6,164,1,81,52,180,205,40,108,135,179,177,52,114,207,123,8,133,146,183,88,233,167,29,98,92,23,239,113,201,190,197,88,32,206,
+25,110,188,56,119,254,98,205,9,174,77,82,178,179,161,122,26,30,208,236,38,62,50,169,109,252,212,93,52,132,47,204,182,138,7,147,36,90,143,25,147,135,229,193,168,116,174,58,134,253,193,51,44,140,170,50,250,92,133,162,194,13,227,218,227,176,219,71,135,132,
+198,17,221,163,184,209,169,60,151,49,157,143,140,37,176,61,178,21,93,40,161,59,144,73,73,203,162,146,138,13,29,137,1,8,137,181,26,74,107,143,81,123,18,11,172,164,45,26,198,200,180,211,105,16,68,245,42,236,5,124,173,172,29,156,177,23,219,139,228,53,25,
+77,25,42,133,54,98,146,114,23,146,215,152,88,100,210,246,25,72,95,120,23,13,97,1,190,160,120,194,174,44,202,51,83,24,99,59,16,80,71,147,83,119,170,89,151,134,171,27,201,56,87,39,241,16,30,200,231,213,95,240,24,215,59,64,244,149,247,34,211,217,112,173,
+100,51,29,232,107,179,158,144,232,126,140,49,199,93,71,85,255,241,62,187,144,238,59,208,24,89,80,82,45,6,67,128,199,64,146,106,56,74,213,82,168,208,226,176,71,72,92,101,183,41,174,133,23,52,22,59,86,236,179,164,85,253,222,228,173,140,225,12,94,106,177,
+55,96,83,126,111,73,250,130,170,88,133,73,61,136,14,27,119,193,16,12,232,83,128,15,87,186,124,207,162,141,202,59,168,199,212,52,170,208,51,108,111,233,10,61,100,111,131,164,164,101,120,96,107,154,26,163,185,6,187,113,96,95,163,113,157,45,232,81,5,41,
+95,87,204,188,46,128,117,141,199,118,240,56,57,56,51,187,143,141,14,156,179,211,35,25,170,213,146,12,85,85,49,203,131,181,0,12,207,9,121,119,193,112,130,67,229,76,75,36,40,204,250,192,162,225,107,203,139,228,179,205,42,113,6,175,9,96,181,129,207,178,
+87,242,223,3,229,125,170,238,104,165,164,12,229,44,101,210,88,242,158,62,74,42,196,188,249,142,24,130,0,94,94,224,208,61,68,82,52,173,162,169,147,222,193,135,1,149,29,51,204,197,215,177,198,144,139,62,227,188,224,60,198,228,37,108,140,196,19,59,78,240,
+129,151,80,28,133,157,14,119,150,171,170,168,25,186,14,178,41,110,234,98,20,63,37,167,153,114,128,101,36,215,160,152,200,80,165,145,16,163,172,71,145,3,178,99,9,194,11,140,69,94,214,185,195,25,155,173,179,208,57,189,2,85,84,211,90,213,201,13,245,198,
+200,130,149,84,158,2,109,200,107,241,168,138,231,64,78,81,73,47,191,67,134,0,192,203,122,215,87,167,113,106,23,84,118,182,221,192,14,222,167,149,154,43,208,148,178,206,38,60,170,228,90,161,163,10,70,231,27,133,168,196,4,179,56,213,13,168,230,56,148,1,
+108,170,242,182,247,217,201,244,227,35,41,33,184,31,171,138,231,52,130,34,164,100,51,146,145,5,7,112,146,88,198,117,181,10,162,58,133,161,170,9,0,11,26,231,124,238,5,116,70,94,243,253,168,197,187,86,203,91,192,102,57,201,51,217,37,205,233,238,82,121,
+41,30,93,25,226,129,80,147,24,231,101,119,9,35,44,192,227,53,76,216,61,254,81,60,225,217,228,193,26,104,204,130,206,113,6,65,149,230,85,26,217,101,233,61,211,232,255,50,195,168,176,65,131,192,110,65,95,23,11,122,207,76,26,144,106,122,160,50,2,143,131,
+86,210,205,199,92,208,1,209,164,148,124,187,147,50,128,208,56,203,145,99,243,248,156,249,253,216,196,146,30,72,245,254,228,117,126,190,220,249,99,206,106,170,187,178,26,178,183,84,99,97,75,66,74,78,105,37,107,37,231,35,96,134,168,81,247,220,228,252,228,
+51,198,9,183,165,179,248,98,224,17,221,204,203,93,83,3,206,15,221,242,4,19,32,86,185,57,43,143,221,140,106,226,74,1,190,4,152,186,129,252,207,51,108,184,83,195,177,167,137,30,27,206,176,81,69,169,125,14,162,59,159,71,35,120,175,144,39,121,11,118,253,
+76,61,175,46,233,89,123,171,252,96,140,153,251,183,103,210,62,120,51,103,46,236,177,141,227,52,87,111,4,237,155,70,85,136,43,47,214,44,170,141,30,237,223,249,182,85,194,228,145,186,255,220,5,67,248,164,227,93,116,233,85,204,208,96,134,111,166,147,38,
+171,45,163,60,198,54,73,36,244,34,76,102,209,161,32,84,100,84,31,234,19,251,44,228,96,159,146,58,91,253,115,84,247,115,206,64,62,29,16,236,3,221,190,72,53,69,174,97,134,172,158,200,62,24,230,62,106,103,23,89,247,208,248,210,212,120,168,225,155,38,206,
+84,177,235,160,248,53,202,19,84,74,222,124,199,50,139,41,253,115,188,255,15,215,16,62,190,134,204,221,29,184,93,121,130,81,105,89,171,151,100,133,81,204,137,103,121,28,56,132,237,21,230,28,99,221,208,100,24,221,152,118,242,52,148,49,189,76,15,209,122,
+108,168,121,8,53,233,244,126,167,68,109,4,99,122,176,61,172,141,243,254,30,180,15,213,48,14,110,190,94,239,158,206,158,141,183,44,108,149,170,75,61,159,50,64,204,13,213,175,209,96,86,68,155,26,143,201,241,193,59,97,8,31,139,106,112,203,147,242,211,115,
+68,53,133,222,138,118,165,115,228,250,144,61,150,38,207,98,79,183,174,43,200,76,221,131,242,44,123,71,179,210,170,10,27,115,152,165,177,128,205,86,191,247,153,245,105,115,2,97,236,30,161,119,189,111,118,84,85,238,222,205,193,216,9,49,19,12,51,113,81,
+15,191,180,200,71,101,85,7,13,151,190,31,28,88,215,165,236,80,158,161,129,205,11,239,138,33,124,28,187,24,217,254,198,181,91,115,209,201,167,137,235,168,129,168,249,241,234,198,208,30,165,39,153,119,45,36,177,229,26,184,211,210,94,232,142,253,179,159,
+48,119,225,237,84,74,90,174,111,203,148,152,247,178,168,61,108,107,87,177,108,190,239,2,125,115,241,75,187,99,42,194,49,227,255,252,218,216,71,111,14,178,129,213,18,163,97,107,154,195,199,220,21,67,248,163,222,169,55,85,245,202,182,19,135,226,77,39,63,
+249,33,117,67,246,46,67,68,26,138,246,112,224,67,230,49,118,129,60,109,85,3,176,106,166,177,83,211,52,30,213,239,120,166,140,141,247,80,134,219,180,99,135,27,70,176,167,191,51,199,247,174,237,53,149,25,14,41,181,70,77,184,141,131,17,180,212,235,40,58,
+115,123,157,86,251,244,12,13,110,26,182,0,62,234,174,24,194,163,93,148,153,238,160,7,206,253,100,14,205,4,63,173,94,179,107,32,106,238,12,246,81,49,6,58,222,196,242,38,148,170,154,15,34,89,181,24,158,101,100,141,103,236,7,222,243,159,163,242,227,242,
+16,237,225,230,180,181,117,244,18,170,80,183,215,87,186,128,101,213,208,213,172,110,106,183,156,222,238,197,116,156,86,181,107,136,226,157,97,199,135,223,21,67,248,224,201,202,108,134,166,14,74,168,45,94,187,79,26,234,112,107,231,78,152,190,67,197,34,
+106,164,92,20,129,169,147,185,47,138,45,151,82,218,13,41,180,61,166,222,50,217,162,152,207,85,248,77,3,85,71,60,237,5,107,207,31,168,247,37,185,139,88,197,135,235,149,237,162,219,65,0,180,57,83,7,61,217,155,46,234,176,175,108,82,101,254,225,27,130,224,
+121,115,229,167,66,205,164,130,178,123,248,201,1,176,246,172,226,80,202,201,130,189,59,4,86,99,88,179,101,92,184,195,55,176,199,68,164,199,27,116,191,36,244,123,160,58,183,115,97,156,28,139,233,143,94,24,97,214,80,154,155,177,39,77,52,35,134,30,108,169,
+110,85,203,186,153,93,214,171,230,51,103,177,174,110,201,190,183,84,181,132,135,111,8,134,83,107,17,170,72,225,7,153,115,171,152,219,58,208,132,93,252,29,239,150,62,63,232,132,146,204,146,74,122,71,29,54,133,52,99,228,113,155,136,99,51,233,22,233,184,
+243,111,232,240,23,15,111,125,126,16,77,174,233,244,127,55,100,186,122,254,254,230,238,62,250,251,30,182,153,62,68,71,71,87,20,26,142,90,47,207,188,66,124,91,161,225,186,212,203,111,40,65,73,253,201,15,155,255,70,136,224,120,110,194,252,132,154,55,180,
+127,160,39,144,166,190,209,225,158,236,138,55,236,9,246,13,49,221,219,233,174,62,249,253,207,57,234,14,227,122,79,231,225,195,79,79,53,12,73,58,178,163,166,178,223,12,154,218,93,92,91,133,110,198,189,150,96,234,87,159,239,138,33,252,94,193,125,184,33,
+147,238,227,102,210,17,60,206,168,95,120,200,135,79,181,63,105,57,108,239,91,70,83,214,164,0,246,124,30,125,171,85,76,163,251,18,27,166,227,158,166,89,0,64,45,222,63,247,189,250,185,246,167,117,87,226,198,93,208,238,5,90,186,41,59,154,53,29,231,233,91,
+223,135,31,226,221,119,197,16,126,255,112,159,90,87,160,183,165,230,254,158,62,181,149,8,116,99,219,207,177,225,29,94,74,16,53,49,222,120,116,238,193,36,155,246,48,169,123,227,204,27,201,251,228,121,235,105,135,132,246,113,61,187,222,198,103,235,38,62,
+158,187,91,53,205,36,108,197,92,252,36,60,76,19,216,67,9,153,245,106,143,141,245,76,148,200,194,60,51,226,104,15,186,121,255,31,182,33,188,171,63,145,246,188,96,15,148,133,109,181,239,247,152,70,210,243,96,57,13,158,161,65,245,117,85,2,37,207,161,143,
+57,248,145,68,206,38,154,214,136,90,145,65,180,111,171,167,148,22,62,197,244,113,122,31,181,135,107,123,79,251,176,90,151,49,37,249,74,236,32,14,11,23,115,252,61,207,126,104,227,142,186,7,71,80,112,3,46,207,52,83,251,247,180,123,137,255,117,87,12,225,
+191,239,48,120,58,187,138,213,115,244,47,122,228,188,110,113,20,13,83,205,237,241,238,92,99,74,219,129,32,250,92,132,227,9,42,209,70,84,55,103,26,10,86,24,197,147,80,221,45,68,5,105,26,99,50,81,22,245,104,90,14,163,8,105,169,105,231,152,38,205,110,172,
+101,24,81,86,170,233,65,149,50,126,222,125,103,48,103,31,119,111,116,132,87,169,193,99,128,223,190,43,134,240,155,220,132,116,236,130,36,7,215,173,233,52,162,118,82,148,187,235,27,211,178,247,57,1,148,55,187,207,69,104,62,127,73,222,150,172,205,244,16,
+237,45,20,10,69,121,138,69,53,147,126,11,87,178,146,197,52,182,105,124,234,80,161,165,80,205,141,207,163,30,123,23,113,8,157,123,120,209,52,48,29,126,174,239,230,228,197,245,225,33,7,56,222,238,227,63,223,21,67,248,141,185,222,233,225,26,237,104,199,
+74,229,18,203,149,107,238,118,69,123,129,244,26,234,29,118,112,249,165,119,120,252,90,237,198,28,29,143,69,98,73,57,252,154,69,72,227,58,156,169,240,140,146,199,156,78,110,67,195,65,164,20,111,170,172,165,49,212,231,93,148,90,203,141,11,234,125,105,129,
+150,225,41,5,215,36,148,84,8,153,97,71,53,27,179,27,65,75,40,228,189,216,143,21,218,195,223,219,239,138,33,252,218,177,114,42,115,28,1,111,148,28,154,110,125,162,189,142,169,75,223,40,196,162,60,236,34,14,55,112,105,141,2,136,133,84,59,237,239,173,233,
+150,35,149,206,230,66,40,167,147,232,159,127,255,194,68,27,65,253,205,165,6,92,106,250,41,223,131,67,139,136,181,223,103,190,119,173,234,247,194,52,228,165,13,116,254,222,50,242,2,131,75,109,140,131,151,105,196,57,215,170,240,147,166,146,111,223,255,
+103,114,221,22,85,237,87,110,212,200,212,233,91,139,76,20,90,48,117,15,54,117,156,172,241,174,218,109,115,71,87,140,140,37,69,171,114,247,185,99,114,74,224,151,0,182,2,177,230,180,245,28,2,169,105,231,10,79,154,32,188,59,128,79,213,12,122,44,254,96,80,
+90,36,22,181,65,214,215,74,181,125,45,35,92,43,100,44,40,162,127,110,134,145,156,155,95,234,102,44,236,143,157,145,132,138,17,219,131,184,233,6,34,118,47,209,86,106,64,191,114,87,12,225,109,192,187,49,31,156,55,175,141,96,180,139,43,128,21,1,35,111,66,
+2,186,165,67,130,112,140,157,232,89,55,215,233,126,137,5,143,197,196,2,99,149,84,76,232,216,172,177,150,100,229,66,176,170,219,56,98,215,171,234,209,209,46,218,238,76,37,191,175,156,177,148,215,43,92,149,142,82,42,174,175,16,107,237,248,122,44,113,173,
+244,108,107,29,223,211,50,189,233,73,52,189,217,58,61,26,229,249,90,236,155,10,63,146,102,86,20,25,18,83,6,216,101,28,211,155,11,244,110,240,219,238,138,33,108,192,155,5,159,117,208,32,170,140,160,78,61,113,31,130,149,0,203,154,51,3,113,92,248,118,183,
+201,244,213,106,233,44,123,29,169,116,190,165,236,156,230,100,80,206,35,198,102,198,82,81,104,72,163,79,243,172,194,119,151,232,25,52,47,160,79,84,105,189,254,131,172,201,140,189,45,190,157,26,5,107,123,131,186,111,107,45,244,138,98,149,180,166,103,138,
+246,16,235,52,140,50,10,65,27,64,48,195,95,123,147,26,120,157,158,81,203,1,39,81,217,117,85,20,111,132,214,95,42,189,134,59,97,8,0,111,178,248,28,237,35,193,228,180,143,150,82,95,95,76,4,108,170,93,144,50,247,133,13,236,188,81,166,31,203,197,166,138,
+233,89,57,115,120,54,219,154,108,223,142,203,99,88,140,140,42,77,145,84,169,151,229,65,11,37,138,37,151,36,174,204,200,1,229,61,17,19,58,118,70,163,69,174,166,75,135,53,1,105,46,190,114,241,79,181,195,87,208,42,162,140,65,39,161,117,122,16,41,127,150,
+254,89,149,145,76,236,51,255,78,129,219,101,71,136,58,226,171,120,18,72,4,248,197,91,73,137,110,209,16,126,86,179,136,216,82,163,19,232,76,73,91,53,64,82,27,195,30,99,213,238,183,119,88,3,44,230,141,91,149,138,37,39,164,83,186,225,56,229,205,101,21,90,
+21,115,129,78,10,157,80,172,66,39,34,78,189,107,169,239,31,126,199,90,139,123,66,58,229,66,197,9,105,85,104,141,254,187,138,83,255,87,154,202,43,210,73,161,246,8,253,59,23,164,213,51,116,104,117,121,184,14,23,41,226,29,245,153,10,83,84,120,81,131,228,
+84,115,123,82,198,146,105,40,123,25,253,141,183,177,120,183,233,17,126,25,120,23,240,161,135,78,81,161,223,146,135,113,132,25,203,65,237,60,119,152,11,137,31,36,240,77,172,178,79,86,108,104,108,192,73,236,170,166,56,5,186,170,64,49,250,12,132,196,5,33,
+234,64,134,42,233,164,14,129,34,57,141,98,142,198,207,14,177,246,238,129,243,4,22,69,3,196,153,234,77,131,76,227,11,221,51,113,2,221,179,226,20,101,88,146,210,88,210,176,214,198,23,149,110,182,145,87,136,137,202,20,10,71,244,125,96,175,131,20,136,158,
+37,248,152,197,58,189,139,27,18,58,119,195,16,54,224,199,177,190,164,228,100,99,231,169,168,14,184,240,68,252,66,171,131,51,131,197,137,9,150,220,65,62,99,214,156,1,212,154,179,130,74,90,184,148,28,69,105,160,152,231,51,165,124,98,144,210,117,93,143,
+143,46,9,159,115,162,217,117,2,219,12,15,217,235,207,185,247,210,196,158,149,74,237,25,195,60,196,171,240,64,47,100,123,145,246,6,25,38,68,156,72,227,88,145,78,81,223,75,227,72,111,147,159,63,42,188,80,191,155,194,18,76,224,168,86,115,203,112,57,235,
+40,222,27,20,63,193,45,12,192,222,182,33,0,252,48,226,53,153,210,101,230,144,234,32,5,16,243,240,171,141,206,243,205,138,98,19,99,117,234,26,167,96,165,216,156,146,52,171,24,167,60,32,203,39,91,35,20,54,99,16,12,70,228,12,140,162,40,141,49,7,81,25,4,
+210,181,61,82,255,40,15,10,141,194,91,61,61,180,207,63,238,41,67,212,225,93,51,117,100,175,115,84,166,16,237,230,107,129,227,158,210,75,156,16,21,146,18,39,56,241,194,233,224,9,86,205,240,195,50,127,95,129,67,185,1,169,86,55,184,156,165,245,74,41,61,
+191,246,195,183,181,112,183,109,8,63,7,252,15,137,199,240,172,234,45,117,227,27,248,100,138,104,45,41,32,197,154,82,179,218,80,10,81,215,205,27,152,213,41,120,189,73,229,210,71,228,96,173,70,117,131,23,70,227,211,36,75,131,35,20,41,81,163,12,7,97,43,
+127,71,17,76,83,14,113,178,132,146,241,54,181,145,21,83,143,25,45,14,150,92,160,233,186,19,123,136,83,41,173,222,75,3,142,123,146,238,49,23,63,210,80,66,19,215,180,17,52,136,172,172,98,85,22,196,18,195,164,225,117,150,16,114,135,167,58,131,58,145,237,
+59,110,11,31,220,15,67,184,6,222,0,252,245,174,166,85,55,173,12,194,117,216,149,150,76,31,235,132,52,82,40,34,1,152,243,224,11,199,54,98,156,228,48,30,195,10,231,88,248,176,137,194,2,165,101,152,74,166,213,232,74,249,186,4,87,99,177,117,78,144,154,169,
+102,106,49,59,177,108,105,50,119,207,74,59,249,40,42,239,232,74,97,233,28,113,136,241,154,134,128,56,73,113,15,233,30,17,247,32,159,43,191,126,18,186,151,160,53,102,134,113,168,67,52,38,104,44,49,83,205,174,55,168,235,12,45,220,156,222,224,31,115,75,
+178,57,247,195,16,0,190,23,248,234,102,38,41,211,196,161,66,190,19,4,57,86,195,38,198,130,98,177,182,220,105,244,32,168,134,146,26,238,156,9,136,145,26,86,205,130,140,27,220,159,170,207,71,106,150,68,158,226,170,101,99,140,150,190,57,59,61,73,209,200,
+147,66,238,93,4,175,185,4,93,29,93,50,68,103,213,79,93,51,200,221,122,154,169,98,198,254,123,229,226,79,80,94,65,106,227,168,76,162,51,138,61,51,105,79,161,67,216,152,134,119,35,229,36,246,50,249,108,224,126,239,109,46,218,253,48,132,183,129,126,2,248,
+252,74,115,92,101,230,69,214,102,121,169,137,224,69,40,227,191,25,5,8,71,166,102,35,207,57,240,33,43,232,211,184,178,111,85,205,249,160,199,40,165,37,106,52,34,208,184,198,90,176,55,34,22,193,230,49,22,5,35,15,113,61,214,18,124,236,242,139,73,11,218,
+171,158,165,149,176,84,109,96,57,224,131,114,235,141,19,116,47,189,131,78,21,34,210,75,144,233,102,26,77,165,139,153,246,86,86,209,222,32,22,164,147,165,37,14,216,164,192,162,180,119,58,127,130,91,148,214,187,95,134,0,240,141,136,47,168,78,226,16,46,
+217,25,214,61,5,100,45,209,135,122,140,145,83,207,195,57,62,239,161,136,210,58,74,181,243,52,0,142,66,34,217,192,202,179,219,82,143,80,35,24,177,128,175,19,115,120,193,30,138,216,114,28,157,26,54,45,145,93,237,140,47,77,150,148,58,245,213,94,58,102,111,
+102,237,117,142,211,172,55,72,247,106,113,247,199,80,134,133,40,131,104,3,105,35,234,180,146,189,92,221,30,200,249,59,247,98,82,214,28,186,215,240,205,183,189,96,247,203,16,222,2,252,140,224,229,73,16,241,40,173,225,72,45,99,213,40,120,86,6,167,2,72,
+2,185,20,128,112,56,181,33,40,58,120,84,5,48,21,11,131,20,177,46,201,220,32,178,92,109,43,20,46,161,170,113,78,16,154,51,137,145,186,5,57,9,53,21,93,84,138,253,147,105,203,228,10,168,203,221,179,192,179,236,77,165,189,178,152,128,48,238,169,189,3,241,
+65,109,4,93,164,106,175,0,187,55,80,167,153,209,216,161,178,146,27,189,136,3,147,41,27,108,63,203,45,40,164,60,40,67,0,248,91,72,175,72,13,33,53,41,189,70,123,212,131,173,35,119,91,148,90,89,140,212,40,138,145,149,227,48,26,198,145,202,200,131,116,50,
+225,18,184,30,201,89,140,8,165,207,175,86,116,30,249,35,45,107,74,245,105,32,234,176,175,154,56,138,28,61,113,106,221,218,173,185,90,58,204,123,137,153,32,14,221,71,205,240,112,154,85,80,56,193,1,3,192,61,53,70,64,247,18,44,118,214,16,247,160,195,7,123,
+211,106,26,90,23,215,104,15,80,159,105,50,178,190,238,126,44,214,253,52,132,183,2,223,47,243,218,62,72,51,21,202,168,163,112,154,157,150,108,254,200,211,56,157,253,168,49,38,21,180,15,52,81,100,38,57,137,172,35,76,68,201,219,38,6,145,175,109,47,54,75,
+80,18,182,210,58,101,122,82,51,97,104,142,239,51,91,146,205,158,171,14,223,206,145,204,231,7,36,31,139,50,197,219,139,75,138,198,11,247,52,203,215,25,30,20,251,227,110,16,149,86,54,70,200,108,34,235,14,89,18,95,118,3,208,129,164,195,247,215,125,125,86,
+25,2,192,235,145,94,133,253,97,133,122,115,241,75,7,192,53,0,170,60,65,213,68,73,119,235,56,68,18,61,24,156,28,32,47,74,173,140,144,24,97,47,33,249,186,75,215,194,171,240,217,74,237,36,51,245,11,71,213,18,122,54,177,15,214,168,227,247,116,152,218,211,
+222,134,110,165,244,201,135,184,209,106,62,77,239,128,78,142,238,123,232,30,196,170,208,61,136,123,10,78,74,47,113,207,138,53,208,201,133,51,18,104,178,170,1,99,183,211,39,15,146,165,10,97,239,226,22,37,119,31,180,33,188,19,248,26,73,223,85,103,45,46,
+169,148,162,165,128,91,141,139,69,22,248,18,7,212,121,136,145,165,227,153,227,151,210,129,28,179,110,160,136,26,60,11,136,197,100,21,49,101,110,83,174,174,164,109,82,240,83,99,20,104,45,173,66,23,83,124,103,167,38,79,182,155,58,132,98,86,242,150,216,
+251,14,221,252,58,22,133,78,81,217,196,108,74,73,105,0,229,33,60,51,7,173,193,13,207,113,104,105,51,153,86,245,119,187,180,252,181,117,63,15,41,243,179,199,16,0,190,15,120,141,20,159,150,42,182,44,35,111,254,210,243,255,117,120,246,90,202,101,167,154,
+35,204,69,177,165,38,184,72,243,44,36,229,169,89,33,188,88,78,49,203,84,58,207,156,63,133,45,206,210,56,205,6,21,203,232,94,245,156,194,238,49,155,178,183,154,153,73,207,16,147,139,24,221,7,168,69,90,119,175,192,9,69,117,77,247,122,130,166,219,159,117,
+134,238,128,158,170,224,52,67,75,102,80,135,212,148,73,130,233,22,248,155,159,92,55,240,179,204,35,20,61,140,87,3,255,30,226,121,228,174,173,137,120,89,242,226,57,229,87,7,52,59,242,172,109,230,217,42,42,129,235,172,246,56,22,171,14,186,144,83,222,126,
+212,153,75,137,9,242,112,16,121,197,49,172,84,51,99,14,168,198,80,205,209,231,159,8,218,246,116,131,54,111,149,68,254,178,179,136,210,93,239,64,49,187,145,93,83,160,155,76,189,227,67,157,98,238,95,75,140,113,154,124,134,73,113,99,199,5,201,110,14,229,
+20,211,171,185,143,71,253,61,40,67,104,42,219,87,32,222,144,165,60,47,40,172,49,214,39,29,214,94,52,198,129,28,42,153,193,157,231,153,19,232,65,56,74,141,54,187,153,142,133,232,147,226,116,70,62,73,165,194,54,82,184,50,75,203,26,173,212,98,52,98,206,
+209,26,19,69,23,158,45,244,195,76,130,118,4,191,167,117,59,159,32,187,147,39,205,66,83,83,217,170,23,161,72,174,2,49,67,67,167,146,187,1,81,37,232,57,35,209,236,232,175,184,237,226,209,3,54,4,63,153,56,252,131,192,227,146,190,108,158,197,220,68,194,195,
+169,233,146,235,112,181,212,224,82,132,60,90,146,96,164,155,206,234,97,216,177,164,190,177,23,82,240,122,157,231,34,193,106,107,203,106,162,55,53,64,173,138,98,180,74,44,251,172,28,125,70,115,181,249,186,241,52,169,232,204,162,78,113,24,89,113,101,17,
+71,143,144,253,135,101,175,28,30,59,144,113,202,118,59,167,36,175,36,243,73,138,157,4,187,119,59,191,155,7,112,28,240,125,54,132,247,198,30,247,95,1,125,178,208,167,21,5,96,57,216,75,179,225,179,138,156,71,225,85,249,184,149,211,83,0,83,34,242,108,230,
+60,251,160,104,111,75,75,215,33,175,165,104,182,225,145,250,69,246,86,39,50,148,70,180,118,113,14,61,233,141,103,8,80,121,136,96,14,160,76,206,97,101,14,44,147,108,210,128,47,207,132,236,56,223,134,176,58,251,19,39,223,172,27,236,21,69,177,40,185,26,
+213,99,224,45,192,95,126,64,30,251,65,159,22,175,43,224,85,192,191,69,122,225,209,8,114,53,198,78,62,158,195,146,17,213,89,60,107,31,60,205,82,50,58,87,1,169,58,155,165,248,158,103,73,149,184,230,146,26,139,117,184,82,19,92,167,66,217,84,156,224,120,
+34,107,83,24,99,146,77,103,223,129,170,52,70,119,12,67,58,54,163,88,20,211,51,84,47,162,43,134,28,56,140,145,20,54,138,26,159,7,141,86,131,73,111,39,149,215,175,238,75,138,240,240,13,1,170,143,254,74,224,23,144,62,186,125,65,79,51,27,31,167,228,170,13,
+20,93,115,82,158,135,228,25,22,178,131,201,146,173,107,175,169,136,186,180,24,231,64,222,106,94,108,20,181,109,20,76,205,131,116,166,28,199,28,199,221,77,35,91,207,61,135,168,157,150,78,88,141,23,122,158,33,241,66,179,150,39,19,169,8,42,220,100,57,175,
+236,224,112,221,7,114,180,32,254,27,121,156,223,59,238,91,138,240,192,12,225,15,182,224,183,3,159,11,252,107,161,199,50,155,12,236,49,122,140,217,115,76,174,37,243,57,23,103,175,22,158,115,157,176,114,182,189,168,68,46,83,237,220,91,30,165,155,50,182,
+165,156,234,108,120,57,241,65,164,212,189,116,3,209,236,198,176,3,199,30,102,77,146,74,150,154,246,169,39,246,231,53,113,213,237,227,53,20,107,13,226,116,177,168,141,36,105,121,69,143,247,62,38,247,78,224,229,15,2,28,62,24,67,120,106,22,252,107,192,103,
+2,63,47,226,163,14,82,34,53,101,80,156,2,31,230,169,115,34,234,60,207,72,172,3,45,10,23,156,205,50,133,188,35,11,88,251,113,66,202,227,123,194,218,117,137,52,117,10,159,60,109,190,107,30,204,195,59,178,247,16,157,214,101,124,143,218,213,113,163,24,164,
+206,42,166,7,89,26,67,100,25,121,159,143,100,114,29,248,109,242,104,158,95,125,8,94,250,161,121,132,163,49,188,12,248,25,164,23,185,223,83,158,101,160,125,122,46,67,130,138,253,156,6,48,250,208,139,214,91,94,37,118,5,244,102,44,183,216,101,139,89,102,
+195,202,129,199,36,183,220,16,97,58,148,154,59,76,68,211,195,212,53,133,30,126,73,6,145,143,104,127,146,88,14,221,202,125,232,165,102,27,15,35,112,90,203,3,188,18,248,117,30,210,181,222,151,133,127,122,49,237,55,128,199,129,31,19,188,212,53,239,7,99,
+171,51,146,122,30,112,49,156,243,72,117,45,38,234,64,12,205,147,89,168,115,15,234,176,144,65,104,215,92,84,243,219,105,246,51,135,190,7,112,67,77,33,42,42,73,145,243,25,117,140,95,96,213,20,52,123,155,56,122,32,247,198,208,107,79,58,197,129,142,86,122,
+10,177,236,196,88,222,68,30,230,249,78,30,226,181,222,110,40,48,239,231,208,241,239,164,91,212,183,9,190,44,103,213,66,185,219,165,100,53,179,101,39,66,81,160,47,242,40,60,47,82,157,130,150,83,142,91,241,30,83,200,59,100,118,99,168,22,184,33,162,180,
+17,117,208,53,59,10,145,168,69,59,138,154,95,103,51,207,145,181,92,212,214,113,96,2,190,67,189,161,189,70,15,196,166,23,208,222,46,231,59,129,191,10,60,193,67,190,214,219,143,9,239,247,245,4,240,23,129,95,2,190,93,226,145,154,79,217,92,248,160,206,95,
+171,118,100,187,233,177,21,25,118,120,36,239,32,201,46,116,43,123,116,73,210,61,9,45,29,164,130,231,120,220,241,152,240,134,13,225,214,101,82,207,105,132,26,23,84,87,80,133,250,243,232,31,21,0,244,20,246,56,242,10,106,60,94,239,6,190,18,248,129,91,42,
+214,61,43,211,199,63,232,250,1,224,23,65,255,84,226,37,28,135,87,237,81,7,116,38,123,53,60,24,90,138,141,188,69,48,178,176,20,243,148,22,118,82,99,73,250,78,129,219,156,135,232,35,96,163,128,163,90,220,165,136,108,114,139,162,69,147,89,187,53,29,209,
+122,73,170,226,86,36,119,97,214,31,118,26,186,90,105,37,11,69,95,252,48,50,131,103,155,33,116,122,249,233,160,175,4,254,190,208,35,198,91,38,18,206,35,221,247,208,144,2,214,179,197,157,135,119,229,238,47,25,240,112,203,253,147,149,99,151,118,71,246,47,
+91,188,193,193,84,160,168,47,74,83,181,111,206,59,28,230,15,75,218,71,10,103,44,153,76,34,113,99,236,95,192,239,1,127,19,248,246,103,222,64,210,7,138,33,60,37,215,54,128,127,8,252,8,226,31,8,125,81,2,7,141,108,77,218,204,17,232,194,1,193,214,231,29,168,
+207,122,168,243,145,154,92,63,229,239,131,36,55,204,131,80,180,11,132,206,208,160,34,187,207,38,245,193,59,36,135,176,90,164,113,67,79,97,106,62,204,64,243,67,192,223,0,254,203,29,221,120,15,203,16,158,150,69,255,87,224,207,2,223,138,244,245,192,203,
+43,139,232,62,117,98,134,160,4,45,114,94,161,74,18,21,34,98,234,63,239,162,127,187,228,187,14,71,2,239,106,96,110,134,251,205,142,36,83,210,79,187,219,119,11,59,234,0,30,3,248,25,146,99,248,214,251,21,219,159,61,134,112,123,117,242,183,86,174,253,56,
+226,171,176,254,68,166,104,45,239,159,13,165,12,5,229,33,10,23,80,114,141,206,239,167,250,53,38,28,147,176,24,83,59,145,93,13,78,83,234,118,23,228,106,165,179,140,5,187,34,90,75,175,230,171,126,12,248,22,222,131,109,44,158,187,30,225,246,235,228,111,
+198,252,105,224,197,136,215,129,254,156,224,35,202,195,215,222,244,48,17,154,135,202,180,58,74,30,228,187,87,177,91,85,197,83,48,85,7,253,83,116,84,209,237,178,247,148,10,140,162,52,149,119,224,29,228,184,223,247,220,53,32,248,108,6,139,79,229,122,27,
+73,230,252,58,224,115,5,95,136,244,249,130,71,171,236,60,170,145,48,136,41,231,124,56,10,103,215,50,214,147,117,196,225,168,88,150,158,98,2,8,69,117,41,131,84,60,253,151,133,1,222,200,251,156,69,244,157,246,6,207,50,67,120,159,55,243,26,248,73,193,79,
+166,250,10,159,138,120,5,232,211,5,47,1,62,196,158,135,106,79,85,223,206,34,251,92,132,154,113,217,199,223,124,112,244,59,99,225,119,129,183,32,222,84,241,255,151,121,74,250,4,122,110,122,132,251,211,62,215,83,137,64,91,197,229,142,205,11,240,98,137,
+79,6,62,65,240,113,72,31,3,124,4,210,243,5,127,8,248,48,237,178,254,255,27,248,191,192,239,148,171,255,45,224,55,16,191,10,252,199,242,66,27,31,128,215,126,230,245,229,122,78,95,113,185,5,151,235,98,8,151,235,98,8,151,235,98,8,151,235,98,8,151,235,98,
+8,151,235,98,8,151,235,98,8,151,235,98,8,151,235,98,8,151,235,98,8,151,235,98,8,151,235,98,8,151,235,98,8,151,235,98,8,151,235,246,174,255,55,0,68,140,229,123,149,134,75,22,0,0,0,0,73,69,78,68,174,66,96,130,0,0 };
+
+const char* smallKnob_light_png = (const char*) temp_binary_data_8;
 
 //================== smallKnob.png ==================
-static const unsigned char temp_binary_data_5[] =
+static const unsigned char temp_binary_data_9[] =
 { 137,80,78,71,13,10,26,10,0,0,0,13,73,72,68,82,0,0,0,130,0,0,0,130,8,6,0,0,0,138,3,16,253,0,0,0,9,112,72,89,115,0,0,11,19,0,0,11,19,1,0,154,156,24,0,0,10,79,105,67,67,80,80,104,111,116,111,115,104,111,112,32,73,67,67,32,112,114,111,102,105,108,101,0,0,
 120,218,157,83,103,84,83,233,22,61,247,222,244,66,75,136,128,148,75,111,82,21,8,32,82,66,139,128,20,145,38,42,33,9,16,74,136,33,161,217,21,81,193,17,69,69,4,27,200,160,136,3,142,142,128,140,21,81,44,12,138,10,216,7,228,33,162,142,131,163,136,138,202,
 251,225,123,163,107,214,188,247,230,205,254,181,215,62,231,172,243,157,179,207,7,192,8,12,150,72,51,81,53,128,12,169,66,30,17,224,131,199,196,198,225,228,46,64,129,10,36,112,0,16,8,179,100,33,115,253,35,1,0,248,126,60,60,43,34,192,7,190,0,1,120,211,11,
@@ -3126,10 +4243,10 @@ static const unsigned char temp_binary_data_5[] =
 5,134,200,19,128,124,128,216,227,27,126,111,0,33,31,48,146,124,63,95,24,246,138,134,223,27,65,216,153,141,35,224,127,228,129,132,248,159,57,215,159,30,49,15,252,211,37,248,233,1,0,240,255,3,0,178,131,254,73,199,211,192,198,0,0,0,0,73,69,78,68,174,66,
 96,130,0,0 };
 
-const char* smallKnob_png = (const char*) temp_binary_data_5;
+const char* smallKnob_png = (const char*) temp_binary_data_9;
 
 //================== title.png ==================
-static const unsigned char temp_binary_data_6[] =
+static const unsigned char temp_binary_data_10[] =
 "\x89PNG\r\n"
 "\x1a\n"
 "\0\0\0\rIHDR\0\0\0\xfc\0\0\0>\x08\x06\0\0\0\x0f\x8bv\xd8\0\0\0\tpHYs\0\0\x0b\x13\0\0\x0b\x13\x01\0\x9a\x9c\x18\0\0\n"
@@ -3444,1408 +4561,10 @@ static const unsigned char temp_binary_data_6[] =
 "\xc5'\xca\x95\xac\x14""3\xe0\x8bM\xa0s\xcd""d\x9aG\xe0.\xc4<r!\x04\x9c\xa3q\xcd\x17\xde\xd8VH\xd9\xe2\xf5\x9a\xe9\xa5\xcf\xc0\xdd\xcf\x96\xf1|\x8d\xaeS\xb1\xac\xc7w\x81""7\x05\x1fgN,\xbc""C\x0e""94?H8K\xe0\x90""C\x0e\xe0\x1dr\xc8!\x07\xf0\x0e""9\xe4\x90"
 "\x03x\x87\x1cr\xc8\x01\xbc""C\x0e""9\xe4\0\xde!\x87\x1cr\0\xef\x90""C\x0e\xe5\x9b\xfe\x7f\0\xdev\xdc""3\x98\xff\xe9<\0\0\0\0IEND\xae""B`\x82";
 
-const char* title_png = (const char*) temp_binary_data_6;
-
-//================== label_cutoff.png ==================
-static const unsigned char temp_binary_data_7[] =
-"\x89PNG\r\n"
-"\x1a\n"
-"\0\0\0\rIHDR\0\0\0\x82\0\0\0\x82\x08\x06\0\0\0\x8a\x03\x10\xfd\0\0\0\tpHYs\0\0\x0b\x13\0\0\x0b\x13\x01\0\x9a\x9c\x18\0\0\n"
-"OiCCPPhotoshop ICC profile\0\0x\xda\x9dSgTS\xe9\x16=\xf7\xde\xf4""BK\x88\x80\x94KoR\x15\x08 RB\x8b\x80\x14\x91&*!\t\x10J\x88!\xa1\xd9\x15Q\xc1\x11""EE\x04\x1b\xc8\xa0\x88\x03\x8e\x8e\x80\x8c\x15Q,\x0c\x8a\n"
-"\xd8\x07\xe4!\xa2\x8e\x83\xa3\x88\x8a\xca\xfb\xe1{\xa3k\xd6\xbc\xf7\xe6\xcd\xfe\xb5\xd7>\xe7\xac\xf3\x9d\xb3\xcf\x07\xc0\x08\x0c\x96H3Q5\x80\x0c\xa9""B\x1e\x11\xe0\x83\xc7\xc4\xc6\xe1\xe4.@\x81\n"
-"$p\0\x10\x08\xb3""d!s\xfd#\x01\0\xf8~<<+\"\xc0\x07\xbe\0\x01x\xd3\x0b\x08\0\xc0M\x9b\xc0""0\x1c\x87\xff\x0f\xea""B\x99\\\x01\x80\x84\x01\xc0t\x91""8K\x08\x80\x14\0@z\x8e""B\xa6\0@F\x01\x80\x9d\x98&S\0\xa0\x04\0`\xcb""cb\xe3\0P-\0`'\x7f\xe6\xd3\0\x80\x9d"
-"\xf8\x99{\x01\0[\x94!\x15\x01\xa0\x91\0 \x13""e\x88""D\0h;\0\xac\xcfV\x8a""E\0X0\0\x14""fK\xc4""9\0\xd8-\0""0IWfH\0\xb0\xb7\0\xc0\xce\x10\x0b\xb2\0\x08\x0c\0""0Q\x88\x85)\0\x04{\0`\xc8##x\0\x84\x99\0\x14""F\xf2W<\xf1+\xae\x10\xe7*\0\0x\x99\xb2<\xb9$9"
-"E\x81[\x08-q\x07WW.\x1e(\xceI\x17+\x14""6a\x02""a\x9a@.\xc2y\x99\x19""2\x81""4\x0f\xe0\xf3\xcc\0\0\xa0\x91\x15\x11\xe0\x83\xf3\xfdx\xce\x0e\xae\xce\xce""6\x8e\xb6\x0e_-\xea\xbf\x06\xff\"bb\xe3\xfe\xe5\xcf\xabp@\0\0\xe1t~\xd1\xfe,/\xb3\x1a\x80;\x06\x80"
-"m\xfe\xa2%\xee\x04h^\x0b\xa0u\xf7\x8b""f\xb2\x0f@\xb5\0\xa0\xe9\xdaW\xf3p\xf8~<<E\xa1\x90\xb9\xd9\xd9\xe5\xe4\xe4\xd8J\xc4""B[a\xcaW}\xfeg\xc2_\xc0W\xfdl\xf9~<\xfc\xf7\xf5\xe0\xbe\xe2$\x81""2]\x81G\x04\xf8\xe0\xc2\xcc\xf4L\xa5\x1c\xcf\x92\t\x84""b\xdc"
-"\xe6\x8fG\xfc\xb7\x0b\xff\xfc\x1d\xd3\"\xc4Ib\xb9X*\x14\xe3Q\x12q\x8e""D\x9a\x8c\xf3""2\xa5\"\x89""B\x92)\xc5%\xd2\xff""d\xe2\xdf,\xfb\x03>\xdf""5\0\xb0j>\x01{\x91-\xa8]c\x03\xf6K'\x10Xt\xc0\xe2\xf7\0\0\xf2\xbbo\xc1\xd4(\x08\x03\x80h\x83\xe1\xcfw\xff"
-"\xef?\xfdG\xa0%\0\x80""fI\x92q\0\0^D$.T\xca\xb3?\xc7\x08\0\0""D\xa0\x81*\xb0""A\x1b\xf4\xc1\x18,\xc0\x06\x1c\xc1\x05\xdc\xc1\x0b\xfc`6\x84""B$\xc4\xc2""B\x10""B\n"
-"d\x80\x1cr`)\xac\x82""B(\x86\xcd\xb0\x1d*`/\xd4@\x1d""4\xc0Qh\x86\x93p\x0e.\xc2U\xb8\x0e=p\x0f\xfa""a\x08\x9e\xc1(\xbc\x81\t\x04""A\xc8\x08\x13""a!\xda\x88\x01""b\x8aX#\x8e\x08\x17\x99\x85\xf8!\xc1H\x04\x12\x8b$ \xc9\x88\x14Q\"K\x91""5H1R\x8aT UH\x1d"
-"\xf2=r\x02""9\x87\\F\xba\x91;\xc8\0""2\x82\xfc\x86\xbcG1\x94\x81\xb2Q=\xd4\x0c\xb5""C\xb9\xa8""7\x1a\x84""F\xa2\x0b\xd0""dt1\x9a\x8f\x16\xa0\x9b\xd0r\xb4\x1a=\x8c""6\xa1\xe7\xd0\xabh\x0f\xda\x8f>C\xc7""0\xc0\xe8\x18\x07""3\xc4l0.\xc6\xc3""B\xb1""8,\t"
-"\x93""c\xcb\xb1\"\xac\x0c\xab\xc6\x1a\xb0V\xac\x03\xbb\x89\xf5""c\xcf\xb1w\x04\x12\x81""E\xc0\t6\x04wB a\x1e""AHXLXN\xd8H\xa8 \x1c$4\x11\xda\t7\t\x03\x84Q\xc2'\"\x93\xa8K\xb4&\xba\x11\xf9\xc4\x18""b21\x87XH,#\xd6\x12\x8f\x13/\x10{\x88""C\xc4""7$\x12\x89"
-"C2'\xb9\x90\x02I\xb1\xa4T\xd2\x12\xd2""F\xd2nR#\xe9,\xa9\x9b""4H\x1a#\x93\xc9\xda""dk\xb2\x07""9\x94, +\xc8\x85\xe4\x9d\xe4\xc3\xe4""3\xe4\x1b\xe4!\xf2[\n"
-"\x9d""b@q\xa4\xf8S\xe2(R\xcajJ\x19\xe5\x10\xe5""4\xe5\x06""e\x98""2AU\xa3\x9aR\xdd\xa8\xa1T\x11""5\x8fZB\xad\xa1\xb6R\xafQ\x87\xa8\x13""4u\x9a""9\xcd\x83\x16IK\xa5\xad\xa2\x95\xd3\x1ah\x17h\xf7i\xaf\xe8t\xba\x11\xdd\x95\x1eN\x97\xd0W\xd2\xcb\xe9G\xe8"
-"\x97\xe8\x03\xf4w\x0c\r\x86\x15\x83\xc7\x88g(\x19\x9b\x18\x07\x18g\x19w\x18\xaf\x98L\xa6\x19\xd3\x8b\x19\xc7T071\xeb\x98\xe7\x99\x0f\x99oUX*\xb6*|\x15\x91\xca\n"
-"\x95J\x95&\x95\x1b*/T\xa9\xaa\xa6\xaa\xde\xaa\x0bU\xf3U\xcbT\x8f\xa9^S}\xae""FU3S\xe3\xa9\t\xd4\x96\xabU\xaa\x9dP\xebS\x1bSg\xa9;\xa8\x87\xaag\xa8oT?\xa4~Y\xfd\x89\x06Y\xc3L\xc3OC\xa4Q\xa0\xb1_\xe3\xbc\xc6 \x0b""c\x19\xb3x,!k\r\xab\x86u\x81""5\xc4&\xb1"
-"\xcd\xd9|v*\xbb\x98\xfd\x1d\xbb\x8b=\xaa\xa9\xa1""9C3J3W\xb3R\xf3\x94""f?\x07\xe3\x98q\xf8\x9ctN\t\xe7(\xa7\x97\xf3~\x8a\xde\x14\xef)\xe2)\x1b\xa6""4L\xb9""1e\\k\xaa\x96\x97\x96X\xabH\xabQ\xabG\xeb\xbd""6\xae\xed\xa7\x9d\xa6\xbd""E\xbbY\xfb\x81\x0e""A"
-"\xc7J'\\'Gg\x8f\xce\x05\x9d\xe7S\xd9S\xdd\xa7\n"
-"\xa7\x16M=:\xf5\xae.\xaak\xa5\x1b\xa1\xbb""Dw\xbfn\xa7\xee\x98\x9e\xbe^\x80\x9eLo\xa7\xdey\xbd\xe7\xfa\x1c}/\xfdT\xfdm\xfa\xa7\xf5G\x0cX\x06\xb3\x0c$\x06\xdb\x0c\xce\x18<\xc5""5qo<\x1d/\xc7\xdb\xf1QC]\xc3@C\xa5""a\x95""a\x97\xe1\x84\x91\xb9\xd1<\xa3\xd5"
-"F\x8d""F\x0f\x8ci\xc6\\\xe3$\xe3m\xc6m\xc6\xa3&\x06&!&KM\xeaM\xee\x9aRM\xb9\xa6)\xa6;L;L\xc7\xcd\xcc\xcd\xa2\xcd\xd6\x99""5\x9b=1\xd7""2\xe7\x9b\xe7\x9b\xd7\x9b\xdf\xb7`ZxZ,\xb6\xa8\xb6\xb8""eI\xb2\xe4Z\xa6Y\xee\xb6\xbcn\x85Z9Y\xa5XUZ]\xb3""F\xad\x9d"
-"\xad%\xd6\xbb\xad\xbb\xa7\x11\xa7\xb9N\x93N\xab\x9e\xd6g\xc3\xb0\xf1\xb6\xc9\xb6\xa9\xb7\x19\xb0\xe5\xd8\x06\xdb\xae\xb6m\xb6}agb\x17g\xb7\xc5\xae\xc3\xee\x93\xbd\x93}\xba}\x8d\xfd=\x07\r\x87\xd9\x0e\xab\x1dZ\x1d~s\xb4r\x14:V:\xde\x9a\xce\x9c\xee?}\xc5"
-"\xf4\x96\xe9/gX\xcf\x10\xcf\xd8""3\xe3\xb6\x13\xcb)\xc4i\x9dS\x9b\xd3Gg\x17g\xb9s\x83\xf3\x88\x8b\x89K\x82\xcb.\x97>.\x9b\x1b\xc6\xdd\xc8\xbd\xe4Jt\xf5q]\xe1z\xd2\xf5\x9d\x9b\xb3\x9b\xc2\xed\xa8\xdb\xaf\xee""6\xeei\xee\x87\xdc\x9f\xcc""4\x9f)\x9eY3s\xd0"
-"\xc3\xc8""C\xe0Q\xe5\xd1?\x0b\x9f\x95""0k\xdf\xac~OCO\x81g\xb5\xe7#/c/\x91W\xad\xd7\xb0\xb7\xa5w\xaa\xf7""a\xef\x17>\xf6>r\x9f\xe3>\xe3<7\xde""2\xdeY_\xcc""7\xc0\xb7\xc8\xb7\xcbO\xc3o\x9e_\x85\xdf""C\x7f#\xff""d\xffz\xff\xd1\0\xa7\x80%\x01g\x03\x89\x81"
-"A\x81[\x02\xfb\xf8z|!\xbf\x8e?:\xdb""e\xf6\xb2\xd9\xed""A\x8c\xa0\xb9""A\x15""A\x8f\x82\xad\x82\xe5\xc1\xad!h\xc8\xec\x90\xad!\xf7\xe7\x98\xce\x91\xcei\x0e\x85P~\xe8\xd6\xd0\x07""a\xe6""a\x8b\xc3~\x0c'\x85\x87\x85W\x86?\x8ep\x88X\x1a\xd1""1\x97""5w\xd1"
-"\xdc""Cs\xdf""D\xfa""D\x96""D\xde\x9bg1O9\xaf-J5*>\xaa.j<\xda""7\xba""4\xba?\xc6.fY\xcc\xd5X\x9dXIlK\x1c""9.*\xae""6nl\xbe\xdf\xfc\xed\xf3\x87\xe2\x9d\xe2\x0b\xe3{\x17\x98/\xc8]py\xa1\xce\xc2\xf4\x85\xa7\x16\xa9.\x12,:\x96@L\x88N8\x94\xf0""A\x10*\xa8"
-"\x16\x8c%\xf2\x13w%\x8e\n"
-"y\xc2\x1d\xc2g\"/\xd1""6\xd1\x88\xd8""C\\*\x1eN\xf2H*Mz\x92\xec\x91\xbc""5y$\xc5""3\xa5,\xe5\xb9\x84'\xa9\x90\xbcL\rL\xdd\x9b:\x9e\x16\x9av m2=:\xbd""1\x83\x92\x91\x90qB\xaa!M\x93\xb6g\xeag\xe6""fv\xcb\xac""e\x85\xb2\xfe\xc5n\x8b\xb7/\x1e\x95\x07\xc9"
-"k\xb3\x90\xac\x05Y-\n"
-"\xb6""B\xa6\xe8TZ(\xd7*\x07\xb2geWf\xbf\xcd\x89\xca""9\x96\xab\x9e+\xcd\xed\xcc\xb3\xca\xdb\x90""7\x9c\xef\x9f\xff\xed\x12\xc2\x12\xe1\x92\xb6\xa5\x86KW-\x1dX\xe6\xbd\xacj9\xb2<qy\xdb\n"
-"\xe3\x15\x05+\x86V\x06\xac<\xb8\x8a\xb6*m\xd5O\xab\xedW\x97\xae~\xbd&zMk\x81^\xc1\xca\x82\xc1\xb5\x01k\xeb\x0bU\n"
-"\xe5\x85}\xeb\xdc\xd7\xed]OX/Y\xdf\xb5""a\xfa\x86\x9d\x1b>\x15\x89\x8a\xae\x14\xdb\x17\x97\x15\x7f\xd8(\xdcx\xe5\x1b\x87o\xca\xbf\x99\xdc\x94\xb4\xa9\xab\xc4\xb9""d\xcf""f\xd2""f\xe9\xe6\xde-\x9e[\x0e\x96\xaa\x97\xe6\x97\x0en\r\xd9\xda\xb4\r\xdfV\xb4"
-"\xed\xf5\xf6""E\xdb/\x97\xcd(\xdb\xbb\x83\xb6""C\xb9\xa3\xbf<\xb8\xbc""e\xa7\xc9\xce\xcd;?T\xa4T\xf4T\xfaT6\xee\xd2\xdd\xb5""a\xd7\xf8n\xd1\xee\x1b{\xbc\xf6""4\xec\xd5\xdb[\xbc\xf7\xfd>\xc9\xbe\xdbU\x01UM\xd5""f\xd5""e\xfbI\xfb\xb3\xf7?\xae\x89\xaa\xe9"
-"\xf8\x96\xfbm]\xadNmq\xed\xc7\x03\xd2\x03\xfd\x07#\x0e\xb6\xd7\xb9\xd4\xd5\x1d\xd2=TR\x8f\xd6+\xebG\x0e\xc7\x1f\xbe\xfe\x9d\xefw-\r6\rU\x8d\x9c\xc6\xe2#pDy\xe4\xe9\xf7\t\xdf\xf7\x1e\r:\xdav\x8c{\xac\xe1\x07\xd3\x1fv\x1dg\x1d/jB\x9a\xf2\x9a""F\x9bS\x9a"
-"\xfb[b[\xbaO\xcc>\xd1\xd6\xea\xdez\xfcG\xdb\x1f\x0f\x9c""4<YyJ\xf3T\xc9i\xda\xe9\x82\xd3\x93g\xf2\xcf\x8c\x9d\x95\x9d}~.\xf9\xdc`\xdb\xa2\xb6{\xe7""c\xce\xdfj\x0fo\xef\xba\x10t\xe1\xd2""E\xff\x8b\xe7;\xbc;\xce\\\xf2\xb8t\xf2\xb2\xdb\xe5\x13W\xb8W\x9a"
-"\xaf:_m\xeat\xea<\xfe\x93\xd3O\xc7\xbb\x9c\xbb\x9a\xae\xb9\\k\xb9\xeez\xbd\xb5{f\xf7\xe9\x1b\x9e""7\xce\xdd\xf4\xbdy\xf1\x16\xff\xd6\xd5\x9e""9=\xdd\xbd\xf3zo\xf7\xc5\xf7\xf5\xdf\x16\xdd~r'\xfd\xce\xcb\xbb\xd9w'\xee\xad\xbcO\xbc_\xf4@\xed""A\xd9""C\xdd"
-"\x87\xd5?[\xfe\xdc\xd8\xef\xdc\x7fj\xc0w\xa0\xf3\xd1\xdcG\xf7\x06\x85\x83\xcf\xfe\x91\xf5\x8f\x0f""C\x05\x8f\x99\x8f\xcb\x86\r\x86\xeb\x9e""8>99\xe2?r\xfd\xe9\xfc\xa7""C\xcf""d\xcf&\x9e\x17\xfe\xa2\xfe\xcb\xae\x17\x16/~\xf8\xd5\xeb\xd7\xce\xd1\x98\xd1"
-"\xa1\x97\xf2\x97\x93\xbfm|\xa5\xfd\xea\xc0\xeb\x19\xaf\xdb\xc6\xc2\xc6\x1e\xbe\xc9x31^\xf4V\xfb\xed\xc1w\xdcw\x1d\xef\xa3\xdf\x0fO\xe4| \x7f(\xffh\xf9\xb1\xf5S\xd0\xa7\xfb\x93\x19\x93\x93\xff\x04\x03\x98\xf3\xfc""c3-\xdb\0\0G\x05iTXtXML:com.adobe.xmp"
-"\0\0\0\0\0<?xpacket begin=\"\xef\xbb\xbf\" id=\"W5M0MpCehiHzreSzNTczkc9d\"?>\n"
-"<x:xmpmeta xmlns:x=\"adobe:ns:meta/\" x:xmptk=\"Adobe XMP Core 5.6-c111 79.158325, 2015/09/10-01:10:20        \">\n"
-"   <rdf:RDF xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\">\n"
-"      <rdf:Description rdf:about=\"\"\n"
-"            xmlns:xmp=\"http://ns.adobe.com/xap/1.0/\"\n"
-"            xmlns:dc=\"http://purl.org/dc/elements/1.1/\"\n"
-"            xmlns:xmpMM=\"http://ns.adobe.com/xap/1.0/mm/\"\n"
-"            xmlns:stEvt=\"http://ns.adobe.com/xap/1.0/sType/ResourceEvent#\"\n"
-"            xmlns:stRef=\"http://ns.adobe.com/xap/1.0/sType/ResourceRef#\"\n"
-"            xmlns:photoshop=\"http://ns.adobe.com/photoshop/1.0/\"\n"
-"            xmlns:tiff=\"http://ns.adobe.com/tiff/1.0/\"\n"
-"            xmlns:exif=\"http://ns.adobe.com/exif/1.0/\">\n"
-"         <xmp:CreatorTool>Adobe Photoshop CC 2015 (Windows)</xmp:CreatorTool>\n"
-"         <xmp:CreateDate>2016-10-25T21:04:31+02:00</xmp:CreateDate>\n"
-"         <xmp:MetadataDate>2016-11-05T15:11:04+01:00</xmp:MetadataDate>\n"
-"         <xmp:ModifyDate>2016-11-05T15:11:04+01:00</xmp:ModifyDate>\n"
-"         <dc:format>image/png</dc:format>\n"
-"         <xmpMM:InstanceID>xmp.iid:4b158ae1-a6bf-bd4b-8b17-51cfb4659b1e</xmpMM:InstanceID>\n"
-"         <xmpMM:DocumentID>adobe:docid:photoshop:a866ca77-a361-11e6-a9ac-98f1e4eeebd5</xmpMM:DocumentID>\n"
-"         <xmpMM:OriginalDocumentID>xmp.did:45d6e837-6aef-3542-a794-f3d50766d1a9</xmpMM:OriginalDocumentID>\n"
-"         <xmpMM:History>\n"
-"            <rdf:Seq>\n"
-"               <rdf:li rdf:parseType=\"Resource\">\n"
-"                  <stEvt:action>created</stEvt:action>\n"
-"                  <stEvt:instanceID>xmp.iid:45d6e837-6aef-3542-a794-f3d50766d1a9</stEvt:instanceID>\n"
-"                  <stEvt:when>2016-10-25T21:04:31+02:00</stEvt:when>\n"
-"                  <stEvt:softwareAgent>Adobe Photoshop CC 2015 (Windows)</stEvt:softwareAgent>\n"
-"               </rdf:li>\n"
-"               <rdf:li rdf:parseType=\"Resource\">\n"
-"                  <stEvt:action>saved</stEvt:action>\n"
-"                  <stEvt:instanceID>xmp.iid:577ca280-8153-c14c-a45e-cfcdf62b282c</stEvt:instanceID>\n"
-"                  <stEvt:when>2016-10-25T21:07:55+02:00</stEvt:when>\n"
-"                  <stEvt:softwareAgent>Adobe Photoshop CC 2015 (Windows)</stEvt:softwareAgent>\n"
-"                  <stEvt:changed>/</stEvt:changed>\n"
-"               </rdf:li>\n"
-"               <rdf:li rdf:parseType=\"Resource\">\n"
-"                  <stEvt:action>saved</stEvt:action>\n"
-"                  <stEvt:instanceID>xmp.iid:3bd2dc02-e4ed-3b42-bcf2-2315d73d6242</stEvt:instanceID>\n"
-"                  <stEvt:when>2016-11-05T15:11:04+01:00</stEvt:when>\n"
-"                  <stEvt:softwareAgent>Adobe Photoshop CC 2015 (Windows)</stEvt:softwareAgent>\n"
-"                  <stEvt:changed>/</stEvt:changed>\n"
-"               </rdf:li>\n"
-"               <rdf:li rdf:parseType=\"Resource\">\n"
-"                  <stEvt:action>converted</stEvt:action>\n"
-"                  <stEvt:parameters>from application/vnd.adobe.photoshop to image/png</stEvt:parameters>\n"
-"               </rdf:li>\n"
-"               <rdf:li rdf:parseType=\"Resource\">\n"
-"                  <stEvt:action>derived</stEvt:action>\n"
-"                  <stEvt:parameters>converted from application/vnd.adobe.photoshop to image/png</stEvt:parameters>\n"
-"               </rdf:li>\n"
-"               <rdf:li rdf:parseType=\"Resource\">\n"
-"                  <stEvt:action>saved</stEvt:action>\n"
-"                  <stEvt:instanceID>xmp.iid:4b158ae1-a6bf-bd4b-8b17-51cfb4659b1e</stEvt:instanceID>\n"
-"                  <stEvt:when>2016-11-05T15:11:04+01:00</stEvt:when>\n"
-"                  <stEvt:softwareAgent>Adobe Photoshop CC 2015 (Windows)</stEvt:softwareAgent>\n"
-"                  <stEvt:changed>/</stEvt:changed>\n"
-"               </rdf:li>\n"
-"            </rdf:Seq>\n"
-"         </xmpMM:History>\n"
-"         <xmpMM:DerivedFrom rdf:parseType=\"Resource\">\n"
-"            <stRef:instanceID>xmp.iid:3bd2dc02-e4ed-3b42-bcf2-2315d73d6242</stRef:instanceID>\n"
-"            <stRef:documentID>adobe:docid:photoshop:e541d274-a29d-11e6-9a76-f5d39ed24dee</stRef:documentID>\n"
-"            <stRef:originalDocumentID>xmp.did:45d6e837-6aef-3542-a794-f3d50766d1a9</stRef:originalDocumentID>\n"
-"         </xmpMM:DerivedFrom>\n"
-"         <photoshop:ColorMode>3</photoshop:ColorMode>\n"
-"         <photoshop:ICCProfile>sRGB IEC61966-2.1</photoshop:ICCProfile>\n"
-"         <photoshop:TextLayers>\n"
-"            <rdf:Bag>\n"
-"               <rdf:li rdf:parseType=\"Resource\">\n"
-"                  <photoshop:LayerName>THRESH</photoshop:LayerName>\n"
-"                  <photoshop:LayerText>THRESH</photoshop:LayerText>\n"
-"               </rdf:li>\n"
-"               <rdf:li rdf:parseType=\"Resource\">\n"
-"                  <photoshop:LayerName>CUTOFF</photoshop:LayerName>\n"
-"                  <photoshop:LayerText>CUTOFF</photoshop:LayerText>\n"
-"               </rdf:li>\n"
-"               <rdf:li rdf:parseType=\"Resource\">\n"
-"                  <photoshop:LayerName>GAIN</photoshop:LayerName>\n"
-"                  <photoshop:LayerText>GAIN</photoshop:LayerText>\n"
-"               </rdf:li>\n"
-"               <rdf:li rdf:parseType=\"Resource\">\n"
-"                  <photoshop:LayerName>MIX</photoshop:LayerName>\n"
-"                  <photoshop:LayerText>MIX</photoshop:LayerText>\n"
-"               </rdf:li>\n"
-"               <rdf:li rdf:parseType=\"Resource\">\n"
-"                  <photoshop:LayerName>AIR</photoshop:LayerName>\n"
-"                  <photoshop:LayerText>AIR</photoshop:LayerText>\n"
-"               </rdf:li>\n"
-"            </rdf:Bag>\n"
-"         </photoshop:TextLayers>\n"
-"         <photoshop:DocumentAncestors>\n"
-"            <rdf:Bag>\n"
-"               <rdf:li>adobe:docid:photoshop:44f428ce-a353-11e6-8c38-e3720d35a39e</rdf:li>\n"
-"               <rdf:li>adobe:docid:photoshop:99c02727-a29c-11e6-9a76-f5d39ed24dee</rdf:li>\n"
-"            </rdf:Bag>\n"
-"         </photoshop:DocumentAncestors>\n"
-"         <tiff:Orientation>1</tiff:Orientation>\n"
-"         <tiff:XResolution>720000/10000</tiff:XResolution>\n"
-"         <tiff:YResolution>720000/10000</tiff:YResolution>\n"
-"         <tiff:ResolutionUnit>2</tiff:ResolutionUnit>\n"
-"         <exif:ColorSpace>1</exif:ColorSpace>\n"
-"         <exif:PixelXDimension>130</exif:PixelXDimension>\n"
-"         <exif:PixelYDimension>130</exif:PixelYDimension>\n"
-"      </rdf:Description>\n"
-"   </rdf:RDF>\n"
-"</x:xmpmeta>\n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                            \n"
-"<?xpacket end=\"w\"?>\xb1X\x1c\xc8\0\0\0 cHRM\0\0z%\0\0\x80\x83\0\0\xf9\xff\0\0\x80\xe9\0\0u0\0\0\xea`\0\0:\x98\0\0\x17o\x92_\xc5""F\0\0\x03 IDATx\xda\xec\xd9\xc1Q\xe2P\x1c\xc0\xe1?;\xdb\0\x96\xe0!\rd\xcf""9a\tl\t\xa6\x04)AK\x80\x12\xa4\x04""8q\xa7\x01"
-"\x0f\xb4\x90\x12\xd8\x83\xef\xad\xcflP\x17""e\x06\x99\xef\x9b\xc9""A\x12""C&\xf9%y\t\xa3\xfd~\x1f\xf0\xc3.@\x08\x08\x01! \x04\x84\x80\x10\x10\x02""B@\x08\x08\x01! \x04\x84\x80\x10\x10\x02""B@\x08\x08\x01! \x04\x84\x80\x10\x10\x02""B@\x08\x08\x01! \x04"
-"\x84\x80\x10\x10\x02""B@\x08\x08\x01! \x04\x84\x80\x10\x10\x02""B@\x08\x08\x01! \x04\x84\x80\x10\x10\x02""B@\x08\x08\x01!\x80\x10\x10\x02""B@\x08\x0c\xfay\x8e\x1b""5\xdf<\xd5\x11""1I\x7fv\x11\xb1n\x9bjW\xcc\x1fGD\x9d\xe6m\x07VQG\xc4\xb8\x98W\x7f\xe0k"
-"\xb7i}\xd9\xa4\xf8\xbf.\"\x96\xbd\xf9\x11\x11\xd7i:d\x97\xa6\xbc=\x07\xbf\xbbm\xaaN\x08\xaf\x0f\xf0""c\x11""A9\xafm\x9bjQ\x1c\xd8UD\xac#\xe2""f`U\xf7i\x1dy\xde\xea\x03_\x7f\x93\xd6WG\xc4| \x9e\xfb\x88\x98""E\xc4\xa2\xf8l\x9a>?d\x16\x11\x0f\xc5\xf6\xbc"
-"\xf7\xddn\r\xf9x\xa7\x1d\xb6\x88\x88\xab\xb6\xa9""Fi'u\x11""1\x9fo\x9e&G\xacs\x9b\xd6\x91\xa7| \x17\xbd\xcf\xb7\xc5""6\xd4\xe9 ^E\xc4(\"~\xf7\xb6\xaf\xaf\xbf\xae<-\x07\xc2\x18Zn\xeb\xd6\xf0r\xc6_\xa7""3l\xd7""6U\x9b?o\x9bj=\xdf<\xcd\xd2""A\x98\x1eq\xe6"
-"t\xbd\xff\xa9\x8b\xcbv\x7f]\xb7i\xfe\"\x9d\xc9Y\xbe-\xac\xd2\xd9\xfdk\xe0\x16\xb0\xfe`\x94\xaf\x96k\x9b\xca`\xb1gZ\xec\xf4\xa1{m\xbcs?\xfe\n"
-"\xf9l\x1f:\xa8\xeb\x14""C\x1d\x17\xe8\x1c\x07\x8b\xff\x0c\x9a\xda\xa6Z\xa7K\xf4\xa9\x8d\x0fmCqFO\xd2\xb4\xbe\xa4\x10<>r\xbe\x8f\x8f\xdf\xd0\xed\xc0 r\xd9{\xc2\xc8O\x1e]ol4k\x9bj\xeb\x8a\x80+\xc2\x05\xe9?e\xbc\xf5^\xe1,\x9f\x1a\xbe""E\x08\xe5\x9b\xc4s"
-"\xb8\x8c\xbe""1\x98""4X\xfc\xc2\x9d;\xf4\x88X\x17\xcf\xf0\xe5\xb2\xe3#\x1e\x03\xdf\xf2\xde""c\xea\xa4xz\x10\xc2\x89\xe4\xf7\x07\xd3t\x05\xe8\x87\xf0\xf7\0\xa4\xab""B~\x87\xdf\x1f\xa4\xdd\x1d\x19""A\xf9?\xd3\x81yw\xbd\xed""4F8\x85\xb6\xa9\xba\xf4\x06\xf1"
-">\"V\xf3\xcd\xd3\xa2""8\xd8y\xb4\xbd\xe8\xddo\x1f\xd3""4\x1bXvvd\x8c\xeb\x14\xd7*}_\x97\xfe\xbe\xfb\xc4z]\x11\xfe""3\x86\x87\xb4\xa3\xaf\xe3\xf9\x95r\xbe\x1d\xec\"\xe2\xa6\xfc\x05\xb2m\xaa""e<\xff\x06\xd0\r-\xfb\x89\xcb\xf7\xef""4\xf0\x9b\xa4\xc8V)\x82"
-"\xfc\x03\xd7\xee\x12""C\x18\xed\xf7\xfbs\x1d \xe6K\xfe\xae\x0c``\xb9|\xeb\x18\xc7\xcb\xcf\xbe_eR\x8c\x1dv'\x8a_\x08\xb8""5 \x04\x84\x80\x10\x10\x02""B@\x08\x08\x01! \x04\x84\x80\x10\x10\x02""B@\x08\x08\x01! \x04\x84\x80\x10\x10\x02""B@\x08\x08\x01\x84"
-"\x80\x10\x10\x02""B@\x08\x08\x01! \x04\x84\x80\x10\x10\x02""B@\x08\x08\x01! \x04\x84\x80\x10\x10\x02""B@\x08\x08\x01! \x04\x84\x80\x10\x10\x02""B@\x08\x08\x01! \x04\xce\xdd\x9f\x01\0L\x9a\xbc\x16""F\xe0\xd8\x8e\0\0\0\0IEND\xae""B`\x82";
-
-const char* label_cutoff_png = (const char*) temp_binary_data_7;
-
-//================== label_gain.png ==================
-static const unsigned char temp_binary_data_8[] =
-"\x89PNG\r\n"
-"\x1a\n"
-"\0\0\0\rIHDR\0\0\0\x82\0\0\0\x82\x08\x06\0\0\0\x8a\x03\x10\xfd\0\0\0\tpHYs\0\0\x0b\x13\0\0\x0b\x13\x01\0\x9a\x9c\x18\0\0\n"
-"OiCCPPhotoshop ICC profile\0\0x\xda\x9dSgTS\xe9\x16=\xf7\xde\xf4""BK\x88\x80\x94KoR\x15\x08 RB\x8b\x80\x14\x91&*!\t\x10J\x88!\xa1\xd9\x15Q\xc1\x11""EE\x04\x1b\xc8\xa0\x88\x03\x8e\x8e\x80\x8c\x15Q,\x0c\x8a\n"
-"\xd8\x07\xe4!\xa2\x8e\x83\xa3\x88\x8a\xca\xfb\xe1{\xa3k\xd6\xbc\xf7\xe6\xcd\xfe\xb5\xd7>\xe7\xac\xf3\x9d\xb3\xcf\x07\xc0\x08\x0c\x96H3Q5\x80\x0c\xa9""B\x1e\x11\xe0\x83\xc7\xc4\xc6\xe1\xe4.@\x81\n"
-"$p\0\x10\x08\xb3""d!s\xfd#\x01\0\xf8~<<+\"\xc0\x07\xbe\0\x01x\xd3\x0b\x08\0\xc0M\x9b\xc0""0\x1c\x87\xff\x0f\xea""B\x99\\\x01\x80\x84\x01\xc0t\x91""8K\x08\x80\x14\0@z\x8e""B\xa6\0@F\x01\x80\x9d\x98&S\0\xa0\x04\0`\xcb""cb\xe3\0P-\0`'\x7f\xe6\xd3\0\x80\x9d"
-"\xf8\x99{\x01\0[\x94!\x15\x01\xa0\x91\0 \x13""e\x88""D\0h;\0\xac\xcfV\x8a""E\0X0\0\x14""fK\xc4""9\0\xd8-\0""0IWfH\0\xb0\xb7\0\xc0\xce\x10\x0b\xb2\0\x08\x0c\0""0Q\x88\x85)\0\x04{\0`\xc8##x\0\x84\x99\0\x14""F\xf2W<\xf1+\xae\x10\xe7*\0\0x\x99\xb2<\xb9$9"
-"E\x81[\x08-q\x07WW.\x1e(\xceI\x17+\x14""6a\x02""a\x9a@.\xc2y\x99\x19""2\x81""4\x0f\xe0\xf3\xcc\0\0\xa0\x91\x15\x11\xe0\x83\xf3\xfdx\xce\x0e\xae\xce\xce""6\x8e\xb6\x0e_-\xea\xbf\x06\xff\"bb\xe3\xfe\xe5\xcf\xabp@\0\0\xe1t~\xd1\xfe,/\xb3\x1a\x80;\x06\x80"
-"m\xfe\xa2%\xee\x04h^\x0b\xa0u\xf7\x8b""f\xb2\x0f@\xb5\0\xa0\xe9\xdaW\xf3p\xf8~<<E\xa1\x90\xb9\xd9\xd9\xe5\xe4\xe4\xd8J\xc4""B[a\xcaW}\xfeg\xc2_\xc0W\xfdl\xf9~<\xfc\xf7\xf5\xe0\xbe\xe2$\x81""2]\x81G\x04\xf8\xe0\xc2\xcc\xf4L\xa5\x1c\xcf\x92\t\x84""b\xdc"
-"\xe6\x8fG\xfc\xb7\x0b\xff\xfc\x1d\xd3\"\xc4Ib\xb9X*\x14\xe3Q\x12q\x8e""D\x9a\x8c\xf3""2\xa5\"\x89""B\x92)\xc5%\xd2\xff""d\xe2\xdf,\xfb\x03>\xdf""5\0\xb0j>\x01{\x91-\xa8]c\x03\xf6K'\x10Xt\xc0\xe2\xf7\0\0\xf2\xbbo\xc1\xd4(\x08\x03\x80h\x83\xe1\xcfw\xff"
-"\xef?\xfdG\xa0%\0\x80""fI\x92q\0\0^D$.T\xca\xb3?\xc7\x08\0\0""D\xa0\x81*\xb0""A\x1b\xf4\xc1\x18,\xc0\x06\x1c\xc1\x05\xdc\xc1\x0b\xfc`6\x84""B$\xc4\xc2""B\x10""B\n"
-"d\x80\x1cr`)\xac\x82""B(\x86\xcd\xb0\x1d*`/\xd4@\x1d""4\xc0Qh\x86\x93p\x0e.\xc2U\xb8\x0e=p\x0f\xfa""a\x08\x9e\xc1(\xbc\x81\t\x04""A\xc8\x08\x13""a!\xda\x88\x01""b\x8aX#\x8e\x08\x17\x99\x85\xf8!\xc1H\x04\x12\x8b$ \xc9\x88\x14Q\"K\x91""5H1R\x8aT UH\x1d"
-"\xf2=r\x02""9\x87\\F\xba\x91;\xc8\0""2\x82\xfc\x86\xbcG1\x94\x81\xb2Q=\xd4\x0c\xb5""C\xb9\xa8""7\x1a\x84""F\xa2\x0b\xd0""dt1\x9a\x8f\x16\xa0\x9b\xd0r\xb4\x1a=\x8c""6\xa1\xe7\xd0\xabh\x0f\xda\x8f>C\xc7""0\xc0\xe8\x18\x07""3\xc4l0.\xc6\xc3""B\xb1""8,\t"
-"\x93""c\xcb\xb1\"\xac\x0c\xab\xc6\x1a\xb0V\xac\x03\xbb\x89\xf5""c\xcf\xb1w\x04\x12\x81""E\xc0\t6\x04wB a\x1e""AHXLXN\xd8H\xa8 \x1c$4\x11\xda\t7\t\x03\x84Q\xc2'\"\x93\xa8K\xb4&\xba\x11\xf9\xc4\x18""b21\x87XH,#\xd6\x12\x8f\x13/\x10{\x88""C\xc4""7$\x12\x89"
-"C2'\xb9\x90\x02I\xb1\xa4T\xd2\x12\xd2""F\xd2nR#\xe9,\xa9\x9b""4H\x1a#\x93\xc9\xda""dk\xb2\x07""9\x94, +\xc8\x85\xe4\x9d\xe4\xc3\xe4""3\xe4\x1b\xe4!\xf2[\n"
-"\x9d""b@q\xa4\xf8S\xe2(R\xcajJ\x19\xe5\x10\xe5""4\xe5\x06""e\x98""2AU\xa3\x9aR\xdd\xa8\xa1T\x11""5\x8fZB\xad\xa1\xb6R\xafQ\x87\xa8\x13""4u\x9a""9\xcd\x83\x16IK\xa5\xad\xa2\x95\xd3\x1ah\x17h\xf7i\xaf\xe8t\xba\x11\xdd\x95\x1eN\x97\xd0W\xd2\xcb\xe9G\xe8"
-"\x97\xe8\x03\xf4w\x0c\r\x86\x15\x83\xc7\x88g(\x19\x9b\x18\x07\x18g\x19w\x18\xaf\x98L\xa6\x19\xd3\x8b\x19\xc7T071\xeb\x98\xe7\x99\x0f\x99oUX*\xb6*|\x15\x91\xca\n"
-"\x95J\x95&\x95\x1b*/T\xa9\xaa\xa6\xaa\xde\xaa\x0bU\xf3U\xcbT\x8f\xa9^S}\xae""FU3S\xe3\xa9\t\xd4\x96\xabU\xaa\x9dP\xebS\x1bSg\xa9;\xa8\x87\xaag\xa8oT?\xa4~Y\xfd\x89\x06Y\xc3L\xc3OC\xa4Q\xa0\xb1_\xe3\xbc\xc6 \x0b""c\x19\xb3x,!k\r\xab\x86u\x81""5\xc4&\xb1"
-"\xcd\xd9|v*\xbb\x98\xfd\x1d\xbb\x8b=\xaa\xa9\xa1""9C3J3W\xb3R\xf3\x94""f?\x07\xe3\x98q\xf8\x9ctN\t\xe7(\xa7\x97\xf3~\x8a\xde\x14\xef)\xe2)\x1b\xa6""4L\xb9""1e\\k\xaa\x96\x97\x96X\xabH\xabQ\xabG\xeb\xbd""6\xae\xed\xa7\x9d\xa6\xbd""E\xbbY\xfb\x81\x0e""A"
-"\xc7J'\\'Gg\x8f\xce\x05\x9d\xe7S\xd9S\xdd\xa7\n"
-"\xa7\x16M=:\xf5\xae.\xaak\xa5\x1b\xa1\xbb""Dw\xbfn\xa7\xee\x98\x9e\xbe^\x80\x9eLo\xa7\xdey\xbd\xe7\xfa\x1c}/\xfdT\xfdm\xfa\xa7\xf5G\x0cX\x06\xb3\x0c$\x06\xdb\x0c\xce\x18<\xc5""5qo<\x1d/\xc7\xdb\xf1QC]\xc3@C\xa5""a\x95""a\x97\xe1\x84\x91\xb9\xd1<\xa3\xd5"
-"F\x8d""F\x0f\x8ci\xc6\\\xe3$\xe3m\xc6m\xc6\xa3&\x06&!&KM\xeaM\xee\x9aRM\xb9\xa6)\xa6;L;L\xc7\xcd\xcc\xcd\xa2\xcd\xd6\x99""5\x9b=1\xd7""2\xe7\x9b\xe7\x9b\xd7\x9b\xdf\xb7`ZxZ,\xb6\xa8\xb6\xb8""eI\xb2\xe4Z\xa6Y\xee\xb6\xbcn\x85Z9Y\xa5XUZ]\xb3""F\xad\x9d"
-"\xad%\xd6\xbb\xad\xbb\xa7\x11\xa7\xb9N\x93N\xab\x9e\xd6g\xc3\xb0\xf1\xb6\xc9\xb6\xa9\xb7\x19\xb0\xe5\xd8\x06\xdb\xae\xb6m\xb6}agb\x17g\xb7\xc5\xae\xc3\xee\x93\xbd\x93}\xba}\x8d\xfd=\x07\r\x87\xd9\x0e\xab\x1dZ\x1d~s\xb4r\x14:V:\xde\x9a\xce\x9c\xee?}\xc5"
-"\xf4\x96\xe9/gX\xcf\x10\xcf\xd8""3\xe3\xb6\x13\xcb)\xc4i\x9dS\x9b\xd3Gg\x17g\xb9s\x83\xf3\x88\x8b\x89K\x82\xcb.\x97>.\x9b\x1b\xc6\xdd\xc8\xbd\xe4Jt\xf5q]\xe1z\xd2\xf5\x9d\x9b\xb3\x9b\xc2\xed\xa8\xdb\xaf\xee""6\xeei\xee\x87\xdc\x9f\xcc""4\x9f)\x9eY3s\xd0"
-"\xc3\xc8""C\xe0Q\xe5\xd1?\x0b\x9f\x95""0k\xdf\xac~OCO\x81g\xb5\xe7#/c/\x91W\xad\xd7\xb0\xb7\xa5w\xaa\xf7""a\xef\x17>\xf6>r\x9f\xe3>\xe3<7\xde""2\xdeY_\xcc""7\xc0\xb7\xc8\xb7\xcbO\xc3o\x9e_\x85\xdf""C\x7f#\xff""d\xffz\xff\xd1\0\xa7\x80%\x01g\x03\x89\x81"
-"A\x81[\x02\xfb\xf8z|!\xbf\x8e?:\xdb""e\xf6\xb2\xd9\xed""A\x8c\xa0\xb9""A\x15""A\x8f\x82\xad\x82\xe5\xc1\xad!h\xc8\xec\x90\xad!\xf7\xe7\x98\xce\x91\xcei\x0e\x85P~\xe8\xd6\xd0\x07""a\xe6""a\x8b\xc3~\x0c'\x85\x87\x85W\x86?\x8ep\x88X\x1a\xd1""1\x97""5w\xd1"
-"\xdc""Cs\xdf""D\xfa""D\x96""D\xde\x9bg1O9\xaf-J5*>\xaa.j<\xda""7\xba""4\xba?\xc6.fY\xcc\xd5X\x9dXIlK\x1c""9.*\xae""6nl\xbe\xdf\xfc\xed\xf3\x87\xe2\x9d\xe2\x0b\xe3{\x17\x98/\xc8]py\xa1\xce\xc2\xf4\x85\xa7\x16\xa9.\x12,:\x96@L\x88N8\x94\xf0""A\x10*\xa8"
-"\x16\x8c%\xf2\x13w%\x8e\n"
-"y\xc2\x1d\xc2g\"/\xd1""6\xd1\x88\xd8""C\\*\x1eN\xf2H*Mz\x92\xec\x91\xbc""5y$\xc5""3\xa5,\xe5\xb9\x84'\xa9\x90\xbcL\rL\xdd\x9b:\x9e\x16\x9av m2=:\xbd""1\x83\x92\x91\x90qB\xaa!M\x93\xb6g\xeag\xe6""fv\xcb\xac""e\x85\xb2\xfe\xc5n\x8b\xb7/\x1e\x95\x07\xc9"
-"k\xb3\x90\xac\x05Y-\n"
-"\xb6""B\xa6\xe8TZ(\xd7*\x07\xb2geWf\xbf\xcd\x89\xca""9\x96\xab\x9e+\xcd\xed\xcc\xb3\xca\xdb\x90""7\x9c\xef\x9f\xff\xed\x12\xc2\x12\xe1\x92\xb6\xa5\x86KW-\x1dX\xe6\xbd\xacj9\xb2<qy\xdb\n"
-"\xe3\x15\x05+\x86V\x06\xac<\xb8\x8a\xb6*m\xd5O\xab\xedW\x97\xae~\xbd&zMk\x81^\xc1\xca\x82\xc1\xb5\x01k\xeb\x0bU\n"
-"\xe5\x85}\xeb\xdc\xd7\xed]OX/Y\xdf\xb5""a\xfa\x86\x9d\x1b>\x15\x89\x8a\xae\x14\xdb\x17\x97\x15\x7f\xd8(\xdcx\xe5\x1b\x87o\xca\xbf\x99\xdc\x94\xb4\xa9\xab\xc4\xb9""d\xcf""f\xd2""f\xe9\xe6\xde-\x9e[\x0e\x96\xaa\x97\xe6\x97\x0en\r\xd9\xda\xb4\r\xdfV\xb4"
-"\xed\xf5\xf6""E\xdb/\x97\xcd(\xdb\xbb\x83\xb6""C\xb9\xa3\xbf<\xb8\xbc""e\xa7\xc9\xce\xcd;?T\xa4T\xf4T\xfaT6\xee\xd2\xdd\xb5""a\xd7\xf8n\xd1\xee\x1b{\xbc\xf6""4\xec\xd5\xdb[\xbc\xf7\xfd>\xc9\xbe\xdbU\x01UM\xd5""f\xd5""e\xfbI\xfb\xb3\xf7?\xae\x89\xaa\xe9"
-"\xf8\x96\xfbm]\xadNmq\xed\xc7\x03\xd2\x03\xfd\x07#\x0e\xb6\xd7\xb9\xd4\xd5\x1d\xd2=TR\x8f\xd6+\xebG\x0e\xc7\x1f\xbe\xfe\x9d\xefw-\r6\rU\x8d\x9c\xc6\xe2#pDy\xe4\xe9\xf7\t\xdf\xf7\x1e\r:\xdav\x8c{\xac\xe1\x07\xd3\x1fv\x1dg\x1d/jB\x9a\xf2\x9a""F\x9bS\x9a"
-"\xfb[b[\xbaO\xcc>\xd1\xd6\xea\xdez\xfcG\xdb\x1f\x0f\x9c""4<YyJ\xf3T\xc9i\xda\xe9\x82\xd3\x93g\xf2\xcf\x8c\x9d\x95\x9d}~.\xf9\xdc`\xdb\xa2\xb6{\xe7""c\xce\xdfj\x0fo\xef\xba\x10t\xe1\xd2""E\xff\x8b\xe7;\xbc;\xce\\\xf2\xb8t\xf2\xb2\xdb\xe5\x13W\xb8W\x9a"
-"\xaf:_m\xeat\xea<\xfe\x93\xd3O\xc7\xbb\x9c\xbb\x9a\xae\xb9\\k\xb9\xeez\xbd\xb5{f\xf7\xe9\x1b\x9e""7\xce\xdd\xf4\xbdy\xf1\x16\xff\xd6\xd5\x9e""9=\xdd\xbd\xf3zo\xf7\xc5\xf7\xf5\xdf\x16\xdd~r'\xfd\xce\xcb\xbb\xd9w'\xee\xad\xbcO\xbc_\xf4@\xed""A\xd9""C\xdd"
-"\x87\xd5?[\xfe\xdc\xd8\xef\xdc\x7fj\xc0w\xa0\xf3\xd1\xdcG\xf7\x06\x85\x83\xcf\xfe\x91\xf5\x8f\x0f""C\x05\x8f\x99\x8f\xcb\x86\r\x86\xeb\x9e""8>99\xe2?r\xfd\xe9\xfc\xa7""C\xcf""d\xcf&\x9e\x17\xfe\xa2\xfe\xcb\xae\x17\x16/~\xf8\xd5\xeb\xd7\xce\xd1\x98\xd1"
-"\xa1\x97\xf2\x97\x93\xbfm|\xa5\xfd\xea\xc0\xeb\x19\xaf\xdb\xc6\xc2\xc6\x1e\xbe\xc9x31^\xf4V\xfb\xed\xc1w\xdcw\x1d\xef\xa3\xdf\x0fO\xe4| \x7f(\xffh\xf9\xb1\xf5S\xd0\xa7\xfb\x93\x19\x93\x93\xff\x04\x03\x98\xf3\xfc""c3-\xdb\0\0G\x05iTXtXML:com.adobe.xmp"
-"\0\0\0\0\0<?xpacket begin=\"\xef\xbb\xbf\" id=\"W5M0MpCehiHzreSzNTczkc9d\"?>\n"
-"<x:xmpmeta xmlns:x=\"adobe:ns:meta/\" x:xmptk=\"Adobe XMP Core 5.6-c111 79.158325, 2015/09/10-01:10:20        \">\n"
-"   <rdf:RDF xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\">\n"
-"      <rdf:Description rdf:about=\"\"\n"
-"            xmlns:xmp=\"http://ns.adobe.com/xap/1.0/\"\n"
-"            xmlns:dc=\"http://purl.org/dc/elements/1.1/\"\n"
-"            xmlns:xmpMM=\"http://ns.adobe.com/xap/1.0/mm/\"\n"
-"            xmlns:stEvt=\"http://ns.adobe.com/xap/1.0/sType/ResourceEvent#\"\n"
-"            xmlns:stRef=\"http://ns.adobe.com/xap/1.0/sType/ResourceRef#\"\n"
-"            xmlns:photoshop=\"http://ns.adobe.com/photoshop/1.0/\"\n"
-"            xmlns:tiff=\"http://ns.adobe.com/tiff/1.0/\"\n"
-"            xmlns:exif=\"http://ns.adobe.com/exif/1.0/\">\n"
-"         <xmp:CreatorTool>Adobe Photoshop CC 2015 (Windows)</xmp:CreatorTool>\n"
-"         <xmp:CreateDate>2016-10-25T21:04:31+02:00</xmp:CreateDate>\n"
-"         <xmp:MetadataDate>2016-11-05T15:11:23+01:00</xmp:MetadataDate>\n"
-"         <xmp:ModifyDate>2016-11-05T15:11:23+01:00</xmp:ModifyDate>\n"
-"         <dc:format>image/png</dc:format>\n"
-"         <xmpMM:InstanceID>xmp.iid:db1dda5a-b12c-a44e-a75b-b2dfd298f809</xmpMM:InstanceID>\n"
-"         <xmpMM:DocumentID>adobe:docid:photoshop:bb471d2b-a361-11e6-a9ac-98f1e4eeebd5</xmpMM:DocumentID>\n"
-"         <xmpMM:OriginalDocumentID>xmp.did:45d6e837-6aef-3542-a794-f3d50766d1a9</xmpMM:OriginalDocumentID>\n"
-"         <xmpMM:History>\n"
-"            <rdf:Seq>\n"
-"               <rdf:li rdf:parseType=\"Resource\">\n"
-"                  <stEvt:action>created</stEvt:action>\n"
-"                  <stEvt:instanceID>xmp.iid:45d6e837-6aef-3542-a794-f3d50766d1a9</stEvt:instanceID>\n"
-"                  <stEvt:when>2016-10-25T21:04:31+02:00</stEvt:when>\n"
-"                  <stEvt:softwareAgent>Adobe Photoshop CC 2015 (Windows)</stEvt:softwareAgent>\n"
-"               </rdf:li>\n"
-"               <rdf:li rdf:parseType=\"Resource\">\n"
-"                  <stEvt:action>saved</stEvt:action>\n"
-"                  <stEvt:instanceID>xmp.iid:577ca280-8153-c14c-a45e-cfcdf62b282c</stEvt:instanceID>\n"
-"                  <stEvt:when>2016-10-25T21:07:55+02:00</stEvt:when>\n"
-"                  <stEvt:softwareAgent>Adobe Photoshop CC 2015 (Windows)</stEvt:softwareAgent>\n"
-"                  <stEvt:changed>/</stEvt:changed>\n"
-"               </rdf:li>\n"
-"               <rdf:li rdf:parseType=\"Resource\">\n"
-"                  <stEvt:action>saved</stEvt:action>\n"
-"                  <stEvt:instanceID>xmp.iid:e4cb414a-ab6b-e141-8385-06f1a70620a9</stEvt:instanceID>\n"
-"                  <stEvt:when>2016-11-05T15:11:23+01:00</stEvt:when>\n"
-"                  <stEvt:softwareAgent>Adobe Photoshop CC 2015 (Windows)</stEvt:softwareAgent>\n"
-"                  <stEvt:changed>/</stEvt:changed>\n"
-"               </rdf:li>\n"
-"               <rdf:li rdf:parseType=\"Resource\">\n"
-"                  <stEvt:action>converted</stEvt:action>\n"
-"                  <stEvt:parameters>from application/vnd.adobe.photoshop to image/png</stEvt:parameters>\n"
-"               </rdf:li>\n"
-"               <rdf:li rdf:parseType=\"Resource\">\n"
-"                  <stEvt:action>derived</stEvt:action>\n"
-"                  <stEvt:parameters>converted from application/vnd.adobe.photoshop to image/png</stEvt:parameters>\n"
-"               </rdf:li>\n"
-"               <rdf:li rdf:parseType=\"Resource\">\n"
-"                  <stEvt:action>saved</stEvt:action>\n"
-"                  <stEvt:instanceID>xmp.iid:db1dda5a-b12c-a44e-a75b-b2dfd298f809</stEvt:instanceID>\n"
-"                  <stEvt:when>2016-11-05T15:11:23+01:00</stEvt:when>\n"
-"                  <stEvt:softwareAgent>Adobe Photoshop CC 2015 (Windows)</stEvt:softwareAgent>\n"
-"                  <stEvt:changed>/</stEvt:changed>\n"
-"               </rdf:li>\n"
-"            </rdf:Seq>\n"
-"         </xmpMM:History>\n"
-"         <xmpMM:DerivedFrom rdf:parseType=\"Resource\">\n"
-"            <stRef:instanceID>xmp.iid:e4cb414a-ab6b-e141-8385-06f1a70620a9</stRef:instanceID>\n"
-"            <stRef:documentID>adobe:docid:photoshop:e541d274-a29d-11e6-9a76-f5d39ed24dee</stRef:documentID>\n"
-"            <stRef:originalDocumentID>xmp.did:45d6e837-6aef-3542-a794-f3d50766d1a9</stRef:originalDocumentID>\n"
-"         </xmpMM:DerivedFrom>\n"
-"         <photoshop:ColorMode>3</photoshop:ColorMode>\n"
-"         <photoshop:ICCProfile>sRGB IEC61966-2.1</photoshop:ICCProfile>\n"
-"         <photoshop:TextLayers>\n"
-"            <rdf:Bag>\n"
-"               <rdf:li rdf:parseType=\"Resource\">\n"
-"                  <photoshop:LayerName>THRESH</photoshop:LayerName>\n"
-"                  <photoshop:LayerText>THRESH</photoshop:LayerText>\n"
-"               </rdf:li>\n"
-"               <rdf:li rdf:parseType=\"Resource\">\n"
-"                  <photoshop:LayerName>CUTOFF</photoshop:LayerName>\n"
-"                  <photoshop:LayerText>CUTOFF</photoshop:LayerText>\n"
-"               </rdf:li>\n"
-"               <rdf:li rdf:parseType=\"Resource\">\n"
-"                  <photoshop:LayerName>GAIN</photoshop:LayerName>\n"
-"                  <photoshop:LayerText>GAIN</photoshop:LayerText>\n"
-"               </rdf:li>\n"
-"               <rdf:li rdf:parseType=\"Resource\">\n"
-"                  <photoshop:LayerName>MIX</photoshop:LayerName>\n"
-"                  <photoshop:LayerText>MIX</photoshop:LayerText>\n"
-"               </rdf:li>\n"
-"               <rdf:li rdf:parseType=\"Resource\">\n"
-"                  <photoshop:LayerName>AIR</photoshop:LayerName>\n"
-"                  <photoshop:LayerText>AIR</photoshop:LayerText>\n"
-"               </rdf:li>\n"
-"            </rdf:Bag>\n"
-"         </photoshop:TextLayers>\n"
-"         <photoshop:DocumentAncestors>\n"
-"            <rdf:Bag>\n"
-"               <rdf:li>adobe:docid:photoshop:44f428ce-a353-11e6-8c38-e3720d35a39e</rdf:li>\n"
-"               <rdf:li>adobe:docid:photoshop:99c02727-a29c-11e6-9a76-f5d39ed24dee</rdf:li>\n"
-"            </rdf:Bag>\n"
-"         </photoshop:DocumentAncestors>\n"
-"         <tiff:Orientation>1</tiff:Orientation>\n"
-"         <tiff:XResolution>720000/10000</tiff:XResolution>\n"
-"         <tiff:YResolution>720000/10000</tiff:YResolution>\n"
-"         <tiff:ResolutionUnit>2</tiff:ResolutionUnit>\n"
-"         <exif:ColorSpace>1</exif:ColorSpace>\n"
-"         <exif:PixelXDimension>130</exif:PixelXDimension>\n"
-"         <exif:PixelYDimension>130</exif:PixelYDimension>\n"
-"      </rdf:Description>\n"
-"   </rdf:RDF>\n"
-"</x:xmpmeta>\n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                            \n"
-"<?xpacket end=\"w\"?>~\xc8\x8fv\0\0\0 cHRM\0\0z%\0\0\x80\x83\0\0\xf9\xff\0\0\x80\xe9\0\0u0\0\0\xea`\0\0:\x98\0\0\x17o\x92_\xc5""F\0\0\x02\xb7IDATx\xda\xec\xd9\xd1m\xda@\0\xc7\xe1\x7f\xaa,\xc0\n"
-"\xa9\x94\x05x\xcf\x93""3\x02+\x84\x11\xc2\x08""d\x84""d\x84""2B\xfc\xd4\xe7\xb0@\xa5\xb2\x02#\x90\x87\x1e\xd2\xd5\xc2""4XJ\x89\xd1\xf7IV$\xac\x13\x01~\xbe;\xc3\xd5n\xb7\x0b|\xf3\x16 \x04\x84\x80\x10\x10\x02""B@\x08\x08\x01! \x04\x84\x80\x10\x10\x02""B"
-"@\x08\x08\x01! \x04\x84\x80\x10\x10\x02""B@\x08\x08\x01! \x04\x84\x80\x10\x10\x02""B@\x08\x08\x01! \x04\x84\x80\x10\x10\x02""B@\x08\x08\x01! \x04\x84\x80\x10\x10\x02""B@\x08\x08\x01! \x04\x84\x80\x10@\x08\x08\x01! \x04\x0e\xba\x1e\xfb\x0bx\xfe\xf9+I\xa6"
-"I\x9a\xea\xe1U\x92\xcd\x91""a\x93""2f\x9b""d\xfd\xc1\xf3""7\xe5\xf8k\xcc\xfc\xeev\xff\x7fL\xcb\xb8\xf5\xfc\xeevkF\xf8\xbf\x11L\x92\xfcH\xf2\x96""dY\x1d\xbf\xcb\xdf>\xb3$\xaf\xe5""8dZ\xce-{\xc6L\x0e\x8cY\x96sSK\xc3\x19Z(\x1f\xd0*\xc9\xf7$WI\xee\xcb\x15"
-"\xfbX\xce\x1d\xd2TW\xfe\xec\xc4\xe7\x9c$y\xb0G\xf8:\xb3\xc1M\xf9\x10""7I\xe6\xd5R\xd0&y\xaa\xae\xe2\xbe\x19\xa1\xbe\xfaO\xf5\xd8""3+\x08\xe1\x0c""f\xd5~\xa0\xbb&\xb7\xe5\xd8\xfc""c\\\x06\xcc\x08\x9bK\x9c\x15.\xe1\xae""a\xdb\xf3\xd8}\x92\xc5\x91""e\xa1"
-"-K\xc8\xcd\x89\xb3\xc2K\x89""aY\xc6\n"
-"a\xa4\x9ajFXu\x1e\xfb\xa8""E\xb5""D\x08""a\x84\xa6\xe5*^\x97Y\xa3\x1d\x18\xc2\xaa\x8c}({\x15!|1\xafIv\x9d\xa3o6H\x15""D3`\xf3\xf7tI\xb3\xc2\xa5\x85\xb0({\x83\xfb\x0f\xdc-4\xe5X\x0f\xdc""4\xb6\xd5\xac""0\x1d\xfb\x1bw}a!\xac\x8f\x9c\xab""7\x85\xcb\x9e""e"
-"#\x03""f\x85&\xc7\xbf\xbc\x12\xc2'\xdb\x9c\xf8\x01""6\x9d+\xb9\xb6,3\xc2|\xc0\xac\xb0*c\xb7""B8\x8f\xb6\xbc\xf9\xb3r\xb5\xd7\xdf\x19L\x8e\x84\xf0R\xed\x11\xea%c\xff{E;`9\x9a""e\xe4_0\x8dv\x8fP~\xd8\xd9o\xd8\xde\xf2\xe7\x0b\x9e\xa6\xfc}\xad>\xf4\xee\xfe"
-"\xa0\xed\xb9\x0b\x18r\xf7\x90\xf9\xdd\xed\xa6\xf3<B8C\x0cO\xd5t\xfe\\\x02x.3\xc4\xa2:7\xeb\xcc\"\x87""f\x97""A!t\xee F\xebj\xb7\xdb\x8d\xfa\x05\x94\x9f\xa1\xf7{\x85\xc9\x91\xab\xfe\xb3""b\xbc\x88]\xf6\xe8""C\xc0\xd2\x80\x10\x10\x02""B@\x08\x08\x01! \x04"
-"\x84\x80\x10\x10\x02""B@\x08\x08\x01! \x04\x84\x80\x10\x10\x02""B@\x08\x08\x01! \x04\x84\x80\x10\x10\x02""B@\x08\x08\x01! \x04\x84\x80\x10\x10\x02""B@\x08\x08\x01\x84\x80\x10\x10\x02""B@\x08\x08\x01! \x04\x84\x80\x10\x10\x02""B@\x08\x08\x01! \x04\x84"
-"\x80\x10\xf8L\xef\x03\0*h\x82' \x8b\xf3\xf1\0\0\0\0IEND\xae""B`\x82";
-
-const char* label_gain_png = (const char*) temp_binary_data_8;
-
-//================== label_mix.png ==================
-static const unsigned char temp_binary_data_9[] =
-"\x89PNG\r\n"
-"\x1a\n"
-"\0\0\0\rIHDR\0\0\0\x82\0\0\0\x82\x08\x06\0\0\0\x8a\x03\x10\xfd\0\0\0\tpHYs\0\0\x0b\x13\0\0\x0b\x13\x01\0\x9a\x9c\x18\0\0\n"
-"OiCCPPhotoshop ICC profile\0\0x\xda\x9dSgTS\xe9\x16=\xf7\xde\xf4""BK\x88\x80\x94KoR\x15\x08 RB\x8b\x80\x14\x91&*!\t\x10J\x88!\xa1\xd9\x15Q\xc1\x11""EE\x04\x1b\xc8\xa0\x88\x03\x8e\x8e\x80\x8c\x15Q,\x0c\x8a\n"
-"\xd8\x07\xe4!\xa2\x8e\x83\xa3\x88\x8a\xca\xfb\xe1{\xa3k\xd6\xbc\xf7\xe6\xcd\xfe\xb5\xd7>\xe7\xac\xf3\x9d\xb3\xcf\x07\xc0\x08\x0c\x96H3Q5\x80\x0c\xa9""B\x1e\x11\xe0\x83\xc7\xc4\xc6\xe1\xe4.@\x81\n"
-"$p\0\x10\x08\xb3""d!s\xfd#\x01\0\xf8~<<+\"\xc0\x07\xbe\0\x01x\xd3\x0b\x08\0\xc0M\x9b\xc0""0\x1c\x87\xff\x0f\xea""B\x99\\\x01\x80\x84\x01\xc0t\x91""8K\x08\x80\x14\0@z\x8e""B\xa6\0@F\x01\x80\x9d\x98&S\0\xa0\x04\0`\xcb""cb\xe3\0P-\0`'\x7f\xe6\xd3\0\x80\x9d"
-"\xf8\x99{\x01\0[\x94!\x15\x01\xa0\x91\0 \x13""e\x88""D\0h;\0\xac\xcfV\x8a""E\0X0\0\x14""fK\xc4""9\0\xd8-\0""0IWfH\0\xb0\xb7\0\xc0\xce\x10\x0b\xb2\0\x08\x0c\0""0Q\x88\x85)\0\x04{\0`\xc8##x\0\x84\x99\0\x14""F\xf2W<\xf1+\xae\x10\xe7*\0\0x\x99\xb2<\xb9$9"
-"E\x81[\x08-q\x07WW.\x1e(\xceI\x17+\x14""6a\x02""a\x9a@.\xc2y\x99\x19""2\x81""4\x0f\xe0\xf3\xcc\0\0\xa0\x91\x15\x11\xe0\x83\xf3\xfdx\xce\x0e\xae\xce\xce""6\x8e\xb6\x0e_-\xea\xbf\x06\xff\"bb\xe3\xfe\xe5\xcf\xabp@\0\0\xe1t~\xd1\xfe,/\xb3\x1a\x80;\x06\x80"
-"m\xfe\xa2%\xee\x04h^\x0b\xa0u\xf7\x8b""f\xb2\x0f@\xb5\0\xa0\xe9\xdaW\xf3p\xf8~<<E\xa1\x90\xb9\xd9\xd9\xe5\xe4\xe4\xd8J\xc4""B[a\xcaW}\xfeg\xc2_\xc0W\xfdl\xf9~<\xfc\xf7\xf5\xe0\xbe\xe2$\x81""2]\x81G\x04\xf8\xe0\xc2\xcc\xf4L\xa5\x1c\xcf\x92\t\x84""b\xdc"
-"\xe6\x8fG\xfc\xb7\x0b\xff\xfc\x1d\xd3\"\xc4Ib\xb9X*\x14\xe3Q\x12q\x8e""D\x9a\x8c\xf3""2\xa5\"\x89""B\x92)\xc5%\xd2\xff""d\xe2\xdf,\xfb\x03>\xdf""5\0\xb0j>\x01{\x91-\xa8]c\x03\xf6K'\x10Xt\xc0\xe2\xf7\0\0\xf2\xbbo\xc1\xd4(\x08\x03\x80h\x83\xe1\xcfw\xff"
-"\xef?\xfdG\xa0%\0\x80""fI\x92q\0\0^D$.T\xca\xb3?\xc7\x08\0\0""D\xa0\x81*\xb0""A\x1b\xf4\xc1\x18,\xc0\x06\x1c\xc1\x05\xdc\xc1\x0b\xfc`6\x84""B$\xc4\xc2""B\x10""B\n"
-"d\x80\x1cr`)\xac\x82""B(\x86\xcd\xb0\x1d*`/\xd4@\x1d""4\xc0Qh\x86\x93p\x0e.\xc2U\xb8\x0e=p\x0f\xfa""a\x08\x9e\xc1(\xbc\x81\t\x04""A\xc8\x08\x13""a!\xda\x88\x01""b\x8aX#\x8e\x08\x17\x99\x85\xf8!\xc1H\x04\x12\x8b$ \xc9\x88\x14Q\"K\x91""5H1R\x8aT UH\x1d"
-"\xf2=r\x02""9\x87\\F\xba\x91;\xc8\0""2\x82\xfc\x86\xbcG1\x94\x81\xb2Q=\xd4\x0c\xb5""C\xb9\xa8""7\x1a\x84""F\xa2\x0b\xd0""dt1\x9a\x8f\x16\xa0\x9b\xd0r\xb4\x1a=\x8c""6\xa1\xe7\xd0\xabh\x0f\xda\x8f>C\xc7""0\xc0\xe8\x18\x07""3\xc4l0.\xc6\xc3""B\xb1""8,\t"
-"\x93""c\xcb\xb1\"\xac\x0c\xab\xc6\x1a\xb0V\xac\x03\xbb\x89\xf5""c\xcf\xb1w\x04\x12\x81""E\xc0\t6\x04wB a\x1e""AHXLXN\xd8H\xa8 \x1c$4\x11\xda\t7\t\x03\x84Q\xc2'\"\x93\xa8K\xb4&\xba\x11\xf9\xc4\x18""b21\x87XH,#\xd6\x12\x8f\x13/\x10{\x88""C\xc4""7$\x12\x89"
-"C2'\xb9\x90\x02I\xb1\xa4T\xd2\x12\xd2""F\xd2nR#\xe9,\xa9\x9b""4H\x1a#\x93\xc9\xda""dk\xb2\x07""9\x94, +\xc8\x85\xe4\x9d\xe4\xc3\xe4""3\xe4\x1b\xe4!\xf2[\n"
-"\x9d""b@q\xa4\xf8S\xe2(R\xcajJ\x19\xe5\x10\xe5""4\xe5\x06""e\x98""2AU\xa3\x9aR\xdd\xa8\xa1T\x11""5\x8fZB\xad\xa1\xb6R\xafQ\x87\xa8\x13""4u\x9a""9\xcd\x83\x16IK\xa5\xad\xa2\x95\xd3\x1ah\x17h\xf7i\xaf\xe8t\xba\x11\xdd\x95\x1eN\x97\xd0W\xd2\xcb\xe9G\xe8"
-"\x97\xe8\x03\xf4w\x0c\r\x86\x15\x83\xc7\x88g(\x19\x9b\x18\x07\x18g\x19w\x18\xaf\x98L\xa6\x19\xd3\x8b\x19\xc7T071\xeb\x98\xe7\x99\x0f\x99oUX*\xb6*|\x15\x91\xca\n"
-"\x95J\x95&\x95\x1b*/T\xa9\xaa\xa6\xaa\xde\xaa\x0bU\xf3U\xcbT\x8f\xa9^S}\xae""FU3S\xe3\xa9\t\xd4\x96\xabU\xaa\x9dP\xebS\x1bSg\xa9;\xa8\x87\xaag\xa8oT?\xa4~Y\xfd\x89\x06Y\xc3L\xc3OC\xa4Q\xa0\xb1_\xe3\xbc\xc6 \x0b""c\x19\xb3x,!k\r\xab\x86u\x81""5\xc4&\xb1"
-"\xcd\xd9|v*\xbb\x98\xfd\x1d\xbb\x8b=\xaa\xa9\xa1""9C3J3W\xb3R\xf3\x94""f?\x07\xe3\x98q\xf8\x9ctN\t\xe7(\xa7\x97\xf3~\x8a\xde\x14\xef)\xe2)\x1b\xa6""4L\xb9""1e\\k\xaa\x96\x97\x96X\xabH\xabQ\xabG\xeb\xbd""6\xae\xed\xa7\x9d\xa6\xbd""E\xbbY\xfb\x81\x0e""A"
-"\xc7J'\\'Gg\x8f\xce\x05\x9d\xe7S\xd9S\xdd\xa7\n"
-"\xa7\x16M=:\xf5\xae.\xaak\xa5\x1b\xa1\xbb""Dw\xbfn\xa7\xee\x98\x9e\xbe^\x80\x9eLo\xa7\xdey\xbd\xe7\xfa\x1c}/\xfdT\xfdm\xfa\xa7\xf5G\x0cX\x06\xb3\x0c$\x06\xdb\x0c\xce\x18<\xc5""5qo<\x1d/\xc7\xdb\xf1QC]\xc3@C\xa5""a\x95""a\x97\xe1\x84\x91\xb9\xd1<\xa3\xd5"
-"F\x8d""F\x0f\x8ci\xc6\\\xe3$\xe3m\xc6m\xc6\xa3&\x06&!&KM\xeaM\xee\x9aRM\xb9\xa6)\xa6;L;L\xc7\xcd\xcc\xcd\xa2\xcd\xd6\x99""5\x9b=1\xd7""2\xe7\x9b\xe7\x9b\xd7\x9b\xdf\xb7`ZxZ,\xb6\xa8\xb6\xb8""eI\xb2\xe4Z\xa6Y\xee\xb6\xbcn\x85Z9Y\xa5XUZ]\xb3""F\xad\x9d"
-"\xad%\xd6\xbb\xad\xbb\xa7\x11\xa7\xb9N\x93N\xab\x9e\xd6g\xc3\xb0\xf1\xb6\xc9\xb6\xa9\xb7\x19\xb0\xe5\xd8\x06\xdb\xae\xb6m\xb6}agb\x17g\xb7\xc5\xae\xc3\xee\x93\xbd\x93}\xba}\x8d\xfd=\x07\r\x87\xd9\x0e\xab\x1dZ\x1d~s\xb4r\x14:V:\xde\x9a\xce\x9c\xee?}\xc5"
-"\xf4\x96\xe9/gX\xcf\x10\xcf\xd8""3\xe3\xb6\x13\xcb)\xc4i\x9dS\x9b\xd3Gg\x17g\xb9s\x83\xf3\x88\x8b\x89K\x82\xcb.\x97>.\x9b\x1b\xc6\xdd\xc8\xbd\xe4Jt\xf5q]\xe1z\xd2\xf5\x9d\x9b\xb3\x9b\xc2\xed\xa8\xdb\xaf\xee""6\xeei\xee\x87\xdc\x9f\xcc""4\x9f)\x9eY3s\xd0"
-"\xc3\xc8""C\xe0Q\xe5\xd1?\x0b\x9f\x95""0k\xdf\xac~OCO\x81g\xb5\xe7#/c/\x91W\xad\xd7\xb0\xb7\xa5w\xaa\xf7""a\xef\x17>\xf6>r\x9f\xe3>\xe3<7\xde""2\xdeY_\xcc""7\xc0\xb7\xc8\xb7\xcbO\xc3o\x9e_\x85\xdf""C\x7f#\xff""d\xffz\xff\xd1\0\xa7\x80%\x01g\x03\x89\x81"
-"A\x81[\x02\xfb\xf8z|!\xbf\x8e?:\xdb""e\xf6\xb2\xd9\xed""A\x8c\xa0\xb9""A\x15""A\x8f\x82\xad\x82\xe5\xc1\xad!h\xc8\xec\x90\xad!\xf7\xe7\x98\xce\x91\xcei\x0e\x85P~\xe8\xd6\xd0\x07""a\xe6""a\x8b\xc3~\x0c'\x85\x87\x85W\x86?\x8ep\x88X\x1a\xd1""1\x97""5w\xd1"
-"\xdc""Cs\xdf""D\xfa""D\x96""D\xde\x9bg1O9\xaf-J5*>\xaa.j<\xda""7\xba""4\xba?\xc6.fY\xcc\xd5X\x9dXIlK\x1c""9.*\xae""6nl\xbe\xdf\xfc\xed\xf3\x87\xe2\x9d\xe2\x0b\xe3{\x17\x98/\xc8]py\xa1\xce\xc2\xf4\x85\xa7\x16\xa9.\x12,:\x96@L\x88N8\x94\xf0""A\x10*\xa8"
-"\x16\x8c%\xf2\x13w%\x8e\n"
-"y\xc2\x1d\xc2g\"/\xd1""6\xd1\x88\xd8""C\\*\x1eN\xf2H*Mz\x92\xec\x91\xbc""5y$\xc5""3\xa5,\xe5\xb9\x84'\xa9\x90\xbcL\rL\xdd\x9b:\x9e\x16\x9av m2=:\xbd""1\x83\x92\x91\x90qB\xaa!M\x93\xb6g\xeag\xe6""fv\xcb\xac""e\x85\xb2\xfe\xc5n\x8b\xb7/\x1e\x95\x07\xc9"
-"k\xb3\x90\xac\x05Y-\n"
-"\xb6""B\xa6\xe8TZ(\xd7*\x07\xb2geWf\xbf\xcd\x89\xca""9\x96\xab\x9e+\xcd\xed\xcc\xb3\xca\xdb\x90""7\x9c\xef\x9f\xff\xed\x12\xc2\x12\xe1\x92\xb6\xa5\x86KW-\x1dX\xe6\xbd\xacj9\xb2<qy\xdb\n"
-"\xe3\x15\x05+\x86V\x06\xac<\xb8\x8a\xb6*m\xd5O\xab\xedW\x97\xae~\xbd&zMk\x81^\xc1\xca\x82\xc1\xb5\x01k\xeb\x0bU\n"
-"\xe5\x85}\xeb\xdc\xd7\xed]OX/Y\xdf\xb5""a\xfa\x86\x9d\x1b>\x15\x89\x8a\xae\x14\xdb\x17\x97\x15\x7f\xd8(\xdcx\xe5\x1b\x87o\xca\xbf\x99\xdc\x94\xb4\xa9\xab\xc4\xb9""d\xcf""f\xd2""f\xe9\xe6\xde-\x9e[\x0e\x96\xaa\x97\xe6\x97\x0en\r\xd9\xda\xb4\r\xdfV\xb4"
-"\xed\xf5\xf6""E\xdb/\x97\xcd(\xdb\xbb\x83\xb6""C\xb9\xa3\xbf<\xb8\xbc""e\xa7\xc9\xce\xcd;?T\xa4T\xf4T\xfaT6\xee\xd2\xdd\xb5""a\xd7\xf8n\xd1\xee\x1b{\xbc\xf6""4\xec\xd5\xdb[\xbc\xf7\xfd>\xc9\xbe\xdbU\x01UM\xd5""f\xd5""e\xfbI\xfb\xb3\xf7?\xae\x89\xaa\xe9"
-"\xf8\x96\xfbm]\xadNmq\xed\xc7\x03\xd2\x03\xfd\x07#\x0e\xb6\xd7\xb9\xd4\xd5\x1d\xd2=TR\x8f\xd6+\xebG\x0e\xc7\x1f\xbe\xfe\x9d\xefw-\r6\rU\x8d\x9c\xc6\xe2#pDy\xe4\xe9\xf7\t\xdf\xf7\x1e\r:\xdav\x8c{\xac\xe1\x07\xd3\x1fv\x1dg\x1d/jB\x9a\xf2\x9a""F\x9bS\x9a"
-"\xfb[b[\xbaO\xcc>\xd1\xd6\xea\xdez\xfcG\xdb\x1f\x0f\x9c""4<YyJ\xf3T\xc9i\xda\xe9\x82\xd3\x93g\xf2\xcf\x8c\x9d\x95\x9d}~.\xf9\xdc`\xdb\xa2\xb6{\xe7""c\xce\xdfj\x0fo\xef\xba\x10t\xe1\xd2""E\xff\x8b\xe7;\xbc;\xce\\\xf2\xb8t\xf2\xb2\xdb\xe5\x13W\xb8W\x9a"
-"\xaf:_m\xeat\xea<\xfe\x93\xd3O\xc7\xbb\x9c\xbb\x9a\xae\xb9\\k\xb9\xeez\xbd\xb5{f\xf7\xe9\x1b\x9e""7\xce\xdd\xf4\xbdy\xf1\x16\xff\xd6\xd5\x9e""9=\xdd\xbd\xf3zo\xf7\xc5\xf7\xf5\xdf\x16\xdd~r'\xfd\xce\xcb\xbb\xd9w'\xee\xad\xbcO\xbc_\xf4@\xed""A\xd9""C\xdd"
-"\x87\xd5?[\xfe\xdc\xd8\xef\xdc\x7fj\xc0w\xa0\xf3\xd1\xdcG\xf7\x06\x85\x83\xcf\xfe\x91\xf5\x8f\x0f""C\x05\x8f\x99\x8f\xcb\x86\r\x86\xeb\x9e""8>99\xe2?r\xfd\xe9\xfc\xa7""C\xcf""d\xcf&\x9e\x17\xfe\xa2\xfe\xcb\xae\x17\x16/~\xf8\xd5\xeb\xd7\xce\xd1\x98\xd1"
-"\xa1\x97\xf2\x97\x93\xbfm|\xa5\xfd\xea\xc0\xeb\x19\xaf\xdb\xc6\xc2\xc6\x1e\xbe\xc9x31^\xf4V\xfb\xed\xc1w\xdcw\x1d\xef\xa3\xdf\x0fO\xe4| \x7f(\xffh\xf9\xb1\xf5S\xd0\xa7\xfb\x93\x19\x93\x93\xff\x04\x03\x98\xf3\xfc""c3-\xdb\0\0G\x05iTXtXML:com.adobe.xmp"
-"\0\0\0\0\0<?xpacket begin=\"\xef\xbb\xbf\" id=\"W5M0MpCehiHzreSzNTczkc9d\"?>\n"
-"<x:xmpmeta xmlns:x=\"adobe:ns:meta/\" x:xmptk=\"Adobe XMP Core 5.6-c111 79.158325, 2015/09/10-01:10:20        \">\n"
-"   <rdf:RDF xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\">\n"
-"      <rdf:Description rdf:about=\"\"\n"
-"            xmlns:xmp=\"http://ns.adobe.com/xap/1.0/\"\n"
-"            xmlns:dc=\"http://purl.org/dc/elements/1.1/\"\n"
-"            xmlns:xmpMM=\"http://ns.adobe.com/xap/1.0/mm/\"\n"
-"            xmlns:stEvt=\"http://ns.adobe.com/xap/1.0/sType/ResourceEvent#\"\n"
-"            xmlns:stRef=\"http://ns.adobe.com/xap/1.0/sType/ResourceRef#\"\n"
-"            xmlns:photoshop=\"http://ns.adobe.com/photoshop/1.0/\"\n"
-"            xmlns:tiff=\"http://ns.adobe.com/tiff/1.0/\"\n"
-"            xmlns:exif=\"http://ns.adobe.com/exif/1.0/\">\n"
-"         <xmp:CreatorTool>Adobe Photoshop CC 2015 (Windows)</xmp:CreatorTool>\n"
-"         <xmp:CreateDate>2016-10-25T21:04:31+02:00</xmp:CreateDate>\n"
-"         <xmp:MetadataDate>2016-11-05T15:11:38+01:00</xmp:MetadataDate>\n"
-"         <xmp:ModifyDate>2016-11-05T15:11:38+01:00</xmp:ModifyDate>\n"
-"         <dc:format>image/png</dc:format>\n"
-"         <xmpMM:InstanceID>xmp.iid:245ccf65-f817-c34e-bafc-72f2e576aca3</xmpMM:InstanceID>\n"
-"         <xmpMM:DocumentID>adobe:docid:photoshop:bd152337-a361-11e6-a9ac-98f1e4eeebd5</xmpMM:DocumentID>\n"
-"         <xmpMM:OriginalDocumentID>xmp.did:45d6e837-6aef-3542-a794-f3d50766d1a9</xmpMM:OriginalDocumentID>\n"
-"         <xmpMM:History>\n"
-"            <rdf:Seq>\n"
-"               <rdf:li rdf:parseType=\"Resource\">\n"
-"                  <stEvt:action>created</stEvt:action>\n"
-"                  <stEvt:instanceID>xmp.iid:45d6e837-6aef-3542-a794-f3d50766d1a9</stEvt:instanceID>\n"
-"                  <stEvt:when>2016-10-25T21:04:31+02:00</stEvt:when>\n"
-"                  <stEvt:softwareAgent>Adobe Photoshop CC 2015 (Windows)</stEvt:softwareAgent>\n"
-"               </rdf:li>\n"
-"               <rdf:li rdf:parseType=\"Resource\">\n"
-"                  <stEvt:action>saved</stEvt:action>\n"
-"                  <stEvt:instanceID>xmp.iid:577ca280-8153-c14c-a45e-cfcdf62b282c</stEvt:instanceID>\n"
-"                  <stEvt:when>2016-10-25T21:07:55+02:00</stEvt:when>\n"
-"                  <stEvt:softwareAgent>Adobe Photoshop CC 2015 (Windows)</stEvt:softwareAgent>\n"
-"                  <stEvt:changed>/</stEvt:changed>\n"
-"               </rdf:li>\n"
-"               <rdf:li rdf:parseType=\"Resource\">\n"
-"                  <stEvt:action>saved</stEvt:action>\n"
-"                  <stEvt:instanceID>xmp.iid:523039a3-6cfe-b04d-a142-99e51e8e9ee2</stEvt:instanceID>\n"
-"                  <stEvt:when>2016-11-05T15:11:38+01:00</stEvt:when>\n"
-"                  <stEvt:softwareAgent>Adobe Photoshop CC 2015 (Windows)</stEvt:softwareAgent>\n"
-"                  <stEvt:changed>/</stEvt:changed>\n"
-"               </rdf:li>\n"
-"               <rdf:li rdf:parseType=\"Resource\">\n"
-"                  <stEvt:action>converted</stEvt:action>\n"
-"                  <stEvt:parameters>from application/vnd.adobe.photoshop to image/png</stEvt:parameters>\n"
-"               </rdf:li>\n"
-"               <rdf:li rdf:parseType=\"Resource\">\n"
-"                  <stEvt:action>derived</stEvt:action>\n"
-"                  <stEvt:parameters>converted from application/vnd.adobe.photoshop to image/png</stEvt:parameters>\n"
-"               </rdf:li>\n"
-"               <rdf:li rdf:parseType=\"Resource\">\n"
-"                  <stEvt:action>saved</stEvt:action>\n"
-"                  <stEvt:instanceID>xmp.iid:245ccf65-f817-c34e-bafc-72f2e576aca3</stEvt:instanceID>\n"
-"                  <stEvt:when>2016-11-05T15:11:38+01:00</stEvt:when>\n"
-"                  <stEvt:softwareAgent>Adobe Photoshop CC 2015 (Windows)</stEvt:softwareAgent>\n"
-"                  <stEvt:changed>/</stEvt:changed>\n"
-"               </rdf:li>\n"
-"            </rdf:Seq>\n"
-"         </xmpMM:History>\n"
-"         <xmpMM:DerivedFrom rdf:parseType=\"Resource\">\n"
-"            <stRef:instanceID>xmp.iid:523039a3-6cfe-b04d-a142-99e51e8e9ee2</stRef:instanceID>\n"
-"            <stRef:documentID>adobe:docid:photoshop:e541d274-a29d-11e6-9a76-f5d39ed24dee</stRef:documentID>\n"
-"            <stRef:originalDocumentID>xmp.did:45d6e837-6aef-3542-a794-f3d50766d1a9</stRef:originalDocumentID>\n"
-"         </xmpMM:DerivedFrom>\n"
-"         <photoshop:ColorMode>3</photoshop:ColorMode>\n"
-"         <photoshop:ICCProfile>sRGB IEC61966-2.1</photoshop:ICCProfile>\n"
-"         <photoshop:TextLayers>\n"
-"            <rdf:Bag>\n"
-"               <rdf:li rdf:parseType=\"Resource\">\n"
-"                  <photoshop:LayerName>THRESH</photoshop:LayerName>\n"
-"                  <photoshop:LayerText>THRESH</photoshop:LayerText>\n"
-"               </rdf:li>\n"
-"               <rdf:li rdf:parseType=\"Resource\">\n"
-"                  <photoshop:LayerName>CUTOFF</photoshop:LayerName>\n"
-"                  <photoshop:LayerText>CUTOFF</photoshop:LayerText>\n"
-"               </rdf:li>\n"
-"               <rdf:li rdf:parseType=\"Resource\">\n"
-"                  <photoshop:LayerName>GAIN</photoshop:LayerName>\n"
-"                  <photoshop:LayerText>GAIN</photoshop:LayerText>\n"
-"               </rdf:li>\n"
-"               <rdf:li rdf:parseType=\"Resource\">\n"
-"                  <photoshop:LayerName>MIX</photoshop:LayerName>\n"
-"                  <photoshop:LayerText>MIX</photoshop:LayerText>\n"
-"               </rdf:li>\n"
-"               <rdf:li rdf:parseType=\"Resource\">\n"
-"                  <photoshop:LayerName>AIR</photoshop:LayerName>\n"
-"                  <photoshop:LayerText>AIR</photoshop:LayerText>\n"
-"               </rdf:li>\n"
-"            </rdf:Bag>\n"
-"         </photoshop:TextLayers>\n"
-"         <photoshop:DocumentAncestors>\n"
-"            <rdf:Bag>\n"
-"               <rdf:li>adobe:docid:photoshop:44f428ce-a353-11e6-8c38-e3720d35a39e</rdf:li>\n"
-"               <rdf:li>adobe:docid:photoshop:99c02727-a29c-11e6-9a76-f5d39ed24dee</rdf:li>\n"
-"            </rdf:Bag>\n"
-"         </photoshop:DocumentAncestors>\n"
-"         <tiff:Orientation>1</tiff:Orientation>\n"
-"         <tiff:XResolution>720000/10000</tiff:XResolution>\n"
-"         <tiff:YResolution>720000/10000</tiff:YResolution>\n"
-"         <tiff:ResolutionUnit>2</tiff:ResolutionUnit>\n"
-"         <exif:ColorSpace>1</exif:ColorSpace>\n"
-"         <exif:PixelXDimension>130</exif:PixelXDimension>\n"
-"         <exif:PixelYDimension>130</exif:PixelYDimension>\n"
-"      </rdf:Description>\n"
-"   </rdf:RDF>\n"
-"</x:xmpmeta>\n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                            \n"
-"<?xpacket end=\"w\"?>\x8du\xb2\x98\0\0\0 cHRM\0\0z%\0\0\x80\x83\0\0\xf9\xff\0\0\x80\xe9\0\0u0\0\0\xea`\0\0:\x98\0\0\x17o\x92_\xc5""F\0\0\x02""cIDATx\xda\xec\xda\xb1q\xe2@\x18\x86\xe1\xcf""7\xd7\0-\x10\xb8\x01r\"]\t\xb4`J\xc0%\x98\x12\xa0\x84\xa3\x04\x13"
-"\x91\xd3\0\x01-P\x82.Y\xcd\xech\xe0\xe6\x90\x83\x03\xf9y\x12l\x0c\x9a""1\xbc\xfc\xbb\x92\xfd\xd2\xb6m\xe0\x87\x97\0! \x04\x84\x80\x10\x10\x02""B@\x08\x08\x01! \x04\x84\x80\x10\x10\x02""B@\x08\x08\x01! \x04\x84\x80\x10\x10\x02""B@\x08\x08\x01! \x04\x84"
-"\x80\x10\x10\x02""B@\x08\x08\x01! \x04\x84\x80\x10\x10\x02""B@\x08\x08\x01! \x04\x84\x80\x10\x10\x02""B@\x08\x08\x01! \x04\x84\0""B@\x08\x08\x01!p\xd5\xcf""1\xfd""2\x9b\xc3i\x96""d\x92$\xcb\xf9\xeb\xfe\xc6""c&If\xe5\xdb""c\x92K\xf9\xba{nw_\xfd\xb8k\xc7"
-"j\xca\xedy9\x7f=\x9b\x08\x8f\xe5#\xc9g\x92\xcf\xcd\xe1""4\xbd\xf1\x98\xb7\xee""1\xd5\x1b]?\xb7\xbe\xefw\xb9\xaf\xb9\x12""Aw\x0cK\xc3\x83k\xee\xbc\xbf\xef\x92""d]\xc5S[\x94\xdb\xf7""1L\x83o\x17""BY\x16\x9a;\x8e\xb1-A,\x92t\x13""fZ\xc2\xb8\x94\x9f\x9b\x08"
-"\x0f\xecr\xe3\r_\x0c""8N7\x15V\xbd\xdbu\xb5\xbf\x10\xc2\x83\xda%\x99l\x0e\xa7\xfe\x1b_o\x12\xff\xd5:\xc9\xb9L\x81""f\x8c\xd3`\xcc!\xec{o|=\x11v\x03>\xc9\xddT\xe8""6\x87\xef""c\x9a\x06""c_\x1av\xf5RP\x9dZ\xee\x07\x1co[\xa6""B\xca\xedvl/\xd8\x98""7\x8b"
-"\xc7$\xd3\xea""4rQ-\x1b\xf7\x9at\xd7'\xca""fq*\x84\xe7\xda'\xd4\x01""4I\xf6\xcb\xf9\xeb\x90\x91\xfe\xd1\x9b&+!<\x89r~\x7fL\xd2\x94\xa9""0\x1b\xb8,\xd4\xa7\x8b\xbf\xaa\x8d\xe3L\x08\xcf""5\x15\x9a/.\x0b\xab\xde\x86q]M\t!<\xd9\xf2\xb0Jr\x1cp\x15\xf0\xda"
-"\xe9""b\xb7qlr\xdf\xc5)!\xfc\xe7\xe5\xe1\\\xd6\xf7\xafN\x83K\xef,bTS\xe1;\xfc\x19z7pY\xe8>\xf1\xd7.\x1eu\x97\x9eg\x9b\xc3\xe9m\x0c/\xd2K\xdb\xb6\x01\xff\x98\x82\x10\x10\x02""B@\x08\x08\x01! \x04\x84\x80\x10\x10\x02""B@\x08\x08\x01! \x04\x84\x80\x10\x10"
-"\x02""B@\x08\x08\x01! \x04\x84\x80\x10\x10\x02""B@\x08\x08\x01! \x04\x84\x80\x10\x10\x02""B@\x08\x08\x01! \x04\x84\x80\x10\x10\x02""B@\x08\x08\x01! \x04\x84\x80\x10\x10\x02""B\0! \x04\x84\x80\x10\x10\x02\x7f\xf1g\0\x18\xdet\x82\x89\xdd\xec\xaa\0\0\0\0"
-"IEND\xae""B`\x82";
-
-const char* label_mix_png = (const char*) temp_binary_data_9;
-
-//================== label_thresh.png ==================
-static const unsigned char temp_binary_data_10[] =
-"\x89PNG\r\n"
-"\x1a\n"
-"\0\0\0\rIHDR\0\0\0\x82\0\0\0\x82\x08\x06\0\0\0\x8a\x03\x10\xfd\0\0\0\tpHYs\0\0\x0b\x13\0\0\x0b\x13\x01\0\x9a\x9c\x18\0\0\n"
-"OiCCPPhotoshop ICC profile\0\0x\xda\x9dSgTS\xe9\x16=\xf7\xde\xf4""BK\x88\x80\x94KoR\x15\x08 RB\x8b\x80\x14\x91&*!\t\x10J\x88!\xa1\xd9\x15Q\xc1\x11""EE\x04\x1b\xc8\xa0\x88\x03\x8e\x8e\x80\x8c\x15Q,\x0c\x8a\n"
-"\xd8\x07\xe4!\xa2\x8e\x83\xa3\x88\x8a\xca\xfb\xe1{\xa3k\xd6\xbc\xf7\xe6\xcd\xfe\xb5\xd7>\xe7\xac\xf3\x9d\xb3\xcf\x07\xc0\x08\x0c\x96H3Q5\x80\x0c\xa9""B\x1e\x11\xe0\x83\xc7\xc4\xc6\xe1\xe4.@\x81\n"
-"$p\0\x10\x08\xb3""d!s\xfd#\x01\0\xf8~<<+\"\xc0\x07\xbe\0\x01x\xd3\x0b\x08\0\xc0M\x9b\xc0""0\x1c\x87\xff\x0f\xea""B\x99\\\x01\x80\x84\x01\xc0t\x91""8K\x08\x80\x14\0@z\x8e""B\xa6\0@F\x01\x80\x9d\x98&S\0\xa0\x04\0`\xcb""cb\xe3\0P-\0`'\x7f\xe6\xd3\0\x80\x9d"
-"\xf8\x99{\x01\0[\x94!\x15\x01\xa0\x91\0 \x13""e\x88""D\0h;\0\xac\xcfV\x8a""E\0X0\0\x14""fK\xc4""9\0\xd8-\0""0IWfH\0\xb0\xb7\0\xc0\xce\x10\x0b\xb2\0\x08\x0c\0""0Q\x88\x85)\0\x04{\0`\xc8##x\0\x84\x99\0\x14""F\xf2W<\xf1+\xae\x10\xe7*\0\0x\x99\xb2<\xb9$9"
-"E\x81[\x08-q\x07WW.\x1e(\xceI\x17+\x14""6a\x02""a\x9a@.\xc2y\x99\x19""2\x81""4\x0f\xe0\xf3\xcc\0\0\xa0\x91\x15\x11\xe0\x83\xf3\xfdx\xce\x0e\xae\xce\xce""6\x8e\xb6\x0e_-\xea\xbf\x06\xff\"bb\xe3\xfe\xe5\xcf\xabp@\0\0\xe1t~\xd1\xfe,/\xb3\x1a\x80;\x06\x80"
-"m\xfe\xa2%\xee\x04h^\x0b\xa0u\xf7\x8b""f\xb2\x0f@\xb5\0\xa0\xe9\xdaW\xf3p\xf8~<<E\xa1\x90\xb9\xd9\xd9\xe5\xe4\xe4\xd8J\xc4""B[a\xcaW}\xfeg\xc2_\xc0W\xfdl\xf9~<\xfc\xf7\xf5\xe0\xbe\xe2$\x81""2]\x81G\x04\xf8\xe0\xc2\xcc\xf4L\xa5\x1c\xcf\x92\t\x84""b\xdc"
-"\xe6\x8fG\xfc\xb7\x0b\xff\xfc\x1d\xd3\"\xc4Ib\xb9X*\x14\xe3Q\x12q\x8e""D\x9a\x8c\xf3""2\xa5\"\x89""B\x92)\xc5%\xd2\xff""d\xe2\xdf,\xfb\x03>\xdf""5\0\xb0j>\x01{\x91-\xa8]c\x03\xf6K'\x10Xt\xc0\xe2\xf7\0\0\xf2\xbbo\xc1\xd4(\x08\x03\x80h\x83\xe1\xcfw\xff"
-"\xef?\xfdG\xa0%\0\x80""fI\x92q\0\0^D$.T\xca\xb3?\xc7\x08\0\0""D\xa0\x81*\xb0""A\x1b\xf4\xc1\x18,\xc0\x06\x1c\xc1\x05\xdc\xc1\x0b\xfc`6\x84""B$\xc4\xc2""B\x10""B\n"
-"d\x80\x1cr`)\xac\x82""B(\x86\xcd\xb0\x1d*`/\xd4@\x1d""4\xc0Qh\x86\x93p\x0e.\xc2U\xb8\x0e=p\x0f\xfa""a\x08\x9e\xc1(\xbc\x81\t\x04""A\xc8\x08\x13""a!\xda\x88\x01""b\x8aX#\x8e\x08\x17\x99\x85\xf8!\xc1H\x04\x12\x8b$ \xc9\x88\x14Q\"K\x91""5H1R\x8aT UH\x1d"
-"\xf2=r\x02""9\x87\\F\xba\x91;\xc8\0""2\x82\xfc\x86\xbcG1\x94\x81\xb2Q=\xd4\x0c\xb5""C\xb9\xa8""7\x1a\x84""F\xa2\x0b\xd0""dt1\x9a\x8f\x16\xa0\x9b\xd0r\xb4\x1a=\x8c""6\xa1\xe7\xd0\xabh\x0f\xda\x8f>C\xc7""0\xc0\xe8\x18\x07""3\xc4l0.\xc6\xc3""B\xb1""8,\t"
-"\x93""c\xcb\xb1\"\xac\x0c\xab\xc6\x1a\xb0V\xac\x03\xbb\x89\xf5""c\xcf\xb1w\x04\x12\x81""E\xc0\t6\x04wB a\x1e""AHXLXN\xd8H\xa8 \x1c$4\x11\xda\t7\t\x03\x84Q\xc2'\"\x93\xa8K\xb4&\xba\x11\xf9\xc4\x18""b21\x87XH,#\xd6\x12\x8f\x13/\x10{\x88""C\xc4""7$\x12\x89"
-"C2'\xb9\x90\x02I\xb1\xa4T\xd2\x12\xd2""F\xd2nR#\xe9,\xa9\x9b""4H\x1a#\x93\xc9\xda""dk\xb2\x07""9\x94, +\xc8\x85\xe4\x9d\xe4\xc3\xe4""3\xe4\x1b\xe4!\xf2[\n"
-"\x9d""b@q\xa4\xf8S\xe2(R\xcajJ\x19\xe5\x10\xe5""4\xe5\x06""e\x98""2AU\xa3\x9aR\xdd\xa8\xa1T\x11""5\x8fZB\xad\xa1\xb6R\xafQ\x87\xa8\x13""4u\x9a""9\xcd\x83\x16IK\xa5\xad\xa2\x95\xd3\x1ah\x17h\xf7i\xaf\xe8t\xba\x11\xdd\x95\x1eN\x97\xd0W\xd2\xcb\xe9G\xe8"
-"\x97\xe8\x03\xf4w\x0c\r\x86\x15\x83\xc7\x88g(\x19\x9b\x18\x07\x18g\x19w\x18\xaf\x98L\xa6\x19\xd3\x8b\x19\xc7T071\xeb\x98\xe7\x99\x0f\x99oUX*\xb6*|\x15\x91\xca\n"
-"\x95J\x95&\x95\x1b*/T\xa9\xaa\xa6\xaa\xde\xaa\x0bU\xf3U\xcbT\x8f\xa9^S}\xae""FU3S\xe3\xa9\t\xd4\x96\xabU\xaa\x9dP\xebS\x1bSg\xa9;\xa8\x87\xaag\xa8oT?\xa4~Y\xfd\x89\x06Y\xc3L\xc3OC\xa4Q\xa0\xb1_\xe3\xbc\xc6 \x0b""c\x19\xb3x,!k\r\xab\x86u\x81""5\xc4&\xb1"
-"\xcd\xd9|v*\xbb\x98\xfd\x1d\xbb\x8b=\xaa\xa9\xa1""9C3J3W\xb3R\xf3\x94""f?\x07\xe3\x98q\xf8\x9ctN\t\xe7(\xa7\x97\xf3~\x8a\xde\x14\xef)\xe2)\x1b\xa6""4L\xb9""1e\\k\xaa\x96\x97\x96X\xabH\xabQ\xabG\xeb\xbd""6\xae\xed\xa7\x9d\xa6\xbd""E\xbbY\xfb\x81\x0e""A"
-"\xc7J'\\'Gg\x8f\xce\x05\x9d\xe7S\xd9S\xdd\xa7\n"
-"\xa7\x16M=:\xf5\xae.\xaak\xa5\x1b\xa1\xbb""Dw\xbfn\xa7\xee\x98\x9e\xbe^\x80\x9eLo\xa7\xdey\xbd\xe7\xfa\x1c}/\xfdT\xfdm\xfa\xa7\xf5G\x0cX\x06\xb3\x0c$\x06\xdb\x0c\xce\x18<\xc5""5qo<\x1d/\xc7\xdb\xf1QC]\xc3@C\xa5""a\x95""a\x97\xe1\x84\x91\xb9\xd1<\xa3\xd5"
-"F\x8d""F\x0f\x8ci\xc6\\\xe3$\xe3m\xc6m\xc6\xa3&\x06&!&KM\xeaM\xee\x9aRM\xb9\xa6)\xa6;L;L\xc7\xcd\xcc\xcd\xa2\xcd\xd6\x99""5\x9b=1\xd7""2\xe7\x9b\xe7\x9b\xd7\x9b\xdf\xb7`ZxZ,\xb6\xa8\xb6\xb8""eI\xb2\xe4Z\xa6Y\xee\xb6\xbcn\x85Z9Y\xa5XUZ]\xb3""F\xad\x9d"
-"\xad%\xd6\xbb\xad\xbb\xa7\x11\xa7\xb9N\x93N\xab\x9e\xd6g\xc3\xb0\xf1\xb6\xc9\xb6\xa9\xb7\x19\xb0\xe5\xd8\x06\xdb\xae\xb6m\xb6}agb\x17g\xb7\xc5\xae\xc3\xee\x93\xbd\x93}\xba}\x8d\xfd=\x07\r\x87\xd9\x0e\xab\x1dZ\x1d~s\xb4r\x14:V:\xde\x9a\xce\x9c\xee?}\xc5"
-"\xf4\x96\xe9/gX\xcf\x10\xcf\xd8""3\xe3\xb6\x13\xcb)\xc4i\x9dS\x9b\xd3Gg\x17g\xb9s\x83\xf3\x88\x8b\x89K\x82\xcb.\x97>.\x9b\x1b\xc6\xdd\xc8\xbd\xe4Jt\xf5q]\xe1z\xd2\xf5\x9d\x9b\xb3\x9b\xc2\xed\xa8\xdb\xaf\xee""6\xeei\xee\x87\xdc\x9f\xcc""4\x9f)\x9eY3s\xd0"
-"\xc3\xc8""C\xe0Q\xe5\xd1?\x0b\x9f\x95""0k\xdf\xac~OCO\x81g\xb5\xe7#/c/\x91W\xad\xd7\xb0\xb7\xa5w\xaa\xf7""a\xef\x17>\xf6>r\x9f\xe3>\xe3<7\xde""2\xdeY_\xcc""7\xc0\xb7\xc8\xb7\xcbO\xc3o\x9e_\x85\xdf""C\x7f#\xff""d\xffz\xff\xd1\0\xa7\x80%\x01g\x03\x89\x81"
-"A\x81[\x02\xfb\xf8z|!\xbf\x8e?:\xdb""e\xf6\xb2\xd9\xed""A\x8c\xa0\xb9""A\x15""A\x8f\x82\xad\x82\xe5\xc1\xad!h\xc8\xec\x90\xad!\xf7\xe7\x98\xce\x91\xcei\x0e\x85P~\xe8\xd6\xd0\x07""a\xe6""a\x8b\xc3~\x0c'\x85\x87\x85W\x86?\x8ep\x88X\x1a\xd1""1\x97""5w\xd1"
-"\xdc""Cs\xdf""D\xfa""D\x96""D\xde\x9bg1O9\xaf-J5*>\xaa.j<\xda""7\xba""4\xba?\xc6.fY\xcc\xd5X\x9dXIlK\x1c""9.*\xae""6nl\xbe\xdf\xfc\xed\xf3\x87\xe2\x9d\xe2\x0b\xe3{\x17\x98/\xc8]py\xa1\xce\xc2\xf4\x85\xa7\x16\xa9.\x12,:\x96@L\x88N8\x94\xf0""A\x10*\xa8"
-"\x16\x8c%\xf2\x13w%\x8e\n"
-"y\xc2\x1d\xc2g\"/\xd1""6\xd1\x88\xd8""C\\*\x1eN\xf2H*Mz\x92\xec\x91\xbc""5y$\xc5""3\xa5,\xe5\xb9\x84'\xa9\x90\xbcL\rL\xdd\x9b:\x9e\x16\x9av m2=:\xbd""1\x83\x92\x91\x90qB\xaa!M\x93\xb6g\xeag\xe6""fv\xcb\xac""e\x85\xb2\xfe\xc5n\x8b\xb7/\x1e\x95\x07\xc9"
-"k\xb3\x90\xac\x05Y-\n"
-"\xb6""B\xa6\xe8TZ(\xd7*\x07\xb2geWf\xbf\xcd\x89\xca""9\x96\xab\x9e+\xcd\xed\xcc\xb3\xca\xdb\x90""7\x9c\xef\x9f\xff\xed\x12\xc2\x12\xe1\x92\xb6\xa5\x86KW-\x1dX\xe6\xbd\xacj9\xb2<qy\xdb\n"
-"\xe3\x15\x05+\x86V\x06\xac<\xb8\x8a\xb6*m\xd5O\xab\xedW\x97\xae~\xbd&zMk\x81^\xc1\xca\x82\xc1\xb5\x01k\xeb\x0bU\n"
-"\xe5\x85}\xeb\xdc\xd7\xed]OX/Y\xdf\xb5""a\xfa\x86\x9d\x1b>\x15\x89\x8a\xae\x14\xdb\x17\x97\x15\x7f\xd8(\xdcx\xe5\x1b\x87o\xca\xbf\x99\xdc\x94\xb4\xa9\xab\xc4\xb9""d\xcf""f\xd2""f\xe9\xe6\xde-\x9e[\x0e\x96\xaa\x97\xe6\x97\x0en\r\xd9\xda\xb4\r\xdfV\xb4"
-"\xed\xf5\xf6""E\xdb/\x97\xcd(\xdb\xbb\x83\xb6""C\xb9\xa3\xbf<\xb8\xbc""e\xa7\xc9\xce\xcd;?T\xa4T\xf4T\xfaT6\xee\xd2\xdd\xb5""a\xd7\xf8n\xd1\xee\x1b{\xbc\xf6""4\xec\xd5\xdb[\xbc\xf7\xfd>\xc9\xbe\xdbU\x01UM\xd5""f\xd5""e\xfbI\xfb\xb3\xf7?\xae\x89\xaa\xe9"
-"\xf8\x96\xfbm]\xadNmq\xed\xc7\x03\xd2\x03\xfd\x07#\x0e\xb6\xd7\xb9\xd4\xd5\x1d\xd2=TR\x8f\xd6+\xebG\x0e\xc7\x1f\xbe\xfe\x9d\xefw-\r6\rU\x8d\x9c\xc6\xe2#pDy\xe4\xe9\xf7\t\xdf\xf7\x1e\r:\xdav\x8c{\xac\xe1\x07\xd3\x1fv\x1dg\x1d/jB\x9a\xf2\x9a""F\x9bS\x9a"
-"\xfb[b[\xbaO\xcc>\xd1\xd6\xea\xdez\xfcG\xdb\x1f\x0f\x9c""4<YyJ\xf3T\xc9i\xda\xe9\x82\xd3\x93g\xf2\xcf\x8c\x9d\x95\x9d}~.\xf9\xdc`\xdb\xa2\xb6{\xe7""c\xce\xdfj\x0fo\xef\xba\x10t\xe1\xd2""E\xff\x8b\xe7;\xbc;\xce\\\xf2\xb8t\xf2\xb2\xdb\xe5\x13W\xb8W\x9a"
-"\xaf:_m\xeat\xea<\xfe\x93\xd3O\xc7\xbb\x9c\xbb\x9a\xae\xb9\\k\xb9\xeez\xbd\xb5{f\xf7\xe9\x1b\x9e""7\xce\xdd\xf4\xbdy\xf1\x16\xff\xd6\xd5\x9e""9=\xdd\xbd\xf3zo\xf7\xc5\xf7\xf5\xdf\x16\xdd~r'\xfd\xce\xcb\xbb\xd9w'\xee\xad\xbcO\xbc_\xf4@\xed""A\xd9""C\xdd"
-"\x87\xd5?[\xfe\xdc\xd8\xef\xdc\x7fj\xc0w\xa0\xf3\xd1\xdcG\xf7\x06\x85\x83\xcf\xfe\x91\xf5\x8f\x0f""C\x05\x8f\x99\x8f\xcb\x86\r\x86\xeb\x9e""8>99\xe2?r\xfd\xe9\xfc\xa7""C\xcf""d\xcf&\x9e\x17\xfe\xa2\xfe\xcb\xae\x17\x16/~\xf8\xd5\xeb\xd7\xce\xd1\x98\xd1"
-"\xa1\x97\xf2\x97\x93\xbfm|\xa5\xfd\xea\xc0\xeb\x19\xaf\xdb\xc6\xc2\xc6\x1e\xbe\xc9x31^\xf4V\xfb\xed\xc1w\xdcw\x1d\xef\xa3\xdf\x0fO\xe4| \x7f(\xffh\xf9\xb1\xf5S\xd0\xa7\xfb\x93\x19\x93\x93\xff\x04\x03\x98\xf3\xfc""c3-\xdb\0\0G\x05iTXtXML:com.adobe.xmp"
-"\0\0\0\0\0<?xpacket begin=\"\xef\xbb\xbf\" id=\"W5M0MpCehiHzreSzNTczkc9d\"?>\n"
-"<x:xmpmeta xmlns:x=\"adobe:ns:meta/\" x:xmptk=\"Adobe XMP Core 5.6-c111 79.158325, 2015/09/10-01:10:20        \">\n"
-"   <rdf:RDF xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\">\n"
-"      <rdf:Description rdf:about=\"\"\n"
-"            xmlns:xmp=\"http://ns.adobe.com/xap/1.0/\"\n"
-"            xmlns:dc=\"http://purl.org/dc/elements/1.1/\"\n"
-"            xmlns:xmpMM=\"http://ns.adobe.com/xap/1.0/mm/\"\n"
-"            xmlns:stEvt=\"http://ns.adobe.com/xap/1.0/sType/ResourceEvent#\"\n"
-"            xmlns:stRef=\"http://ns.adobe.com/xap/1.0/sType/ResourceRef#\"\n"
-"            xmlns:photoshop=\"http://ns.adobe.com/photoshop/1.0/\"\n"
-"            xmlns:tiff=\"http://ns.adobe.com/tiff/1.0/\"\n"
-"            xmlns:exif=\"http://ns.adobe.com/exif/1.0/\">\n"
-"         <xmp:CreatorTool>Adobe Photoshop CC 2015 (Windows)</xmp:CreatorTool>\n"
-"         <xmp:CreateDate>2016-10-25T21:04:31+02:00</xmp:CreateDate>\n"
-"         <xmp:MetadataDate>2016-11-05T15:10:48+01:00</xmp:MetadataDate>\n"
-"         <xmp:ModifyDate>2016-11-05T15:10:48+01:00</xmp:ModifyDate>\n"
-"         <dc:format>image/png</dc:format>\n"
-"         <xmpMM:InstanceID>xmp.iid:3c3d2de9-a678-fb45-84d1-97c483394f7c</xmpMM:InstanceID>\n"
-"         <xmpMM:DocumentID>adobe:docid:photoshop:9ed2dab6-a361-11e6-a9ac-98f1e4eeebd5</xmpMM:DocumentID>\n"
-"         <xmpMM:OriginalDocumentID>xmp.did:45d6e837-6aef-3542-a794-f3d50766d1a9</xmpMM:OriginalDocumentID>\n"
-"         <xmpMM:History>\n"
-"            <rdf:Seq>\n"
-"               <rdf:li rdf:parseType=\"Resource\">\n"
-"                  <stEvt:action>created</stEvt:action>\n"
-"                  <stEvt:instanceID>xmp.iid:45d6e837-6aef-3542-a794-f3d50766d1a9</stEvt:instanceID>\n"
-"                  <stEvt:when>2016-10-25T21:04:31+02:00</stEvt:when>\n"
-"                  <stEvt:softwareAgent>Adobe Photoshop CC 2015 (Windows)</stEvt:softwareAgent>\n"
-"               </rdf:li>\n"
-"               <rdf:li rdf:parseType=\"Resource\">\n"
-"                  <stEvt:action>saved</stEvt:action>\n"
-"                  <stEvt:instanceID>xmp.iid:577ca280-8153-c14c-a45e-cfcdf62b282c</stEvt:instanceID>\n"
-"                  <stEvt:when>2016-10-25T21:07:55+02:00</stEvt:when>\n"
-"                  <stEvt:softwareAgent>Adobe Photoshop CC 2015 (Windows)</stEvt:softwareAgent>\n"
-"                  <stEvt:changed>/</stEvt:changed>\n"
-"               </rdf:li>\n"
-"               <rdf:li rdf:parseType=\"Resource\">\n"
-"                  <stEvt:action>saved</stEvt:action>\n"
-"                  <stEvt:instanceID>xmp.iid:d854b343-c723-524e-bff7-92578d11f519</stEvt:instanceID>\n"
-"                  <stEvt:when>2016-11-05T15:10:48+01:00</stEvt:when>\n"
-"                  <stEvt:softwareAgent>Adobe Photoshop CC 2015 (Windows)</stEvt:softwareAgent>\n"
-"                  <stEvt:changed>/</stEvt:changed>\n"
-"               </rdf:li>\n"
-"               <rdf:li rdf:parseType=\"Resource\">\n"
-"                  <stEvt:action>converted</stEvt:action>\n"
-"                  <stEvt:parameters>from application/vnd.adobe.photoshop to image/png</stEvt:parameters>\n"
-"               </rdf:li>\n"
-"               <rdf:li rdf:parseType=\"Resource\">\n"
-"                  <stEvt:action>derived</stEvt:action>\n"
-"                  <stEvt:parameters>converted from application/vnd.adobe.photoshop to image/png</stEvt:parameters>\n"
-"               </rdf:li>\n"
-"               <rdf:li rdf:parseType=\"Resource\">\n"
-"                  <stEvt:action>saved</stEvt:action>\n"
-"                  <stEvt:instanceID>xmp.iid:3c3d2de9-a678-fb45-84d1-97c483394f7c</stEvt:instanceID>\n"
-"                  <stEvt:when>2016-11-05T15:10:48+01:00</stEvt:when>\n"
-"                  <stEvt:softwareAgent>Adobe Photoshop CC 2015 (Windows)</stEvt:softwareAgent>\n"
-"                  <stEvt:changed>/</stEvt:changed>\n"
-"               </rdf:li>\n"
-"            </rdf:Seq>\n"
-"         </xmpMM:History>\n"
-"         <xmpMM:DerivedFrom rdf:parseType=\"Resource\">\n"
-"            <stRef:instanceID>xmp.iid:d854b343-c723-524e-bff7-92578d11f519</stRef:instanceID>\n"
-"            <stRef:documentID>adobe:docid:photoshop:e541d274-a29d-11e6-9a76-f5d39ed24dee</stRef:documentID>\n"
-"            <stRef:originalDocumentID>xmp.did:45d6e837-6aef-3542-a794-f3d50766d1a9</stRef:originalDocumentID>\n"
-"         </xmpMM:DerivedFrom>\n"
-"         <photoshop:ColorMode>3</photoshop:ColorMode>\n"
-"         <photoshop:ICCProfile>sRGB IEC61966-2.1</photoshop:ICCProfile>\n"
-"         <photoshop:TextLayers>\n"
-"            <rdf:Bag>\n"
-"               <rdf:li rdf:parseType=\"Resource\">\n"
-"                  <photoshop:LayerName>THRESH</photoshop:LayerName>\n"
-"                  <photoshop:LayerText>THRESH</photoshop:LayerText>\n"
-"               </rdf:li>\n"
-"               <rdf:li rdf:parseType=\"Resource\">\n"
-"                  <photoshop:LayerName>CUTOFF</photoshop:LayerName>\n"
-"                  <photoshop:LayerText>CUTOFF</photoshop:LayerText>\n"
-"               </rdf:li>\n"
-"               <rdf:li rdf:parseType=\"Resource\">\n"
-"                  <photoshop:LayerName>GAIN</photoshop:LayerName>\n"
-"                  <photoshop:LayerText>GAIN</photoshop:LayerText>\n"
-"               </rdf:li>\n"
-"               <rdf:li rdf:parseType=\"Resource\">\n"
-"                  <photoshop:LayerName>MIX</photoshop:LayerName>\n"
-"                  <photoshop:LayerText>MIX</photoshop:LayerText>\n"
-"               </rdf:li>\n"
-"               <rdf:li rdf:parseType=\"Resource\">\n"
-"                  <photoshop:LayerName>AIR</photoshop:LayerName>\n"
-"                  <photoshop:LayerText>AIR</photoshop:LayerText>\n"
-"               </rdf:li>\n"
-"            </rdf:Bag>\n"
-"         </photoshop:TextLayers>\n"
-"         <photoshop:DocumentAncestors>\n"
-"            <rdf:Bag>\n"
-"               <rdf:li>adobe:docid:photoshop:44f428ce-a353-11e6-8c38-e3720d35a39e</rdf:li>\n"
-"               <rdf:li>adobe:docid:photoshop:99c02727-a29c-11e6-9a76-f5d39ed24dee</rdf:li>\n"
-"            </rdf:Bag>\n"
-"         </photoshop:DocumentAncestors>\n"
-"         <tiff:Orientation>1</tiff:Orientation>\n"
-"         <tiff:XResolution>720000/10000</tiff:XResolution>\n"
-"         <tiff:YResolution>720000/10000</tiff:YResolution>\n"
-"         <tiff:ResolutionUnit>2</tiff:ResolutionUnit>\n"
-"         <exif:ColorSpace>1</exif:ColorSpace>\n"
-"         <exif:PixelXDimension>130</exif:PixelXDimension>\n"
-"         <exif:PixelYDimension>130</exif:PixelYDimension>\n"
-"      </rdf:Description>\n"
-"   </rdf:RDF>\n"
-"</x:xmpmeta>\n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                            \n"
-"<?xpacket end=\"w\"?>\xcbjd\xfd\0\0\0 cHRM\0\0z%\0\0\x80\x83\0\0\xf9\xff\0\0\x80\xe9\0\0u0\0\0\xea`\0\0:\x98\0\0\x17o\x92_\xc5""F\0\0\x02\xe2IDATx\xda\xec\xd9\xc1m\xe2@\x14\x80\xe1\x97\xd5""6\xe0\x16X)\rp\xcf\x89\x94\xc0\x96@J\x08%\x84\x12\xa0\x84\xa4"
-"\x04""8\xe5N\x03""9\xb8\x05\x97\xc0^\xdeH#\xcb&D\xd9\x15\xf1\xe6\xfb$\xa4\x84\x8c\r\xc2\xbf\xed\x19rs:\x9d\x02~\xf8\x08\x10\x02""B@\x08\x08\x01! \x04\x84\x80\x10\x10\x02""B@\x08\x08\x01! \x04\x84\x80\x10\x10\x02""B@\x08\x08\x01! \x04\x84\x80\x10\x10\x02"
-"B@\x08\x08\x01! \x04\x84\x80\x10\x10\x02""B@\x08\x08\x01! \x04\x84\x80\x10\x10\x02""B@\x08\x08\x01! \x04\x84\x80\x10\x10\x02""B@\x08 \x04\x84\x80\x10\x10\x02\x83~^\xfb\rl_\xdf\x9a\x88\x98_0\xf4\x18\x11]D,\xf2\xf7\xc3\xc0\x98\xb2\xaf.\xc7G\xfe\xde\xf4"
-"\xc6\xd5\x7f\xaf\r\x8d\xad\x1d\x06\xc6\x97\xf7\xd3""F\xc4K\xef\xef\xb3|\xb4\xf9\x18{\xbd\xe3\xc3\xddm\xf7\xad""C\xc8\x0f""c\x7f\xc1\xb8\xfb<\x10""e\xec\xcd\x99}\x1dr|D\xc4Su\xb0\xfa""1\xac#bW=766z\xaf\xd9""D\xc4\xf3\xc0\xd8""6\"~W\x91-s\x9f\xeb\x88\xd8"
-"\x0c\xec\xaf\xbc\xde\xfdH\xd8\xdf*\x84""cu\xd0\xca\x87\xb7\xca\x03\xf4\xd2\x1b\xf7\x19\xebj\x1f\xb3<\x08\xdb<x\x87""3c\x87<\xe6\x01\xdc\xe5\xd8.\x9f{\xca@~\xb9""5|\\\xd7;\x10\xf3\xea\xec:\xfc\xe5\xe0\xfa\xfb\xdb""ft\x87\x0b\xc6\xf6""C\x88*\x82\xc8""3"
-"~\x9e!/\x07n\x13""B\xf8\xa2\xda\xea""2\xff\x99\x88\xfbs\x88\xe6\x93\xfb\xb4j\x98\x90\x12@\x7f\x8e\xb0\xcb\xdb\xdcN\x08\xd3\xb1:\xb3\xfa(\xab\x81\xfaQ\x9f\xe5""e\xe2\xf7\x9c\xb7\x89""f\xea\x1f\xc6\x94o\r\xfb\x91\xe5\xe3\x98\xa7\xeaL.\xcb\xba\xdd\x99\xd9"
-"\xfc\xd8\xaa\xa5\x0e\xa1L\x10\x1fsN\xb0\x19Y&\xae""FV#s!\\g\x99\xfa\xde=\xbe\xbe\xc4\xb7#s\x8a\xfa\xaa\xb0\xcb\x83\\\x1e\xcb\x81%\xa9+\xc2?v?\xf0\xdc\xe2\xccw\x12\xf5\x19\xddT\x97\xf5n\xe0\xaa\xf0r\xe1\x8a\xa5l\xbb\xa9\xae\x0e\xdb\xdc\xb6\xed\x85\xb5"
-"\x19\xb9\xaa-\xcc\x11\xae;\xd9\xdb\x8cL\xf8\xde\xd3\xe4""6\xb3\x81+\xc4\xa6\xfa.\xc4""d\xf1\x1b\xdc""b\xf6\xd5w\t\x97\xdcj\x84\xf0\x1f\x7f\xff\xb0\x18\x98\x9c\xce\xac\x1a\xa6\xe7x\xe6\xd6\xb0\x1c\x99\\\x96UA\x99$\xee\xf3\xb9.\xc7\xaf\xf2g\x93\xc5\x89"
-"\xcd\x13\xda<\x8b\x17\xbd\xc9\xe1jd\x9b""2\x07x\xc8m\x1fs\xd2\x19\xd5w\x12\xeb)\xde\"nN\xa7\xd3U\xdf\xc0\xf6\xf5m\xea""A\xd5\xff\x86n?\xba\xf1\xc3\xdd\xad\x10""0YD\x08\x08\x01! \x04\x84\x80\x10\x10\x02""B@\x08\x08\x01! \x04\x84\x80\x10\x10\x02""B@\x08"
-"\x08\x01! \x04\x84\x80\x10\x10\x02\x08\x01! \x04\x84\x80\x10\x10\x02""B@\x08\x08\x01! \x04\x84\x80\x10\x10\x02""B@\x08\x08\x01! \x04\x84\x80\x10\x10\x02""B@\x08\x08\x01! \x04\x84\x80\x10\x10\x02""B@\x08|u\x7f\x06\0\xff\xc7\x89\x86""9A\x91w\0\0\0\0IEN"
-"D\xae""B`\x82";
-
-const char* label_thresh_png = (const char*) temp_binary_data_10;
-
-//================== label_freq.png ==================
-static const unsigned char temp_binary_data_11[] =
-"\x89PNG\r\n"
-"\x1a\n"
-"\0\0\0\rIHDR\0\0\0\x82\0\0\0\x82\x08\x06\0\0\0\x8a\x03\x10\xfd\0\0\0\tpHYs\0\0\x0b\x13\0\0\x0b\x13\x01\0\x9a\x9c\x18\0\0\n"
-"OiCCPPhotoshop ICC profile\0\0x\xda\x9dSgTS\xe9\x16=\xf7\xde\xf4""BK\x88\x80\x94KoR\x15\x08 RB\x8b\x80\x14\x91&*!\t\x10J\x88!\xa1\xd9\x15Q\xc1\x11""EE\x04\x1b\xc8\xa0\x88\x03\x8e\x8e\x80\x8c\x15Q,\x0c\x8a\n"
-"\xd8\x07\xe4!\xa2\x8e\x83\xa3\x88\x8a\xca\xfb\xe1{\xa3k\xd6\xbc\xf7\xe6\xcd\xfe\xb5\xd7>\xe7\xac\xf3\x9d\xb3\xcf\x07\xc0\x08\x0c\x96H3Q5\x80\x0c\xa9""B\x1e\x11\xe0\x83\xc7\xc4\xc6\xe1\xe4.@\x81\n"
-"$p\0\x10\x08\xb3""d!s\xfd#\x01\0\xf8~<<+\"\xc0\x07\xbe\0\x01x\xd3\x0b\x08\0\xc0M\x9b\xc0""0\x1c\x87\xff\x0f\xea""B\x99\\\x01\x80\x84\x01\xc0t\x91""8K\x08\x80\x14\0@z\x8e""B\xa6\0@F\x01\x80\x9d\x98&S\0\xa0\x04\0`\xcb""cb\xe3\0P-\0`'\x7f\xe6\xd3\0\x80\x9d"
-"\xf8\x99{\x01\0[\x94!\x15\x01\xa0\x91\0 \x13""e\x88""D\0h;\0\xac\xcfV\x8a""E\0X0\0\x14""fK\xc4""9\0\xd8-\0""0IWfH\0\xb0\xb7\0\xc0\xce\x10\x0b\xb2\0\x08\x0c\0""0Q\x88\x85)\0\x04{\0`\xc8##x\0\x84\x99\0\x14""F\xf2W<\xf1+\xae\x10\xe7*\0\0x\x99\xb2<\xb9$9"
-"E\x81[\x08-q\x07WW.\x1e(\xceI\x17+\x14""6a\x02""a\x9a@.\xc2y\x99\x19""2\x81""4\x0f\xe0\xf3\xcc\0\0\xa0\x91\x15\x11\xe0\x83\xf3\xfdx\xce\x0e\xae\xce\xce""6\x8e\xb6\x0e_-\xea\xbf\x06\xff\"bb\xe3\xfe\xe5\xcf\xabp@\0\0\xe1t~\xd1\xfe,/\xb3\x1a\x80;\x06\x80"
-"m\xfe\xa2%\xee\x04h^\x0b\xa0u\xf7\x8b""f\xb2\x0f@\xb5\0\xa0\xe9\xdaW\xf3p\xf8~<<E\xa1\x90\xb9\xd9\xd9\xe5\xe4\xe4\xd8J\xc4""B[a\xcaW}\xfeg\xc2_\xc0W\xfdl\xf9~<\xfc\xf7\xf5\xe0\xbe\xe2$\x81""2]\x81G\x04\xf8\xe0\xc2\xcc\xf4L\xa5\x1c\xcf\x92\t\x84""b\xdc"
-"\xe6\x8fG\xfc\xb7\x0b\xff\xfc\x1d\xd3\"\xc4Ib\xb9X*\x14\xe3Q\x12q\x8e""D\x9a\x8c\xf3""2\xa5\"\x89""B\x92)\xc5%\xd2\xff""d\xe2\xdf,\xfb\x03>\xdf""5\0\xb0j>\x01{\x91-\xa8]c\x03\xf6K'\x10Xt\xc0\xe2\xf7\0\0\xf2\xbbo\xc1\xd4(\x08\x03\x80h\x83\xe1\xcfw\xff"
-"\xef?\xfdG\xa0%\0\x80""fI\x92q\0\0^D$.T\xca\xb3?\xc7\x08\0\0""D\xa0\x81*\xb0""A\x1b\xf4\xc1\x18,\xc0\x06\x1c\xc1\x05\xdc\xc1\x0b\xfc`6\x84""B$\xc4\xc2""B\x10""B\n"
-"d\x80\x1cr`)\xac\x82""B(\x86\xcd\xb0\x1d*`/\xd4@\x1d""4\xc0Qh\x86\x93p\x0e.\xc2U\xb8\x0e=p\x0f\xfa""a\x08\x9e\xc1(\xbc\x81\t\x04""A\xc8\x08\x13""a!\xda\x88\x01""b\x8aX#\x8e\x08\x17\x99\x85\xf8!\xc1H\x04\x12\x8b$ \xc9\x88\x14Q\"K\x91""5H1R\x8aT UH\x1d"
-"\xf2=r\x02""9\x87\\F\xba\x91;\xc8\0""2\x82\xfc\x86\xbcG1\x94\x81\xb2Q=\xd4\x0c\xb5""C\xb9\xa8""7\x1a\x84""F\xa2\x0b\xd0""dt1\x9a\x8f\x16\xa0\x9b\xd0r\xb4\x1a=\x8c""6\xa1\xe7\xd0\xabh\x0f\xda\x8f>C\xc7""0\xc0\xe8\x18\x07""3\xc4l0.\xc6\xc3""B\xb1""8,\t"
-"\x93""c\xcb\xb1\"\xac\x0c\xab\xc6\x1a\xb0V\xac\x03\xbb\x89\xf5""c\xcf\xb1w\x04\x12\x81""E\xc0\t6\x04wB a\x1e""AHXLXN\xd8H\xa8 \x1c$4\x11\xda\t7\t\x03\x84Q\xc2'\"\x93\xa8K\xb4&\xba\x11\xf9\xc4\x18""b21\x87XH,#\xd6\x12\x8f\x13/\x10{\x88""C\xc4""7$\x12\x89"
-"C2'\xb9\x90\x02I\xb1\xa4T\xd2\x12\xd2""F\xd2nR#\xe9,\xa9\x9b""4H\x1a#\x93\xc9\xda""dk\xb2\x07""9\x94, +\xc8\x85\xe4\x9d\xe4\xc3\xe4""3\xe4\x1b\xe4!\xf2[\n"
-"\x9d""b@q\xa4\xf8S\xe2(R\xcajJ\x19\xe5\x10\xe5""4\xe5\x06""e\x98""2AU\xa3\x9aR\xdd\xa8\xa1T\x11""5\x8fZB\xad\xa1\xb6R\xafQ\x87\xa8\x13""4u\x9a""9\xcd\x83\x16IK\xa5\xad\xa2\x95\xd3\x1ah\x17h\xf7i\xaf\xe8t\xba\x11\xdd\x95\x1eN\x97\xd0W\xd2\xcb\xe9G\xe8"
-"\x97\xe8\x03\xf4w\x0c\r\x86\x15\x83\xc7\x88g(\x19\x9b\x18\x07\x18g\x19w\x18\xaf\x98L\xa6\x19\xd3\x8b\x19\xc7T071\xeb\x98\xe7\x99\x0f\x99oUX*\xb6*|\x15\x91\xca\n"
-"\x95J\x95&\x95\x1b*/T\xa9\xaa\xa6\xaa\xde\xaa\x0bU\xf3U\xcbT\x8f\xa9^S}\xae""FU3S\xe3\xa9\t\xd4\x96\xabU\xaa\x9dP\xebS\x1bSg\xa9;\xa8\x87\xaag\xa8oT?\xa4~Y\xfd\x89\x06Y\xc3L\xc3OC\xa4Q\xa0\xb1_\xe3\xbc\xc6 \x0b""c\x19\xb3x,!k\r\xab\x86u\x81""5\xc4&\xb1"
-"\xcd\xd9|v*\xbb\x98\xfd\x1d\xbb\x8b=\xaa\xa9\xa1""9C3J3W\xb3R\xf3\x94""f?\x07\xe3\x98q\xf8\x9ctN\t\xe7(\xa7\x97\xf3~\x8a\xde\x14\xef)\xe2)\x1b\xa6""4L\xb9""1e\\k\xaa\x96\x97\x96X\xabH\xabQ\xabG\xeb\xbd""6\xae\xed\xa7\x9d\xa6\xbd""E\xbbY\xfb\x81\x0e""A"
-"\xc7J'\\'Gg\x8f\xce\x05\x9d\xe7S\xd9S\xdd\xa7\n"
-"\xa7\x16M=:\xf5\xae.\xaak\xa5\x1b\xa1\xbb""Dw\xbfn\xa7\xee\x98\x9e\xbe^\x80\x9eLo\xa7\xdey\xbd\xe7\xfa\x1c}/\xfdT\xfdm\xfa\xa7\xf5G\x0cX\x06\xb3\x0c$\x06\xdb\x0c\xce\x18<\xc5""5qo<\x1d/\xc7\xdb\xf1QC]\xc3@C\xa5""a\x95""a\x97\xe1\x84\x91\xb9\xd1<\xa3\xd5"
-"F\x8d""F\x0f\x8ci\xc6\\\xe3$\xe3m\xc6m\xc6\xa3&\x06&!&KM\xeaM\xee\x9aRM\xb9\xa6)\xa6;L;L\xc7\xcd\xcc\xcd\xa2\xcd\xd6\x99""5\x9b=1\xd7""2\xe7\x9b\xe7\x9b\xd7\x9b\xdf\xb7`ZxZ,\xb6\xa8\xb6\xb8""eI\xb2\xe4Z\xa6Y\xee\xb6\xbcn\x85Z9Y\xa5XUZ]\xb3""F\xad\x9d"
-"\xad%\xd6\xbb\xad\xbb\xa7\x11\xa7\xb9N\x93N\xab\x9e\xd6g\xc3\xb0\xf1\xb6\xc9\xb6\xa9\xb7\x19\xb0\xe5\xd8\x06\xdb\xae\xb6m\xb6}agb\x17g\xb7\xc5\xae\xc3\xee\x93\xbd\x93}\xba}\x8d\xfd=\x07\r\x87\xd9\x0e\xab\x1dZ\x1d~s\xb4r\x14:V:\xde\x9a\xce\x9c\xee?}\xc5"
-"\xf4\x96\xe9/gX\xcf\x10\xcf\xd8""3\xe3\xb6\x13\xcb)\xc4i\x9dS\x9b\xd3Gg\x17g\xb9s\x83\xf3\x88\x8b\x89K\x82\xcb.\x97>.\x9b\x1b\xc6\xdd\xc8\xbd\xe4Jt\xf5q]\xe1z\xd2\xf5\x9d\x9b\xb3\x9b\xc2\xed\xa8\xdb\xaf\xee""6\xeei\xee\x87\xdc\x9f\xcc""4\x9f)\x9eY3s\xd0"
-"\xc3\xc8""C\xe0Q\xe5\xd1?\x0b\x9f\x95""0k\xdf\xac~OCO\x81g\xb5\xe7#/c/\x91W\xad\xd7\xb0\xb7\xa5w\xaa\xf7""a\xef\x17>\xf6>r\x9f\xe3>\xe3<7\xde""2\xdeY_\xcc""7\xc0\xb7\xc8\xb7\xcbO\xc3o\x9e_\x85\xdf""C\x7f#\xff""d\xffz\xff\xd1\0\xa7\x80%\x01g\x03\x89\x81"
-"A\x81[\x02\xfb\xf8z|!\xbf\x8e?:\xdb""e\xf6\xb2\xd9\xed""A\x8c\xa0\xb9""A\x15""A\x8f\x82\xad\x82\xe5\xc1\xad!h\xc8\xec\x90\xad!\xf7\xe7\x98\xce\x91\xcei\x0e\x85P~\xe8\xd6\xd0\x07""a\xe6""a\x8b\xc3~\x0c'\x85\x87\x85W\x86?\x8ep\x88X\x1a\xd1""1\x97""5w\xd1"
-"\xdc""Cs\xdf""D\xfa""D\x96""D\xde\x9bg1O9\xaf-J5*>\xaa.j<\xda""7\xba""4\xba?\xc6.fY\xcc\xd5X\x9dXIlK\x1c""9.*\xae""6nl\xbe\xdf\xfc\xed\xf3\x87\xe2\x9d\xe2\x0b\xe3{\x17\x98/\xc8]py\xa1\xce\xc2\xf4\x85\xa7\x16\xa9.\x12,:\x96@L\x88N8\x94\xf0""A\x10*\xa8"
-"\x16\x8c%\xf2\x13w%\x8e\n"
-"y\xc2\x1d\xc2g\"/\xd1""6\xd1\x88\xd8""C\\*\x1eN\xf2H*Mz\x92\xec\x91\xbc""5y$\xc5""3\xa5,\xe5\xb9\x84'\xa9\x90\xbcL\rL\xdd\x9b:\x9e\x16\x9av m2=:\xbd""1\x83\x92\x91\x90qB\xaa!M\x93\xb6g\xeag\xe6""fv\xcb\xac""e\x85\xb2\xfe\xc5n\x8b\xb7/\x1e\x95\x07\xc9"
-"k\xb3\x90\xac\x05Y-\n"
-"\xb6""B\xa6\xe8TZ(\xd7*\x07\xb2geWf\xbf\xcd\x89\xca""9\x96\xab\x9e+\xcd\xed\xcc\xb3\xca\xdb\x90""7\x9c\xef\x9f\xff\xed\x12\xc2\x12\xe1\x92\xb6\xa5\x86KW-\x1dX\xe6\xbd\xacj9\xb2<qy\xdb\n"
-"\xe3\x15\x05+\x86V\x06\xac<\xb8\x8a\xb6*m\xd5O\xab\xedW\x97\xae~\xbd&zMk\x81^\xc1\xca\x82\xc1\xb5\x01k\xeb\x0bU\n"
-"\xe5\x85}\xeb\xdc\xd7\xed]OX/Y\xdf\xb5""a\xfa\x86\x9d\x1b>\x15\x89\x8a\xae\x14\xdb\x17\x97\x15\x7f\xd8(\xdcx\xe5\x1b\x87o\xca\xbf\x99\xdc\x94\xb4\xa9\xab\xc4\xb9""d\xcf""f\xd2""f\xe9\xe6\xde-\x9e[\x0e\x96\xaa\x97\xe6\x97\x0en\r\xd9\xda\xb4\r\xdfV\xb4"
-"\xed\xf5\xf6""E\xdb/\x97\xcd(\xdb\xbb\x83\xb6""C\xb9\xa3\xbf<\xb8\xbc""e\xa7\xc9\xce\xcd;?T\xa4T\xf4T\xfaT6\xee\xd2\xdd\xb5""a\xd7\xf8n\xd1\xee\x1b{\xbc\xf6""4\xec\xd5\xdb[\xbc\xf7\xfd>\xc9\xbe\xdbU\x01UM\xd5""f\xd5""e\xfbI\xfb\xb3\xf7?\xae\x89\xaa\xe9"
-"\xf8\x96\xfbm]\xadNmq\xed\xc7\x03\xd2\x03\xfd\x07#\x0e\xb6\xd7\xb9\xd4\xd5\x1d\xd2=TR\x8f\xd6+\xebG\x0e\xc7\x1f\xbe\xfe\x9d\xefw-\r6\rU\x8d\x9c\xc6\xe2#pDy\xe4\xe9\xf7\t\xdf\xf7\x1e\r:\xdav\x8c{\xac\xe1\x07\xd3\x1fv\x1dg\x1d/jB\x9a\xf2\x9a""F\x9bS\x9a"
-"\xfb[b[\xbaO\xcc>\xd1\xd6\xea\xdez\xfcG\xdb\x1f\x0f\x9c""4<YyJ\xf3T\xc9i\xda\xe9\x82\xd3\x93g\xf2\xcf\x8c\x9d\x95\x9d}~.\xf9\xdc`\xdb\xa2\xb6{\xe7""c\xce\xdfj\x0fo\xef\xba\x10t\xe1\xd2""E\xff\x8b\xe7;\xbc;\xce\\\xf2\xb8t\xf2\xb2\xdb\xe5\x13W\xb8W\x9a"
-"\xaf:_m\xeat\xea<\xfe\x93\xd3O\xc7\xbb\x9c\xbb\x9a\xae\xb9\\k\xb9\xeez\xbd\xb5{f\xf7\xe9\x1b\x9e""7\xce\xdd\xf4\xbdy\xf1\x16\xff\xd6\xd5\x9e""9=\xdd\xbd\xf3zo\xf7\xc5\xf7\xf5\xdf\x16\xdd~r'\xfd\xce\xcb\xbb\xd9w'\xee\xad\xbcO\xbc_\xf4@\xed""A\xd9""C\xdd"
-"\x87\xd5?[\xfe\xdc\xd8\xef\xdc\x7fj\xc0w\xa0\xf3\xd1\xdcG\xf7\x06\x85\x83\xcf\xfe\x91\xf5\x8f\x0f""C\x05\x8f\x99\x8f\xcb\x86\r\x86\xeb\x9e""8>99\xe2?r\xfd\xe9\xfc\xa7""C\xcf""d\xcf&\x9e\x17\xfe\xa2\xfe\xcb\xae\x17\x16/~\xf8\xd5\xeb\xd7\xce\xd1\x98\xd1"
-"\xa1\x97\xf2\x97\x93\xbfm|\xa5\xfd\xea\xc0\xeb\x19\xaf\xdb\xc6\xc2\xc6\x1e\xbe\xc9x31^\xf4V\xfb\xed\xc1w\xdcw\x1d\xef\xa3\xdf\x0fO\xe4| \x7f(\xffh\xf9\xb1\xf5S\xd0\xa7\xfb\x93\x19\x93\x93\xff\x04\x03\x98\xf3\xfc""c3-\xdb\0\0""F;iTXtXML:com.adobe.xmp\0"
-"\0\0\0\0<?xpacket begin=\"\xef\xbb\xbf\" id=\"W5M0MpCehiHzreSzNTczkc9d\"?>\n"
-"<x:xmpmeta xmlns:x=\"adobe:ns:meta/\" x:xmptk=\"Adobe XMP Core 5.6-c111 79.158325, 2015/09/10-01:10:20        \">\n"
-"   <rdf:RDF xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\">\n"
-"      <rdf:Description rdf:about=\"\"\n"
-"            xmlns:xmp=\"http://ns.adobe.com/xap/1.0/\"\n"
-"            xmlns:dc=\"http://purl.org/dc/elements/1.1/\"\n"
-"            xmlns:xmpMM=\"http://ns.adobe.com/xap/1.0/mm/\"\n"
-"            xmlns:stEvt=\"http://ns.adobe.com/xap/1.0/sType/ResourceEvent#\"\n"
-"            xmlns:stRef=\"http://ns.adobe.com/xap/1.0/sType/ResourceRef#\"\n"
-"            xmlns:photoshop=\"http://ns.adobe.com/photoshop/1.0/\"\n"
-"            xmlns:tiff=\"http://ns.adobe.com/tiff/1.0/\"\n"
-"            xmlns:exif=\"http://ns.adobe.com/exif/1.0/\">\n"
-"         <xmp:CreatorTool>Adobe Photoshop CC 2015 (Windows)</xmp:CreatorTool>\n"
-"         <xmp:CreateDate>2016-10-25T21:04:31+02:00</xmp:CreateDate>\n"
-"         <xmp:MetadataDate>2016-11-08T20:32:17+01:00</xmp:MetadataDate>\n"
-"         <xmp:ModifyDate>2016-11-08T20:32:17+01:00</xmp:ModifyDate>\n"
-"         <dc:format>image/png</dc:format>\n"
-"         <xmpMM:InstanceID>xmp.iid:9c37b425-56a5-494c-a7bf-3c19ebd872b1</xmpMM:InstanceID>\n"
-"         <xmpMM:DocumentID>adobe:docid:photoshop:035315c8-a5ea-11e6-824c-d23118c46444</xmpMM:DocumentID>\n"
-"         <xmpMM:OriginalDocumentID>xmp.did:45d6e837-6aef-3542-a794-f3d50766d1a9</xmpMM:OriginalDocumentID>\n"
-"         <xmpMM:History>\n"
-"            <rdf:Seq>\n"
-"               <rdf:li rdf:parseType=\"Resource\">\n"
-"                  <stEvt:action>created</stEvt:action>\n"
-"                  <stEvt:instanceID>xmp.iid:45d6e837-6aef-3542-a794-f3d50766d1a9</stEvt:instanceID>\n"
-"                  <stEvt:when>2016-10-25T21:04:31+02:00</stEvt:when>\n"
-"                  <stEvt:softwareAgent>Adobe Photoshop CC 2015 (Windows)</stEvt:softwareAgent>\n"
-"               </rdf:li>\n"
-"               <rdf:li rdf:parseType=\"Resource\">\n"
-"                  <stEvt:action>saved</stEvt:action>\n"
-"                  <stEvt:instanceID>xmp.iid:577ca280-8153-c14c-a45e-cfcdf62b282c</stEvt:instanceID>\n"
-"                  <stEvt:when>2016-10-25T21:07:55+02:00</stEvt:when>\n"
-"                  <stEvt:softwareAgent>Adobe Photoshop CC 2015 (Windows)</stEvt:softwareAgent>\n"
-"                  <stEvt:changed>/</stEvt:changed>\n"
-"               </rdf:li>\n"
-"               <rdf:li rdf:parseType=\"Resource\">\n"
-"                  <stEvt:action>saved</stEvt:action>\n"
-"                  <stEvt:instanceID>xmp.iid:c50f0358-afd8-af4c-a8ad-00983ddb4d72</stEvt:instanceID>\n"
-"                  <stEvt:when>2016-11-08T20:32:17+01:00</stEvt:when>\n"
-"                  <stEvt:softwareAgent>Adobe Photoshop CC 2015 (Windows)</stEvt:softwareAgent>\n"
-"                  <stEvt:changed>/</stEvt:changed>\n"
-"               </rdf:li>\n"
-"               <rdf:li rdf:parseType=\"Resource\">\n"
-"                  <stEvt:action>converted</stEvt:action>\n"
-"                  <stEvt:parameters>from application/vnd.adobe.photoshop to image/png</stEvt:parameters>\n"
-"               </rdf:li>\n"
-"               <rdf:li rdf:parseType=\"Resource\">\n"
-"                  <stEvt:action>derived</stEvt:action>\n"
-"                  <stEvt:parameters>converted from application/vnd.adobe.photoshop to image/png</stEvt:parameters>\n"
-"               </rdf:li>\n"
-"               <rdf:li rdf:parseType=\"Resource\">\n"
-"                  <stEvt:action>saved</stEvt:action>\n"
-"                  <stEvt:instanceID>xmp.iid:9c37b425-56a5-494c-a7bf-3c19ebd872b1</stEvt:instanceID>\n"
-"                  <stEvt:when>2016-11-08T20:32:17+01:00</stEvt:when>\n"
-"                  <stEvt:softwareAgent>Adobe Photoshop CC 2015 (Windows)</stEvt:softwareAgent>\n"
-"                  <stEvt:changed>/</stEvt:changed>\n"
-"               </rdf:li>\n"
-"            </rdf:Seq>\n"
-"         </xmpMM:History>\n"
-"         <xmpMM:DerivedFrom rdf:parseType=\"Resource\">\n"
-"            <stRef:instanceID>xmp.iid:c50f0358-afd8-af4c-a8ad-00983ddb4d72</stRef:instanceID>\n"
-"            <stRef:documentID>adobe:docid:photoshop:e541d274-a29d-11e6-9a76-f5d39ed24dee</stRef:documentID>\n"
-"            <stRef:originalDocumentID>xmp.did:45d6e837-6aef-3542-a794-f3d50766d1a9</stRef:originalDocumentID>\n"
-"         </xmpMM:DerivedFrom>\n"
-"         <photoshop:ColorMode>3</photoshop:ColorMode>\n"
-"         <photoshop:ICCProfile>sRGB IEC61966-2.1</photoshop:ICCProfile>\n"
-"         <photoshop:TextLayers>\n"
-"            <rdf:Bag>\n"
-"               <rdf:li rdf:parseType=\"Resource\">\n"
-"                  <photoshop:LayerName>THRESH</photoshop:LayerName>\n"
-"                  <photoshop:LayerText>THRESH</photoshop:LayerText>\n"
-"               </rdf:li>\n"
-"               <rdf:li rdf:parseType=\"Resource\">\n"
-"                  <photoshop:LayerName>CUTOFF</photoshop:LayerName>\n"
-"                  <photoshop:LayerText>CUTOFF</photoshop:LayerText>\n"
-"               </rdf:li>\n"
-"               <rdf:li rdf:parseType=\"Resource\">\n"
-"                  <photoshop:LayerName>GAIN</photoshop:LayerName>\n"
-"                  <photoshop:LayerText>GAIN</photoshop:LayerText>\n"
-"               </rdf:li>\n"
-"               <rdf:li rdf:parseType=\"Resource\">\n"
-"                  <photoshop:LayerName>FREQ</photoshop:LayerName>\n"
-"                  <photoshop:LayerText>FREQ</photoshop:LayerText>\n"
-"               </rdf:li>\n"
-"            </rdf:Bag>\n"
-"         </photoshop:TextLayers>\n"
-"         <photoshop:DocumentAncestors>\n"
-"            <rdf:Bag>\n"
-"               <rdf:li>adobe:docid:photoshop:44f428ce-a353-11e6-8c38-e3720d35a39e</rdf:li>\n"
-"               <rdf:li>adobe:docid:photoshop:99c02727-a29c-11e6-9a76-f5d39ed24dee</rdf:li>\n"
-"            </rdf:Bag>\n"
-"         </photoshop:DocumentAncestors>\n"
-"         <tiff:Orientation>1</tiff:Orientation>\n"
-"         <tiff:XResolution>720000/10000</tiff:XResolution>\n"
-"         <tiff:YResolution>720000/10000</tiff:YResolution>\n"
-"         <tiff:ResolutionUnit>2</tiff:ResolutionUnit>\n"
-"         <exif:ColorSpace>1</exif:ColorSpace>\n"
-"         <exif:PixelXDimension>130</exif:PixelXDimension>\n"
-"         <exif:PixelYDimension>130</exif:PixelYDimension>\n"
-"      </rdf:Description>\n"
-"   </rdf:RDF>\n"
-"</x:xmpmeta>\n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                                                                                                    \n"
-"                            \n"
-"<?xpacket end=\"w\"?>+\x7f\xbbJ\0\0\0 cHRM\0\0z%\0\0\x80\x83\0\0\xf9\xff\0\0\x80\xe9\0\0u0\0\0\xea`\0\0:\x98\0\0\x17o\x92_\xc5""F\0\0\x02\xb4IDATx\xda\xec\xdd\xc1M\"Q\0\xc7\xe1\xbf\x9bm\x80\x16""8\xd0\0wNX\x82\x96 %H\tR\xc2X\x82\x96\xe0\x9c\xb8O\x03\x1c"
-"l\x81\x12\xdc\xc3\xbeq'd\x06\xdc""du\x19\xf9\xbe\xc4\xa8\xf0\x08\x86\xf9\xcd\xe3=\xc7\xc4\xab\xb7\xb7\xb7\xc0\x0f/\x01""B@\x08\x08\x01! \x04\x84\x80\x10\x10\x02""B@\x08\x08\x01! \x04\x84\x80\x10\x10\x02""B@\x08\x08\x01! \x04\x84\x80\x10\x10\x02""B@\x08"
-"\x08\x01! \x04\x84\x80\x10\x10\x02""B@\x08\x08\x01! \x04\x84\x80\x10\x10\x02""B@\x08\x08\x01! \x04\x84\x80\x10\x10\x02""B@\x08\x08\x01\x84\x80\x10\x10\x02""B\xa0\xd7\xcf""1\xfe\xd0\xd5v7M2=2\xe4\xb5|\xcc\x93L\x0e\xee\xdb'iz\x1e\xd3""7\xb6\xab>\xf8~\x9a"
-"d\xd9yL\xbdZ\xcc\x9a\xb1\x86p5\xc6\xff\x04[mw\xf7I\x1e\x8e\x0cY'\xd9$y)\x07+=1\xac\x93<vn\x1b\x1a\xfb\xfeZu\xbe\x1ez\xfe:\xc9\xedj1\xdb\x9b\x11\xbe\xd6""c\x92\xe7\x81\x19\xe1""0\x8c\xa6s&?$\xa9\xca\xb8\xfa\xc8\xd8>7\xe5\xf1M\x92\xf5j1\xab\xcb\x0cu\x9f"
-"\xe4.\xc9S\x92k!|\xad\xbe\x03\xd9\xa7\xe9\x19W\x95\x03W\x7f`lW;\x13\xdc\xb6\xc1\xad\x16\xb3\xd7$\xab\x12\xc4\xb2\xda\xee\x96\xab\xc5\xac\x1e\xd3\x0by\xa9\x8b\xc5v\xc6\x98\xfc\xe5\xe3\xe6""eFizf\x9d\xee:bn\xd7\xf0\xbdM:k\x8c\xa1\x99''\xd6\x1a\xde\x1a\xce"
-"\xc8\xdd\xc0N`\xe8ln\x8e\x1c|\xdb\xc7""39\xa0\x87g\xdf\xf3\xc1n\xa0}_\xdfw\x16\x8b\xd3""2fsd\r\xd0u\xfd\xc1\xb5\x88\x10\xce\xdc|`\x0b""9\xb4\x13y=\xb1\x0b\x11\xc2\x19n\x1f""7\x1f\x18\xd7=\xa3'e\x8bw_b\xd8\xf4\xcc(u.\xcc%.\x16\xbb\x07\x7f\xf9\x89\xcf!"
-"\x84\x0b\xd8vNO\xbc\x05""5B\xf8\xfe!4\xf9s\x9d\xe1]\xb5\xddMN\xec""F\xac\x11\xce\xd0\xb1\xfd\xfe\xcd\xc0\xe2\xb2};Y\xe7\xf7u\x89\xa7$\x9bj\xbbk\xc3\xb8+\x9f\xf7""c\\\\^j\x08\xed\xc1j\xcf\xec\xba\xe7w\x0c""C!\xd4""e\xf1Y\x1dl5\xf7\xe5\xbe""e\xb9}5\xa6"
-"\x17""d\x94W\x1f\x0f\xa6\xe4\xff\xf9\xf4\xef\x97\xc3\xdbk\x0b\xd5v\xf7Rf\x94\xdb""1]o\xb8\xd4\x19\xe1\x9f\xad\x19\xca\x05\xa7\xae\xdb$\xd3\xb1\xfdm\xc2\xe8g\x04\xec\x1a\x10\x02""B@\x08\x08\x01! \x04\x84\x80\x10\x10\x02""B@\x08\x08\x01! \x04\x84\x80\x10"
-"\x10\x02""B@\x08\x08\x01! \x04\x84\x80\x10\x10\x02""B@\x08\x08\x01! \x04\x84\x80\x10\x10\x02""B@\x08\x08\x01!\x80\x10\x10\x02""B@\x08\x08\x01! \x04\x84\x80\x10\x10\x02""B@\x08\x08\x01! \x04\x84\x80\x10\xf8$\xbf\x06\0M2\x86\xcaR\x8e\xac\xfb\0\0\0\0IEN"
-"D\xae""B`\x82";
-
-const char* label_freq_png = (const char*) temp_binary_data_11;
+const char* title_png = (const char*) temp_binary_data_10;
 
 //================== website.png ==================
-static const unsigned char temp_binary_data_12[] =
+static const unsigned char temp_binary_data_11[] =
 "\x89PNG\r\n"
 "\x1a\n"
 "\0\0\0\rIHDR\0\0\0\xd7\0\0\0\x19\x08\x06\0\0\0\xa2\x9f\xbbq\0\0\0\tpHYs\0\0\x0b\x13\0\0\x0b\x13\x01\0\x9a\x9c\x18\0\0\n"
@@ -5148,54 +4867,79 @@ static const unsigned char temp_binary_data_12[] =
 "\xb7""C|\xe7\xc8\xf6\xb4\x96q\xf9)\xb3\xd5_\xc4\xc3*\xcd\xd9\xce\xbc\xed\0\\\x8d\xef\xad""E\\\xa8\xb2>O\xda\xa8\xf1\t\xe1\xf8""4\xe5y\x12\xf2I5Ze\xc6\xf5}\x8eZ\x95n\x08}G\xa3\xcd\xf7\r\xcb\xffW\x1c}j\xc9\xca\x7f\x13\xb9\xd2\x90L\x15\x10\xb9\x1as\x9e\x04"
 " \xb4\x89w\xf1)\xc8\x84Oy\xdd\xed""Dh\xaa""2\x8e\xeb\xfd:\x07\xfe/\x8c""e[\x9eg\x83\xc8\xf5""C\x89P\x95\xd6\x1e;\xd1\xab:)\xd9\xff-\x8e\xeb\xa6\x85;cg\xec\x8c\xea\x8c\xff\x0e\0\x82\xa2\xb2\x9fp\xea""d;\0\0\0\0IEND\xae""B`\x82";
 
-const char* website_png = (const char*) temp_binary_data_12;
+const char* website_png = (const char*) temp_binary_data_11;
 
 
-const char* getNamedResource (const char*, int&) throw();
-const char* getNamedResource (const char* resourceNameUTF8, int& numBytes) throw()
+const char* getNamedResource (const char* resourceNameUTF8, int& numBytes)
 {
     unsigned int hash = 0;
-    if (resourceNameUTF8 != 0)
+
+    if (resourceNameUTF8 != nullptr)
         while (*resourceNameUTF8 != 0)
             hash = 31 * hash + (unsigned int) *resourceNameUTF8++;
 
     switch (hash)
     {
+        case 0x6b4dbb81:  numBytes = 22392; return airText_png;
         case 0x5b215217:  numBytes = 60475; return bigKnob_light_png;
         case 0xb72659d2:  numBytes = 38916; return bigKnob_red_png;
-        case 0x861d51de:  numBytes = 31141; return smallKnob_light_png;
-        case 0x6b4dbb81:  numBytes = 22392; return airText_png;
         case 0xc615e600:  numBytes = 47504; return bigKnob_png;
-        case 0x5ee30707:  numBytes = 31445; return smallKnob_png;
-        case 0x80b817c2:  numBytes = 24948; return title_png;
-        case 0x3777c502:  numBytes = 21766; return label_cutoff_png;
+        case 0x12d040cd:  numBytes = 21456; return label_freq_png;
         case 0xfe109a54:  numBytes = 21661; return label_gain_png;
         case 0x4386eb7b:  numBytes = 21577; return label_mix_png;
         case 0x1e6929d1:  numBytes = 21704; return label_thresh_png;
-        case 0x12d040cd:  numBytes = 21456; return label_freq_png;
+        case 0x861d51de:  numBytes = 31141; return smallKnob_light_png;
+        case 0x5ee30707:  numBytes = 31445; return smallKnob_png;
+        case 0x80b817c2:  numBytes = 24948; return title_png;
         case 0x81befc85:  numBytes = 23975; return website_png;
         default: break;
     }
 
     numBytes = 0;
-    return 0;
+    return nullptr;
 }
 
 const char* namedResourceList[] =
 {
+    "airText_png",
     "bigKnob_light_png",
     "bigKnob_red_png",
-    "smallKnob_light_png",
-    "airText_png",
     "bigKnob_png",
-    "smallKnob_png",
-    "title_png",
-    "label_cutoff_png",
+    "label_freq_png",
     "label_gain_png",
     "label_mix_png",
     "label_thresh_png",
-    "label_freq_png",
+    "smallKnob_light_png",
+    "smallKnob_png",
+    "title_png",
     "website_png"
 };
+
+const char* originalFilenames[] =
+{
+    "airText.png",
+    "bigKnob_light.png",
+    "bigKnob_red.png",
+    "bigKnob.png",
+    "label_freq.png",
+    "label_gain.png",
+    "label_mix.png",
+    "label_thresh.png",
+    "smallKnob_light.png",
+    "smallKnob.png",
+    "title.png",
+    "website.png"
+};
+
+const char* getNamedResourceOriginalFilename (const char* resourceNameUTF8)
+{
+    for (unsigned int i = 0; i < (sizeof (namedResourceList) / sizeof (namedResourceList[0])); ++i)
+    {
+        if (namedResourceList[i] == resourceNameUTF8)
+            return originalFilenames[i];
+    }
+
+    return nullptr;
+}
 
 }

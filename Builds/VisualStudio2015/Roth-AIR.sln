@@ -1,0 +1,34 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2015
+
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Roth-AIR - VST3", "Roth-AIR_VST3.vcxproj", "{A88DB5AD-4A28-B3CF-C161-F8F53E749476}"
+	ProjectSection(ProjectDependencies) = postProject
+		{F3B3FA9F-88B4-A025-453D-9571DF155B48} = {F3B3FA9F-88B4-A025-453D-9571DF155B48}
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Roth-AIR - Shared Code", "Roth-AIR_SharedCode.vcxproj", "{F3B3FA9F-88B4-A025-453D-9571DF155B48}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+		Release 32bit|Win32 = Release 32bit|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A88DB5AD-4A28-B3CF-C161-F8F53E749476}.Debug|x64.ActiveCfg = Debug|x64
+		{A88DB5AD-4A28-B3CF-C161-F8F53E749476}.Debug|x64.Build.0 = Debug|x64
+		{A88DB5AD-4A28-B3CF-C161-F8F53E749476}.Release|x64.ActiveCfg = Release|x64
+		{A88DB5AD-4A28-B3CF-C161-F8F53E749476}.Release|x64.Build.0 = Release|x64
+		{A88DB5AD-4A28-B3CF-C161-F8F53E749476}.Release 32bit|Win32.ActiveCfg = Release 32bit|Win32
+		{A88DB5AD-4A28-B3CF-C161-F8F53E749476}.Release 32bit|Win32.Build.0 = Release 32bit|Win32
+		{F3B3FA9F-88B4-A025-453D-9571DF155B48}.Debug|x64.ActiveCfg = Debug|x64
+		{F3B3FA9F-88B4-A025-453D-9571DF155B48}.Debug|x64.Build.0 = Debug|x64
+		{F3B3FA9F-88B4-A025-453D-9571DF155B48}.Release|x64.ActiveCfg = Release|x64
+		{F3B3FA9F-88B4-A025-453D-9571DF155B48}.Release|x64.Build.0 = Release|x64
+		{F3B3FA9F-88B4-A025-453D-9571DF155B48}.Release 32bit|Win32.ActiveCfg = Release 32bit|Win32
+		{F3B3FA9F-88B4-A025-453D-9571DF155B48}.Release 32bit|Win32.Build.0 = Release 32bit|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

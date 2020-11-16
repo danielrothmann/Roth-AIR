@@ -1,35 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<JUCERPROJECT id="j6VCQu" name="Roth-AIR" projectType="audioplug" version="1.1.0"
+<JUCERPROJECT id="j6VCQu" name="Roth-AIR" projectType="audioplug" version="1.1.1"
               bundleIdentifier="com.Rothmann.Roth-AIR" includeBinaryInAppConfig="1"
-              buildVST="1" buildVST3="0" buildAU="1" buildAUv3="0" buildRTAS="0"
+              buildVST="0" buildVST3="1" buildAU="1" buildAUv3="0" buildRTAS="0"
               buildAAX="0" pluginName="Roth-AIR" pluginDesc="A mixing tool for adding airy, crispy presence"
               pluginManufacturer="Rothmann" pluginManufacturerCode="Roth" pluginCode="J6vc"
               pluginChannelConfigs="{1, 1},{2, 2}" pluginIsSynth="0" pluginWantsMidiIn="0"
               pluginProducesMidiOut="0" pluginIsMidiEffectPlugin="0" pluginEditorRequiresKeys="0"
               pluginAUExportPrefix="AIRAU" pluginRTASCategory="" aaxIdentifier="com.Rothmann.Roth-AIR"
-              pluginAAXCategory="AAX_ePlugInCategory_Dynamics" jucerVersion="4.2.4"
-              companyName="Rothmann" companyWebsite="www.danielrothmann.com"
-              companyEmail="daniel@danielrothmann.com">
+              pluginAAXCategory="2" companyName="Rothmann" companyWebsite="www.danielrothmann.com"
+              companyEmail="daniel@danielrothmann.com" pluginFormats="buildAU,buildVST3"
+              displaySplashScreen="1" jucerFormatVersion="1" buildStandalone="0"
+              enableIAA="0" pluginVST3Category="Dynamics">
   <MAINGROUP id="ytp4Pr" name="Roth-AIR">
     <GROUP id="{DD99666F-FF14-937D-5EED-EA9809A3E477}" name="Resources">
-      <FILE id="AqiFdR" name="bigKnob_light.png" compile="0" resource="1"
-            file="../Design/Elements v2/bigKnob_light.png"/>
-      <FILE id="mCXCPa" name="bigKnob_red.png" compile="0" resource="1" file="../Design/Elements v2/bigKnob_red.png"/>
-      <FILE id="Ri3HIE" name="smallKnob_light.png" compile="0" resource="1"
-            file="../Design/Elements v2/smallKnob_light.png"/>
-      <FILE id="dPJN8j" name="airText.png" compile="0" resource="1" file="../Design/Elements v2/airText.png"/>
-      <FILE id="XbblUR" name="bigKnob.png" compile="0" resource="1" file="../Design/Elements v2/bigKnob.png"/>
-      <FILE id="ZCBicK" name="smallKnob.png" compile="0" resource="1" file="../Design/Elements v2/smallKnob.png"/>
-      <FILE id="G5nQG0" name="title.png" compile="0" resource="1" file="../Design/Elements v2/title.png"/>
-      <FILE id="RYRs0U" name="label_cutoff.png" compile="0" resource="1"
-            file="../Design/Elements v2/label_cutoff.png"/>
-      <FILE id="Glbcxv" name="label_gain.png" compile="0" resource="1" file="../Design/Elements v2/label_gain.png"/>
-      <FILE id="baikLT" name="label_mix.png" compile="0" resource="1" file="../Design/Elements v2/label_mix.png"/>
-      <FILE id="aPmfpL" name="label_thresh.png" compile="0" resource="1"
-            file="../Design/Elements v2/label_thresh.png"/>
-      <FILE id="Ipg0rA" name="label_freq.png" compile="0" resource="1" file="../Design/Elements v2/label_freq.png"/>
-      <FILE id="eqBD3e" name="website.png" compile="0" resource="1" file="../Design/Elements v2/website.png"/>
+      <FILE id="Wfhaz5" name="airText.png" compile="0" resource="1" file="Graphics/airText.png"/>
+      <FILE id="cWhE1O" name="bigKnob_light.png" compile="0" resource="1"
+            file="Graphics/bigKnob_light.png"/>
+      <FILE id="yp6EWI" name="bigKnob_red.png" compile="0" resource="1" file="Graphics/bigKnob_red.png"/>
+      <FILE id="FkE9XB" name="bigKnob.png" compile="0" resource="1" file="Graphics/bigKnob.png"/>
+      <FILE id="XIxcW6" name="label_freq.png" compile="0" resource="1" file="Graphics/label_freq.png"/>
+      <FILE id="KR60AQ" name="label_gain.png" compile="0" resource="1" file="Graphics/label_gain.png"/>
+      <FILE id="Cbz0iw" name="label_mix.png" compile="0" resource="1" file="Graphics/label_mix.png"/>
+      <FILE id="IHLsQA" name="label_thresh.png" compile="0" resource="1"
+            file="Graphics/label_thresh.png"/>
+      <FILE id="GDwcz9" name="smallKnob_light.png" compile="0" resource="1"
+            file="Graphics/smallKnob_light.png"/>
+      <FILE id="uFybX1" name="smallKnob.png" compile="0" resource="1" file="Graphics/smallKnob.png"/>
+      <FILE id="xBc1x8" name="title.png" compile="0" resource="1" file="Graphics/title.png"/>
+      <FILE id="Xq3whs" name="website.png" compile="0" resource="1" file="Graphics/website.png"/>
     </GROUP>
     <GROUP id="{72A0765F-8435-E6FF-BB48-A8CDA491B9C3}" name="Source">
       <FILE id="ROsXdY" name="WaveShaper.cpp" compile="1" resource="0" file="Source/WaveShaper.cpp"/>
@@ -74,14 +73,14 @@
             IPPLibrary="">
       <CONFIGURATIONS>
         <CONFIGURATION name="Debug" winWarningLevel="4" generateManifest="1" winArchitecture="x64"
-                       isDebug="1" optimisation="3" targetName="Roth-AIR" headerPath="D:\PROJECTS\Audio Dev\AIR\AIR_Code\DSPFilters\include"
+                       isDebug="1" optimisation="3" targetName="Roth-AIR" headerPath="DSPFilters/include/Users/dkdabaro/Documents/GitHub/Roth-AIR/DSPFilters"
                        libraryPath="" useRuntimeLibDLL="0"/>
         <CONFIGURATION name="Release" winWarningLevel="4" generateManifest="1" winArchitecture="x64"
-                       isDebug="0" optimisation="3" targetName="Roth-AIR" headerPath="D:\PROJECTS\Audio Dev\AIR\AIR_Code\DSPFilters\include"
-                       useRuntimeLibDLL="0"/>
+                       isDebug="0" optimisation="3" targetName="Roth-AIR" useRuntimeLibDLL="0"
+                       headerPath="/Users/dkdabaro/Documents/GitHub/Roth-AIR/DSPFilters"/>
         <CONFIGURATION name="Release 32bit" winWarningLevel="4" generateManifest="1"
                        winArchitecture="32-bit" isDebug="0" optimisation="3" targetName="Roth-AIR"
-                       headerPath="D:\PROJECTS\Audio Dev\AIR\AIR_Code\DSPFilters\include"
+                       headerPath="DSPFilters/include/Users/dkdabaro/Documents/GitHub/Roth-AIR/DSPFilters"
                        useRuntimeLibDLL="0"/>
       </CONFIGURATIONS>
       <MODULEPATHS>
@@ -104,11 +103,9 @@
     <XCODE_MAC targetFolder="Builds/MacOSX">
       <CONFIGURATIONS>
         <CONFIGURATION name="Debug" isDebug="1" optimisation="1" targetName="Roth-AIR"
-                       headerPath="/Users/danielrothmann/Documents/SSD PROJECTS/Audio Dev/AIR/AIR_Code/DSPFilters/include"/>
+                       headerPath="/Users/dkdabaro/Documents/GitHub/Roth-AIR/DSPFilters/include"/>
         <CONFIGURATION name="Release" isDebug="0" optimisation="3" targetName="Roth-AIR"
-                       headerPath="/Users/danielrothmann/Documents/SSD PROJECTS/Audio Dev/AIR/AIR_Code/DSPFilters/include"
-                       linkTimeOptimisation="1" osxArchitecture="64BitUniversal" osxSDK="default"
-                       osxCompatibility="10.9 SDK"/>
+                       linkTimeOptimisation="1" osxArchitecture="64BitUniversal" headerPath="/Users/dkdabaro/Documents/GitHub/Roth-AIR/DSPFilters"/>
       </CONFIGURATIONS>
       <MODULEPATHS>
         <MODULEPATH id="juce_video" path="../../../../../../../Applications/JUCE/modules"/>

@@ -9,7 +9,7 @@ https://github.com/mzuther/Squeezer
 
 -----------------------------------------------------*/
 
-
+#include <float.h>
 #include "Compressor.h"
 
 //====================================================

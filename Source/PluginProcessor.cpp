@@ -292,7 +292,7 @@ void AirAudioProcessor::setStateInformation (const void* data, int sizeInBytes)
     // whose contents will have been created by the getStateInformation() call.
 
 	// Retrieves XML from binary
-	ScopedPointer<XmlElement> xmlState(getXmlFromBinary(data, sizeInBytes));
+	auto xmlState = std::make_unique<XmlElement>(*getXmlFromBinary(data, sizeInBytes));
 
 	// Make sure it's not null
 	if (xmlState != nullptr)

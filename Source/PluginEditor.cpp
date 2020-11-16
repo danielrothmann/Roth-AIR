@@ -28,7 +28,7 @@ AirAudioProcessorEditor::AirAudioProcessorEditor (AirAudioProcessor& p)
 	threshSlider.setSliderStyle(Slider::RotaryHorizontalVerticalDrag);
 	threshSlider.setRange(processor.cThreshold->range.start, processor.cThreshold->range.end);
 	threshSlider.setTextBoxStyle(Slider::NoTextBox, true, 50, 15);
-	threshSlider.setPopupDisplayEnabled(false, this);
+	threshSlider.setPopupDisplayEnabled(false, false, this);
 	threshSlider.setTextValueSuffix(" dB");
 	threshSlider.setValue(*processor.cThreshold);
 	threshSlider.setLookAndFeel(&rothLookAndFeel);
@@ -37,7 +37,7 @@ AirAudioProcessorEditor::AirAudioProcessorEditor (AirAudioProcessor& p)
 	crossSlider.setSliderStyle(Slider::RotaryHorizontalVerticalDrag);
 	crossSlider.setRange(processor.crossFreq->range.start, processor.crossFreq->range.end);
 	crossSlider.setTextBoxStyle(Slider::NoTextBox, true, 50, 15);
-	crossSlider.setPopupDisplayEnabled(false, this);
+	crossSlider.setPopupDisplayEnabled(false, false, this);
 	crossSlider.setTextValueSuffix(" Hz");
 	crossSlider.setValue(*processor.crossFreq);
 	crossSlider.setLookAndFeel(&rothLookAndFeel);
@@ -46,7 +46,7 @@ AirAudioProcessorEditor::AirAudioProcessorEditor (AirAudioProcessor& p)
 	gainSlider.setSliderStyle(Slider::RotaryHorizontalVerticalDrag);
 	gainSlider.setRange(processor.hpGain->range.start, processor.hpGain->range.end);
 	gainSlider.setTextBoxStyle(Slider::NoTextBox, true, 50, 15);
-	gainSlider.setPopupDisplayEnabled(false, this);
+	gainSlider.setPopupDisplayEnabled(false, false, this);
 	gainSlider.setTextValueSuffix(" Rms");
 	gainSlider.setValue(*processor.hpGain);
 	gainSlider.setLookAndFeel(&rothLookAndFeel);
@@ -55,7 +55,7 @@ AirAudioProcessorEditor::AirAudioProcessorEditor (AirAudioProcessor& p)
 	dryWetSlider.setSliderStyle(Slider::RotaryHorizontalVerticalDrag);
 	dryWetSlider.setRange(processor.dryWet->range.start, processor.dryWet->range.end);
 	dryWetSlider.setTextBoxStyle(Slider::NoTextBox, true, 50, 15);
-	dryWetSlider.setPopupDisplayEnabled(false, this);
+	dryWetSlider.setPopupDisplayEnabled(false, false, this);
 	dryWetSlider.setTextValueSuffix(" %");
 	dryWetSlider.setValue(*processor.dryWet);
 	dryWetSlider.setLookAndFeel(&rothLookAndFeel);
@@ -64,7 +64,7 @@ AirAudioProcessorEditor::AirAudioProcessorEditor (AirAudioProcessor& p)
 	airSlider.setSliderStyle(Slider::RotaryHorizontalVerticalDrag);
 	airSlider.setRange(processor.airAmt->range.start, processor.airAmt->range.end);
 	airSlider.setTextBoxStyle(Slider::NoTextBox, true, 50, 15);
-	airSlider.setPopupDisplayEnabled(false, this);
+	airSlider.setPopupDisplayEnabled(false, false, this);
 	airSlider.setTextValueSuffix(" %");
 	airSlider.setValue(*processor.airAmt);
 	airSlider.setLookAndFeel(&rothLookAndFeel);
